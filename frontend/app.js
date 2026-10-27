@@ -104,7 +104,7 @@ function renderProgram() {
 }
 function renderProgram() {
   const select = $("#programSelect");
-  select.innerHTML = state.programs.map(p => `<option value="${p.id}" ${state.selectedPrograms.includes(p.id) ? "selected" : ""}>${p.name}</option>`).join("");
+  select.innerHTML = state.programs.map(p => `<label class="program-check"><input type="checkbox" value="${p.id}" ${state.selectedPrograms.includes(p.id) ? "checked" : ""}><span class="program-checkmark" aria-hidden="true">✓</span><span>${p.name}</span></label>`).join("");
   const current = state.programs.filter(p => state.selectedPrograms.includes(p.id));
   const departments = [...new Set(current.map(p => p.department))].join(", ");
   $("#programMeta").innerHTML = `${current.length} program${current.length === 1 ? "" : "s"} selected · ${departments}<br>${state.courses.length} combined program courses loaded`;
@@ -145,7 +145,7 @@ function addCourse(code, termId = state.terms[0]?.id) { if (!termId) return; if 
 function bindEvents() {
   document.querySelectorAll("[data-page-link]").forEach(link => link.addEventListener("click", event => { event.preventDefault(); showPage(link.dataset.pageLink); }));
   $("#loginPageButton")?.addEventListener("click", () => openAuth("login"));
-  $("#programSelect")?.addEventListener("change", async e => { const selected = [...e.target.selectedOptions].map(option => option.value); if (!selected.length) return; state.selectedPrograms = selected; state.selectedProgram = selected[0]; await loadProgramData(selected); await savePlan(); renderAll(); });
+  $("#programSelect")?.addEventListener("change", async e => { const selected = [...e.currentTarget.querySelectorAll("input:checked")].map(input => input.value); if (!selected.length) return; state.selectedPrograms = selected; state.selectedProgram = selected[0]; await loadProgramData(selected); await savePlan(); renderAll(); });
   $("#courseSearch")?.addEventListener("input", e => { state.search = e.target.value; renderCatalog(); }); $("#categoryFilter")?.addEventListener("change", e => { state.category = e.target.value; renderCatalog(); });
   $("#addTerm")?.addEventListener("click", () => { const names = ["Fall", "Spring", "Summer", "Fall"]; const next = state.terms.length + 1; state.terms.push({ id: crypto.randomUUID(), name: `${names[next % names.length]} ${2026 + Math.floor(next / 2)}`, courses: [] }); savePlan(); renderAll(); });
   $("#resetPlan")?.addEventListener("click", () => { if (confirm("Clear every course from your roadmap?")) { state.terms = []; savePlan(); renderAll(); } });

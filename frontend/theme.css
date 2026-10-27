@@ -27,7 +27,13 @@ body * { color: #000; }
 .course-card.is-planned { background: #fff; border-color: #245b3b; }
 .button-small { background: #fff; color: #000; border: 1px solid #000; }
 .planner-empty { background: #fff; border-color: #000; }
-.planned-course-label { display: flex; align-items: center; gap: 9px; }
-.course-check { display: inline-grid; place-items: center; width: 18px; height: 18px; border: 1px solid #245b3b; border-radius: 50%; color: #245b3b; font-size: 12px; font-weight: 700; }
+.planned-course-label { display: contents; }
+.course-check { display: none; }
+.program-checklist { display: grid; gap: 8px; }
+.program-check { display: flex; align-items: center; gap: 10px; padding: 10px 12px; border: 1px solid #d8d8d8; border-radius: 7px; cursor: pointer; }
+.program-check input { position: absolute; opacity: 0; pointer-events: none; }
+.program-checkmark { display: inline-grid; place-items: center; width: 18px; height: 18px; border: 1px solid #000; border-radius: 4px; color: transparent; font-size: 12px; font-weight: 700; }
+.program-check input:checked + .program-checkmark { background: #245b3b; border-color: #245b3b; color: #fff; }
+.program-check:has(input:checked) { border-color: #245b3b; }
 .toast { background: #000; }
 .auth-overlay { background: rgba(0, 0, 0, .45); }
