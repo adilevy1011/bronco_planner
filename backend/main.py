@@ -138,12 +138,14 @@ def me(request: Request) -> dict:
 @app.get("/api/me/plan")
 def get_plan(request: Request) -> dict:
     user = current_user(request)
-    result = data_client().table("planner_plans").select("terms,updated_at").eq("user_id", user.id).maybe_single().execute()
-    return result.data or {"terms": [], "updated_at": None}
+    result = data_client().table("planner_plans").select("terms,updated_at").eq("user_id", user.id).limit(1).execute()
+    rows = result.data if result else []
+    return rows[0] if rows else {"terms": [], "updated_at": None}
 
 
 @app.put("/api/me/plan")
 def save_plan(payload: PlanPayload, request: Request) -> dict:
     user = current_user(request)
     result = data_client().table("planner_plans").upsert({"user_id": user.id, "terms": payload.terms}, on_conflict="user_id").execute()
-    return result.data[0] if result.data else {"terms": payload.terms}
+    rows = result.data if result else []
+    return rows[0] if rows else {"terms": payload.terms}
