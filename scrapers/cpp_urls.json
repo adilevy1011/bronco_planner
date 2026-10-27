@@ -1,0 +1,36 @@
+{
+    "computer_science":[
+        {
+            "department":"https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6343&hl=%22computer+science%22&returnto=search",
+            "programs":[
+                {
+                    "Computer Science, B.S.":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24270&print",
+                    "Computer Science, M.S.":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24271",
+                    "Artificial Intelligence Minor":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=26673",
+                    "Computational Linguistics Minor":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=26672",
+                    "Computer Science Minor":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24272",
+                    "Cyber Security Minor":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24528",
+                    "Data Science Minor":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24342"
+                }
+            ]
+            
+        }
+    ],
+    "mathematics":[
+        {
+            "department":"https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6346&hl=%22mathematics%22&returnto=search",
+            "programs":[
+                {
+                    "Mathematics, B.S. - Applied Mathematics/Statistics Subplan/Option":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24278",
+                    "Mathematics, B.S. - Secondary Teacher Prep/Pure Mathematics Subplan/Option":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24279",
+                    "Mathematics, M.S.":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24280",
+                    "Statistics and Applied Mathematics, M.S. - Applied Mathematics Subplan/Option":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24532",
+                    "Statistics and Applied Mathematics, M.S. - Statistics Subplan/Option":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24531",
+                    "Mathematics Minor":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24281",
+                    "Statistics Minor":"https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24282"
+                }
+            ]
+            
+        }
+    ]
+}

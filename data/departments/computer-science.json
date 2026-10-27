@@ -1,0 +1,1578 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-10-27T01:52:32+00:00",
+  "id": "computer-science",
+  "name": "Computer Science",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6343&hl=%22computer+science%22&returnto=search",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Oct 26, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Computer Science Department Return to: Catalog Search Building 8 Room 49 | (909) 869-3434 | Department Website | Faculty Directory The department’s mission statement is not explicitly provided on the website. However, its educational objectives emphasize preparing students for professional computing careers, lifelong learning, and leadership. Cal Poly Pomona’s Computer Science Department blends practice and theory in hardware and software systems, emphasizing software design, algorithms, computer architecture, cybersecurity, cloud and mobile computing, machine learning, and more. Fully accredited by ABET since 1994, the department maintains rigorous assessment practices to ensure graduates meet high standards. Faculty-who include PhD‑prepared tenure‑track scholars-prioritize excellence in teaching, research, and professional development. The curriculum reflects a polytechnic philosophy through project-oriented courses, hands-on electives, and pathways in emerging fields like AI, VR, cybersecurity, game development, and data science. Students gain real-world experience in cutting-edge research labs such as PolySec (cybersecurity), Computational Intelligence, Robotics, HAPII (HCI), and the HPC Center. A vibrant student life includes ACM‑W, ACM‑CS, Game Development Club, Cyber Club, Software Engineering Association, and Google Developer Student Club. They can work on senior capstone projects, pursue internships, join seminar series, and participate in industry-sponsored events featuring collaborators like Google, Microsoft, Boeing, and more. Graduate students benefit from part-time evening classes, cybersecurity and AI certificates, and a bridge ",
+  "courses": [
+    {
+      "code": "CS 1260",
+      "title": "Python for Beginners",
+      "units": "3",
+      "ge": null,
+      "coid": "438880",
+      "description": "Basic concepts of computer software and programming. Numbers, strings, and basic I/O. Expressions, control structures, lists, tuples, and functions. File I/O and introduction to exception handling. Introduction to object-oriented programming. Problem-solving techniques. Cannot be used for CS elective credit.",
+      "prerequisites": "C or better in MAT 1050 or MAT 1052 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "artificial-intelligence-minor",
+        "computational-linguistics-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 1280",
+      "title": "Introduction to C++",
+      "units": "3",
+      "ge": null,
+      "coid": "435490",
+      "description": "Basic concepts of computer software and programming. Data types, expressions, control structures, functions, file and stream I/O. Use of pointers and dynamic storage allocation. Structured and abstract data types. Problem-solving techniques. Cannot be used for CS elective credit. Cannot be used for CS elective credit.",
+      "prerequisites": "C or better in MAT 1050 and MAT 1060 ; C or better in MAT 1052 and MAT 1060; C or better in MAT 1140 , MAT 1150 or MAT 2140; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "CS 1300",
+      "title": "Discrete Structures",
+      "units": "3",
+      "ge": null,
+      "coid": "436699",
+      "description": "Logic, proof techniques, sets, basic counting rules, relations, functions and recursion. Graphs and trees.",
+      "prerequisites": "CS major, CS minor, or Cyber Security minor; and eligibility for MAT 1140 or C or better in: MAT 1050 or MAT 1052 , and MAT 1060 ; MAT 1140 ; MAT 1150 ; or MAT 2140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 1400",
+      "title": "Introduction to Programming and Problem Solving",
+      "units": "4",
+      "ge": null,
+      "coid": "436703",
+      "description": "Problem-solving methods. Object-oriented concepts including classes, inheritance, and polymorphism. Basic control structures and data types. Files. Input/Output. Exception handling. Program documentation and testing.",
+      "prerequisites": "CS major, CS minor, or Cyber Security minor; and eligibility for MAT 1140 or C or better in: MAT 1050 or MAT 1052, and MAT 1060 ; MAT 1140 ; MAT 1150 ; or MAT 2140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438192",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 2180",
+      "title": "Logic and Computing",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "437782",
+      "description": "[GE 2] Cross Listed as: PHL 2180 Introduction to formal techniques for analyzing and evaluating natural language arguments; discussion of relation between these formal techniques and computer gates and computer programming.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CS 2250",
+      "title": "Introduction to Web Science and Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "439062",
+      "description": "Overview of Internet and World Wide Web history, standards, technologies, and practices. Introduction to Web application development. Introduction to best practices and current topics in Web Science, Design, and Development, such as Web Usability, Web Security, Web Search, Online Social Networks, and Semantic Web.",
+      "prerequisites": "CS major and C or better in CS 1260 , CS 1280 , or CS 1400 ; OR consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 2400",
+      "title": "Data Structures and Advanced Programming",
+      "units": "4",
+      "ge": null,
+      "coid": "436704",
+      "description": "Abstract data types and their implementation using linear and non-linear data structures. Interfaces and generics. Recursive structures and operations. Big-O notation and introduction to algorithm analysis. Introduction to GenAI and its ethical use. GenAI-assisted programming.",
+      "prerequisites": "CS major, CS minor, or Cyber Security minor; and C or better in the following: CS 1400 ; CS 1300 ; and MAT 1140 , MAT 1150 , or MAT 2140 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 2410",
+      "title": "Fundamentals of Data Science",
+      "units": "3",
+      "ge": null,
+      "coid": "438948",
+      "description": "Foundations of data science. Critical concepts and skills in mathematics, statistics and computer programming for data analytics. Fundamental data and file structures to support data analytics. Analysis of real-world datasets. Data privacy and data security.",
+      "prerequisites": "CS major and C or better in CS 1400 , or Data Science/ AI/ Computational Linguistics minor and C or better in CS 1260 ; MAT 1050 , MAT 1052 , or MAT 1140 ; and STA 1200 , STA 1202 , STA 1300 , STA 2100 , or STA 2260 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "artificial-intelligence-minor",
+        "computational-linguistics-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 2450",
+      "title": "User Interface Design and Programming",
+      "units": "3",
+      "ge": null,
+      "coid": "435641",
+      "description": "User interfaces. Interaction design and development process. Usability of interactive systems. Graphical User Interface programming. GUI components and controls. Event-handling. User evaluation methods.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 1400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor"
+      ]
+    },
+    {
+      "code": "CS 2520",
+      "title": "Python for Programmers",
+      "units": "3",
+      "ge": null,
+      "coid": "438881",
+      "description": "Python basics. Data structures and control structures. Functions and functional forms. Objects, classes, inheritance, and polymorphism. I/O and exceptions. Advanced features.",
+      "prerequisites": "CS major and C or better in CS 1400 or CS 1280 ; Data Science minor, AI Minor or Computational Linguistics Minor and C or better in MAT 1050 , MAT 1052 , or MAT 1140 ; or Cyber Security minor and C or better in CS 1400 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "artificial-intelligence-minor",
+        "computational-linguistics-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 2560",
+      "title": "C++ Programming",
+      "units": "3",
+      "ge": null,
+      "coid": "435642",
+      "description": "C++ fundamentals. Recursion, structures, class encapsulation, inheritance, polymorphism, and exception handling. Memory management using pointers. Template functions and template classes. Software reuse and object-oriented programming.",
+      "prerequisites": "CS major and C or better in CS 1280 or CS 1400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 2600",
+      "title": "Systems Programming",
+      "units": "3",
+      "ge": null,
+      "coid": "435643",
+      "description": "Fundamentals of C programming and Unix environment. File management, communications and process control. Regular expressions. Unix system calls, concurrent and socket programming.",
+      "prerequisites": "CS major or Cyber Security minor, and C or better in CS 1280 or CS 1400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "computer-science-b-s",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 2610",
+      "title": "Introduction to Cyber Security and Network Communications",
+      "units": "3",
+      "ge": null,
+      "coid": "439067",
+      "description": "Fundamental concepts of cyber security and authentication systems. Fundamentals of network architecture, communication technologies and protocols. Client-server model and socket programming. Basic network attacks and defense mechanisms. Fundamentals of secure programming and web security. Basics of incident response and digital forensics. Overview of risk management and cyber law.",
+      "prerequisites": "CS major or Cyber Security minor, and C or better in CS 2600 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "computer-science-b-s",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 2640",
+      "title": "Computer Organization and Assembly Programming",
+      "units": "3",
+      "ge": null,
+      "coid": "435644",
+      "description": "Number representation, integer arithmetic. Von Neumann machine. Instruction set architecture. Addressing modes. Assembly programming. Arrays and records. Subroutines and macros. Interrupts. I/O interfacing and communication.",
+      "prerequisites": "CS major and C or better in CS 1300 and CS 1400 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438193",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438194",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CS 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438195",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CS 3001",
+      "title": "Computer Science Supplementary Authorization Computer Programming for Teachers",
+      "units": "3",
+      "ge": null,
+      "coid": "439317",
+      "description": "Fundamentals of programming and problem solving. Programming basics. Control structures, functions, modules, data types and structures, file input/output, and exception handling. Impact of computing on society. Computing curriculum development for K-12. This course is designed for the Computer Science Supplementary Authorization (CSSA).",
+      "prerequisites": "C or better in MAT 1050 and MAT 1060 , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "CS 3002",
+      "title": "Computer Science Supplementary Authorization Computer Systems and Networks for Teachers",
+      "units": "3",
+      "ge": null,
+      "coid": "439316",
+      "description": "Number representation, Components and functions of computing systems, Computer Memory Hierarchy, Network architecture and standards, Layering and protocols, Wireless networks, Security issues in computer networks and social impacts. This course is designed for the Computer Science Supplementary Authorization (CSSA).",
+      "prerequisites": "C or better in MAT 1050 and MAT 1060 , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "CS 3003",
+      "title": "Computer Science Supplementary Authorization Data Structures for Teachers",
+      "units": "2",
+      "ge": null,
+      "coid": "439318",
+      "description": "Abstract data types and their implementation using linear and non-linear data structures. Big-O notation and introduction to algorithm analysis.",
+      "prerequisites": "C or better in CS 3001 and CS 3002 , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CS 3004",
+      "title": "Computer Science Supplementary Authorization Software Engineering for Teachers",
+      "units": "2",
+      "ge": null,
+      "coid": "439319",
+      "description": "Models of the software development process and metrics. Software requirements and specifications. Methodologies, tools and environments. Human-computer interaction. Software architecture, design and implementation techniques. Testing and validation. Project management. Cost estimation. Automated build, deployment and continuous integration. Maintenance and evolution.",
+      "prerequisites": "C or better in CS 3001 and CS 3002 , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "CS 3005",
+      "title": "Computer Science Supplementary Authorization - Introductory: Visual Programming for Teachers",
+      "units": "3",
+      "ge": null,
+      "coid": "439425",
+      "description": "Fundamentals of programming and problem solving. Visual and block-based programming basics. Control structures, functions, conditionals, variables, list, and control flows. Impact of computing on society. Computing curriculum development for K-12.",
+      "prerequisites": "C or better in MAT 1050 and MAT 1060 , or consent of the instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "CS 3006",
+      "title": "Computer Science Supplementary Authorization - Introductory: Impacts of Computing for Teachers",
+      "units": "2",
+      "ge": null,
+      "coid": "439426",
+      "description": "Impacts of computing: includes the social, ethical, and legal issues. Various current uses of computing devices, how these have evolved, and what the future might bring. Benefits and dangers of information technology. How the Internet and computing devices have fundamentally changed the way we work, play, and interact with others.",
+      "prerequisites": "C or better in MAT 1050 and MAT 1060 , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "CS 3007",
+      "title": "Computer Science Supplementary Authorization - Introductory: Advanced Programming for Teachers",
+      "units": "3",
+      "ge": null,
+      "coid": "439427",
+      "description": "Fundamentals of programming and problem solving. Programming basics. Control structures, functions, modules, data types and structures, file input/output, and exception handling. Computing curriculum development for K-12.",
+      "prerequisites": "C or better in CS 3005 and CS 3006 , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "CS 3008",
+      "title": "Computer Science Supplementary Authorization - Introductory: Computer Systems for Teachers",
+      "units": "2",
+      "ge": null,
+      "coid": "439429",
+      "description": "Number representation, Components and functions of computing systems, Computer Memory Hierarchy.",
+      "prerequisites": "C or better in CS 3005 and CS 3006 , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "CS 3010",
+      "title": "Numerical Methods and Computing",
+      "units": "3",
+      "ge": null,
+      "coid": "435645",
+      "description": "Linear algebra concepts, Linear Transformations and Matrix Factorizations, Eigenvalues and Eigenvectors, Least Squares, error analysis, floating-point representations, roots of non-linear equations, systems of linear equations, interpolation, numerical integration.",
+      "prerequisites": "CS major, and C or better in CS 2400 and MAT 1150 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "computer-science-b-s",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 3110",
+      "title": "Formal Languages and Automata",
+      "units": "3",
+      "ge": null,
+      "coid": "435646",
+      "description": "Finite automata. Non-determinism. Regular expressions and languages. Context-free grammars and push down automata. Ambiguity. Closure properties. Normal forms. Context-free and non-context-free languages.",
+      "prerequisites": "CS major and C or better in CS 2400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 3310",
+      "title": "Design and Analysis of Algorithms",
+      "units": "3",
+      "ge": null,
+      "coid": "436705",
+      "description": "Algorithms for fundamental problems. Efficiency analysis using asymptotic notation. Principal algorithm design techniques and their tradeoffs. NP-theory and approaches used to address intractability.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400 and STA 2260 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor"
+      ]
+    },
+    {
+      "code": "CS 3520",
+      "title": "Symbolic Programming",
+      "units": "3",
+      "ge": null,
+      "coid": "435647",
+      "description": "Languages for processing symbolic data with emphasis on applications in artificial intelligence.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor"
+      ]
+    },
+    {
+      "code": "CS 3560",
+      "title": "Object-Oriented Design and Programming",
+      "units": "3",
+      "ge": null,
+      "coid": "435648",
+      "description": "Elements of the object model. Abstraction, encapsulation, modularity, hierarchy and polymorphism. UML Modeling. Object-oriented design principles. Design patterns. Implementation and programming of system design. Code generation. Overview of advanced file and database technology. Model integration with database. Introduction to embedded software. Object and portable data. Comprehensive examples using a case study approach.",
+      "prerequisites": "CS major and C or better in CS 2400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 3650",
+      "title": "Computer Architecture",
+      "units": "4",
+      "ge": null,
+      "coid": "436706",
+      "description": "Logic design and computer arithmetic. Logical properties of flip-flops and sequential machines. Datapath and control unit design. Pipelining. Memory hierarchy and storage technology. Multiprocessing and alternative architectures.",
+      "prerequisites": "CS major and C or better in CS 2640 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 3700",
+      "title": "Parallel Processing",
+      "units": "3",
+      "ge": null,
+      "coid": "435649",
+      "description": "The taxonomy of concurrent and parallel systems. Communication and synchronization, multicomputer and multiprocessor systems. Shared-memory and message passing programming paradigms. Parallel problem solving.",
+      "prerequisites": "CS major or CS minor; and C or better in CS 3310 ; or consent of instrucor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor"
+      ]
+    },
+    {
+      "code": "CS 3750W",
+      "title": "Computers and Society",
+      "units": "3",
+      "ge": "GE 4C or 5D",
+      "coid": "435039",
+      "description": "[GE 4C or 5D] Impact of computing technology on individuals and on society. Various current uses of computing devices, how these have evolved, and what the future might bring. Benefits and dangers of information technology. How the Internet and computing devices have fundamentally changed the way we work, play, and interact with others. Overview of computer and information technology (e.g., networking and communications, information management). Secure computing principles and practice. Consequent rise of new social, legal and diversity issues, making it essential for everyone to acquire a working understanding of the role of this technology in our daily lives. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 3760",
+      "title": "A Non-technical Introduction to Artificial Intelligence and Machine Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "439562",
+      "description": "Cross Listed as: STS 3760 Introduction to core concepts of artificial intelligence for the purpose of understanding artificial intelligence’s social significance. Presentation of core concepts of machine learning from a non-technical perspective, including a series of projects designed to illustrate the capabilities and common problems of supervised, unsupervised, and reinforcement learning. Explanation of vulnerability to problems, such as algorithmic bias, with significant social harms.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "artificial-intelligence-minor"
+      ]
+    },
+    {
+      "code": "CS 3800",
+      "title": "Computer Networks",
+      "units": "3",
+      "ge": null,
+      "coid": "435650",
+      "description": "Network architectures and standards. Layers and protocols. Circuit switching, packet switching and routing. Client-server concepts. Network security. Web programming.",
+      "prerequisites": "CS major or Cyber Security minor, and C or better in CS 2610 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438196",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 4080",
+      "title": "Concepts of Programming Languages",
+      "units": "3",
+      "ge": null,
+      "coid": "435652",
+      "description": "Concepts in programming languages. Virtual machines and abstraction. Syntax and semantics. Declarations and types. Scoping and binding. Data abstraction. Control and abstraction. Subprograms and implementations. Exception handling. Programming paradigms.",
+      "prerequisites": "CS major, C or better in CS 3110 , and C or better in CS 2640 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 4110",
+      "title": "Compilers and Interpreters",
+      "units": "3",
+      "ge": null,
+      "coid": "435653",
+      "description": "Interpreter and compiler structures. Lexical analysis. Symbol tables. Syntax analysis and parsing techniques. Syntax-directed translation. Run-time environments. Intermediate code generation and optimization. Compiler development tools.",
+      "prerequisites": "CS major and C or better in CS 3110 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 4170",
+      "title": "Natural Language Processing",
+      "units": "3",
+      "ge": null,
+      "coid": "451025",
+      "description": "Introduction to natural language processing with emphasis on foundational methods. Topics include lexical, syntactic, and basic semantic analysis; statistical algorithms and classical machine learning models for language representation and modeling; introductory word embeddings and applied use of NLP libraries. Case studies include sentiment analysis, text classification, and chatbots.",
+      "prerequisites": "Computer Science major and CS 3010 ; or Data Science, Computational Linguistics, or Artificial Intelligence minor and C or better in CS 2410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "computer-science-b-s",
+        "artificial-intelligence-minor",
+        "computational-linguistics-minor"
+      ]
+    },
+    {
+      "code": "CS 4190",
+      "title": "Computer Vision",
+      "units": "3",
+      "ge": null,
+      "coid": "451028",
+      "description": "Dual Listed as: CS 5190 Core principles of computer vision, focusing on image formation, representation, and feature extraction as the basis for visual understanding. Theoretical foundations include camera models, geometric reasoning, illumination, and feature learning. Modern approaches extend these principles with convolutional networks and transformer-based models for recognition, detection, and interpretation across diverse domains",
+      "prerequisites": "CS major or AI minor; and C or better in CS 3010 , or MAT 2240 and CS 2410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "computer-science-b-s",
+        "artificial-intelligence-minor"
+      ]
+    },
+    {
+      "code": "CS 4200",
+      "title": "Artificial Intelligence",
+      "units": "3",
+      "ge": null,
+      "coid": "435654",
+      "description": "Overview of the different application areas of AI. Introduction to the basic AI concepts and techniques such as heuristic search, knowledge representation, automated reasoning. In-depth discussion of several AI application areas: their specific problems, tools and techniques.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400 ; or Data Science/ AI/ Computational Linguistics minor and C or better in CS 2410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "artificial-intelligence-minor",
+        "computational-linguistics-minor",
+        "computer-science-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4210",
+      "title": "Machine Learning and Its Applications",
+      "units": "3",
+      "ge": null,
+      "coid": "438972",
+      "description": "Supervised learning techniques, including linear models for regression, linear models for classification, decision trees, support vector machines, neural networks. Unsupervised learning techniques, including clustering and dimensionality reduction. Related advanced topics. Case studies and applications.",
+      "prerequisites": "CS major and C or better in CS 3010 ; Data Science minor/ AI/ Computational Linguistics minor and C or better in CS 2410 ; Cybersecurity minor and C or better in CS 2400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "artificial-intelligence-minor",
+        "computational-linguistics-minor",
+        "cyber-security-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4220",
+      "title": "Graphics Processing Unit Computing",
+      "units": "3",
+      "ge": null,
+      "coid": "439517",
+      "description": "Programming massively parallel processors on Graphics Processing Unit (GPU). Heterogeneous data parallel computing, multidimensional grids and data, compute architecture and scheduling, memory architecture and data locality, performance considerations, parallel patterns, and advanced patterns and applications.",
+      "prerequisites": "CS major, and C or better in CS 2600 and CS 2640 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4230",
+      "title": "Social Computing",
+      "units": "3",
+      "ge": null,
+      "coid": "439320",
+      "description": "Representing, modeling, processing and analyzing social information. Graph based techniques for social network analysis, community detection, influence spread and centrality analysis. Models for application domains such as social media, epidemiology, and political science. Parallel and distributed tools for large scale modeling and analysis.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400 ; Data Science minor and C or better in CS 2410 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4240",
+      "title": "Software for Intelligent Robotics",
+      "units": "3",
+      "ge": null,
+      "coid": "451023",
+      "description": "Dual Listed as: CS 5240 Design and development of software systems for intelligent robotics. Emphasis on software architectures, algorithms, and frameworks that enable robotic autonomy. Topics include robot control paradigms and behavior design, perception and sensing pipelines, and software approaches for navigation, planning, localization, and mapping.",
+      "prerequisites": "CS major or minor, and C or better in CS 2400 or CS 3310 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 4250",
+      "title": "Web Search and Recommender Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "438966",
+      "description": "Web Search engine architectures, techniques, and technologies. Web crawling. Web document processing, Link analysis, and ranking. Introduction to retrieval models. Search engine optimization. Web search user interfaces. Recommender Systems. Evaluation. Current trends.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400 ; Data Science/ Artificial Intelligence/ Computational Linguistics minor and C or better in CS 2410 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "artificial-intelligence-minor",
+        "computational-linguistics-minor",
+        "computer-science-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4270",
+      "title": "Generative Artificial Intelligence - Theory and Applications",
+      "units": "3",
+      "ge": null,
+      "coid": "451027",
+      "description": "Core principles of generative deep learning. Predictive vs. generative paradigms. Modern architecture includes GANs, VAEs, transformers, and large language models with applications across domains.",
+      "prerequisites": "CS major or AI minor; and C or better in CS 3010 , or MAT 2250 and CS 2410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "computer-science-b-s",
+        "artificial-intelligence-minor"
+      ]
+    },
+    {
+      "code": "CS 4310",
+      "title": "Operating Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435655",
+      "description": "Overview of operating systems. Operating system structures. Process management. Concurrency and synchronization. Deadlock. Processor management. Operating system security. Scheduling and dispatch. Memory management. Virtual memory. Device management. File systems.",
+      "prerequisites": "CS major, and C or better in CS 3650 and STA 2260 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 4350",
+      "title": "Database Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435657",
+      "description": "Database and transaction systems. Database components. Database design and constraints. Normalization theory. Data modeling. Relational and object data models. Relational algebra and calculus. SQL programming paradigms. Concurrency control, crush recovery, and security.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400 ; Data Science minor and C or better in CS 2410 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4410",
+      "title": "Internship in Computer Science",
+      "units": "1-2",
+      "ge": null,
+      "coid": "436708",
+      "description": "On-the-job training and work experience in the Computer Science. The internship is arranged by the student and may not be a continuation of an ongoing job or volunteer experience. A minimum of 4 hours per week (60 hours/semester) per unit credit. Student must be enrolled in CS 4410 during the term in which work at the internship site is done. Hours worked in one term may not carry over into another. Total credit limited to 2 units, but may be repeated as appropriate.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 2 units, but may be repeated as appropriate.",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 4440",
+      "title": "Data Mining",
+      "units": "3",
+      "ge": null,
+      "coid": "439570",
+      "description": "An end-to-end view of data mining, covering data acquisition, preparation, and analysis using various algorithms. Explore data types, attributes, storage, and perform exploratory data analysis with statistical techniques and visualization. Topics include pattern mining, clustering, classification, and outlier detection. Ethical considerations and applications of data mining are also discussed.",
+      "prerequisites": "CS major and C or better in CS 2400 ; Data Science/ ArtificiaI Intelligence/ Computational Linguistics minor and C or better in CS 2410 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "artificial-intelligence-minor",
+        "computational-linguistics-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4450",
+      "title": "Computer Graphics",
+      "units": "3",
+      "ge": null,
+      "coid": "435658",
+      "description": "Basic concepts in 2D and 3D graphics. Graphics hardware. Drawing concepts in 2D and 3D graphics. Geometric transformations. Windowing and clipping algorithms. Simple hidden line and surface removal. Color models and applications. 3D modeling. Animation. OpenGL libraries.",
+      "prerequisites": "CS major; and C or better in CS 241 or CS 2400 , and CS 256 or CS 2560 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 4500",
+      "title": "Computability",
+      "units": "3",
+      "ge": null,
+      "coid": "435659",
+      "description": "Abstract models of computation, including Turing machines. Church-Turing thesis. Decidability. Intractable problems. Theoretical and practical capabilities and limitations of computing machines.",
+      "prerequisites": "CS major and C or better in CS 3110 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 4600",
+      "title": "Cryptography and Information Security",
+      "units": "3",
+      "ge": null,
+      "coid": "435660",
+      "description": "Information security fundamentals. Symmetric and asymmetric encryption. Digital signatures and certificates. Applications of cryptography.",
+      "prerequisites": "CS major, CS minor, or Cyber Security minor; and C or better in CS 2610 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 4610",
+      "title": "Senior Project",
+      "units": "1",
+      "ge": null,
+      "coid": "435661",
+      "description": "Selection and completion of a project under faculty supervision. Projects typical of problems which graduates must solve in their fields of employment. Project results are presented in a formal report.",
+      "prerequisites": "Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s",
+        "cyber-security-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4620",
+      "title": "Senior Project",
+      "units": "1",
+      "ge": null,
+      "coid": "435662",
+      "description": "Continuation of a project under faculty supervision with expectation of full project completion by the end of the term. Projects typical of problems which graduates must solve in their fields of employment. Project results are presented in a formal report.",
+      "prerequisites": "Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s",
+        "cyber-security-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4630",
+      "title": "Undergraduate Seminar",
+      "units": "1",
+      "ge": null,
+      "coid": "435663",
+      "description": "Technical presentations by students on current developments in computer science. Essays on seminar topics.",
+      "prerequisites": "CS major and senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 4640",
+      "title": "Network and Web Security",
+      "units": "3",
+      "ge": null,
+      "coid": "439068",
+      "description": "Network protocols and architecture. Web protocols and architecture. Attacks on TCP/IP protocol and defense. Attacks on DNS and defense. Firewall architecture and vulnerabilities. Introduction to SSL/HTTPS/VPN. Web attacks and defense.",
+      "prerequisites": "CS major or Cyber Security minor, and C or better in CS 2610 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 4650",
+      "title": "Big Data Analytics and Cloud Computing",
+      "units": "3",
+      "ge": null,
+      "coid": "436707",
+      "description": "Data analytics lifecycle. Data analytics methods. Cloud infrastructure. Cloud storage, computing models and architectures. Big data and cloud security. Case studies.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400 ; Data Science minor and C or better in CS 2410 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor",
+        "cyber-security-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4651",
+      "title": "Cloud Computing Practicum with Amazon Web Services, Google Cloud Platform, and Microsoft Azure",
+      "units": "3",
+      "ge": null,
+      "coid": "439460",
+      "description": "Intro to Cloud Architecture and Amazon Web Services (AWS) Platform, Google Cloud Platform (GCP) and Microsoft Azure. AWS Networking and Virtual Private Cloud (VPC). Amazon Simple Storage Service (S3). Amazon Elastic Computing (E3B/C2). Databases on AWS, GCP and Azure. Identity and Access Management (IAM) in AWS. Deploying Cloud Application on AWS, GCP and Azure.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400 ; Data Science minor and C or better in CS 2410 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4660",
+      "title": "Wireless and Mobile Security",
+      "units": "3",
+      "ge": null,
+      "coid": "439065",
+      "description": "Wireless and mobile networks fundamentals and mechanisms, wireless vulnerabilities and attacks at different layers of the protocol stack, countermeasures to the attacks for different types of wireless networks, security protocols used in wireless and mobile communications.",
+      "prerequisites": "CS major or Cyber Security minor, and C or better in CS 2610 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 4670",
+      "title": "Software Security and Reverse Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "439323",
+      "description": "Security problems in Software. Threat Modelling. Security Issues in Coding. Static Analysis. Application Penetration Testing/Dynamic Analysis. Fundamentals of Reverse Engineering. Malware Behavior Analysis.",
+      "prerequisites": "CS major or Cyber Security minor, and C or better in CS 2610 ; or consent of the instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 4680",
+      "title": "Prompt Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "439572",
+      "description": "A comprehensive introduction to prompt engineering, focusing on designing effective prompts for Large Language Models (LLMs). Students will explore essential concepts, including LLM foundations, interactive prompts, and parameter tuning. Various prompt patterns and templates, customization and fine-tuning techniques, and methods for evaluating prompt effectiveness are covered. Ethical considerations and security aspects in prompt engineering will also be discussed. Additionally, learn to apply prompt engineering in specialized domains through hands-on development, gaining practical experience in building AI-powered applications.",
+      "prerequisites": "CS major/ CS minor/ Cybersecurity minor and C or better in CS 2400 ; Data Science/ Computational Linguistic/ AI minor and C or better in CS 2410 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "artificial-intelligence-minor",
+        "computational-linguistics-minor",
+        "cyber-security-minor",
+        "data-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4690",
+      "title": "Cybersecurity Analytics and Operations",
+      "units": "3",
+      "ge": null,
+      "coid": "451024",
+      "description": "An in-depth understanding of how data analytics techniques can be applied to identify, understand, and respond to cybersecurity threats using Gen AI. Various data analytics methods and tools that are used to detect, analyze, and mitigate cybersecurity threats. Topics covered include Gen AI, data preprocessing, anomaly detection, intrusion detection, threat intelligence analysis, and predictive modeling. Practical hands-on experience will be emphasized through lab exercises and real-world case studies using Gen AI.",
+      "prerequisites": "CS major/minor or Cybersecurity minor, and C or better in CS 2610 ; or Data Science Minor and C or better in CS 2410 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 4700",
+      "title": "Game Development",
+      "units": "3",
+      "ge": null,
+      "coid": "435664",
+      "description": "Overview of game development processes. Game programming topics including: languages and architectures, mathematics, collision detection, physics, graphics, animation, artificial intelligence (AI), and audio.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4750",
+      "title": "Mobile Application Development",
+      "units": "3",
+      "ge": null,
+      "coid": "438968",
+      "description": "Mobile development environments and fundamentals. Mobile user interface (UI) design and implementation. Mobile data storage and management. Network programming in mobile and integration with cloud services. Advanced mobile development with external sensors, libraries and frameworks. Hands-on mobile development practices and the distribution of mobile applications. Mobile application security.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400; or consent of instructor. Recommmended that students should already have a familiarity with Java, an understanding of basic object oriented programming (OOP), studied basic algorithms and data structures.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4800",
+      "title": "Software Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435665",
+      "description": "Models of the software development process and metrics. Software requirements and specifications. Methodologies, tools and environments. Human-computer interaction. Software architecture, design and implementation techniques. Project management. Cost estimation. Testing and validation. Secure software development life cycle and common software security issues. Automated build, deployment and continuous integration. Maintenance and evolution.",
+      "prerequisites": "CS major and C or better in CS 2400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 4810",
+      "title": "Software Engineering Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "435666",
+      "description": "Team and project-oriented software engineering. Practice in the hands-on process of software production and quality control. Documentation and management methods for analysis, design, implementation and testing phases of software production. Survey and usage of agile development methodologies and tools. Software engineering security issues.",
+      "prerequisites": "CS major, and C or better in CS 4350 and CS 4800 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-b-s"
+      ]
+    },
+    {
+      "code": "CS 4820",
+      "title": "Computer Science Project Practicum",
+      "units": "1",
+      "ge": null,
+      "coid": "439331",
+      "description": "Selection and completion of a Computer Science hands-on project under faculty supervision. Team projects. Both formal written and oral reports.",
+      "prerequisites": "CS 2400 or CS 2410 .",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 2 units, with a maximum of 2 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 4900",
+      "title": "Honors",
+      "units": "3",
+      "ge": null,
+      "coid": "435667",
+      "description": "In-depth study of a topic of current interest to computer science. Students will be expected to perform individual research and projects and present their results in class. Enrollment is limited. Enrollment is limited.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CS 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438197",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "computer-science-b-s",
+        "computer-science-minor"
+      ]
+    },
+    {
+      "code": "CS 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438198",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CS 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438199",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CS 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438200",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CS 5170",
+      "title": "Advanced Natural Language Processing",
+      "units": "3",
+      "ge": null,
+      "coid": "435669",
+      "description": "Advanced study of natural language processing focusing on deep and state-of-the-art methods. Topics include full lexical, syntactic, and semantic analysis; neural models such as RNNs, LSTMs, GRUs, and transformers; contextual embeddings (e.g., BERT, GPT); retrieval-augmented and multilingual NLP applications. Emphasis on theoretical foundations, implementation of advanced models, and engagement with current research literature.",
+      "prerequisites": "CS major and C or better in CS 3310 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5180",
+      "title": "Information Retrieval",
+      "units": "3",
+      "ge": null,
+      "coid": "437630",
+      "description": "Theory, design, and implementation of text-based information retrieval systems. Overview of information retrieval system. Statistical characteristics of text, representation of information needs and documents, retrieval models, search evaluation, clustering and classification algorithms. Current issues and technologies in information retrieval development.",
+      "prerequisites": "CS 331 or CS 3310 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5190",
+      "title": "Computer Vision",
+      "units": "3",
+      "ge": null,
+      "coid": "435686",
+      "description": "Dual Listed as: CS 4190 Core principles of computer vision, focusing on image formation, representation, and feature extraction as the basis for visual understanding. Theoretical foundations include camera models, geometric reasoning, illumination, and feature learning. Modern approaches extend these principles with convolutional networks and transformer-based models for recognition, detection, and interpretation across diverse domains.",
+      "prerequisites": "CS major and C or better in CS 3310 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5215",
+      "title": "Advanced Machine Learning and AI",
+      "units": "3",
+      "ge": null,
+      "coid": "451029",
+      "description": "Core principles of machine learning and deep learning. Theoretical foundations of optimization, probabilistic modeling, and representation learning. Modern strategies include contrastive, positive-unlabeled, and reinforcement learning with applications across domains.",
+      "prerequisites": "Graduate standing, CS major, and C or better in CS 3310 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5220",
+      "title": "Distributed Intelligence in Robotics",
+      "units": "3",
+      "ge": null,
+      "coid": "437815",
+      "description": "Multi-robot architecture, multi-robot taxonomies, multi-robot communication, and the state-of-the-art research issues in this field, such as swarm intelligence, multi-vehicle collaboration, task allocation, multi-robot or human-robot teaming, and reconfigurable robotics.",
+      "prerequisites": "CS 331 or CS 3310 ; and CS 256 or CS 2560 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5230",
+      "title": "Connected and Autonomous Vehicles",
+      "units": "3",
+      "ge": null,
+      "coid": "439518",
+      "description": "Examines Connected Vehicle (CV) and Autonomous Vehicle (AV) technologies, including vehicle-to-vehicle (V2V), vehicle-to-infrastructure (V2I), and vehicle-to-everything (V2X) communication systems. Topics include intelligent transportation systems, mobility as a service, advanced driver assistance systems (ADAS), sensor fusion, localization, planning, and cybersecurity issues specific to connected and autonomous vehicles. Emphasis on hands-on projects and case studies to reinforce theoretical concepts.",
+      "prerequisites": "C or better in CS 3310 or related course; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5240",
+      "title": "Software for Intelligent Robotics",
+      "units": "3",
+      "ge": null,
+      "coid": "435687",
+      "description": "Dual Listed as: CS 4240 Design and development of software systems for intelligent robotics. Emphasis on software architectures, algorithms, and frameworks that enable robotic autonomy. Topics include robot control paradigms and behavior design, perception and sensing pipelines, and software approaches for navigation, planning, localization, and mapping.",
+      "prerequisites": "Graduate standing and CS 3310 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5250",
+      "title": "Advanced Computer Architecture",
+      "units": "3",
+      "ge": null,
+      "coid": "435688",
+      "description": "Architecture and organization of high performance computers. Principles of instruction sets. Pipelining, instruction level parallelism and multiprocessor. Memory, storage, and interconnection. Quantitative analysis and evaluation of design alternatives. Historical developments. Architectural tradeoffs and innovations.",
+      "prerequisites": "CS 365 or CS 3650 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5300",
+      "title": "Advanced Algorithm Design and Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "435689",
+      "description": "Advanced problem domains, including graph problems, pattern matching, compression, network flow and transforms. Amortized and average case analysis. Lower bounds. Approximation techniques. Probabilistic algorithms.",
+      "prerequisites": "CS 331 or CS 3310 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5310",
+      "title": "Computability and Complexity Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "435690",
+      "description": "Formalizing problems and algorithms. Characterizations and properties of complexity classes, undecidability. Cook-Levin Theorem, NP-complete problems, proof of NP-completeness.",
+      "prerequisites": "CS 311 or CS 3110 ; and CS 331 or CS 3310 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5350",
+      "title": "Parallel and Distributed Algorithms",
+      "units": "3",
+      "ge": null,
+      "coid": "435691",
+      "description": "Models of parallel and distributed computation. Design and analysis of algorithms for parallel and distributed systems. Basic techniques, classic problems. Parallel and distributed complexity classes. Hardware and software issues involved in parallel and distributed problem solving.",
+      "prerequisites": "CS 331 or CS 3310 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5370",
+      "title": "Scheduling Algorithms",
+      "units": "3",
+      "ge": null,
+      "coid": "435692",
+      "description": "The alpha/beta/gamma notation. Scheduling theory. Deterministic scheduling. Basic scheduling algorithms. Single machine models. Parallel machine models. Other scheduling models. Real-time scheduling. Applications.",
+      "prerequisites": "CS 530 or CS 5300 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5400",
+      "title": "Topics in Compiler Design",
+      "units": "3",
+      "ge": null,
+      "coid": "435693",
+      "description": "Code generation and optimization. Data flow analysis. Syntax-directed translation. Parallelizing compiler. Automatic compiler generation.",
+      "prerequisites": "CS 411 or CS 4110 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5440",
+      "title": "Advanced Data Mining",
+      "units": "3",
+      "ge": null,
+      "coid": "451026",
+      "description": "Advanced methods for extracting patterns in large data sets that blend traditional data analysis with machine learning algorithms. Strong emphasis on data preprocessing and post-processing techniques, including sampling, feature selection, dimensionality reduction, statistical testing, and data visualization. Topics include classification, regression, clustering, association rule mining, and anomaly detection, with a focus on scalability, model evaluation, and interpretable, theoretically grounded approaches.",
+      "prerequisites": "Graduate standing, CS major, and C or better in CS 3310 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5500",
+      "title": "Advanced Information Security",
+      "units": "3",
+      "ge": null,
+      "coid": "437631",
+      "description": "Information security overview. Information security attacks and defenses case studies in systems, networking, web application and cloud computing.",
+      "prerequisites": "CS 380 or CS 3800 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 5510",
+      "title": "Data Privacy and Security",
+      "units": "3",
+      "ge": null,
+      "coid": "439321",
+      "description": "Privacy Policies. Challenges of sensitive data leakage. Definitions of data privacy. Privacy enhancing techniques: cryptographic approaches and non-crypto approaches. Metadata privacy. Anonymous communication systems. Machine learning and privacy. Block-chain and data integrity. Big data privacy.",
+      "prerequisites": "C or better in CS 3310 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 5520",
+      "title": "Machine Learning for Cyber Security",
+      "units": "3",
+      "ge": null,
+      "coid": "439322",
+      "description": "The fundamentals of Machine Learning algorithms, building Machine learning information security models, Malware detection system, spam email detection system, botnet detection system, network security, security application for deep learning, and anomaly detection system.",
+      "prerequisites": "C or better in CS 3310 , or consent of instructor. Knowlegability in Python preferred.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s",
+        "cyber-security-minor"
+      ]
+    },
+    {
+      "code": "CS 5550",
+      "title": "Digital Image Processing",
+      "units": "3",
+      "ge": null,
+      "coid": "435694",
+      "description": "Mathematical preliminaries for digital image processing. Digital image fundamentals sampling and quantization. Image enhancement spatial and frequency domain filtering. Image compression. Color image processing. Multiresolution processing.",
+      "prerequisites": "CS 331 or CS 3310 ; and C or better in MAT 214 or MAT 2250 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5560",
+      "title": "Game Theory and its Applications in Communication Networks",
+      "units": "3",
+      "ge": null,
+      "coid": "439066",
+      "description": "Fundamentals in game theory, strategic games, extensive games, coalitional games, Nash equilibrium and other solution concepts. Packet forwarding games, medium access games for 802.11 WLAN, power control games in CDMA systems.",
+      "prerequisites": "CS 3800 or CS 380, or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5650",
+      "title": "Advanced Computer Networks",
+      "units": "3",
+      "ge": null,
+      "coid": "435695",
+      "description": "Issues in network architectures and standards. Network design. Performance evaluation and monitoring. Network management and security. High-speed networking technologies. Wireless networks and mobile computing. System architecture and network programming.",
+      "prerequisites": "CS 380 or CS 3800 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5660",
+      "title": "Distributed Computing Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435696",
+      "description": "Distributed systems models. Distributed naming. Synchronization. Consistency. Fault tolerance. Security. Grid computing. Computational Cloud. Distributed storage systems. Peer-to-Peer systems. Software defined Networks.",
+      "prerequisites": "CS 380 or CS 3800 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5670",
+      "title": "Computational Social Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "439519",
+      "description": "In-depth exploration of computational techniques for representing, modeling, processing, and analyzing social information. Topics include complex adaptive systems theory, modeling and simulation techniques, and the use of parallel and distributed processing tools to manage large-scale and dynamic social data. Examine challenging problems in modeling social interactions, focusing on security and privacy concerns in the context of data analysis. Applications and case studies will illustrate real-world implications across areas such as social networks, public policy, and digital media, providing practical insights into the complexities of social systems.",
+      "prerequisites": "C or better in CS 3310 or related course; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5700",
+      "title": "Human Computer Interaction",
+      "units": "3",
+      "ge": null,
+      "coid": "435697",
+      "description": "Principles of human factors, computer technology, and their interactions. Theory and practice of user interface design and evaluation. Special topics such as graphical user interface, graphics programming, multisensory systems, and computer-supported cooperative work",
+      "prerequisites": "CS 311 or CS 3110 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5750",
+      "title": "Topics in Database Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435698",
+      "description": "Advanced SQL programming. Trigger and stored procedure. Object-relational and semi-structured modeling and databases. Physical database design. Techniques and algorithms for database design. XML and Web data. Distributed databases. Information integration. Data warehouses. Data mining. Current research topics and technologies in database systems.",
+      "prerequisites": "CS 435 or CS 4350 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5800",
+      "title": "Advanced Software Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435699",
+      "description": "Software metrics and models. Software development methodologies. Advanced topics in object-oriented software engineering. Formal methods for modeling and specification. Software architecture. Software testing. Survey of trending software engineering tools and researches.",
+      "prerequisites": "CS 480 or CS 4800 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    },
+    {
+      "code": "CS 5850",
+      "title": "Software Verification and Validation",
+      "units": "3",
+      "ge": null,
+      "coid": "435700",
+      "description": "Techniques for evaluating software quality and integrity. Quality assessment, proof of correctness, testing methods and tools. Survey of trending researches in software testing and verification.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "computer-science-m-s"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "computer-science-b-s",
+      "name": "Computer Science, B.S."
+    },
+    {
+      "id": "computer-science-m-s",
+      "name": "Computer Science, M.S."
+    },
+    {
+      "id": "artificial-intelligence-minor",
+      "name": "Artificial Intelligence Minor"
+    },
+    {
+      "id": "computational-linguistics-minor",
+      "name": "Computational Linguistics Minor"
+    },
+    {
+      "id": "computer-science-minor",
+      "name": "Computer Science Minor"
+    },
+    {
+      "id": "cyber-security-minor",
+      "name": "Cyber Security Minor"
+    },
+    {
+      "id": "data-science-minor",
+      "name": "Data Science Minor"
+    }
+  ]
+}
