@@ -1,0 +1,34 @@
+:root {
+  --ink: #153b2b;
+  --muted: #5f7568;
+  --line: #c8d9cb;
+  --paper: #edf4ee;
+  --white: #fbfdf9;
+  --green: #8fbd91;
+  --green-dark: #245b3b;
+  --orange: #4f8657;
+  --yellow: #b8d39d;
+  --blue: #d9ebdc;
+  --shadow: 0 10px 30px rgba(21, 59, 43, .11);
+}
+
+body { background: var(--paper); color: var(--ink); }
+.topbar { background: #123b2a; border-bottom-color: #2d6041; }
+.brand, .page-nav a, .page-nav button { color: #e7f2e6; }
+.brand-mark, .eyebrow, .course-category { color: #8fbd91; }
+.page-nav a.active, .page-nav a:hover, .page-nav button.active, .page-nav button:hover { background: #2b6041; color: #fff; }
+.button-dark { background: #245b3b; color: #fff; }
+.topbar .button-dark { background: #a8cc9c; color: #153b2b; }
+.panel, .program-card, .course-card { background: var(--white); border-color: var(--line); box-shadow: var(--shadow); }
+.term-header { background: #e5f0e6; }
+.term-units, .stat { background: #dcebdd; }
+.stat:nth-child(2) { background: #e3efe0; }
+.stat:nth-child(3) { background: #d6e9d8; }
+.stat:nth-child(4) { background: #e0eddf; }
+.progress-track, .requirement-bar { background: #dce9dd; }
+.progress-track div, .requirement-bar div { background: #3f7d50; }
+.course-card.is-planned { background: #e9f5e9; }
+.button-small { background: #d6ead8; color: #153b2b; }
+.planner-empty { background: #e6f0e6; border-color: #a8c9ac; }
+.toast { background: #123b2a; }
+.auth-overlay { background: rgba(18, 59, 42, .62); }
