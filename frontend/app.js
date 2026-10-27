@@ -25,6 +25,7 @@ async function init() {
     await loadPlan();
     await loadProgramData(state.selectedPrograms);
     renderAll();
+    if (CURRENT_PAGE === "login" && state.user) { showPage("terms"); return; }
     bindEvents();
     bindAuthEvents();
   } catch (error) {
@@ -92,7 +93,7 @@ function requirementUnits(name, courses) {
   return match ? Number(match[2] || match[1]) : courses.reduce((sum, course) => sum + units(course), 0);
 }
 function showPage(page) {
-  window.location.href = `${page}.html`;
+  window.location.href = page === "terms" ? "/" : `/${page}`;
 }
 function renderAll() { if ($("#programSelect")) renderProgram(); if ($("#summaryGrid")) renderSummary(); if ($("#terms")) renderTerms(); if ($("#progressPercent")) renderProgress(); if ($("#recommendations")) renderRecommendations(); if ($("#courseGrid")) renderCatalog(); }
 

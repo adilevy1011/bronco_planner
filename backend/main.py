@@ -80,6 +80,7 @@ def current_user(request: Request):
 def set_session(response: JSONResponse, session) -> JSONResponse:
     secure = os.getenv("COOKIE_SECURE", "false").lower() == "true"
     response.set_cookie(COOKIE_NAME, session.access_token, httponly=True, secure=secure, samesite="lax", max_age=session.expires_in or 3600)
+    response.set_cookie(f"{COOKIE_NAME}_refresh", session.refresh_token, httponly=True, secure=secure, samesite="lax", max_age=60 * 60 * 24 * 30)
     return response
 
 
@@ -129,8 +130,19 @@ def login(payload: AuthPayload):
 
 
 @app.post("/api/auth/logout")
-def logout(response: Response):
+def logout(request: Request, response: Response):
+    access_token = request.cookies.get(COOKIE_NAME)
+    refresh_token = request.cookies.get(f"{COOKIE_NAME}_refresh")
+    if access_token and refresh_token:
+        try:
+            client = auth_client()
+            client.auth.set_session(access_token, refresh_token)
+            client.auth.sign_out()
+        except Exception:
+            # The local session must still be cleared if Supabase has already expired it.
+            pass
     response.delete_cookie(COOKIE_NAME)
+    response.delete_cookie(f"{COOKIE_NAME}_refresh")
     return {"ok": True}
 
 
