@@ -1,1 +1,73 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Terms · CPP Course Planner</title><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="pages.css"><link rel="stylesheet" href="auth.css"></head><body data-page="terms"><div class="app-shell"><header class="topbar"><a class="brand" href="/"><span class="brand-mark">◆</span><span>Bronco Plan</span></a><nav class="page-nav"><a href="/login">Login</a><a class="active" href="/">Terms</a><a href="/progress">Degree progress</a><a href="/settings">Settings</a></nav><div class="topbar-actions"><span class="save-status" id="saveStatus">Saved locally</span><button class="button button-dark" id="authButton">Sign in</button></div></header><main><section class="hero"><div class="eyebrow">CAL POLY POMONA · ACADEMIC PLANNER</div><div class="hero-grid"><div><h1>Build a path to<br><em>your degree.</em></h1><p>Choose a program, map every term, and see what to take next. Drag courses between terms or use each course’s Move to menu.</p></div><div class="program-card"><label for="programSelect">Your programs</label><select id="programSelect" multiple size="6"></select><div class="program-help">Hold Ctrl (Windows) or Command (Mac) to select more than one.</div><div class="program-meta" id="programMeta"></div></div></div></section><section class="summary-grid" id="summaryGrid"></section><section class="planner-panel panel"><div class="section-heading"><div><div class="eyebrow">YOUR ROADMAP</div><h2>Term planner</h2></div><button class="button button-dark" id="addTerm">+ Add term</button></div><div class="planner-note" id="plannerNote"></div><div class="terms" id="terms"></div></section><section class="catalog-section"><div class="section-heading catalog-heading"><div><div class="eyebrow">CATALOG</div><h2>Course library</h2></div><div class="catalog-controls"><input id="courseSearch" type="search" placeholder="Search courses..."><select id="categoryFilter"><option value="all">All requirements</option></select></div></div><div class="course-grid" id="courseGrid"></div></section></main><footer>CPP catalog data · <span id="courseCount"></span></footer></div><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Terms · CPP Course Planner</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="pages.css" />
+    <link rel="stylesheet" href="auth.css" />
+  </head>
+  <body data-page="terms">
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="/"><span class="brand-mark">◆</span><span>Bronco Plan</span></a>
+        <nav class="page-nav">
+          <a class="active" href="/">Terms</a>
+          <a href="/progress">Degree progress</a>
+          <a href="/settings">Settings</a>
+        </nav>
+        <div class="topbar-actions">
+          <span class="save-status" id="saveStatus">Saved locally</span>
+          <button class="button button-dark" id="authButton">Log out</button>
+        </div>
+      </header>
+
+      <main>
+        <section class="hero">
+          <div class="eyebrow">CAL POLY POMONA · ACADEMIC PLANNER</div>
+          <div>
+            <div>
+              <h1>Build a path to<br /><em>your degree.</em></h1>
+              <p>Choose a program, map every term, and see what to take next. Drag courses between terms or use each course’s Move to menu.</p>
+            </div>
+          </div>
+        </section>
+
+        <section class="summary-grid" id="summaryGrid"></section>
+
+        <section class="planner-panel panel">
+          <div class="section-heading">
+            <div>
+              <div class="eyebrow">YOUR ROADMAP</div>
+              <h2>Term planner</h2>
+            </div>
+            <button class="button button-dark" id="addTerm">+ Add term</button>
+          </div>
+          <div class="planner-note" id="plannerNote"></div>
+          <div class="terms" id="terms"></div>
+        </section>
+
+        <section class="catalog-section">
+          <div class="section-heading catalog-heading">
+            <div>
+              <div class="eyebrow">CATALOG</div>
+              <h2>Course library</h2>
+            </div>
+            <div class="catalog-controls">
+              <input id="courseSearch" type="search" placeholder="Search courses..." />
+              <select id="categoryFilter">
+                <option value="all">All requirements</option>
+              </select>
+            </div>
+          </div>
+          <div class="course-grid" id="courseGrid"></div>
+        </section>
+      </main>
+
+      <footer>CPP catalog data · <span id="courseCount"></span></footer>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

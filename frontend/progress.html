@@ -1,1 +1,27 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Degree Progress · CPP Course Planner</title><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="pages.css"><link rel="stylesheet" href="auth.css"></head><body data-page="progress"><div class="app-shell"><header class="topbar"><a class="brand" href="/"><span class="brand-mark">◆</span><span>Bronco Plan</span></a><nav class="page-nav"><a href="/login">Login</a><a href="/">Terms</a><a class="active" href="/progress">Degree progress</a><a href="/settings">Settings</a></nav><div class="topbar-actions"><span class="save-status" id="saveStatus">Saved locally</span><button class="button button-dark" id="authButton">Sign in</button></div></header><main><div class="page-heading"><div class="eyebrow">DEGREE AUDIT</div><h1>Degree progress</h1><p>See how your planned courses apply to program requirements and General Education.</p></div><section class="panel progress-panel progress-page-panel"><div class="section-heading compact"><h3>Overall progress</h3><span id="progressPercent">0%</span></div><div class="progress-track"><div id="progressBar"></div></div><div class="progress-copy" id="progressCopy"></div><div class="requirement-list" id="requirementList"></div></section><section class="panel next-panel"><div class="eyebrow">UP NEXT</div><h3>Good next steps</h3><div id="recommendations"></div></section></main><footer>CPP catalog data</footer></div><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Degree Progress · CPP Course Planner</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="pages.css" />
+    <link rel="stylesheet" href="auth.css" />
+  </head>
+  <body data-page="progress">
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="/"><span class="brand-mark">◆</span><span>Bronco Plan</span></a>
+        <nav class="page-nav"><a href="/">Terms</a><a class="active" href="/progress">Degree progress</a><a href="/settings">Settings</a></nav>
+        <div class="topbar-actions"><span class="save-status" id="saveStatus">Saved locally</span><button class="button button-dark" id="authButton">Log out</button></div>
+      </header>
+      <main>
+        <div class="page-heading"><div class="eyebrow">DEGREE AUDIT</div><h1>Degree progress</h1><p>See how your planned courses apply to program requirements and General Education.</p></div>
+        <section class="panel progress-panel progress-page-panel"><div class="section-heading compact"><h3>Overall progress</h3><span id="progressPercent">0%</span></div><div class="progress-track"><div id="progressBar"></div></div><div class="progress-copy" id="progressCopy"></div><div class="requirement-list" id="requirementList"></div></section>
+        <section class="panel next-panel"><div class="eyebrow">UP NEXT</div><h3>Good next steps</h3><div id="recommendations"></div></section>
+      </main>
+      <footer>CPP catalog data</footer>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>

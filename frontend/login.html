@@ -1,1 +1,24 @@
-<!doctype html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Login · CPP Course Planner</title><link rel="stylesheet" href="styles.css"><link rel="stylesheet" href="pages.css"><link rel="stylesheet" href="auth.css"></head><body data-page="login"><div class="app-shell"><header class="topbar"><a class="brand" href="/"><span class="brand-mark">◆</span><span>Bronco Plan</span></a><nav class="page-nav"><a class="active" href="/login">Login</a><a href="/">Terms</a><a href="/progress">Degree progress</a><a href="/settings">Settings</a></nav><div class="topbar-actions"><button class="button button-dark" id="authButton">Sign in</button></div></header><main><section class="page-login panel"><div class="eyebrow">BRONCO PLAN</div><h1>Plan your path to <em>your degree.</em></h1><p>Sign in to save your roadmap, move courses between terms, and keep your degree progress in one place.</p><button class="button button-dark" id="loginPageButton">Sign in or create an account</button></section></main><footer>CPP catalog data</footer></div><div class="auth-overlay" id="authOverlay" hidden><div class="auth-card"><button class="auth-close" id="authClose" aria-label="Close">×</button><div class="eyebrow">BRONCO PLAN</div><h2 id="authTitle">Sign in</h2><p id="authSubtitle">Save your roadmap across sessions.</p><form id="authForm"><label for="authEmail">Email</label><input id="authEmail" type="email" required><label for="authPassword">Password</label><input id="authPassword" type="password" minlength="8" required><button class="button button-dark" type="submit" id="authSubmit">Sign in</button></form><div class="auth-error" id="authError"></div><button class="auth-switch" id="authSwitch" type="button">Need an account? Register</button></div></div><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Login · CPP Course Planner</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="stylesheet" href="pages.css" />
+    <link rel="stylesheet" href="auth.css" />
+  </head>
+  <body data-page="login">
+    <div class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="/"><span class="brand-mark">◆</span><span>Bronco Plan</span></a>
+        <nav class="page-nav"><a href="/">Terms</a><a href="/progress">Degree progress</a><a href="/settings">Settings</a></nav>
+        <div class="topbar-actions"><button class="button button-dark" id="authButton">Sign in</button></div>
+      </header>
+      <main><section class="page-login panel"><div class="eyebrow">BRONCO PLAN</div><h1>Plan your path to <em>your degree.</em></h1><p>Sign in to save your roadmap, move courses between terms, and keep your degree progress in one place.</p><button class="button button-dark" id="loginPageButton">Sign in or create an account</button></section></main>
+      <footer>CPP catalog data</footer>
+    </div>
+    <div class="auth-overlay" id="authOverlay" hidden><div class="auth-card"><button class="auth-close" id="authClose" aria-label="Close">×</button><div class="eyebrow">BRONCO PLAN</div><h2 id="authTitle">Sign in</h2><p id="authSubtitle">Save your roadmap across sessions.</p><form id="authForm"><label for="authEmail">Email</label><input id="authEmail" type="email" required /><label for="authPassword">Password</label><input id="authPassword" type="password" minlength="8" required /><button class="button button-dark" type="submit" id="authSubmit">Sign in</button></form><div class="auth-error" id="authError"></div><button class="auth-switch" id="authSwitch" type="button">Need an account? Register</button></div></div>
+    <script src="app.js"></script>
+  </body>
+</html>

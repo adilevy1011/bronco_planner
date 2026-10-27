@@ -160,7 +160,7 @@ function bindAuthEvents() {
   $("#authClose")?.addEventListener("click", () => { if (state.user) $("#authOverlay").hidden = true; });
   $("#authSwitch")?.addEventListener("click", () => openAuth(state.authMode === "login" ? "register" : "login"));
   $("#authForm")?.addEventListener("submit", async event => { event.preventDefault(); const email = $("#authEmail").value; const password = $("#authPassword").value; $("#authError").textContent = ""; try { const response = await fetch(`${API_BASE}/api/auth/${state.authMode}`, { method: "POST", credentials: "include", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ email, password }) }); const result = await response.json(); if (!response.ok) throw new Error(result.detail || result.message || "Authentication failed"); if (!result.user) { $("#authError").textContent = result.message; return; } state.user = result.user; $("#authOverlay").hidden = true; await loadPlan(); showPage("terms"); } catch (error) { $("#authError").textContent = error.message; } });
-  if (state.user && $("#authButton")) { $("#authButton").textContent = state.user.email; }
+  if ($("#authButton") && CURRENT_PAGE !== "login") $("#authButton").textContent = state.user ? "Log out" : "Log in";
 }
 function showToast(message) { const toast = $("#toast"); toast.textContent = message; toast.classList.add("show"); setTimeout(() => toast.classList.remove("show"), 1800); }
 init();
