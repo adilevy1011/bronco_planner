@@ -70,7 +70,7 @@ async function loadPlan() {
   const data = await response.json();
   state.terms = data.terms?.length ? data.terms : defaultTerms();
 }
-async function savePlan() { if (state.user) { const response = await fetch(`${API_BASE}/api/me/plan`, { method: "PUT", credentials: "include", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ terms: state.terms }) }); if (!response.ok) { showToast("Could not save plan"); return; } } $("#saveStatus").textContent = "Saved just now"; setTimeout(() => $("#saveStatus").textContent = "Saved locally", 1600); }
+async function savePlan() { if (state.user) { const response = await fetch(`${API_BASE}/api/me/plan`, { method: "PUT", credentials: "include", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ terms: state.terms }) }); if (!response.ok) { showToast("Could not save plan"); return; } } const saveStatus = $("#saveStatus"); if (saveStatus) { saveStatus.textContent = "Saved just now"; setTimeout(() => { saveStatus.textContent = ""; }, 1600); } }
 function plannedCodes() { return new Set(state.terms.flatMap(term => term.courses)); }
 function plannedCourses() { return state.courses.filter(course => plannedCodes().has(courseKey(course))); }
 function totalPlannedUnits() { return plannedCourses().reduce((sum, course) => sum + units(course), 0); }
