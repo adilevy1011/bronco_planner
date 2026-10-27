@@ -8,7 +8,7 @@ User=www-data
 Group=www-data
 WorkingDirectory=/var/www/bronco_planner
 EnvironmentFile=/etc/course-planning.env
-ExecStart=/var/www/bronco_planner/.venv/bin/uvicorn backend.main:app --host 127.0.0.1 --port 8000
+ExecStart=/var/www/bronco_planner/.venv/bin/uvicorn backend.main:app --host 127.0.0.1 --port 8010
 Restart=always
 RestartSec=5
 

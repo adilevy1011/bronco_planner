@@ -1,5 +1,5 @@
 const state = { courses: [], categories: {}, programs: [], selectedProgram: "cpp-cs-bs", selectedPrograms: [], programTotalUnits: 0, user: null, authMode: "login", terms: [], search: "", category: "all" };
-const API_BASE = window.location.port === "5500" ? "http://localhost:8000" : "";
+const API_BASE = window.location.port === "5500" ? "http://localhost:8010" : "";
 const $ = (selector) => document.querySelector(selector);
 const units = (course) => {
   const match = String(course.units ?? "").match(/(\d+(?:\.\d+)?)(?:-(\d+(?:\.\d+)?))?/);
