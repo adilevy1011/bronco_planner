@@ -1,5 +1,6 @@
 const state = { courses: [], categories: {}, programs: [], selectedProgram: "cpp-cs-bs", selectedPrograms: [], programTotalUnits: 0, ge: null, geEnabled: false, user: null, authMode: "login", terms: [], search: "", category: "all" };
 const API_BASE = window.location.port === "5500" ? "http://localhost:8010" : "";
+const CURRENT_PAGE = document.body.dataset.page || "terms";
 const $ = (selector) => document.querySelector(selector);
 const units = (course) => {
   const match = String(course.units ?? "").match(/(\d+(?:\.\d+)?)(?:-(\d+(?:\.\d+)?))?/);
@@ -26,7 +27,6 @@ async function init() {
     renderAll();
     bindEvents();
     bindAuthEvents();
-    if (!state.user) openAuth("login");
   } catch (error) {
     document.querySelector("main").innerHTML = `<div class="panel unavailable"><h2>Could not load planner data</h2><p>Start the FastAPI backend on <code>http://localhost:8000</code>, then reload this page.</p><code>${error.message}</code></div>`;
   }
@@ -91,7 +91,10 @@ function requirementUnits(name, courses) {
   const match = name.match(/:\s*(\d+(?:\.\d+)?)(?:-(\d+(?:\.\d+)?))?\s*units?/i);
   return match ? Number(match[2] || match[1]) : courses.reduce((sum, course) => sum + units(course), 0);
 }
-function renderAll() { renderProgram(); renderSummary(); renderTerms(); renderProgress(); renderRecommendations(); renderCatalog(); }
+function showPage(page) {
+  window.location.href = `${page}.html`;
+}
+function renderAll() { if ($("#programSelect")) renderProgram(); if ($("#summaryGrid")) renderSummary(); if ($("#terms")) renderTerms(); if ($("#progressPercent")) renderProgress(); if ($("#recommendations")) renderRecommendations(); if ($("#courseGrid")) renderCatalog(); }
 
 function renderProgram() {
   const select = $("#programSelect"); select.innerHTML = state.programs.map(p => `<option value="${p.id}" ${p.id === state.selectedProgram ? "selected" : ""}>${p.name}${p.available ? "" : " · data coming soon"}</option>`).join("");
@@ -138,10 +141,12 @@ function renderCatalog() {
 
 function addCourse(code, termId = state.terms[0]?.id) { if (!termId) return; if (plannedCodes().has(code)) { showToast("That course is already planned"); return; } const term = state.terms.find(t => t.id === termId); term.courses.push(code); savePlan(); renderAll(); showToast(`${code} added to ${term.name}`); }
 function bindEvents() {
-  $("#programSelect").addEventListener("change", async e => { const selected = [...e.target.selectedOptions].map(option => option.value); if (!selected.length) return; state.selectedPrograms = selected; state.selectedProgram = selected[0]; await loadProgramData(selected); renderAll(); });
-  $("#courseSearch").addEventListener("input", e => { state.search = e.target.value; renderCatalog(); }); $("#categoryFilter").addEventListener("change", e => { state.category = e.target.value; renderCatalog(); });
-  $("#addTerm").addEventListener("click", () => { const names = ["Fall", "Spring", "Summer", "Fall"]; const next = state.terms.length + 1; state.terms.push({ id: crypto.randomUUID(), name: `${names[next % names.length]} ${2026 + Math.floor(next / 2)}`, courses: [] }); savePlan(); renderAll(); });
-  $("#resetPlan").addEventListener("click", () => { if (confirm("Clear every course from your roadmap?")) { state.terms = []; savePlan(); renderAll(); } });
+  document.querySelectorAll("[data-page-link]").forEach(link => link.addEventListener("click", event => { event.preventDefault(); showPage(link.dataset.pageLink); }));
+  $("#loginPageButton")?.addEventListener("click", () => openAuth("login"));
+  $("#programSelect")?.addEventListener("change", async e => { const selected = [...e.target.selectedOptions].map(option => option.value); if (!selected.length) return; state.selectedPrograms = selected; state.selectedProgram = selected[0]; await loadProgramData(selected); renderAll(); });
+  $("#courseSearch")?.addEventListener("input", e => { state.search = e.target.value; renderCatalog(); }); $("#categoryFilter")?.addEventListener("change", e => { state.category = e.target.value; renderCatalog(); });
+  $("#addTerm")?.addEventListener("click", () => { const names = ["Fall", "Spring", "Summer", "Fall"]; const next = state.terms.length + 1; state.terms.push({ id: crypto.randomUUID(), name: `${names[next % names.length]} ${2026 + Math.floor(next / 2)}`, courses: [] }); savePlan(); renderAll(); });
+  $("#resetPlan")?.addEventListener("click", () => { if (confirm("Clear every course from your roadmap?")) { state.terms = []; savePlan(); renderAll(); } });
   document.addEventListener("click", e => { const action = e.target.closest("[data-action]")?.dataset; if (!action) return; if (action.action === "add-course") addCourse(action.code); if (action.action === "remove-course") { const term = state.terms.find(t => t.id === action.term); term.courses = term.courses.filter(code => code !== action.code); savePlan(); renderAll(); } if (action.action === "remove-term") { state.terms = state.terms.filter(t => t.id !== action.id); savePlan(); renderAll(); } if (action.action === "rename-term") { const term = state.terms.find(t => t.id === action.id); const name = prompt("Term name", term.name); if (name?.trim()) { term.name = name.trim(); savePlan(); renderAll(); } } });
   document.addEventListener("change", e => { const action = e.target.closest("[data-action]")?.dataset; if (action?.action === "move-course") moveCourse(action.code, action.term, e.target.value); });
   document.addEventListener("dragstart", e => { const course = e.target.closest(".planned-course"); if (course) e.dataTransfer.setData("text/plain", JSON.stringify({ code: course.dataset.code, fromId: course.dataset.term })); });
@@ -150,11 +155,11 @@ function bindEvents() {
 }
 function openAuth(mode) { state.authMode = mode; $("#authOverlay").hidden = false; $("#authTitle").textContent = mode === "login" ? "Sign in" : "Create account"; $("#authSubtitle").textContent = mode === "login" ? "Save your roadmap across sessions." : "Create an account to keep your roadmap private."; $("#authSubmit").textContent = mode === "login" ? "Sign in" : "Create account"; $("#authSwitch").textContent = mode === "login" ? "Need an account? Register" : "Already have an account? Sign in"; $("#authError").textContent = ""; }
 function bindAuthEvents() {
-  $("#authButton").addEventListener("click", async () => { if (!state.user) return openAuth("login"); await fetch(`${API_BASE}/api/auth/logout`, { method: "POST", credentials: "include" }); state.user = null; $("#authButton").textContent = "Sign in"; openAuth("login"); });
-  $("#authClose").addEventListener("click", () => { if (state.user) $("#authOverlay").hidden = true; });
-  $("#authSwitch").addEventListener("click", () => openAuth(state.authMode === "login" ? "register" : "login"));
-  $("#authForm").addEventListener("submit", async event => { event.preventDefault(); const email = $("#authEmail").value; const password = $("#authPassword").value; $("#authError").textContent = ""; try { const response = await fetch(`${API_BASE}/api/auth/${state.authMode}`, { method: "POST", credentials: "include", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ email, password }) }); const result = await response.json(); if (!response.ok) throw new Error(result.detail || result.message || "Authentication failed"); if (!result.user) { $("#authError").textContent = result.message; return; } state.user = result.user; $("#authOverlay").hidden = true; $("#authButton").textContent = state.user.email; await loadPlan(); renderAll(); } catch (error) { $("#authError").textContent = error.message; } });
-  if (state.user) { $("#authButton").textContent = state.user.email; }
+  $("#authButton")?.addEventListener("click", async () => { if (!state.user) return CURRENT_PAGE === "login" ? openAuth("login") : showPage("login"); await fetch(`${API_BASE}/api/auth/logout`, { method: "POST", credentials: "include" }); state.user = null; showPage("login"); });
+  $("#authClose")?.addEventListener("click", () => { if (state.user) $("#authOverlay").hidden = true; });
+  $("#authSwitch")?.addEventListener("click", () => openAuth(state.authMode === "login" ? "register" : "login"));
+  $("#authForm")?.addEventListener("submit", async event => { event.preventDefault(); const email = $("#authEmail").value; const password = $("#authPassword").value; $("#authError").textContent = ""; try { const response = await fetch(`${API_BASE}/api/auth/${state.authMode}`, { method: "POST", credentials: "include", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ email, password }) }); const result = await response.json(); if (!response.ok) throw new Error(result.detail || result.message || "Authentication failed"); if (!result.user) { $("#authError").textContent = result.message; return; } state.user = result.user; $("#authOverlay").hidden = true; await loadPlan(); showPage("terms"); } catch (error) { $("#authError").textContent = error.message; } });
+  if (state.user && $("#authButton")) { $("#authButton").textContent = state.user.email; }
 }
 function showToast(message) { const toast = $("#toast"); toast.textContent = message; toast.classList.add("show"); setTimeout(() => toast.classList.remove("show"), 1800); }
 init();
