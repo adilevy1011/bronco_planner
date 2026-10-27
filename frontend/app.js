@@ -69,8 +69,9 @@ async function loadPlan() {
   if (!response.ok) throw new Error("Could not load your plan");
   const data = await response.json();
   state.terms = data.terms?.length ? data.terms : defaultTerms();
+  if (data.selected_programs?.length) state.selectedPrograms = data.selected_programs;
 }
-async function savePlan() { if (state.user) { const response = await fetch(`${API_BASE}/api/me/plan`, { method: "PUT", credentials: "include", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ terms: state.terms }) }); if (!response.ok) { showToast("Could not save plan"); return; } } const saveStatus = $("#saveStatus"); if (saveStatus) { saveStatus.textContent = "Saved just now"; setTimeout(() => { saveStatus.textContent = ""; }, 1600); } }
+async function savePlan() { if (state.user) { const response = await fetch(`${API_BASE}/api/me/plan`, { method: "PUT", credentials: "include", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ terms: state.terms, selected_programs: state.selectedPrograms }) }); if (!response.ok) { showToast("Could not save plan"); return; } } const saveStatus = $("#saveStatus"); if (saveStatus) { saveStatus.textContent = "Saved just now"; setTimeout(() => { saveStatus.textContent = ""; }, 1600); } }
 function plannedCodes() { return new Set(state.terms.flatMap(term => term.courses)); }
 function plannedCourses() { return state.courses.filter(course => plannedCodes().has(courseKey(course))); }
 function totalPlannedUnits() { return plannedCourses().reduce((sum, course) => sum + units(course), 0); }
@@ -144,7 +145,7 @@ function addCourse(code, termId = state.terms[0]?.id) { if (!termId) return; if 
 function bindEvents() {
   document.querySelectorAll("[data-page-link]").forEach(link => link.addEventListener("click", event => { event.preventDefault(); showPage(link.dataset.pageLink); }));
   $("#loginPageButton")?.addEventListener("click", () => openAuth("login"));
-  $("#programSelect")?.addEventListener("change", async e => { const selected = [...e.target.selectedOptions].map(option => option.value); if (!selected.length) return; state.selectedPrograms = selected; state.selectedProgram = selected[0]; await loadProgramData(selected); renderAll(); });
+  $("#programSelect")?.addEventListener("change", async e => { const selected = [...e.target.selectedOptions].map(option => option.value); if (!selected.length) return; state.selectedPrograms = selected; state.selectedProgram = selected[0]; await loadProgramData(selected); await savePlan(); renderAll(); });
   $("#courseSearch")?.addEventListener("input", e => { state.search = e.target.value; renderCatalog(); }); $("#categoryFilter")?.addEventListener("change", e => { state.category = e.target.value; renderCatalog(); });
   $("#addTerm")?.addEventListener("click", () => { const names = ["Fall", "Spring", "Summer", "Fall"]; const next = state.terms.length + 1; state.terms.push({ id: crypto.randomUUID(), name: `${names[next % names.length]} ${2026 + Math.floor(next / 2)}`, courses: [] }); savePlan(); renderAll(); });
   $("#resetPlan")?.addEventListener("click", () => { if (confirm("Clear every course from your roadmap?")) { state.terms = []; savePlan(); renderAll(); } });

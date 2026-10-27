@@ -37,6 +37,7 @@ class AuthPayload(BaseModel):
 
 class PlanPayload(BaseModel):
     terms: list[dict] = Field(default_factory=list)
+    selected_programs: list[str] = Field(default_factory=list)
 
 
 def read_json(path: Path) -> dict:
@@ -155,14 +156,14 @@ def me(request: Request) -> dict:
 @app.get("/api/me/plan")
 def get_plan(request: Request) -> dict:
     user = current_user(request)
-    result = data_client().table("planner_plans").select("terms,updated_at").eq("user_id", user.id).limit(1).execute()
+    result = data_client().table("planner_plans").select("terms,selected_programs,updated_at").eq("user_id", user.id).limit(1).execute()
     rows = result.data if result else []
-    return rows[0] if rows else {"terms": [], "updated_at": None}
+    return rows[0] if rows else {"terms": [], "selected_programs": [], "updated_at": None}
 
 
 @app.put("/api/me/plan")
 def save_plan(payload: PlanPayload, request: Request) -> dict:
     user = current_user(request)
-    result = data_client().table("planner_plans").upsert({"user_id": user.id, "terms": payload.terms}, on_conflict="user_id").execute()
+    result = data_client().table("planner_plans").upsert({"user_id": user.id, "terms": payload.terms, "selected_programs": payload.selected_programs}, on_conflict="user_id").execute()
     rows = result.data if result else []
-    return rows[0] if rows else {"terms": payload.terms}
+    return rows[0] if rows else {"terms": payload.terms, "selected_programs": payload.selected_programs}
