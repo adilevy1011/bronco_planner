@@ -1,0 +1,23 @@
+{
+  "catalog_id": "78",
+  "catalog_year": "2026-2027",
+  "source_url": "https://catalog.cpp.edu/content.php?catoid=78&navoid=7095",
+  "total_units": 43,
+  "requirements": [
+    { "id": "1A", "name": "1A Written Communication", "units": 3 },
+    { "id": "1B", "name": "1B Critical Thinking", "units": 3 },
+    { "id": "1C", "name": "1C Oral Communication", "units": 3 },
+    { "id": "2", "name": "2 Mathematics and Quantitative Reasoning", "units": 3 },
+    { "id": "3A", "name": "3A Arts", "units": 3 },
+    { "id": "3B", "name": "3B Humanities", "units": 3 },
+    { "id": "4A", "name": "4A American Institutions", "units": 3 },
+    { "id": "4B", "name": "4B Social and Behavioral Sciences", "units": 3 },
+    { "id": "5A", "name": "5A Physical Sciences", "units": 3 },
+    { "id": "5B", "name": "5B Life Sciences", "units": 3 },
+    { "id": "5C", "name": "5C Laboratory", "units": 1 },
+    { "id": "6", "name": "6 Ethnic Studies", "units": 3 },
+    { "id": "UD25", "name": "Upper-Division 2/5 Synthesis", "units": 3 },
+    { "id": "UD3", "name": "Upper-Division 3 Synthesis", "units": 3 },
+    { "id": "UD4", "name": "Upper-Division 4 Synthesis", "units": 3 }
+  ]
+}

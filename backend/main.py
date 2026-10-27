@@ -93,6 +93,11 @@ def manifest() -> dict:
     return read_json(MANIFEST_PATH)
 
 
+@app.get("/api/general-education")
+def general_education() -> dict:
+    return read_json(DATA_DIR / "general-education.json")
+
+
 @app.get("/api/programs/{program_id}")
 def program(program_id: str) -> dict:
     return read_json(DATA_DIR / "programs" / f"{program_id}.json")

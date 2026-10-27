@@ -1,4 +1,4 @@
-const state = { courses: [], categories: {}, programs: [], selectedProgram: "cpp-cs-bs", selectedPrograms: [], programTotalUnits: 0, user: null, authMode: "login", terms: [], search: "", category: "all" };
+const state = { courses: [], categories: {}, programs: [], selectedProgram: "cpp-cs-bs", selectedPrograms: [], programTotalUnits: 0, ge: null, geEnabled: false, user: null, authMode: "login", terms: [], search: "", category: "all" };
 const API_BASE = window.location.port === "5500" ? "http://localhost:8010" : "";
 const $ = (selector) => document.querySelector(selector);
 const units = (course) => {
@@ -19,6 +19,7 @@ async function init() {
       state.selectedProgram = state.programs[0]?.id;
     }
     state.selectedPrograms = [state.selectedProgram];
+    state.ge = await (await fetch(`${API_BASE}/api/general-education`)).json();
     await restoreAuth();
     await loadPlan();
     await loadProgramData(state.selectedPrograms);
@@ -47,11 +48,13 @@ async function loadProgramData(programIds) {
       categories[categoryName] = requirement.courses.map(code => program.courses.find(course => course.code === code)).filter(Boolean);
       categories[categoryName].forEach(course => {
         if (!courseMap.has(course.code)) courseMap.set(course.code, { ...course, category: categoryName });
+        else if (course.ge && !courseMap.get(course.code).ge) courseMap.get(course.code).ge = course.ge;
       });
     });
   });
   state.categories = categories;
   state.courses = [...courseMap.values()];
+  state.geEnabled = programs.some(program => /,\s*B\.[AS]\.|Bachelor/i.test(program.name));
 }
 
 function defaultTerms() { return [{ id: crypto.randomUUID(), name: "Fall 2026", courses: [] }, { id: crypto.randomUUID(), name: "Spring 2027", courses: [] }, { id: crypto.randomUUID(), name: "Fall 2027", courses: [] }]; }
@@ -70,6 +73,20 @@ async function savePlan() { if (state.user) { const response = await fetch(`${AP
 function plannedCodes() { return new Set(state.terms.flatMap(term => term.courses)); }
 function plannedCourses() { return state.courses.filter(course => plannedCodes().has(courseKey(course))); }
 function totalPlannedUnits() { return plannedCourses().reduce((sum, course) => sum + units(course), 0); }
+function geAreas(course) {
+  const tags = String(course.ge || "").toUpperCase().match(/GE\s+([0-9]+[A-Z]?)/g) || [];
+  return tags.map(tag => tag.replace(/^GE\s+/, "")).map(tag => (tag === "4C" || tag === "5D") ? "UD4" : tag);
+}
+function geCourses(requirementId) { return state.courses.filter(course => geAreas(course).includes(requirementId)); }
+function geProgress() {
+  if (!state.geEnabled || !state.ge) return { completed: 0, total: 0, remaining: 0 };
+  const planned = plannedCodes();
+  const completed = state.ge.requirements.reduce((sum, requirement) => {
+    const taken = geCourses(requirement.id).filter(course => planned.has(course.code)).reduce((unitsTaken, course) => unitsTaken + units(course), 0);
+    return sum + Math.min(taken, requirement.units);
+  }, 0);
+  return { completed, total: state.ge.total_units, remaining: Math.max(state.ge.total_units - completed, 0) };
+}
 function requirementUnits(name, courses) {
   const match = name.match(/:\s*(\d+(?:\.\d+)?)(?:-(\d+(?:\.\d+)?))?\s*units?/i);
   return match ? Number(match[2] || match[1]) : courses.reduce((sum, course) => sum + units(course), 0);
@@ -88,9 +105,11 @@ function renderProgram() {
   $("#programMeta").innerHTML = `${current.length} program${current.length === 1 ? "" : "s"} selected · ${departments}<br>${state.courses.length} combined program courses loaded`;
 }
 function renderSummary() {
-  const total = state.programTotalUnits || state.courses.reduce((sum, c) => sum + units(c), 0), planned = totalPlannedUnits(), remaining = Math.max(total - planned, 0);
-  $("#summaryGrid").innerHTML = [[`${planned}`, "units planned"], [`${remaining}`, "units to map"], [`${state.terms.length}`, "terms on your roadmap"], [`${plannedCourses().length}`, "courses selected"]].map(([value, label]) => `<div class="stat"><div class="stat-value">${value}</div><div class="stat-label">${label}</div></div>`).join("");
-  $("#plannerNote").textContent = `${planned} units mapped across ${state.terms.length} terms. Add courses from the library below.`;
+  const total = state.programTotalUnits || state.courses.reduce((sum, c) => sum + units(c), 0), planned = totalPlannedUnits(), remaining = Math.max(total - planned, 0), ge = geProgress();
+  const stats = [[`${planned}`, "units planned"], [`${remaining}`, "degree units to map"], [`${state.terms.length}`, "terms on your roadmap"], [`${plannedCourses().length}`, "courses selected"]];
+  if (state.geEnabled) stats.splice(2, 0, [`${ge.completed}/${ge.total}`, "GE units completed"]);
+  $("#summaryGrid").innerHTML = stats.map(([value, label]) => `<div class="stat"><div class="stat-value">${value}</div><div class="stat-label">${label}</div></div>`).join("");
+  $("#plannerNote").textContent = `${planned} units mapped across ${state.terms.length} terms. GE-tagged major courses count toward both views, but only once toward the degree total.`;
 }
 function renderTerms() {
   const container = $("#terms"); if (!state.terms.length) { container.innerHTML = `<div class="planner-empty">Your roadmap is empty. Add a term to begin.</div>`; return; }
@@ -98,13 +117,15 @@ function renderTerms() {
 }
 function renderProgress() {
   const total = state.programTotalUnits || state.courses.reduce((sum, c) => sum + units(c), 0), planned = totalPlannedUnits(), percent = total ? Math.min(Math.round(planned / total * 100), 100) : 0; $("#progressPercent").textContent = `${percent}%`; $("#progressBar").style.width = `${percent}%`; $("#progressCopy").textContent = `${planned} of ${total} program units currently mapped`;
-  $("#requirementList").innerHTML = Object.entries(state.categories).map(([name, list]) => { const categoryTotal = requirementUnits(name, list); const categoryPlanned = Math.min(list.filter(c => plannedCodes().has(c.code)).reduce((sum, c) => sum + units(c), 0), categoryTotal); const pct = categoryTotal ? Math.min(categoryPlanned / categoryTotal * 100, 100) : 0; return `<div class="requirement"><div class="requirement-row"><span>${name.replace(/:.*$/, "")}</span><span>${categoryPlanned}/${categoryTotal} units</span></div><div class="requirement-bar"><div style="width:${pct}%"></div></div></div>`; }).join("");
+  const major = Object.entries(state.categories).map(([name, list]) => { const categoryTotal = requirementUnits(name, list); const categoryPlanned = Math.min(list.filter(c => plannedCodes().has(c.code)).reduce((sum, c) => sum + units(c), 0), categoryTotal); const pct = categoryTotal ? Math.min(categoryPlanned / categoryTotal * 100, 100) : 0; return `<div class="requirement"><div class="requirement-row"><span>${name.replace(/:.*$/, "")}</span><span>${categoryPlanned}/${categoryTotal} units</span></div><div class="requirement-bar"><div style="width:${pct}%"></div></div></div>`; }).join("");
+  const ge = state.geEnabled ? `<div class="requirement ge-heading"><div class="requirement-row"><strong>General education · ${geProgress().completed}/${state.ge.total_units} units</strong><a href="${state.ge.source_url}" target="_blank" rel="noreferrer">Catalog ↗</a></div></div>` + state.ge.requirements.map(requirement => { const list = geCourses(requirement.id); const completed = Math.min(list.filter(c => plannedCodes().has(c.code)).reduce((sum, c) => sum + units(c), 0), requirement.units); const pct = Math.min(completed / requirement.units * 100, 100); return `<div class="requirement"><div class="requirement-row"><span>${requirement.name}</span><span>${completed}/${requirement.units} units</span></div><div class="requirement-bar"><div style="width:${pct}%"></div></div></div>`; }).join("") : "";
+  $("#requirementList").innerHTML = major + ge;
 }
 function renderRecommendations() { const candidates = state.courses.filter(c => !plannedCodes().has(c.code)).sort((a,b) => Number(a.code.match(/\d+/)?.[0] || 9999) - Number(b.code.match(/\d+/)?.[0] || 9999)).slice(0, 4); $("#recommendations").innerHTML = candidates.length ? candidates.map(c => `<div class="recommendation"><div><strong>${c.code}</strong><small>${c.title}</small></div><button class="button button-small" data-action="add-course" data-code="${c.code}">Add</button></div>`).join("") : `<div class="unavailable">Everything in this catalog is planned.</div>`; }
 function renderCatalog() {
   const filter = $("#categoryFilter"); const categories = Object.keys(state.categories); filter.innerHTML = `<option value="all">All requirements</option>${categories.map(c => `<option value="${c}" ${c === state.category ? "selected" : ""}>${c}</option>`).join("")}`;
   const query = state.search.toLowerCase(); const results = state.courses.filter(c => (state.category === "all" || c.category === state.category) && `${c.code} ${c.title} ${c.description}`.toLowerCase().includes(query)); $("#courseCount").textContent = `${state.courses.length} courses loaded`;
-  $("#courseGrid").innerHTML = results.length ? results.map(c => { const isPlanned = plannedCodes().has(c.code); return `<article class="course-card ${isPlanned ? "is-planned" : ""}"><div class="course-category">${c.category.replace(/:.*$/, "")}</div><div class="course-card-top"><span class="course-code">${c.code}</span><span class="course-units">${units(c)} units</span></div><h4>${c.title}</h4><p>${c.description || "No description available."}</p>${isPlanned ? `<button class="button button-small" disabled>Already planned</button>` : `<button class="button button-small" data-action="add-course" data-code="${c.code}">+ Add to next term</button>`}</article>`; }).join("") : `<div class="unavailable">No courses match your search.</div>`;
+  $("#courseGrid").innerHTML = results.length ? results.map(c => { const isPlanned = plannedCodes().has(c.code); const ge = c.ge ? `<span class="course-ge">${c.ge}</span>` : ""; return `<article class="course-card ${isPlanned ? "is-planned" : ""}"><div class="course-category">${c.category.replace(/:.*$/, "")}</div><div class="course-card-top"><span class="course-code">${c.code}</span><span class="course-units">${units(c)} units</span></div><h4>${c.title}</h4><p>${c.description || "No description available."}</p>${ge}${isPlanned ? `<button class="button button-small" disabled>Already planned</button>` : `<button class="button button-small" data-action="add-course" data-code="${c.code}">+ Add to next term</button>`}</article>`; }).join("") : `<div class="unavailable">No courses match your search.</div>`;
 }
 
 function addCourse(code, termId = state.terms[0]?.id) { if (!termId) return; if (plannedCodes().has(code)) { showToast("That course is already planned"); return; } const term = state.terms.find(t => t.id === termId); term.courses.push(code); savePlan(); renderAll(); showToast(`${code} added to ${term.name}`); }
