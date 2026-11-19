@@ -1,4 +1,2 @@
 __pycache__/
-frontend/supabase-config.js
-*.env
-!.env.example
+

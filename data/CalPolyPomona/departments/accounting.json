@@ -1,0 +1,1018 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:34:06+00:00",
+  "id": "accounting",
+  "name": "Accounting",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6305",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Accounting Department Building 164 Room 3060 | (909) 869-2367 | Department Website | Faculty Directory Our mission is to advance theoretical and practical accounting knowledge through inclusive teaching, innovative research, and experiential practice in our diverse community. We strive to cultivate lifelong learning by offering high-quality undergraduate and graduate programs with a technological emphasis. We lead our students in developing cutting-edge skills to make informed decisions, uphold ethical standards, thrive in their careers, and contribute to society. The Department of Accounting emphasizes immersive, technology-rich education tailored to modern business complexity. Its culture is grounded in experiential learning, ethical decision-making, and analytical rigor. Through simulations, case analyses, and software-integrated coursework, students are trained to support organizational accountability in public, private, governmental, and nonprofit sectors. Faculty bring real-world professional and scholarly experience, contributing to the department’s reputation as a regional leader in applied accounting education. Students benefit from accessible accounting analytics labs, collaborative workspaces with audit-case simulations, and access to emerging technologies. The Accounting Society and Beta Alpha Psi chapter offer networking, community outreach, and participation in national competitions. Structured internships, peer mentorship programs, and tech-focused workshops help students build career-ready competencies. Academic support-including advising, tutorial services, and structured progression standards-fosters ethical, analytical, and ",
+  "courses": [
+    {
+      "code": "ACC 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434823",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 2070",
+      "title": "Financial Accounting for Decision Making",
+      "units": "3",
+      "ge": null,
+      "coid": "434677",
+      "description": "Introduction to financial accounting and accounting information systems (AIS), including basic concepts, limitations, tools and methods, use of AIS-generated information, including financial statements in decision making by investors, creditors, and other users external to the organization.",
+      "prerequisites": "CIS 101, CIS 1010 , or PCPT.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "accounting-minor",
+        "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ACC 2080",
+      "title": "Managerial Accounting for Decision Making",
+      "units": "3",
+      "ge": null,
+      "coid": "434678",
+      "description": "Introduction to managerial accounting and accounting information systems (AIS), including basic concepts, limitations, tools and methods. Use of AIS-generated information to support the internal decision-making functions of an organization. For credit, both segments are to be successfully completed.",
+      "prerequisites": "ACC 2070 ; or ACC 207 and ACC 207A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "accounting-minor",
+        "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ACC 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434824",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437974",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437975",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 3110",
+      "title": "Intermediate Accounting I",
+      "units": "3",
+      "ge": null,
+      "coid": "434679",
+      "description": "Fundamental financial accounting concepts that underlie U.S. generally accepted accounting principles (GAAP) and international financial reporting systems (IFRS), and their application to the basic financial statements, revenue recognition, fair-value accounting and assets.",
+      "prerequisites": "Accounting option/major/minor/certificate and C or better in ACC 2070 or ACC 207/ACC 207A; ACC 2080 or ACC 208/ACC 208A; EC 2201 or EC 201; EC 2202 or EC 202; GE Area 1A/A2; FRL 2013 or FRL 201; MAT 1250 or MAT 125, MAT 114 and MAT 115, or MAT 1140 ; and STA 1200 , STA 1202 , or STA 120.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "business-administration-b-s-accounting-subplan-option-as-t-in-business-administration-2-0",
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units",
+        "accounting-minor",
+        "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-accounting-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ACC 3120",
+      "title": "Intermediate Accounting II",
+      "units": "3",
+      "ge": null,
+      "coid": "434680",
+      "description": "Fundamental financial accounting concepts that underlie U.S. GAAP and IFRS, and their application to liabilities, equity, and special topics including income taxes, leases, pensions, share-based compensation, EPS, accounting changes, error corrections, and cash flows statement. *The enforcement of the Graduation Writing Assessment Requirement has been temporarily suspended per a Chancellor’s Office memorandum.",
+      "prerequisites": "C or better in ACC 3110 , or ACC 311 and ACC 312; and GWT*, CPU 4010 *, or CPU 401*.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "business-administration-b-s-accounting-subplan-option-as-t-in-business-administration-2-0",
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units",
+        "accounting-minor",
+        "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-accounting-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ACC 3210",
+      "title": "Cost Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "434681",
+      "description": "Accounting information for management of all types of business entities including cost concepts; cost accumulation and analysis; product costing; master and flexible budgeting; standard costing and variance analysis; responsibility accounting; decision making and relevant information; and pricing decisions and analysis.",
+      "prerequisites": "Accounting option/major/minor/certificate and C or better in ACC 2070 or ACC 207/ACC 207A; ACC 2080 or ACC 208/ACC 208A; EC 2201 or EC 201; EC 2202 or EC 202; GE Area 1A/A2; FRL 2013 or FRL 201; MAT 1250 or MAT 125, MAT 114 and MAT 115, or MAT 1140 ; and STA 1200 , STA 1202 , or STA 120.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "business-administration-b-s-accounting-subplan-option-as-t-in-business-administration-2-0",
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units",
+        "accounting-minor",
+        "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-accounting-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ACC 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434825",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 4122",
+      "title": "Financial Accounting and Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "434684",
+      "description": "Dual Listed as: ACC 5122 Understanding essential financial accounting standards (U.S. GAAP and IFRS) and FASB Conceptual Framework from both preparer’s and user’s perspectives.",
+      "prerequisites": "Not an ACCT major and C or better in ACC 2070 or ACC 207/ACC 207A; ACC 2080 or ACC 208/ACC 208A; EC 2201 or EC 201; EC 2202 or EC 202; FRL 2013 or FRL 201; MAT 1250 or MAT 125; and CIS 101, CIS 1010 , or PCPT.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 4131",
+      "title": "Advanced Financial Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "434685",
+      "description": "Advanced financial accounting topics in corporation and partnership accounting including consolidations, derivatives of financial instruments, foreign currency transactions and translation, interim reporting and disclosures.",
+      "prerequisites": "C or better in ACC 3120 or ACC 313.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "accounting-minor"
+      ]
+    },
+    {
+      "code": "ACC 4211",
+      "title": "Advanced Cost Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "434596",
+      "description": "Advanced cost accounting techniques focusing on activity-based-costing; cost allocation issues and customer profitability; service department cost allocations; accounting for spoilage, rework, and scrap; inventory costing and management; cost behavior; transfer pricing; divisional performance measurement; and capital budgeting.",
+      "prerequisites": "C or better in ACC 3210 or ACC 307.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "accounting-minor"
+      ]
+    },
+    {
+      "code": "ACC 4221",
+      "title": "Controllership",
+      "units": "3",
+      "ge": null,
+      "coid": "434606",
+      "description": "Supervision and dissemination of financial and managerial information, taxation, and any other required reporting to diverse users, including management, stockholders, creditors (e.g., banks and suppliers), stock exchanges, employees, customers, U.S. government agencies (e.g., the Securities and Exchange Commission, Internal Revenue Service, Department of Commerce, Department of Labor, and the Federal Trade Commission), and state and other agencies.",
+      "prerequisites": "C or better in ACC 3110 , or ACC 311 and ACC 312; and C or better in ACC 3210 or ACC 307.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "accounting-minor"
+      ]
+    },
+    {
+      "code": "ACC 4310",
+      "title": "Introduction to Taxation",
+      "units": "3",
+      "ge": null,
+      "coid": "434682",
+      "description": "Dual Listed as: ACC 5310 Fundamental principles of income taxation leading to the preparation of federal tax and state returns, including tax determination, gross income, deductions, property transactions, depreciation, employee expenses, self-employed deductions and Passive Activity Losses. Course emphasizes written and oral communication skills and tax research. *The enforcement of the Graduation Writing Assessment Requirement has been temporarily suspended per a Chancellor’s Office memorandum.",
+      "prerequisites": "C or better in ACC 3110 , or ACC 311 and ACC 312; and GWT*, CPU 4010 *, or CPU 401*.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "business-administration-b-s-accounting-subplan-option-as-t-in-business-administration-2-0",
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units",
+        "accounting-minor",
+        "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-accounting-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ACC 4321",
+      "title": "Advanced Taxation",
+      "units": "3",
+      "ge": null,
+      "coid": "434687",
+      "description": "Federal and international taxation of legal entities (corporations, partnerships, fiduciaries, tax-exempt organizations), including credits; accounting methods and periods; organization and applicable taxation concepts of these entities. Course emphasizes development of written and oral communication skills, tax research and tax return preparation.",
+      "prerequisites": "C or better in ACC 4310 or ACC 431.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "accounting-minor"
+      ]
+    },
+    {
+      "code": "ACC 4331",
+      "title": "Tax Procedure and Research",
+      "units": "3",
+      "ge": null,
+      "coid": "434688",
+      "description": "Procedural aspects of dealing with the Internal Revenue Service, including administration procedures governing tax controversies; rights and obligations of taxpayers and tax practitioners. Coverage of tax research methodology, including case studies, and communication of research results.",
+      "prerequisites": "C or better in ACC 4310 or ACC 431.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "accounting-minor"
+      ]
+    },
+    {
+      "code": "ACC 4341",
+      "title": "Service Learning in Taxation",
+      "units": "2",
+      "ge": null,
+      "coid": "438835",
+      "description": "Federal and state individual income tax-return preparation for elderly and low-income taxpayers at supervised sites, such as through the IRS Voluntary Income Tax Assistance (VITA) program. Provides students with an introduction to procedural steps of dealing with the IRS.",
+      "prerequisites": "Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option"
+      ]
+    },
+    {
+      "code": "ACC 4351",
+      "title": "Supervisory Service Learning in Taxation",
+      "units": "1",
+      "ge": null,
+      "coid": "438832",
+      "description": "Emphasis on the supervisory role in the Volunteer Income Tax Assistance program (return-preparation). Involvement in assisting student tax preparers and taxpayers with ‘real world’ tax preparation issues providing a diverse learning experience.",
+      "prerequisites": "ACC 4341 and Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option"
+      ]
+    },
+    {
+      "code": "ACC 4361A",
+      "title": "Service Learning in Taxation - LITC",
+      "units": "2",
+      "ge": null,
+      "coid": "438906",
+      "description": "Quality experiential learning experience in the field of taxation as clinicians representing low-income taxpayers in our community. Assist taxpayers in IRS examination and collection matters, including audits, offers-in-compromise, penalty abatements, innocent spouse claims, appeals, Tax Court cases, etc. Provide community outreach and education regarding tax obligations and benefits to persons with limited English proficiency.",
+      "prerequisites": "ACC 4310 and consent of instructor. Pre or Corequisite(s): ACC 4331 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 4 units, with a maximum of 2 units per semester.",
+      "when_offered": "F, Sp, Su",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option"
+      ]
+    },
+    {
+      "code": "ACC 4411",
+      "title": "Accounting Internship",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434604",
+      "description": "On-the-job training in accounting involving new university-level learning experiences. Experiences may be useful as a basis for senior projects. Maximum of 3 units of Career Emphasis may be satisfied by internship.",
+      "prerequisites": "Director of Internship Program consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units.",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option"
+      ]
+    },
+    {
+      "code": "ACC 4421",
+      "title": "Internship in Public Accounting",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434605",
+      "description": "On-the-job training with a CPA firm in phases of auditing or public accounting. The experience must be new to the student. Analytical reports of work accomplished by each student are made periodically to the faculty coordinator. Units of college credit granted are dependent on departmental approval. Maximum of 3 units of Career Emphasis may be satisfied by internship.",
+      "prerequisites": "Director of Internship Program consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once Minimum - Maximum Units: Total credit limited to 1 - 3 units each.",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option"
+      ]
+    },
+    {
+      "code": "ACC 4510",
+      "title": "Accounting Information Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "434683",
+      "description": "Dual Listed as: ACC 5510 Role, design, implementation, and management of the accounting information system as a subset of the management information system. Interface between accountants and computer specialists. Short case studies. *The enforcement of the Graduation Writing Assessment Requirement has been temporarily suspended per a Chancellor’s Office memorandum.",
+      "prerequisites": "C or better in ACC 3110 or ACC 311; and GWT*, CPU 4010 *, or CPU 401*.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "business-administration-b-s-accounting-subplan-option-as-t-in-business-administration-2-0",
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units",
+        "accounting-minor",
+        "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-accounting-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ACC 4530",
+      "title": "Analytics in Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "438872",
+      "description": "Dual Listed as: ACC 5530 Analysis of data as it pertains to Accountants. Focuses on analytic techniques for decision making and examination of “big data” involving accounting information. Hands-on experience to develop skills with select software tools used in data analytics for accounting professionals.",
+      "prerequisites": "C or better in ACC 3120 or ACC 313; ACC 3210 or ACC 307; ACC 4310 or ACC 431; ACC 4510 or ACC 304; ACC 4810 or ACC 419; CIS 3100 or CIS 310.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "business-administration-b-s-accounting-subplan-option-as-t-in-business-administration-2-0",
+        "accounting-minor",
+        "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-accounting-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ACC 4610W",
+      "title": "Professional Accounting Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "439555",
+      "description": "Study of professionalism and communication skills necessary in the field of accounting through individual and team assignments including case studies. Application of effective oral and written communication skills. Assignments include written pieces required in the profession of accounting, such as memos, emails, disclosures, research paper, and interviews. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing, and C or better in ACC 3110 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "ACC 4611",
+      "title": "Senior Project I",
+      "units": "1-2",
+      "ge": null,
+      "coid": "434600",
+      "description": "Familiarization with sources of data and academic literature for research-oriented projects: problem identification and analysis, research methodology, application of report writing tools and techniques under the faculty supervision. Project(s) must involve research and/or field study and formal writing.",
+      "prerequisites": "C or better in ACC 3110 ; or ACC 311 and ACC 312.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option"
+      ]
+    },
+    {
+      "code": "ACC 4711",
+      "title": "Governmental and Not-for-Profit Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "434599",
+      "description": "Budgetary and fund accounting as applied to municipalities, other governmental units, and institutions operating as not-for-profit entities",
+      "prerequisites": "C or better in ACC 3110 ; or ACC 311 and ACC 312.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "accounting-minor"
+      ]
+    },
+    {
+      "code": "ACC 4810",
+      "title": "Auditing",
+      "units": "3",
+      "ge": null,
+      "coid": "434686",
+      "description": "Dual Listed as: ACC 5810 Auditing standards and procedures used by assurance auditors including types of audit reports; internal controls; audit evidence; professional responsibilities and legal liabilities; and standards of reporting financial information. *The enforcement of the Graduation Writing Assessment Requirement has been temporarily suspended per a Chancellor’s Office memorandum.",
+      "prerequisites": "C or better in ACC 3110 , or ACC 311 and ACC 312; C or better in TOM 3020 or TOM 302; and GWT*, CPU 4010 *, or CPU 401*.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "business-administration-b-s-accounting-subplan-option-as-t-in-business-administration-2-0",
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units",
+        "accounting-minor",
+        "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-accounting-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ACC 4820W",
+      "title": "Accounting Ethics",
+      "units": "3",
+      "ge": null,
+      "coid": "434602",
+      "description": "Importance of ethics in accounting practice; frameworks for ethical decision making; professional codes of ethics in accounting; ethical use of Artificial Intelligence technology; and current and classic ethics cases. Assignments include written pieces required in the profession of accounting, such as memos, emails, disclosures, and research papers. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing, and C or better in ACC 3110 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "business-administration-b-s-accounting-subplan-option-as-t-in-business-administration-2-0",
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units",
+        "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-accounting-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ACC 4821",
+      "title": "Forensic Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "434603",
+      "description": "Study of forensic accounting, a discipline that focuses on the procedures and techniques used in the prevention, investigation, and detection of occupational and financial statement fraud. Study of social, ethical, legal, and political considerations that surround fraud.",
+      "prerequisites": "C or better in ACC 3110 ; or ACC 311 and ACC 312.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "accounting-minor"
+      ]
+    },
+    {
+      "code": "ACC 4831",
+      "title": "Advanced Auditing",
+      "units": "3",
+      "ge": null,
+      "coid": "434597",
+      "description": "Application of auditing procedures and techniques; working paper development and preparation; use of computer auditing tools; and extensive case analysis.",
+      "prerequisites": "C or better in ACC 4810 or ACC 419.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option",
+        "accounting-minor"
+      ]
+    },
+    {
+      "code": "ACC 4841",
+      "title": "Internal Auditing",
+      "units": "3",
+      "ge": null,
+      "coid": "434598",
+      "description": "Objectives, principles and methods of internal and operational auditing with special emphasis on examination and appraisal of internal controls in operations and reporting systems; problems of communication, delegation of authority or organization.",
+      "prerequisites": "C or better in ACC 3210 or ACC 307.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-accounting-subplan-option"
+      ]
+    },
+    {
+      "code": "ACC 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434826",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437976",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437977",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434827",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 5122",
+      "title": "Financial Accounting and Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "439031",
+      "description": "Dual Listed as: ACC 4122 Understanding essential financial accounting standards (U.S. GAAP and IFRS) and FASB Conceptual Framework from both preparer’s and user’s perspectives.",
+      "prerequisites": "MSA major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 5310",
+      "title": "Introduction to Taxation",
+      "units": "3",
+      "ge": null,
+      "coid": "439032",
+      "description": "Dual Listed as: ACC 4310 Fundamental principles of income taxation leading to the preparation of federal tax and state returns, including tax determination, gross income, deductions, property transactions, depreciation, employee expenses, self-employed deductions and Passive Activity Losses. Course emphasizes written and oral communication skills and tax research.",
+      "prerequisites": "C or better in ACC 3210 or ACC 3110 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 5410",
+      "title": "Internship In Accounting",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434591",
+      "description": "On-the-job training in private/public accounting involving new university-level learning experiences. Maximum of 3 units of Career Emphasis may be satisfied by internship.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once Minimum - Maximum Units: Total credit limited to 1 - 3 units each.",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 5510",
+      "title": "Accounting Information Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "439033",
+      "description": "Dual Listed as: ACC 4510 Role, design, implementation, and management of the accounting information system as a subset of the management information system. Interface between accountants and computer specialists. Short case studies.",
+      "prerequisites": "C or better in ACC 3210 , ACC 4810 , and CIS 3100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 5530",
+      "title": "Analytics in Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "439034",
+      "description": "Dual Listed as: ACC 4530 Analysis of data as it pertains to Accountants. Focuses on analytic techniques for decision making and examination of “big data” involving accounting information. Hands-on experience to develop skills with select software tools used in data analytics for accounting professionals.",
+      "prerequisites": "C or better in ACC 3110 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 5810",
+      "title": "Auditing",
+      "units": "3",
+      "ge": null,
+      "coid": "439035",
+      "description": "Dual Listed as: ACC 4810 Auditing standards and procedures used by assurance auditors including types of audit reports; internal controls; audit evidence; professional responsibilities and legal liabilities; and standards of reporting financial information.",
+      "prerequisites": "C or better in ACC 3110 , or ACC 311 and ACC 312; and C or better in TOM 3020 or TOM 302.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 5811",
+      "title": "Accounting Ethics",
+      "units": "3",
+      "ge": null,
+      "coid": "439409",
+      "description": "Dual Listed as: ACC 4820W Importance of ethics in accounting practice; frameworks for ethical decision making; professional codes of ethics in accounting; and current and classic ethics cases.",
+      "prerequisites": "C or better in ACC 3110 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434828",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437978",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437979",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 6000",
+      "title": "Business Valuation Using Financial Statements",
+      "units": "3",
+      "ge": null,
+      "coid": "434586",
+      "description": "Cross Listed as: GBA 6000 Provides a framework for business analysis and valuation using financial statement data and gives practical advice when using the framework to value a firm. Emphasizes integration of key concepts from accounting finance, economic and business strategy and illustrates the latest techniques and information sources used by financial information industry professionals.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6100",
+      "title": "Internal Control and Corporate Governance",
+      "units": "3",
+      "ge": null,
+      "coid": "434587",
+      "description": "Cross Listed as: GBA 6100 Foundations of internal control theory accepted and promulgated by auditors and accountants. Management implementation of effective corporate governance. Best practices, benchmarks and models for evaluating and strengthening internal control and corporate governance.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6150",
+      "title": "Assurance of Accounting Information Systems and Controls",
+      "units": "3",
+      "ge": null,
+      "coid": "439497",
+      "description": "Applied perspective of Assurance of Accounting Information Systems (AIS) and Accounting Controls, providing students with comprehensive knowledge and skills necessary to assess and ensure the reliability, security, and integrity of financial information within organizations. Emphasizing theoretical foundations with practical applications, equipping students with a robust understanding of auditing principles, techniques, and methodologies as they pertain to AIS and controls.",
+      "prerequisites": "Unconditional admission to the MSA program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6200",
+      "title": "Assurance and Regulation in Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "434588",
+      "description": "A managerial perspective on accounting assurance and regulatory requirements for all types of businesses. Emphasis on financial statement audits, public company requirements, other governmental regulation and internal auditing. Seminar course with problem solving and case studies.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6300",
+      "title": "International Accounting Issues",
+      "units": "3",
+      "ge": null,
+      "coid": "434589",
+      "description": "Exploration of international accounting issues from interdisciplinary, managerial perspectives. Comparative accounting across national borders. Harmonization and evaluation of international accounting standards. Foreign exchange. Mergers, acquisitions and business valuation. Ethics. Management control issues in international contexts.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6400",
+      "title": "Management Accounting Seminar",
+      "units": "3",
+      "ge": null,
+      "coid": "434590",
+      "description": "Strategic management accounting and control issues, including cost determination and analysis, activity-based systems, budgeting, transfer pricing, performance evaluation, cost management and ethics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6500",
+      "title": "Advanced Analytics in Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "438904",
+      "description": "Advanced data analytics techniques used by accountants for decision making and the examination of “big data.” Development of data analytics skills through hands-on work with various software tools used by accounting professionals.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6550",
+      "title": "Cybersecurity in Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "439203",
+      "description": "Technology continues to evolve, and audit techniques need to evolve as well. An understanding of the cybersecurity threats to accounting information systems with an auditing perspective. Cybersecurity issues and challenges in accounting, network devices, servers, databases and other devices used in an accounting system, as well as techniques to audit and secure these systems. Corequisite(s): Unconditional admission to the MSA program.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6600",
+      "title": "Contemporary Accounting Issues",
+      "units": "3",
+      "ge": null,
+      "coid": "434592",
+      "description": "Study and analysis of contemporary accounting issues and practices. Emphasis on the integration of accounting knowledge in financial and managerial accounting, tax, accounting information systems, and auditing. Enhances analytical research, judgmental and communication skills of students.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6700",
+      "title": "Management Control in Not-for-Profit Entities",
+      "units": "3",
+      "ge": null,
+      "coid": "434593",
+      "description": "Financial issues faced by not-for-profit organizations. Budgeting, preparing for financial statements and required tax forms, financing, investing, internal control problems, auditing and analyzing financial statements of not-for-profit organizations including hospitals, educational institutions and charitable foundations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6800",
+      "title": "Fraud and Forensic Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "434594",
+      "description": "Cross Listed as: GBA 6800 A managerial perspective on fraud within an organization. Emphasis on fraud prevention and detection methods. Survey of the management support resources available in the field of forensic accounting. Case study and analysis of financial statement frauds.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6900",
+      "title": "Strategic Tax Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "434595",
+      "description": "Cross Listed as: GBA 6900 A hands-on course for Masters of Accountancy students on how to factor taxes into strategic decision-making. Course enables students to recognize and understand the impact of taxation as a major factor in business planning.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437980",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437981",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 6940",
+      "title": "MSA Research Project",
+      "units": "3",
+      "ge": null,
+      "coid": "437626",
+      "description": "A written research project concerning a significant problem in the field of accounting.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ACC 6950",
+      "title": "Master’s Project",
+      "units": "3",
+      "ge": null,
+      "coid": "438829",
+      "description": "A written research project concerning a significant problem in the field of accounting.",
+      "prerequisites": "Completion of all MSA core courses. Advancement to candidacy.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "accountancy-m-s-accelerated-31-33-units",
+        "accountancy-m-s-31-51-units"
+      ]
+    },
+    {
+      "code": "ACC 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "437982",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "business-administration-b-s-accounting-subplan-option",
+      "name": "Business Administration, B.S. - Accounting Subplan/Option"
+    },
+    {
+      "id": "business-administration-b-s-accounting-subplan-option-as-t-in-business-administration-2-0",
+      "name": "Business Administration, B.S. - Accounting Subplan/Option: AS-T in Business Administration 2.0"
+    },
+    {
+      "id": "accountancy-m-s-accelerated-31-33-units",
+      "name": "Accountancy, M.S. (Accelerated): 31-33 units"
+    },
+    {
+      "id": "accountancy-m-s-31-51-units",
+      "name": "Accountancy, M.S.: 31-51 units"
+    },
+    {
+      "id": "accounting-minor",
+      "name": "Accounting Minor"
+    },
+    {
+      "id": "business-administration-b-s-accounting-subplan-option-roadmap-4-year-120-units",
+      "name": "Business Administration, B.S. - Accounting Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "business-administration-b-s-accounting-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Business Administration, B.S. - Accounting Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

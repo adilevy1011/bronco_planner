@@ -1,0 +1,129 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:13+00:00",
+  "id": "computer-information-systems-minor",
+  "name": "Computer Information Systems Minor",
+  "title_on_page": "University Catalog",
+  "department": "Computer Information Systems",
+  "department_id": "computer-information-systems",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24301",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6306",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Computer Information Systems Minor: 21 units Offered by: College of Business Administration , Computer Information Systems Department Minor Required | Notes | Program Website Minor Required: 21 units CIS 2100 - Programming for Business Analytics (3) CIS 2670 - Cloud Infrastructure (3) CIS 2900 - Object-Oriented Programming for Business (3) CIS 3050 - Database Design and Development (3) CIS 3252W - Business Intelligence (3) CIS 3300 - Introduction to Artificial Intelligence (3) STA 1200 - Statistics with Applications (3) [GE 2] Notes: Students enrolled in these programs may not declare this minor: Business Administration, B.S. - Computer Information Systems Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 21 units",
+      "courses": [
+        "CIS 2100",
+        "CIS 2670",
+        "CIS 2900",
+        "CIS 3050",
+        "CIS 3252W",
+        "CIS 3300",
+        "STA 1200"
+      ],
+      "raw_text": "Minor Required: 21 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CIS 2100",
+      "title": "Programming for Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "439059",
+      "requirement": "Minor Required: 21 units",
+      "description": "Technology and programming foundation for business analytics projects. Python programming language in the context of business analysis.",
+      "prerequisites": "C or better in STA 1200 or STA 1202 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "CIS 2670",
+      "title": "Cloud Infrastructure",
+      "units": "3",
+      "ge": null,
+      "coid": "437643",
+      "requirement": "Minor Required: 21 units",
+      "description": "Exploration of IT infrastructure and its role in supporting and empowering organizations. Topics include telecommunications, service delivery, service level management, security, privacy, identity management, ethics and contemporary methodologies for managing IT infrastructure.",
+      "prerequisites": "C or better in MAT 1250 or MAT 1140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "CIS 2900",
+      "title": "Object-Oriented Programming for Business",
+      "units": "3",
+      "ge": null,
+      "coid": "439213",
+      "requirement": "Minor Required: 21 units",
+      "description": "Computer programming for business information systems. Object-oriented programming concepts, Java language, graphics, file operations, and Integrated Development Environment. Business application projects. AI-assisted programming.",
+      "prerequisites": "C or better in MAT 1250 or MAT 1140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "CIS 3050",
+      "title": "Database Design and Development",
+      "units": "3",
+      "ge": null,
+      "coid": "434696",
+      "requirement": "Minor Required: 21 units",
+      "description": "Conceptual modeling, database design and implementation. Database inquiry and data analysis using a non-procedural programming language. Entity/Relationship diagrams, normalized database schema, structured query language. Distributed databases with integrity and security issues. Client server computing.",
+      "prerequisites": "C or better in MAT 1250 or MAT 1140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "CIS 3252W",
+      "title": "Business Intelligence",
+      "units": "3",
+      "ge": null,
+      "coid": "434701",
+      "requirement": "Minor Required: 21 units",
+      "description": "Data Science cycle, data acquisition, questions and ideal data set, data cleaning, data compliance and security, data sharing, data visualization, data modeling, data analysis and dissemination of results. Storytelling for intelligence dissemination. Differences and similarities among descriptive analytics, data mining, web analytics and big data. Artificial intelligence and data science. IT governance. Business intelligence, data reporting, digital dashboards. Using data modeling for decision making, business analytics. Industry cases in marketing, finance, manufacturing, human resources. Future trends of business intelligence. Ethical and privacy issues. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "C or better in CIS 2100 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "CIS 3300",
+      "title": "Introduction to Artificial Intelligence",
+      "units": "3",
+      "ge": null,
+      "coid": "439462",
+      "requirement": "Minor Required: 21 units",
+      "description": "Introduction to artificial intelligence (AI) for business. Topics covered focus on AI technology fundamentals, including topics such as machine learning, deep learning and generative models, examines the diverse range of AI capabilities and applications in various business functions, and delves into the ethical and privacy issues of AI.",
+      "prerequisites": "C or better in CIS 2100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "STA 1200",
+      "title": "Statistics with Applications",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "434999",
+      "requirement": "Minor Required: 21 units",
+      "description": "[GE 2] Sample and population data; descriptive statistics, including numerical and graphical summarization of central tendency and spread; elementary probability, including events, basic probability rules, binomial and normal distributions; inferential statistics, including confidence intervals and hypothesis tests for one-population mean and proportion problems, simple linear regression and correlation",
+      "prerequisites": "Category I, Category II, ALEKS >=46, C or better in a GE Sub-area 2/B4 course, or C- or better or CR in MAT 1051 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "CIS 2100",
+    "CIS 2670",
+    "CIS 2900",
+    "CIS 3050",
+    "CIS 3252W",
+    "CIS 3300"
+  ]
+}

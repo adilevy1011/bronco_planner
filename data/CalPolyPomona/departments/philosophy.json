@@ -1,0 +1,1092 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:55:51+00:00",
+  "id": "philosophy",
+  "name": "Philosophy",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6336",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Philosophy Department Building 1 Room 315 | (909) 869-3111 | Department Website | Faculty Directory The Philosophy Department at Cal Poly Pomona has organized its programs to meet both the abstract and the practical philosophical interests of its students. Our programs allow students to pursue the traditional questions about the nature of truth, knowledge, justice, and reality while examining the relevance of these questions to the problems of contemporary society. Rooted in rigorous inquiry and critical analysis, the department fosters an inclusive, intellectually vibrant culture that bridges theory and real-world application. Through its Anglo-American analytic tradition and contemporary orientations, students cultivate high-level reasoning, clear communication, and ethical reflection-skills that are regularly praised as assets in careers such as law, business, education, and public service. The department’s faculty engages both pure philosophical research and applied investigations-such as bioethics and social justice-often collaborating with students on campus-wide initiatives. This commitment to a “learn-by-doing” approach is reflected in experiential classroom formats like the Ethics Bowl, where students grapple with complex moral dilemmas. Philosophy students benefit from a lively co-curricular ecosystem. The annual World Philosophy Day celebration draws over 200 participants and features panels, Ethics Bowl demos, alumni networking, and research showcases. The department also supports the Undergraduate Journal of Ethics, Policy, and Social Justice, a student-published forum for original scholarship . Membership in active student groups",
+  "courses": [
+    {
+      "code": "PHL 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438644",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 2010",
+      "title": "Ultimate Questions: An Introduction to Philosophy",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434865",
+      "description": "[GE 3B] Investigation into the big questions of philosophy (Does God Exist? Can I Know Anything? Who Am I? How Should I Live? Am I Free); emphasis on how philosophers propose to answer such questions and their relevance for intelligent living.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 2020",
+      "title": "Critical Thinking",
+      "units": "3",
+      "ge": "GE 1B",
+      "coid": "434866",
+      "description": "[GE 1B] Examination of formal and informal reasoning processes in everyday and scientific reasoning; emphasis on detection and avoidance of informal fallacies with examples from contemporary social issues.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 2040",
+      "title": "Ethical Problems in Contemporary Life",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434867",
+      "description": "[GE 3B] Investigation and application of central theoretical traditions in philosophical ethics. Analysis and appraisal of ethical arguments. Development of ethical reasoning skills. Critical consideration of controversial topics in personal, professional, social, and global ethics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "science-technology-and-society-b-a",
+        "artificial-intelligence-ethics-and-society-minor",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units",
+        "science-technology-and-society-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 2050",
+      "title": "Business and Professional Ethics",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434868",
+      "description": "[GE 3B] An analysis of major ethical traditions with a focus on the nature of obligations, right action, responsibility and altruism. Applications to issues concerning business and society.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 2060",
+      "title": "Philosophy Through Children’s Literature",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434869",
+      "description": "[GE 3B] Introduction to philosophical questions and exploration/evaluation of answers to such questions using children’s stories and classic philosophical texts. Topics include the mind/body problem, the structure of a just society, the problem of evil, personal identity. Stories from different ethnic, national, and religious traditions will be introduced and critically examined.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 2180",
+      "title": "Logic and Computing",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "437680",
+      "description": "[GE 2] Cross Listed as: CS 2180 Introduction to formal techniques for analyzing and evaluating natural language arguments; discussion of relation between these formal techniques and computer gates and computer programming.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "science-technology-and-society-b-a",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units",
+        "science-technology-and-society-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 2200",
+      "title": "Religions of the World",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434870",
+      "description": "[GE 3B] Thematic analysis of religious life: practice, belief, history, relationship between religion, society, and culture. Religions include Islam, Judaism, Christianity, Hinduism, Buddhism, Shinto, Daoism, Confucianism, Archaic and Non-missionary traditions, among others.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 2900",
+      "title": "Philosophy Proseminar II: Philosophical Methods",
+      "units": "3",
+      "ge": null,
+      "coid": "435089",
+      "description": "Develops skills necessary for proficiency in philosophical reading, research, and written and oral presentation.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438645",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438646",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438647",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3010",
+      "title": "Philosophy of the Arts",
+      "units": "3",
+      "ge": null,
+      "coid": "436355",
+      "description": "Investigation of the nature of art, aesthetic experience, beauty, and the standards upon which aesthetic judgments are based. Concepts common to the various artistic disciplines; problems in specific areas in architecture, the graphic arts, music, and literature.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3030",
+      "title": "Philosophy of Religion",
+      "units": "3",
+      "ge": null,
+      "coid": "436358",
+      "description": "Topical introduction to the philosophy of religion. Topics may include: faith and reason debates of the 17th and 18th centuries; religion and political philosophy in the Reformation; philosophical issues in debates over evolution; issues in the cognitive science of religion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3040",
+      "title": "Philosophy and Religion of Japan",
+      "units": "3",
+      "ge": null,
+      "coid": "436359",
+      "description": "“Traditional ways of thought in Japan. Modifications from its beginnings through the impacts of Buddhism and Confucianism; its reemergence in the 19th Century. Twentieth-century developments and the emergence of the “”New Religions”“. ”",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3050",
+      "title": "Philosophy and Religion of China",
+      "units": "3",
+      "ge": null,
+      "coid": "436360",
+      "description": "Development of religious thought in China with special reference to Confucianism, Taoism, and Buddhist schools of thought.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3060",
+      "title": "Philosophy and Religion of India",
+      "units": "3",
+      "ge": null,
+      "coid": "436361",
+      "description": "The diversity of the philosophy and religion of India from Rig Vedic times to the 20th Century. Development of the Upanishads, Yoga systems, the great epics, the Bhakti movements; Emergence of Jainism, Buddhism, Sikhism, Indian Islam.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3090",
+      "title": "Moral Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435563",
+      "description": "Investigation of central traditions in moral theory, including utilitarianism, virtue theory, Kantianism, contract theories, feminism. Inquiry into the justification and implications of moral principles and claims. Analysis of moral obligation, interests, happiness. Skeptical challenge to morality’s presumed authority.",
+      "prerequisites": "PHL 201, PHL 2010 , PHL 204, or PHL 2040 ; or instructor permission.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3100",
+      "title": "Social and Political Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435567",
+      "description": "Major ideas and figures in social and political philosophy. Topics may include democratic and other models of political legitimacy; limits of governmental power; citizenship rights and responsibilities; and theories of justice, equality, and freedom.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3110",
+      "title": "Philosophical Issues in the Law",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "434871",
+      "description": "[GE 3C or 4C] Exploration of the basic value and policy assumptions that structure the foundations of the law. Statutory language, judicial rulings, and constitutional controversies are examined. The writings of legal theorists from a variety of disciplinary perspectives are studied, including political scientists, legal academics, ethicists, historians, and economists.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-law-and-society-subplan-option",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "artificial-intelligence-ethics-and-society-minor",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3120",
+      "title": "History of Ancient Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435564",
+      "description": "Examination of the philosophical ideas of the Greek and Roman worlds, from the pre-Socratic philosophers to the Hellenistic schools. Critical investigation of metaphysical, epistemological and ethical disputes among ancient thinkers.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3140",
+      "title": "History of Modern Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435559",
+      "description": "Great philosophical ideas and thinkers from Galileo to Kant.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3220",
+      "title": "Existentialism",
+      "units": "3",
+      "ge": null,
+      "coid": "435572",
+      "description": "Basic ideas of existentialist philosophers of the 19th and 20th centuries; a comparison of theistic and atheistic existentialism; existentialist ideas of anxiety, freedom, and responsibility.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3280",
+      "title": "Philosophy of Asian Martial Arts and Religion",
+      "units": "3",
+      "ge": null,
+      "coid": "435099",
+      "description": "Examination of various styles of Asian martial arts and meditation, and of the philosophical traditions from which they have developed. Emphasizes both theory and practice. 3 hours lecture/discussion",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3330",
+      "title": "Bioethics",
+      "units": "3",
+      "ge": "GE 3C or 5D",
+      "coid": "434872",
+      "description": "[GE 3C or 5D] Critical examination of the moral implications of biomedical research, clinical practice, and biotechnology. Exploration of emerging issues in biomedicine, including questions of life and death, reproduction, genetics, and the allocation of biomedical resources.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-law-and-society-subplan-option",
+        "science-technology-and-society-b-a",
+        "science-technology-and-society-minor",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3400",
+      "title": "Current Debates About Sexuality",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "434873",
+      "description": "[GE 3C] Current public controversies over sexual morality examined in the context of historical, legal, and philosophical research on sexual practices. Focus on stigmatized, nonviolent sexual expression, such as: voyeurism and pornography, paid sex, polygamy, gay marriage, intergenerational relationships, and ‘leather’ culture.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3450",
+      "title": "Confrontations With The Reaper",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "434874",
+      "description": "[GE 3C] Examination of the nature and meaning of death in literature and philosophy. Topics include defining death, understanding what, if anything, makes death something to fear, immortality, and the morality of issues pertaining to death: killing, abortion and suicide.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3500",
+      "title": "Philosophy of Mind",
+      "units": "3",
+      "ge": null,
+      "coid": "435100",
+      "description": "Examination of problems in the philosophy of mind including knowledge of other minds, and the nature of mental states and their properties, in particular, consciousness and representation.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "artificial-intelligence-ethics-and-society-minor",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3530",
+      "title": "Cognitive Science",
+      "units": "3",
+      "ge": "GE 3C or 5D",
+      "coid": "434875",
+      "description": "[GE 3C or 5D] Interdisciplinary empirical study of the mind. Topics include mental representation, reasoning, perception, consciousness, and learning.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option"
+      ]
+    },
+    {
+      "code": "PHL 3540",
+      "title": "The Philosophy and Science of Implicit Bias",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "439028",
+      "description": "[GE 3C or 4C] Examination of central theoretical, empirical, moral, and political questions regarding implicit bias and stereotype threat. Indirect measures of beliefs, feelings, and motivations; consciousness, automaticity, and self-knowledge; the psychological nature of bias, prejudice, and stereotyping; moral responsibility for and rationality of unconscious processes; structural approaches to discrimination, inequality, and social justice; role of implicit bias in criminal justice, education, business, and healthcare; debiasing individuals and institutions; psychology’s replication crisis and empirically informed skepticism about implicit bias. Application to students’ lived experiences. A range of texts and sources from the humanities and social sciences. Lecture and discussion.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3550",
+      "title": "Artificial Intelligence for Thinking Humans: A History",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "439549",
+      "description": "[GE 5D] History and core concepts of artificial intelligence for understanding its social significance. Early rule-based AI and the more recent development of data-based processing by machine learning. History of development of AI for object recognition, game design, robotics, and natural language processing.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "artificial-intelligence-ethics-and-society-minor",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3590",
+      "title": "Epistemology",
+      "units": "3",
+      "ge": null,
+      "coid": "435573",
+      "description": "An investigation into the nature, scope, and limits of human knowledge. Survey of major topics such as foundationalism, coherentism, reliabilism contextualism and skepticism.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3600",
+      "title": "Metaphysics",
+      "units": "3",
+      "ge": null,
+      "coid": "435101",
+      "description": "Fundamental problems that have been central to philosophy throughout its history: substance and attributes, identity and change, personal identity, causality, determinism, free will, and the nature of time.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3810",
+      "title": "Race and Racism",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "434876",
+      "description": "[GE 3C or 4C] Historical origins of the concept of race, development of race science and racialist thought in Western culture, alternative explanatory theories of racism, differences and similarities among racist societies, critical consideration of contemporary social policies concerning race, competing visions of a post-racist society.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3830",
+      "title": "Philosophy of Science",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "434877",
+      "description": "[GE 5D] Cross Listed as: STS 3830 Introduction to epistemological and metaphysical issues specifically pertaining to science, such as: scientific testing, scientific explanation, and the nature of theoretical entities.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "science-technology-and-society-b-a",
+        "science-technology-and-society-minor",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units",
+        "science-technology-and-society-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 3850",
+      "title": "The Ethics of Artificial Intelligence",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "439293",
+      "description": "[GE 5D] Examination of ethical issues surrounding the development and implementation of artificial intelligence. Topics include ethical learning, responsibility and automated systems, moral machines, explainable artificial intelligence, algorithmic bias, automation and work, human-robot interaction, machine consciousness, the moral status and rights of robots, and super-intelligence. Case-based exploration of these issues using contemporary examples.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "science-technology-and-society-b-a",
+        "artificial-intelligence-ethics-and-society-minor",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438648",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 4050",
+      "title": "Great Works in Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "436357",
+      "description": "Study in depth of a historically significant work of philosophy with attention devoted to primary source materials. May be taken up to two times for a total credit of 6 units.",
+      "prerequisites": "Any upper division course with PHL prefix.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: May be repeated for credit for a maximum of 6 units.",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 4090",
+      "title": "Contemporary Moral Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "436354",
+      "description": "An examination of central questions in moral theory from the early twentieth century to the present. Disputes regard the metaphysical, epistemological, and psychological properties of moral claims and attitudes. Developments in contemporary consequentialist, Kantian, feminist, intuitionist, contract, and virtue ethical theories.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 4200",
+      "title": "Feminist Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "439080",
+      "description": "Examination of several of the central metaphysical, epistemological, ethical, social, and political questions in Feminist Philosophy. Topics include theories of gender difference, including social construction, realism, and new essentialisms; the relations between sex and gender; feminist epistemologies, including feminist perspectives on objectivity in science, feminist critiques of scientific practice, epistemologies of ignorance, standpoint epistemology, epistemic injustice, and the relations between knowledge and emotion; misrepresenting women, gendered narrative, and women’s appearance; intersectionality and the interactions among gender, race, class, sexuality, immigration status, ability and other social categories; structural injustice, including global gender injustice, transnational feminism, and individual bias; gender and work, including family and domestic work, sex work, and reproductive freedom and abortion; and theorizing misogyny, policing women, and domestic violence.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 4300",
+      "title": "Ethics, Environment, and Society",
+      "units": "3",
+      "ge": null,
+      "coid": "435569",
+      "description": "An examination of the moral and social philosophical aspects of the environmental crisis and the ecological movement.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-law-and-society-subplan-option",
+        "science-technology-and-society-b-a",
+        "science-technology-and-society-minor",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 4400W",
+      "title": "Seminar in Law and Values",
+      "units": "3",
+      "ge": null,
+      "coid": "435565",
+      "description": "Investigation of a central area of inquiry in moral, political, or legal philosophy, with special emphasis on contemporary texts and thinkers. Content varies as offered. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "PHL 3090 , PHL 3100 , PHL 3110 , or consent of instructor; and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: May be taken unlimited times only with different topics.",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 4610W",
+      "title": "Senior Seminar in Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435096",
+      "description": "Development and writing of a thesis in philosophy on the basis of extensive research. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 4750",
+      "title": "Global Justice",
+      "units": "3",
+      "ge": null,
+      "coid": "435571",
+      "description": "Explore philosophical conceptions of justice, human rights, the state and human nature which affect contemporary questions in global justice in five areas: war, immigration and refugees, gender, development, and democracy.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 4820",
+      "title": "Ethics Bowl",
+      "units": "3",
+      "ge": null,
+      "coid": "435566",
+      "description": "Development of oral presentations in response to case studies on current ethical controversies. Preparation for regional Ethics Bowl competitions.",
+      "prerequisites": "Instructor permission.",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 4850",
+      "title": "Comparative Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435102",
+      "description": "A comparative study of Eastern philosophy and Western philosophy. The study will include metaphysics, epistemology, methodology and socio-political values and ideals. Designed for strong interest in multicultural studies.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-law-and-society-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+        "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 4890W",
+      "title": "Seminar in Metaphysics and Epistemology",
+      "units": "3",
+      "ge": null,
+      "coid": "435574",
+      "description": "Examination of central controversies or recent developments in the areas of metaphysics, philosophy of language, philosophy of mind, or epistemology, with special emphasis on contemporary texts and thinkers. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "PHL 3590 , PHL 3600 , or consent of instructor; and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: May be repeated for credit for a maximum of 6 units.",
+      "when_offered": "Spring (odd years)",
+      "programs": [
+        "philosophy-b-a-general-subplan-option",
+        "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+        "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHL 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438649",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438650",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438651",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "STS 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438759",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "STS 2010",
+      "title": "Introduction to Science, Technology, and Society",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "435076",
+      "description": "[GE 3B] Examines the interrelation among science, technology, and society. Emphasis on historical and current cases that help characterize the nature of science, and on the involvement of values in science and technology.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "science-technology-and-society-b-a",
+        "artificial-intelligence-ethics-and-society-minor",
+        "science-technology-and-society-minor",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units",
+        "science-technology-and-society-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "STS 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438760",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "STS 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438761",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "STS 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438762",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "STS 3760",
+      "title": "A Non-technical Introduction to Artificial Intelligence and Machine Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "439551",
+      "description": "Cross Listed as: CS 3760 Introduction to core concepts of artificial intelligence for the purpose of understanding artificial intelligence’s social significance. Presentation of core concepts of machine learning from a non-technical perspective, including a series of projects designed to illustrate the capabilities and common problems of supervised, unsupervised, and reinforcement learning. Explanation of vulnerability to problems, such as algorithmic bias, with significant social harms. This course is primarily designed for Science, Technology, and Society majors in the Artificial Intelligence Ethics and Society Option. The course will also serve as a useful introduction to some of the technical aspects and programming methods of contemporary AI to help understand its strengths and vulnerabilities. All others with interest are welcome.",
+      "prerequisites": "Junior or Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "STS 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438763",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "STS 4610W",
+      "title": "Science, Technology, and Society Capstone Seminar",
+      "units": "3",
+      "ge": null,
+      "coid": "437400",
+      "description": "Intensive study of the historical, social, political, economic, and ethical dimensions of a topic in science or technology. Selection and development of project for STS majors and minors. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "STS major or minor, and senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "science-technology-and-society-b-a",
+        "artificial-intelligence-ethics-and-society-minor",
+        "science-technology-and-society-minor",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units",
+        "science-technology-and-society-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "STS 4620W",
+      "title": "Science, Technology, and Society Senior Project",
+      "units": "3",
+      "ge": null,
+      "coid": "437401",
+      "description": "Implementation of project developed in STS 4610. Project results presented in formal report to the campus community. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "STS 4610W and STS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+        "science-technology-and-society-b-a",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-roadmap-4-year-120-units",
+        "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units",
+        "science-technology-and-society-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "STS 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438764",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "STS 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438765",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "STS 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438766",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "philosophy-b-a-general-subplan-option",
+      "name": "Philosophy, B.A. - General Subplan/Option"
+    },
+    {
+      "id": "philosophy-b-a-law-and-society-subplan-option",
+      "name": "Philosophy, B.A. - Law and Society Subplan/Option"
+    },
+    {
+      "id": "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option",
+      "name": "Science, Technology, and Society, B.A. - Artificial Intelligence Ethics and Society Subplan/Option"
+    },
+    {
+      "id": "science-technology-and-society-b-a",
+      "name": "Science, Technology, and Society, B.A."
+    },
+    {
+      "id": "artificial-intelligence-ethics-and-society-minor",
+      "name": "Artificial Intelligence Ethics and Society Minor"
+    },
+    {
+      "id": "philosophy-minor",
+      "name": "Philosophy Minor"
+    },
+    {
+      "id": "science-technology-and-society-minor",
+      "name": "Science, Technology, and Society Minor"
+    },
+    {
+      "id": "philosophy-b-a-general-subplan-option-roadmap-4-year-120-units",
+      "name": "Philosophy, B.A. - General Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "philosophy-b-a-law-and-society-subplan-option-roadmap-4-year-120-units",
+      "name": "Philosophy, B.A. - Law and Society Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-4-year-120-units",
+      "name": "Science, Technology, and Society, B.A. - Artificial Intelligence Ethics and Society Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "science-technology-and-society-b-a-roadmap-4-year-120-units",
+      "name": "Science, Technology, and Society, B.A.: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "philosophy-b-a-general-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Philosophy, B.A. - General Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "philosophy-b-a-law-and-society-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Philosophy, B.A. - Law and Society Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "science-technology-and-society-b-a-artificial-intelligence-ethics-and-society-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Science, Technology, and Society, B.A. - Artificial Intelligence Ethics and Society Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "science-technology-and-society-b-a-roadmap-2-year-adt-60-units",
+      "name": "Science, Technology, and Society, B.A.: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

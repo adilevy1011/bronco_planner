@@ -1,0 +1,219 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:08:06+00:00",
+  "id": "equine-studies-minor",
+  "name": "Equine Studies Minor",
+  "title_on_page": "University Catalog",
+  "department": "Animal And Veterinary Science",
+  "department_id": "animal-and-veterinary-science",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24304",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6299",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Equine Studies Minor: 18 units Offered by: Don B. Huntley College of Agriculture , Animal and Veterinary Science Department Minor Required | Minor Electives | Program Website Minor Required: 7 units AVS 1125 - Equine Management Science (3) AVS 1125L - Equine Management Laboratory (1) ABM 3290 - Equine Enterprise Management (3) Minor Electives: 11 units Select 11 units from the following list: ABM 3040 - Food and Agribusiness Marketing (3) ABM 3090 - Promotion and Advertising for Agribusiness (3) ABM 4020 - Agribusiness Personnel Management (3) ABM 4300 - Equine Appraisal and Evaluation (3) AVS 2434 - Foal Watch (1) AVS 3365 - Equine Herd Health (3) AVS 3365L - Equine Herd Health Laboratory (1) AVS 4350 - Equine Exercise Physiology (3) PLT 2230 - Forage and Pasture Crops (2) PLT 2230L - Forage and Pasture Crops Laboratory (1) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 7 units",
+      "courses": [
+        "AVS 1125",
+        "AVS 1125L",
+        "ABM 3290"
+      ],
+      "raw_text": "Minor Required: 7 units"
+    },
+    {
+      "name": "Minor Electives: 11 units",
+      "courses": [
+        "ABM 3040",
+        "ABM 3090",
+        "ABM 4020",
+        "ABM 4300",
+        "AVS 2434",
+        "AVS 3365",
+        "AVS 3365L",
+        "AVS 4350",
+        "PLT 2230",
+        "PLT 2230L"
+      ],
+      "raw_text": "Minor Electives: 11 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AVS 1125",
+      "title": "Equine Management Science",
+      "units": "3",
+      "ge": null,
+      "coid": "435447",
+      "requirement": "Minor Required: 7 units",
+      "description": "A study of horse industry emphasizing the importance of breeds, selection, evaluation, nutrition, breeding principles, disease control, equipment, facilities to ensure scientifically based management decisions. Corequisite(s): AVS 1125L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 1125L",
+      "title": "Equine Management Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436274",
+      "requirement": "Minor Required: 7 units",
+      "description": "A study of horse industry emphasizing the importance of breeds, selection, evaluation, nutrition, breeding principles, disease control, equipment, facilities to ensure scientifically based management decisions. Corequisite(s): AVS 1125 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 3290",
+      "title": "Equine Enterprise Management",
+      "units": "3",
+      "ge": null,
+      "coid": "435990",
+      "requirement": "Minor Required: 7 units",
+      "description": "Equine enterprise analysis with emphasis on capital acquisition, leasing, land acquisition, legal problems and labor problems.",
+      "prerequisites": "AVS 125 and AVS 125L, AVS 1125 and AVS 1125L , or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 3040",
+      "title": "Food and Agribusiness Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "435975",
+      "requirement": "Minor Electives: 11 units",
+      "description": "An introduction to the theory of marketing and its practical application to food and agricultural products and services. Evaluation of the marketing process, market research, marketing strategies and consumer behavior as applied to the agribusiness sector. Likewise, analysis of issues facing marketing institutions and formulation of solutions to address the current trends and developments in the California and American agribusiness industry. Develope skills for creating, evaluating and executing marketing decisions.",
+      "prerequisites": "EC 201, EC 2201 , or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 3090",
+      "title": "Promotion and Advertising for Agribusiness",
+      "units": "3",
+      "ge": null,
+      "coid": "435978",
+      "requirement": "Minor Electives: 11 units",
+      "description": "An introduction to the principles of promotion and advertising as related to the marketing of agribusiness products and services. Functions of promotion and advertising as a core aspect of an Integrated Marketing Communications (IMC) mix. Evaluate strategies, tactics, execution and results of promotional efforts within the agribusiness sector, as well as its effects on consumers. Teams of students will work to create and develop a completely integrated promotional campaign that coordinates all aspects of promotion, including: Advertising, sales promotion, public relations, social media, and personal selling.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 4020",
+      "title": "Agribusiness Personnel Management",
+      "units": "3",
+      "ge": null,
+      "coid": "435827",
+      "requirement": "Minor Electives: 11 units",
+      "description": "Management-employee relations and theory; employee motivation; union and management relations; recruitment and selection; performance appraisal; communications; individual and group incentive systems; employee counseling; labor legislation; wage determination and salary systems; employment and unemployment. Case studies analyzed. Seminar discussions held, role playing emphasized, guest speakers.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 4300",
+      "title": "Equine Appraisal and Evaluation",
+      "units": "3",
+      "ge": null,
+      "coid": "436002",
+      "requirement": "Minor Electives: 11 units",
+      "description": "Principles of equine evaluation and appraisal. The student will perform an actual appraisal and be required to prepare an appraisal report.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 2434",
+      "title": "Foal Watch",
+      "units": "1",
+      "ge": null,
+      "coid": "439314",
+      "requirement": "Minor Electives: 11 units",
+      "description": "Basic equine breeding management, care of the pregnant mare, methods to detect impending foaling and parturition, difficulties that might occur during foaling, post foaling care and potential problems/disorder in foals.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "AVS 3365",
+      "title": "Equine Herd Health",
+      "units": "3",
+      "ge": null,
+      "coid": "435450",
+      "requirement": "Minor Electives: 11 units",
+      "description": "A study of the etiology, clinical signs, and control of infectious, nutritional and parasitic diseases of horses. 3 Lecture Corequisite(s): AVS 3365L .",
+      "prerequisites": "AVS 125 or AVS 1125 ; and AVS 125L or AVS 1125L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 3365L",
+      "title": "Equine Herd Health Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435451",
+      "requirement": "Minor Electives: 11 units",
+      "description": "Application of the fundamental aspects of preventative equine herd health diseases, veterinary care, nutrition, management, animal welfare and basic equine emergencies. 3 hour Laboratory Corequisite(s): AVS 3365 .",
+      "prerequisites": "AVS 125 or AVS 1125 ; and AVS 125L or AVS 1125L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 4350",
+      "title": "Equine Exercise Physiology",
+      "units": "3",
+      "ge": null,
+      "coid": "435455",
+      "requirement": "Minor Electives: 11 units",
+      "description": "The basic and applied physiology of the exercising horse. Discussion of muscular respiratory, cardiovascular, nutritional, and osmoregulatory physiology. Includes gait analysis, lameness and pharmacology.",
+      "prerequisites": "AVS 350 or AVS 3350 ; and AVS 350L or AVS 3350L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PLT 2230",
+      "title": "Forage and Pasture Crops",
+      "units": "2",
+      "ge": null,
+      "coid": "436046",
+      "requirement": "Minor Electives: 11 units",
+      "description": "Establishment, management, and composition of irrigated and rangeland pastures adapted to southwestern conditions. Identification, botanical characteristics, and livestock utilization of major pasture species. Corequisite(s): PLT 2230L .",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PLT 2230L",
+      "title": "Forage and Pasture Crops Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436047",
+      "requirement": "Minor Electives: 11 units",
+      "description": "Establishment, management, and composition of irrigated and rangeland pastures adapted to southwestern conditions. Identification, botanical characteristics, and livestock utilization of major pasture species. Corequisite(s): PLT 2230 .",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "AVS 1125",
+    "AVS 1125L",
+    "AVS 2434",
+    "AVS 3365",
+    "AVS 3365L",
+    "AVS 4350"
+  ]
+}

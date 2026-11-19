@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:11:20+00:00",
+  "id": "civil-engineering-m-s-structural-engineering-subplan-option",
+  "name": "Civil Engineering, M.S. - Structural Engineering Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Civil Engineering",
+  "department_id": "civil-engineering",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24328",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6318",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Civil Engineering, M.S. - Structural Engineering Subplan/Option: 30 units Offered by: College of Engineering , Civil Engineering Department Major Required | Subplan/Option Required | Subplan/Option Electives | Culminating Experience | Program Website Major Required: 3 units CE 5020 - Applied Probability Concepts (3) Subplan/Option Required: 18 units CE 5502 - Structural Dynamics (3) CE 5503 - Finite Element Analysis (3) CE 5506 - Seismic Design of Structures (3) CE 5541 - Advanced Structural Analysis (3) CE 5504 - Advanced Steel Design (3) CE 5505 - Advanced Reinforced Concrete Design (3) Subplan/Option Electives: 3-9 units Select 3 units with Master’s Thesis, 6 units with Master’s Project, or 9 units with Comprehensive Examination so that the total units for the degree is at least 30 . CE 5480 - Geotechnical Earthquake Engineering (3) CE 5500 - Stability of Structures (3) CE 5501 - Advanced Engineering Mathematics (3) CE 5520 - Prestressed Concrete Design (3) CE 5530 - Advanced Timber Design (3) CE 5561 - Light Gage Steel Design (3) CE 5990 - Special Topics for Graduate Students (1-3) 4000-level Civil Engineering Course (1-3) Culminating Experience: 0-6 units CE 6950 - Master’s Project (3) or CE 6960 - Master’s Thesis (3) (6 units required) or CE 6970 - Comprehensive Examination (0) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic ",
+  "requirements": [
+    {
+      "name": "Major Required: 3 units",
+      "courses": [
+        "CE 5020"
+      ],
+      "raw_text": "Major Required: 3 units"
+    },
+    {
+      "name": "Subplan/Option Required: 18 units",
+      "courses": [
+        "CE 5502",
+        "CE 5503",
+        "CE 5506",
+        "CE 5541",
+        "CE 5504",
+        "CE 5505"
+      ],
+      "raw_text": "Subplan/Option Required: 18 units"
+    },
+    {
+      "name": "Subplan/Option Electives: 3-9 units",
+      "courses": [
+        "CE 5480",
+        "CE 5500",
+        "CE 5501",
+        "CE 5520",
+        "CE 5530",
+        "CE 5561",
+        "CE 5990"
+      ],
+      "raw_text": "Subplan/Option Electives: 3-9 units"
+    },
+    {
+      "name": "Culminating Experience: 0-6 units",
+      "courses": [
+        "CE 6950"
+      ],
+      "raw_text": "Culminating Experience: 0-6 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "CE 6960",
+        "CE 6970"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CE 5020",
+      "title": "Applied Probability Concepts",
+      "units": "3",
+      "ge": null,
+      "coid": "435746",
+      "requirement": "Major Required: 3 units",
+      "description": "Statistical and probabilistic methods to better describe and understand variability and uncertainty in civil engineering problems.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5502",
+      "title": "Structural Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435790",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Formulate discrete single-degree and multiple-degree vibratory systems and determine the free and forced response of these systems. Determine response of SDF systems to arbitrary or ground motion by Duhamel integral and time-stepping integration methods. Mode shapes and frequencies for the free response of continuous vibratory systems and forced response of these systems. Dynamic analysis of multiple-degree-of-freedom (MDF) systems using modal superposition and spectral modal analysis. Linear and nonlinear seismic analyses.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring (odd years)"
+    },
+    {
+      "code": "CE 5503",
+      "title": "Finite Element Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "435792",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Introduction to the fundamentals of the Finite Element Analysis as applicable to Civil Engineering structures. The use of finite laments to model one-dimensional, two-dimensional, as well as three-dimensional structures shall be emphasized throughout the course. Applications include beams, frames, trusses, elastic analysis of plates as well as the modeling opt complex shell structures. Emphasis on the development of shape functions for various types of structures considering primarily elastic linear response of Civil Engineering structures. SAP-2000 and the moiling capabilities of other available software packages that deal with Finite Element Analysis. Structural dynamics and its incorporation in Finite Element Analysis shall be illustrated.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "CE 5506",
+      "title": "Seismic Design of Structures",
+      "units": "3",
+      "ge": null,
+      "coid": "435797",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Introduction to earthquake engineering. Response of structural systems to earthquake excitation. Code provisions for earthquake resistant structural design. Ductility requirements. Application of code seismic design provisions for designing steel and reinforced concrete structures. Use of energy dissipaters. Design project involving design of multistory, multibay moment frame.",
+      "prerequisites": "CE 5502 and Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5541",
+      "title": "Advanced Structural Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "437895",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Fundamental concepts of geometric and material nonlinearities in structural analysis, numerical approaches for nonlinear problems, static and dynamic analysis of nonlinear structures.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "CE 5504",
+      "title": "Advanced Steel Design",
+      "units": "3",
+      "ge": null,
+      "coid": "435794",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Structural analysis and design of steel structures under gravity and earthquake loads. Ductility requirement on seismic design. Behavior and design of steel elements for global and local buckling. Concepts of plastic analysis and its application. Design code provisions for special moment resisting, braced, and eccentric braced frames. Design of composite beams. Design of connections.",
+      "prerequisites": "Undergraduate course in steel design or equivalent and Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5505",
+      "title": "Advanced Reinforced Concrete Design",
+      "units": "3",
+      "ge": null,
+      "coid": "435796",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Advanced design of building frame structures. Nonlinear analysis and design, including confinement, ductility, and moment redistribution. Design for torsion. Strut-and-tie modeling. Design of slender columns and two-way slabs.",
+      "prerequisites": "Graduate Standing and undergraduate course in reinforced concrete or approved equal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5480",
+      "title": "Geotechnical Earthquake Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "436164",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Introduction to seismology and earthquakes. Seismic hazard analysis. Wave propagation. Dynamic soil properties. Ground response analysis, local site effects, and design ground motions. Soil liquefaction. Seismic slope stability analysis. Seismic design of retaining walls. Remediation of seismic hazards.",
+      "prerequisites": "Graduate Standing, undergraduate course in geotechnical engineering, and geotechnical engineering lab or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5500",
+      "title": "Stability of Structures",
+      "units": "3",
+      "ge": null,
+      "coid": "435957",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Stability of beam columns; elastic and inelastic buckling of straight columns; torsional buckling of bars; lateral buckling of beams; local buckling of plate elements; stability of frames.",
+      "prerequisites": "Graduate Standing; and CE 501, CE 5501 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5501",
+      "title": "Advanced Engineering Mathematics",
+      "units": "3",
+      "ge": null,
+      "coid": "435789",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Linear algebra, ordinary and partial differential equations, systems of differential equations, Fourier series, Laplace and Fourier transforms and their applications to structural engineering. MATLAB is used for numerical and symbolic computation. Applications include various areas of mechanics, solid mechanics, structural dynamics and vibration.",
+      "prerequisites": "Graduate Standing, undergraduate course in Multi-variable calculus, and differential equations or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5520",
+      "title": "Prestressed Concrete Design",
+      "units": "3",
+      "ge": null,
+      "coid": "435785",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Design of prestressed concrete structures. Methods of pre-stressing. Pretensioning and post-tensioning techniques. Properties of concrete and prestressing steels. Design for flexure, shear, camber and deflections. Design considerations on anchorage/bonding of cables/wire and prestress losses.",
+      "prerequisites": "Graduate Standing and undergraduate course in reinforced concrete or approved equal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5530",
+      "title": "Advanced Timber Design",
+      "units": "3",
+      "ge": null,
+      "coid": "435960",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Design of non-residential and multi-family timber structures using sawn lumber and engineered wood structural elements. Analysis and design of dowel and heavy timber connections, high-load diaphragms, perforated and FTAO shear walls, and shear wall tie downs. Analysis of rigid diaphragms, diaphragms with openings and re-entrant corners.",
+      "prerequisites": "Graduate Standing and undergraduate course in timber design or approved equal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5561",
+      "title": "Light Gage Steel Design",
+      "units": "3",
+      "ge": null,
+      "coid": "437814",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Design of buildings using light gage steel structural elements. Materials used in cold form construction, manufacturing process and specification. Understanding strength of thin steel elements and design criteria. Design of compression, flexural and combined loading members. Connections design. Design of Shear diaphragms.",
+      "prerequisites": "Graduate Standing; undergraduate course in steel design; and CE 5504 or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438119",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing and Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6950",
+      "title": "Master’s Project",
+      "units": "3",
+      "ge": null,
+      "coid": "436165",
+      "requirement": "Culminating Experience: 0-6 units",
+      "description": "Individual and independent work based on the project proposal, plan and schedule approved by the Project Committee members and Graduate Program Coordinator. Regular meetings and discussions with advisor.",
+      "prerequisites": "Graduate Standing, good academic standing, advancement to candidacy, and completion of approved project proposal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6960",
+      "title": "Master’s Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "436166",
+      "requirement": "or",
+      "description": "Individual and independent research work based on the thesis proposal, plan and schedule approved the Project Committee members and Graduate Program Coordinator. Regular meetings and discussions with advisor.",
+      "prerequisites": "Graduate Standing; good academic standing; advancement to candidacy; completion of approved project proposal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6970",
+      "title": "Comprehensive Examination",
+      "units": "0",
+      "ge": null,
+      "coid": "436167",
+      "requirement": "or",
+      "description": "Comprehensive examination to satisfy the culminating experience requirement of the Master of Science in Civil Engineering (MSCE) degree. May enroll after completing the required course work, and it may be taken up to two times.",
+      "prerequisites": "Graduate Standing, consent of instructor, and good standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": []
+}

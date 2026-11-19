@@ -1,0 +1,728 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:37:28+00:00",
+  "id": "early-childhood-studies",
+  "name": "Early Childhood Studies",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6351",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Early Childhood Studies Department Building 6 Room 211 | (909) 869-2300 | Department Website | Faculty Directory The Early Childhood Studies Program provides students the knowledge and skills needed to make a positive difference in the lives of children from prenatal to age eight and their families. This department champions equity, anti-racist and multilingual education, and uses a social‑justice, decolonial lens embedded in all core coursework. Faculty are deeply committed to “learning by doing,” advancing hands‑on pedagogy through practicum-based instruction, real-world internships, and service learning rooted in diverse community settings. Their expertise spans inclusive early education, special needs integration, and multilingualism, guiding students through programs like integrated special education and dual-language teaching. Students engage in at least 60 hours of practicum across early learning centers and campus-based settings like the Bronco Family Space, reinforcing classroom theory with real-world experience. They may pursue teaching credentials-including special education-or a non‑teaching pathway leading to careers in child advocacy, therapy, or public health. Supporting growth are community partnerships, fieldwork opportunities, multilingual tracks, and an active advising and mentoring system. The program also offers flexible learning modalities (in-person, hybrid, evening/weekend) to meet diverse student needs. Programs Bachelor Early Childhood Studies, B.A. - Early Childhood Teaching Subplan/Option: 120 units Early Childhood Studies, B.A. - Multilingual Teaching Subplan/Option: 120 units Early Childhood Studies, B.A. - PK-Gra",
+  "courses": [
+    {
+      "code": "ECS 1000",
+      "title": "Child Growth and Development",
+      "units": "3",
+      "ge": null,
+      "coid": "435510",
+      "description": "Examines development and the major physical, social/emotional, and cognitive/language developmental milestones for children, both typical and divergent, from conception through adolescence. Emphasis on interactions between biological processes and environmental factors. While studying developmental theory and investigative research methodologies, students will observe preschool and school age children, evaluate individual differences, and analyze characteristics of development at various stages. Students will raise a virtual child.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ECS 1100",
+      "title": "Child, Family, and Community",
+      "units": "3",
+      "ge": null,
+      "coid": "435511",
+      "description": "Examines the processes of socialization and identity development in children from infancy through the age of eight, emphasizing the dynamic relationships among family, school, and community. It explores collaborative approaches that support children’s development within diverse, inclusive, and socially just environments, with particular attention to equity and anti-racist practices.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 1200",
+      "title": "Health, Safety, and Nutrition",
+      "units": "3",
+      "ge": null,
+      "coid": "435513",
+      "description": "Introduces key principles of health, safety, and nutrition for children from birth to age eight. Topics include wellness, illness prevention, emergency preparedness, mandated reporting, nutritional guidelines, physical education, and culturally responsive approaches to health education, with an emphasis on creating safe and inclusive environments that align with state and national standards.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ECS 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438256",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECS 2010",
+      "title": "Childhood Observation and Assessment",
+      "units": "2",
+      "ge": null,
+      "coid": "435946",
+      "description": "Examines the advantages, limitations, ethical considerations, and appropriate applications of various assessment and observation strategies used to document child development and behavior. Emphasizes the responsible and effective use of these tools within diverse early childhood settings. Corequisite(s): ECS 2010A .",
+      "prerequisites": "ECS major, and C or better in ECS 1000 and ECS 1100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 2010A",
+      "title": "Childhood Observation and Assessment Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435519",
+      "description": "Examines the advantages, limitations, ethical considerations, and appropriate applications of various assessment and observation strategies used to document child development and behavior. Emphasizes the responsible and effective use of these tools within diverse early childhood settings. Requires observations of children and education practitioners in educational settings. Corequisite(s): ECS 2010 .",
+      "prerequisites": "ECS major, and C or better in ECS 1000 and ECS 1100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 2100",
+      "title": "Childhood Clinical Practicum I",
+      "units": "1",
+      "ge": null,
+      "coid": "435522",
+      "description": "Introductory practicum that provides field experience with children from infants through age eight in diverse learning environments. Through structured observation, guided practice, and active participation, explore the educator’s role in fostering meaningful relationships and responsive care. Emphasizing equity and social justice, recognize and value children’s funds of knowledge while developing respectful, inclusive practices. Reflective activities support students in identifying effective strategies to nurture children’s growth, learning, and well-being. A total of 60 practicum hours must be completed in an assigned early childhood education environment. Corequisite(s): ECS 2100A .",
+      "prerequisites": "ECS major; C or better in ECS 1000 , ECS 1100 , ECS 2010 , ECS 2010A , and ECS 2350 ; and consent of department.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 2100A",
+      "title": "Childhood Clinical Practicum I Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "435523",
+      "description": "Introductory practicum that provides field experience with children from infants through age eight in diverse learning environments. Through structured observation, guided practice, and active participation, explore the educator’s role in fostering meaningful relationships and responsive care. Emphasizing equity and social justice, recognize and value children’s funds of knowledge while developing respectful, inclusive practices. Reflective activities support students in identifying effective strategies to nurture children’s growth, learning, and well-being. A total of 60 practicum hours must be completed in an assigned early childhood education environment. Corequisite(s): ECS 2100 .",
+      "prerequisites": "ECS major; C or better in ECS 1000 , ECS 1100 , ECS 2010 , ECS 2010A , ECS 2200 , and ECS 2350 ; and consent of department.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 2200",
+      "title": "Principles and Practices for Teaching Children",
+      "units": "3",
+      "ge": null,
+      "coid": "436329",
+      "description": "Surveys the historical foundations of early childhood and primary education for children from infancy through age eight. Traces the evolution of educational philosophies and practices that inform core principles, ethical standards, and professional identity. Examines key theoretical and pedagogical frameworks, including developmental, learning, and critical models. Emphasizes professional ethics, licensure, regulatory guidelines, quality indicators, and best practices aligned with state educational frameworks.",
+      "prerequisites": "ECS major, and C or better in ECS 1000 and ECS 1100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ECS 2350",
+      "title": "Introduction to Childhood Curriculum",
+      "units": "3",
+      "ge": null,
+      "coid": "435520",
+      "description": "Introduces the curriculum planning cycle for early childhood and primary education, focusing on children from infancy to age eight. Covers classic and critical foundational theories, philosophical perspectives, developmentally appropriate practices, and the integration of observation, design, implementation, and assessment aligned with state foundations, standards, and frameworks.",
+      "prerequisites": "ECS major, and C or better in ECS 1000 and ECS 1100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438257",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECS 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438258",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECS 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438259",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECS 3010",
+      "title": "Social and Emotional Development and Child Guidance",
+      "units": "3",
+      "ge": null,
+      "coid": "442756",
+      "description": "Explores social and emotional development of children from birth through age eight, emphasizing supportive, developmentally appropriate guidance practices. Examine theories of guidance, emotional regulation, and prosocial skill-building, and learn how to design nurturing classroom environments that promote social-emotional learning (SEL) and positive behavior. Practical applications include observation, documentation, family partnerships, and the development of a comprehensive guidance plan.",
+      "prerequisites": "C or better in ECS 1000 , ECS 1100 , ECS 2010 , ECS 2010A , ECS 2200 , and ECS 3300 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 3100",
+      "title": "Relationship-Based Care and Development from Pregnancy to Age Three",
+      "units": "3",
+      "ge": null,
+      "coid": "435524",
+      "description": "Examines theoretical perspectives and practices related to development from prenatal stages to age three. Utilizing a culturally responsive relationship-based framework, we will analyze how caregiver-infant relationships profoundly influence emotional, linguistic, physical, social, and cognitive development. Students will design play-based activities rooted in neuroscience, create resources that uplift racially and culturally diverse families, and investigate how genetic and environmental factors influence early development. The course also equips students to evaluate and advocate for policies that support families during this foundational stage of life.",
+      "prerequisites": "ECS major; junior or senior standing; and C or better in ECS 1000 , ECS 1100 , ECS 2010 , ECS 2010A , and ECS 2200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 3300",
+      "title": "Early Childhood Education Leadership and Social Justice",
+      "units": "3",
+      "ge": null,
+      "coid": "435525",
+      "description": "Reconceptualize leadership in early childhood education using a reflective, anti-biased approach highlighting critical concepts around race and equity-centered education. Early childhood leadership principles and practices topics will include leadership styles, collective leadership, leadership and social justice, current issues, and advocacy in the early childhood profession. Identify current issues in early childhood education at the local and national levels to discern support provided to new teacher-leaders in developing leadership skills that increase positive outcomes for disenfranchised and underserved children and their communities.",
+      "prerequisites": "ECS major; junior or senior standing; and C or better in ECS 1000 , ECS 2010 , and ECS 2010A .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 3310",
+      "title": "Introduction to Working with Children with Disabilities and their Families",
+      "units": "3",
+      "ge": null,
+      "coid": "439252",
+      "description": "An overview of the role of the teacher when working with young children with disabilities and developmental delays in a general education classroom. Introduction to current laws and the responsibility of early childhood educators and service providers in upholding the civil rights of children with disabilities. Introductory knowledge about disability as a social, cultural, and historical construct utilizing anti-racist and critical disability lens.",
+      "prerequisites": "ECS major; junior or senior standing; and C or better in ECS 1000 , ECS 1100 , ECS 2010 /2010A, and ECS 2350 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 3320",
+      "title": "Application and Curriculum for Children with Disabilities",
+      "units": "3",
+      "ge": null,
+      "coid": "439253",
+      "description": "Application of anti-racist and critical disability lens to develop an intersectional approach to the development and implementation of appropriate classroom practices involving procedures, strategies, methods, curriculum, and materials for teaching learners with and without disabilities in an inclusive classroom for children aged 0-8. Focused on the role of the general education teacher in upholding the civil and educational rights of the child and family in an inclusive environment, this class will examine the Universal Design for Learning (UDL) and differentiation strategies. The intersection of how family identity (race, culture, language, etc.) influences and defines the UDL approach and how to deconstruct bias in an inclusive environment will be discussed.",
+      "prerequisites": "ECS major; junior or senior standing; and C or better in ECS 1000 - Child Growth and Development (3) ECS 1000, ECS 1100, ECS 2010/2010A, ECS 2100/2100A, ECS 2350, ECS 3300, and ECS 3310.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 3401",
+      "title": "Language and Literacy in Multilingual Families and Communities",
+      "units": "3",
+      "ge": null,
+      "coid": "475617",
+      "description": "Preface theory and research on language learning in multilingual families and communities. Includes fieldwork examining “funds of knowledge” of diverse children (ages 0-8). Evaluate theories and conceptual approaches related to the development of first language, bilingualism, and multilingualism. Assesses policies and practices impacting linguistically diverse children’s home language maintenance and school learning, including language preservation and revitalization. Lecture/discussion, fieldwork activity required.",
+      "prerequisites": "ECS major, and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 3600",
+      "title": "Cultivating Language and Literacy Development in Multilingual Early Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "435527",
+      "description": "Explore how children develop language and literacy from infancy through early elementary years (birth- Age 8). Examine the foundations of oral language development and how these are shaped by home language environments and cultural interactions. Learn how to support and assess emergent literacy through play-based, oral language-rich activities that integrate phonological awareness and early print concepts. Examine the development of listening, speaking, reading, and writing with attention to key language components such as pragmatics, semantics, syntax, and graphophonics. Develop and apply culturally and linguistically sustaining practices to support multilingual children and families.",
+      "prerequisites": "ECS major; junior or senior standing; and C or better in ECS 1000 , ECS 1100 , ECS 2350 , and ECS 3400 (or ECS 3401 ).",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 3700",
+      "title": "Childhood Assessment II",
+      "units": "3",
+      "ge": null,
+      "coid": "435528",
+      "description": "Advancement of developmental understanding and working knowledge of commonly utilized and emerging approaches in assessment of (a) children ages 0 to 8 years, (b) adult-child interactions, (c) program environments in early childhood settings (schools, centers, and homes), and (d) CA Teaching Performance Expectation Standards.",
+      "prerequisites": "ECS major; junior or senior standing; and C or better in ECS 1000 , ECS 1100 , ECS 2010 /2010A, and ECS 2200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 3750",
+      "title": "Relationship-Based Curriculum Approaches with Infants and Toddlers",
+      "units": "3",
+      "ge": null,
+      "coid": "435529",
+      "description": "Provides an in-depth exploration of infant and toddler curricular models and programs, with a focus on how they support culturally, linguistically, and racially diverse children and families. Design a play-based curriculum for children from birth to age three that honors family and community funds of knowledge, centers children’s interests, and promotes equitable learning experiences. Using a relationship-based framework, examine best practices for conducting home visitations that foster trust, collaboration, and developmental support for infants, toddlers, and their caregivers.",
+      "prerequisites": "ECS major; junior or senior standing; and C or better in ECS 1000 , ECS 1100 , ECS 2010 /2010A, ECS 2200 , ECS 2350 , and ECS 3100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 3800",
+      "title": "Early Childhood Physical Growth and Health",
+      "units": "3",
+      "ge": null,
+      "coid": "435530",
+      "description": "Examination of typical and atypical physical development in children from prenatal through age eight. A review of theories and pedagogical approaches to understanding health promotion and factors influencing the health and wellness of young children, families, and communities will also be explored. Fieldwork assignment required.",
+      "prerequisites": "C or better in ECS 1000 and ECS 3100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 3900",
+      "title": "STEAM: Childhood Project Approach to Integrative Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "435531",
+      "description": "Integration of theory, research and practice in supporting children’s inquiry in science, technology, arts, and numeracy.Examination of approaches to developing project-based curriculum with a focus on practical applications.",
+      "prerequisites": "C or better in ECS 3500 or in the following: ECS 2010 , ECS 2010A , and ECS 2350 . Pre or Corequisite(s): .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ECS 3910",
+      "title": "Numeracy and Inquiry in Multilingual Contexts",
+      "units": "3",
+      "ge": null,
+      "coid": "439399",
+      "description": "Engagement in mathematical practices by applying developmentally appropriate inquiry and pedagogy to promote a deeper understanding of math. Learn to reason, problem-solve, construct, and critique arguments to make sense of mathematics. By carrying out fundamental mathematical procedures and explaining why mathematics works, learn to demonstrate the ability to teach math conceptually in multilingual contexts across infancy through the 8-year age range. Guided by cognitive science and the California State Frameworks, Learning Foundations, and Standards, culturally and linguistically sustaining pedagogical praxis will be explored.",
+      "prerequisites": "C or better in ECS 2010 , ECS 2010A , ECS 2100 , ECS 2100A , and ECS 2350 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438260",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECS 4010",
+      "title": "Dynamics of Childhood Play",
+      "units": "3",
+      "ge": null,
+      "coid": "435532",
+      "description": "Explore the complexities and diverse contexts of children’s play through the lens of social justice, equity, and anti-racism. The relationship between young children’s play (0-8 years) and ELC (Early Learning and Care), emergent curriculum, and environments will also be examined.",
+      "prerequisites": "ECS major; senior standing; and C or better in ECS 1000 , ECS 1100 , ECS 2350 , ECS 3300 , ECS 3320 , ECS 3600 , and ECS 3800 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 4100",
+      "title": "Early Childhood Clinical Practicum II",
+      "units": "1",
+      "ge": null,
+      "coid": "435533",
+      "description": "Under the guidance of a faculty supervisor and an onsite mentor teacher, develop and demonstrate skills to observe, plan, and implement lesson plans that support children’s development and learning. Apply linguistically and culturally sustaining practices, anti-racist principles, and Universal Design for Learning frameworks. Engage in reflective, relationship-based practices that promote collaboration and meaningful interaction with children, families, and colleagues from diverse linguistic, racial, and cultural backgrounds. A total of 60 practicum hours must be completed in an assigned early childhood education environment. Corequisite(s): ECS 4100A .",
+      "prerequisites": "ECS major; senior standing; consent of department; and C or better in ECS 1000 , ECS 1100 , ECS 2010 , ECS 2010A , ECS 2100 , ECS 2100A , ECS 2350 , ECS 3300 , ECS 3310 , ECS 3320 , ECS 3400 (or ECS 3401 ), ECS 3600 , and ECS 3910 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 4100A",
+      "title": "Early Childhood Clinical Practicum II Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "435534",
+      "description": "Under the guidance of a faculty supervisor and an onsite mentor teacher, develop and demonstrate skills to observe, plan, and implement lesson plans that support children’s development and learning. Apply linguistically and culturally sustaining practices, anti-racist principles, and Universal Design for Learning frameworks. Engage in reflective, relationship-based practices that promote collaboration and meaningful interaction with children, families, and colleagues from diverse linguistic, racial, and cultural backgrounds. A total of 60 practicum hours must be completed in an assigned early childhood education environment. Corequisite(s): ECS 4100 .",
+      "prerequisites": "ECS major; senior standing; consent of department; and C or better in ECS 1000 , ECS 1100 , ECS 2010 /2010A, ECS 2100 /2100A, ECS 2200 , ECS 2350 , ECS 3300 , ECS 3310 , ECS 3320 , ECS 3400 (or ECS 3401 ), ECS 3600 , and ECS 3910 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 4210",
+      "title": "STEAM: An Integrated Approach to Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "439405",
+      "description": "Engage in multidisciplinary science and engineering practices to explore interdisciplinary STEAM core ideas and crosscutting concepts in classrooms serving infants through third grade. Through experiential learning, inquiry-based learning, and phenomena-based discovery, explore developmentally appropriate strategies to foster curiosity, creativity, and critical thinking, thereby developing evidence-based explanations and applying logical reasoning. The course aligns with California State Learning Foundations, Standards, and Frameworks, and highlights culturally and linguistically sustaining pedagogies to promote equity and inclusion in early learning environments.",
+      "prerequisites": "ECS major; senior standing; and C or better in ECS 1000 , ECS 1100 , ECS 2010 , ECS 2010A , ECS 2100 , ECS 2100A , ECS 2350 , and ECS 3910 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 4610",
+      "title": "Early Childhood Capstone",
+      "units": "3",
+      "ge": null,
+      "coid": "439294",
+      "description": "A summative experience with the goal of supporting the well-being of children, ages birth to eight, and their families. Completion of an internship or senior thesis. Application of an anti-racist lens that advocates for ethnic/racial, gendered, and other underrepresented individuals in society.",
+      "prerequisites": "Senior standing and C or better in ECS 1000 , ECS 1100 , ECS 3300 , and ECS 4750W .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "ECS 4750W",
+      "title": "Early Childhood Inquiry and Methodology",
+      "units": "3",
+      "ge": null,
+      "coid": "439254",
+      "description": "The study of learning and development, emphasizing appropriate research methods, including statistics, probability, and applications of research findings related to early education, child development, and related fields. Evaluating, synthesizing, and applying information from peer-reviewed empirical studies will provide students with the skills to distinguish between appropriate and inappropriate applications of research findings. Issues related to interpreting research through critical social justice and anti-racist lenses and how to communicate research findings will also be explored. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "ECS major; senior standing; and C or better in ECS 1000 , ECS 2010 /2010A, ECS 3300 , ECS 3310 , ECS 3320 , ECS 3400 (or ECS 3401 ), and ECS 3600 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 4850",
+      "title": "Equity, Policy, and Advocacy for Children and Families",
+      "units": "3",
+      "ge": null,
+      "coid": "439216",
+      "description": "Examine the historical foundations of early childhood education in the United States and analyze how structural inequities have shaped the experiences of children and families. Explore the role of research, policy development, and advocacy in addressing systemic injustice. Engage in scaffolded projects that culminate in an Advocacy Toolkit integrating policy analysis, research, and strategies for advancing equity in early childhood education.",
+      "prerequisites": "ECS major; senior standing; and C or better in ECS 1000 , ECS 1100 , ECS 3300 , ECS 3310 , and ECS 3320 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+        "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+        "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ECS 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438261",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECS 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438262",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECS 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438263",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "early-childhood-studies-b-a-early-childhood-teaching-subplan-option",
+      "name": "Early Childhood Studies, B.A. - Early Childhood Teaching Subplan/Option"
+    },
+    {
+      "id": "early-childhood-studies-b-a-multilingual-teaching-subplan-option",
+      "name": "Early Childhood Studies, B.A. - Multilingual Teaching Subplan/Option"
+    },
+    {
+      "id": "early-childhood-studies-b-a-pk-grade-3-subplan-option",
+      "name": "Early Childhood Studies, B.A. - PK-Grade 3 Subplan/Option"
+    },
+    {
+      "id": "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-4-year-120-units",
+      "name": "Early Childhood Studies, B.A. - Early Childhood Teaching Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-4-year-120-units",
+      "name": "Early Childhood Studies, B.A. - Multilingual Teaching Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-4-year-120-units",
+      "name": "Early Childhood Studies, B.A. - PK-Grade 3 Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "early-childhood-studies-b-a-early-childhood-teaching-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Early Childhood Studies, B.A. - Early Childhood Teaching Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "early-childhood-studies-b-a-multilingual-teaching-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Early Childhood Studies, B.A. - Multilingual Teaching Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "early-childhood-studies-b-a-pk-grade-3-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Early Childhood Studies, B.A. - PK-Grade 3 Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

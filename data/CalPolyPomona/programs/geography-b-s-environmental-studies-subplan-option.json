@@ -1,0 +1,501 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:15:24+00:00",
+  "id": "geography-b-s-environmental-studies-subplan-option",
+  "name": "Geography, B.S. - Environmental Studies Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Geography And Anthropology",
+  "department_id": "geography-and-anthropology",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24229",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6333",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Geography, B.S. - Environmental Studies Subplan/Option: 120 units Offered by: College of Letters, Arts, and Social Sciences , Geography and Anthropology Department Major Required | Subplan/Option Required | Subplan/Option Electives | Unrestricted Electives | Graduation Requirements | Roadmap 4-year | Roadmap 2-year AA-T | Program Website Major Required: 28 units GEO 1010 - Physical Geography (3) [GE 5A] GEO 1010L - Physical Geography Laboratory (1) [GE 5C] GEO 1020 - Human Geography (3) [GE 4A] GEO 2400 - Geographic Information Systems (2) GEO 2400L - Geographic Information Systems Laboratory (1) GEO 3090 - Introduction to Field Geography (2) GEO 3090L - Introduction to Field Geography Laboratory (1) GEO 4100 - Remote Sensing of the Environment (2) GEO 4100L - Remote Sensing of the Environment Laboratory (1) GEO 4610 - Senior Project/Capstone 1 (3) Physical Geography: 3 units GEO 3030 - Climatology (3) [GE 5D] OR GEO 3050 - Global Environmental Systems (2) and GEO 3050L - Global Environmental Systems Laboratory (1) OR GEO 3070 - Climate Change: Science and Action (2) and GEO 3070L - Climate Change: Science and Action Laboratory (1) Human Geography: 3 units GEO 3100 - Cultural Geography (3) or GEO 3120 - Economic Geography (3) or GEO 3150 - Urban Geography (3) or GEO 4090 - Applied Cultural Geography (3) Regional Geography: 3 units GEO 35XX - Regional Geography (3) Subplan/Option Required: 12 units GEO 3080 - Biogeography (2) GEO 3080L - Biogeography Laboratory (1) GEO 3300 - Environmental Geography (2) GEO 3300L - Environmental Geography Laboratory (1) GEO 4050LW - Geodemographics with GIS Laboratory (1) and GEO 4050W - Geodemographics with Ge",
+  "requirements": [
+    {
+      "name": "Major Required: 28 units",
+      "courses": [
+        "GEO 1010",
+        "GEO 1010L",
+        "GEO 1020",
+        "GEO 2400",
+        "GEO 2400L",
+        "GEO 3090",
+        "GEO 3090L",
+        "GEO 4100",
+        "GEO 4100L",
+        "GEO 4610"
+      ],
+      "raw_text": "Major Required: 28 units"
+    },
+    {
+      "name": "Physical Geography: 3 units",
+      "courses": [
+        "GEO 3030"
+      ],
+      "raw_text": "Physical Geography: 3 units"
+    },
+    {
+      "name": "OR",
+      "courses": [
+        "GEO 3050",
+        "GEO 3070",
+        "GEO 4450"
+      ],
+      "raw_text": "OR"
+    },
+    {
+      "name": "and",
+      "courses": [
+        "GEO 3050L",
+        "GEO 3070L",
+        "GEO 4050W",
+        "GEO 4430W",
+        "GEO 4150",
+        "GEO 4450L"
+      ],
+      "raw_text": "and"
+    },
+    {
+      "name": "Human Geography: 3 units",
+      "courses": [
+        "GEO 3100"
+      ],
+      "raw_text": "Human Geography: 3 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "GEO 3120",
+        "GEO 3150",
+        "GEO 4090"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Subplan/Option Required: 12 units",
+      "courses": [
+        "GEO 3080",
+        "GEO 3080L",
+        "GEO 3300",
+        "GEO 3300L"
+      ],
+      "raw_text": "Subplan/Option Required: 12 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 3003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "GEO 1010",
+      "title": "Physical Geography",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "438823",
+      "requirement": "Major Required: 28 units",
+      "description": "[GE 5A] Basic principles of physical geography. Significance of earth-related distribution patterns with reference to their effect on human activities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 1010L",
+      "title": "Physical Geography Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "438825",
+      "requirement": "Major Required: 28 units",
+      "description": "[GE 5C] Basic principles of physical geography. Significance of earth-related distribution patterns with reference to their effect on human activities. Pre or Corequisite(s): GEO 1010 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "GEO 1020",
+      "title": "Human Geography",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434980",
+      "requirement": "Major Required: 28 units",
+      "description": "[GE 4A] Basic principles of cultural geography. Significance of people-related distribution patterns with reference to their effect on human activities. 3 hours lecture/discussion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 2400",
+      "title": "Geographic Information Systems",
+      "units": "2",
+      "ge": null,
+      "coid": "436011",
+      "requirement": "Major Required: 28 units",
+      "description": "Presents geographic concepts in the framework of geographic information systems (GIS). Basic understanding of the theoretical basis of GIS and spatial data. Basic techniques for the computer processing of geographical systems analysis and modeling. Understanding of questions that GIS can answer. Corequisite(s): GEO 2400L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 2400L",
+      "title": "Geographic Information Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437425",
+      "requirement": "Major Required: 28 units",
+      "description": "Presents geographic concepts in the framework of geographic information systems (GIS). Basic understanding of the theoretical basis of GIS and spatial data. Basic techniques for the computer processing of geographical systems analysis and modeling. Understanding of questions that GIS can answer. 3 hours laboratory. Corequisite(s): GEO 2400 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3090",
+      "title": "Introduction to Field Geography",
+      "units": "2",
+      "ge": null,
+      "coid": "436015",
+      "requirement": "Major Required: 28 units",
+      "description": "Introduction to the methods and techniques for collecting spatial and environmental data for physical geography and ecological studies. Corequisite(s): GEO 3090L .",
+      "prerequisites": "GEO 1010 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3090L",
+      "title": "Introduction to Field Geography Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437429",
+      "requirement": "Major Required: 28 units",
+      "description": "Introduction to the methods and techniques for collecting spatial and environmental data for physical geography and ecological studies. Corequisite(s): GEO 3090 .",
+      "prerequisites": "GEO 1010 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4100",
+      "title": "Remote Sensing of the Environment",
+      "units": "2",
+      "ge": null,
+      "coid": "436026",
+      "requirement": "Major Required: 28 units",
+      "description": "Principles and techniques of remote sensing using remotely sensed data to examine physical and cultural geographic scenes. Remote sensing applications in urban planning, agriculture, ecosystem management, atmosphere and earth sciences, and geographic information systems. Corequisite(s): GEO 4100L .",
+      "prerequisites": "GEO 2400 and GEO 2400L or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4100L",
+      "title": "Remote Sensing of the Environment Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437434",
+      "requirement": "Major Required: 28 units",
+      "description": "Principles and techniques of remote sensing using remotely sensed data to examine physical and cultural geographic scenes. Remote sensing applications in urban planning, agriculture, ecosystem management, atmosphere and earth sciences, and geographic information systems. Corequisite(s): GEO 4100 .",
+      "prerequisites": "GEO 2400 and GEO 2400L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4610",
+      "title": "Senior Project/Capstone 1",
+      "units": "3",
+      "ge": null,
+      "coid": "436273",
+      "requirement": "Major Required: 28 units",
+      "description": "Exploration of research framework and research methods in geography. Individual or group investigation, research, studies, or surveys of selected problems.",
+      "prerequisites": "Geography major and Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3030",
+      "title": "Climatology",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "437765",
+      "requirement": "Physical Geography: 3 units",
+      "description": "[GE 5D] Introduction to the fundamental concepts and theories in climatology. Methods of inquiry, including qualitative, quantitative, and computer based modeling and simulation methods. Explore climate variation through time and space and the reciprocal impact of climate and society. 3 hours lecture/problem-solving.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3050",
+      "title": "Global Environmental Systems",
+      "units": "2",
+      "ge": null,
+      "coid": "436012",
+      "requirement": "OR",
+      "description": "Advanced concepts and theories in physical geography. Methods of inquiry, including qualitative, quantitative, and computer based modeling and simulation methods. The focus is on the geomorphological and hydrological processes on physical landform changes through time and space; and the interactions among physical environment processes and human activities. Corequisite(s): GEO 3050L .",
+      "prerequisites": "GEO 1010 or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3050L",
+      "title": "Global Environmental Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437426",
+      "requirement": "and",
+      "description": "Advanced concepts and theories in physical geography. Methods of inquiry, including qualitative, quantitative, and computer based modeling and simulation methods. The focus is on the geomorphological and hydrological processes on physical landform changes through time and space; and the interactions among physical environment processes and human activities. Corequisite(s): GEO 3050 .",
+      "prerequisites": "GEO 1010 or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3070",
+      "title": "Climate Change: Science and Action",
+      "units": "2",
+      "ge": null,
+      "coid": "436013",
+      "requirement": "OR",
+      "description": "In depth investigation of the science of global warming and humankind’s impact on the Earth’s climate system. Corequisite(s): GEO 3070L .",
+      "prerequisites": "One course in GE Area B, GEO 1010 , GEO 1010L , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3070L",
+      "title": "Climate Change: Science and Action Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437427",
+      "requirement": "and",
+      "description": "In depth investigation of the science of global warming and humankind’s impact on the Earth’s climate system. Corequisite(s): GEO 3070 .",
+      "prerequisites": "One course in GE Area B, GEO 1010 , GEO 1010L , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3100",
+      "title": "Cultural Geography",
+      "units": "3",
+      "ge": null,
+      "coid": "436016",
+      "requirement": "Human Geography: 3 units",
+      "description": "An intermediate examination of the breadth, depth and methods of cultural geography through an examination of three themes: human-environment relationships; landscape; and place. The three themes are explored through the scholarship of selected distinguished cultural geographers. 3 hours lecture/discussion.",
+      "prerequisites": "GEO 1000 , GEO 1020 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3120",
+      "title": "Economic Geography",
+      "units": "3",
+      "ge": null,
+      "coid": "436017",
+      "requirement": "or",
+      "description": "Introduction to the substance and issues of economic geography. Topics addressed include the distribution and control of resources, the diversity of political/economic systems and the international exchange of labor and goods.",
+      "prerequisites": "Lower Division GE area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3150",
+      "title": "Urban Geography",
+      "units": "3",
+      "ge": null,
+      "coid": "436019",
+      "requirement": "or",
+      "description": "Analysis and presentation on the problems in the origin and evolution of cities. Includes size, functions, distribution patterns, supporting and tributary areas, and roles within the whole political, social and economic structure of a region; includes suburbs and problems of metropolitan areas.",
+      "prerequisites": "GE area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4090",
+      "title": "Applied Cultural Geography",
+      "units": "3",
+      "ge": null,
+      "coid": "436205",
+      "requirement": "or",
+      "description": "Guidance and critiquing of student work in the analysis and evaluation of geographical characteristics of the natural environment and its human use. Includes field mapping, systematic and random sampling of spatial phenomena, and environmental impact reporting.",
+      "prerequisites": "GEO 1020 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3080",
+      "title": "Biogeography",
+      "units": "2",
+      "ge": null,
+      "coid": "436014",
+      "requirement": "Subplan/Option Required: 12 units",
+      "description": "The geography of organisms, biotic communities and ecosystems. Investigation of ecosystem types, their components, locations, and geographic scope. Particular emphasis on spatial and temporal principles governing the geographic patterns of current and past terrestrial plant and animal species and communities. 2 hours lecture/discussion. Corequisite(s): GEO 3080L .",
+      "prerequisites": "GEO 1010 and GEO 1010L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3080L",
+      "title": "Biogeography Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437428",
+      "requirement": "Subplan/Option Required: 12 units",
+      "description": "Laboratory component for learning about the geography of organisms, biotic communities and ecosystems. Investigation of ecosystem types, their components, locations, and geographic scope. Particular emphasis on spatial and temporal principles governing the geographic patterns of current and past terrestrial plant and animal species and communities. 3 hours laboratory. Corequisite(s): GEO 3080 .",
+      "prerequisites": "GEO 1010 and GEO 1010L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3300",
+      "title": "Environmental Geography",
+      "units": "2",
+      "ge": null,
+      "coid": "436020",
+      "requirement": "Subplan/Option Required: 12 units",
+      "description": "Explores geographic issues of natural resource availability, environmental consequences of patterns of population distribution, and pollution diffusing. Analysis of spatial patterns of human/environment impacts at regional and local scales. 2 hours lecture/discussion. Corequisite(s): GEO 3300L .",
+      "prerequisites": "GEO 1010 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3300L",
+      "title": "Environmental Geography Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437432",
+      "requirement": "Subplan/Option Required: 12 units",
+      "description": "Explores geographic issues of natural resource availability, environmental consequences of patterns of population distribution, and pollution diffusing. Analysis of spatial patterns of human/environment impacts at regional and local scales. Corequisite(s): GEO 3300 .",
+      "prerequisites": "GEO 1010 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4050W",
+      "title": "Geodemographics with Geographic Information Systems",
+      "units": "2",
+      "ge": null,
+      "coid": "436025",
+      "requirement": "and",
+      "description": "Application of Geographic Information Systems (GIS) techniques for the analysis of spatial and locational patterns of human population, population characteristics and population change. Housing, migration and commuting patterns. Market analysis and site location decision support. Neighborhood segregation and transitions. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): GEO 4050LW .",
+      "prerequisites": "GEO 2400 , GEO 2400L , and junior or senior standing, or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "GEO 4430W",
+      "title": "Geospatial Data Analysis",
+      "units": "2",
+      "ge": null,
+      "coid": "437437",
+      "requirement": "and",
+      "description": "Quantitative analysis methods for research in the spatial sciences. Characteristics of geographic data (attributes of objects and fields in geographic space). Probability, hypothesis testing and confidence intervals. Summary, descriptive and exploratory statistics for geographic data. Regression modeling. Spatial autocorrelation and spatial regression methods. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): GEO 4430LW .",
+      "prerequisites": "GEO 2400 , GEO 2400L , and junior or senior standing; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "GEO 4150",
+      "title": "Environmental Hazards and Society",
+      "units": "3",
+      "ge": null,
+      "coid": "436028",
+      "requirement": "and",
+      "description": "Geographic context of Natural Hazards, Disasters, and Emergency Management and Policy. Planning for disasters, emergencies, and hazards before crises occur. Theories and practices of emergency management, including comprehensive EMS and all-hazards approach. Specific applications based upon recent and historic disasters.",
+      "prerequisites": "GEO 1010 , GEO 1020 , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4450",
+      "title": "Environmental Modeling with GIS",
+      "units": "2",
+      "ge": null,
+      "coid": "436038",
+      "requirement": "OR",
+      "description": "Environmental modeling within the geospatial framework. Theoretical foundations and technical approaches to model development with GIS. Issues and applications associated with environmental models. 2 hours lecture/problem-solving. Corequisite(s): GEO 4450L .",
+      "prerequisites": "GEO 2400 and GEO 2400L or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4450L",
+      "title": "Environmental Modeling with GIS Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437439",
+      "requirement": "and",
+      "description": "Environmental modeling within the geospatial framework. Theoretical foundations and technical approaches to model development with GIS. Issues and applications associated with environmental models. 3 hours laboratory. Corequisite(s): GEO 4450 .",
+      "prerequisites": "GEO 2400 and GEO 2400L or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 3003",
+      "title": "Cal Poly Pomona Undergraduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439397",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "GEO 1010",
+    "GEO 1010L",
+    "GEO 1020",
+    "GEO 2400",
+    "GEO 2400L",
+    "GEO 3030",
+    "GEO 3050",
+    "GEO 3050L",
+    "GEO 3070",
+    "GEO 3070L",
+    "GEO 3080",
+    "GEO 3080L",
+    "GEO 3090",
+    "GEO 3090L",
+    "GEO 3100",
+    "GEO 3120",
+    "GEO 3150",
+    "GEO 3300",
+    "GEO 3300L",
+    "GEO 4050W",
+    "GEO 4090",
+    "GEO 4100",
+    "GEO 4100L",
+    "GEO 4150",
+    "GEO 4430W",
+    "GEO 4450",
+    "GEO 4450L",
+    "GEO 4610"
+  ]
+}

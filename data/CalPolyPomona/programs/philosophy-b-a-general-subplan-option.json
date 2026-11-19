@@ -1,0 +1,398 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:16:22+00:00",
+  "id": "philosophy-b-a-general-subplan-option",
+  "name": "Philosophy, B.A. - General Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Philosophy",
+  "department_id": "philosophy",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24239",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6336",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Philosophy, B.A. - General Subplan/Option: 120 units Offered by: College of Letters, Arts, and Social Sciences , Physics and Astronomy Department Major Required | Subplan/Option Required | Subplan/Option Electives | Unrestricted Electives | Graduation Requirements | Roadmap 4-year | Roadmap 2-year AA-T | Program Website Major Required: 27 units Core: 21 units PHL 2010 - Ultimate Questions: An Introduction to Philosophy (3) [GE 3B] PHL 2040 - Ethical Problems in Contemporary Life (3) [GE 3B] PHL 2180 - Logic and Computing (3) [GE 2] PHL 2900 - Philosophy Proseminar II: Philosophical Methods (3) PHL 3090 - Moral Philosophy (3) PHL 3590 - Epistemology (3) PHL 4610W - Senior Seminar in Philosophy (3) Non-Canonical: 3 units PHL 3040 - Philosophy and Religion of Japan (3) PHL 3050 - Philosophy and Religion of China (3) PHL 3060 - Philosophy and Religion of India (3) PHL 3280 - Philosophy of Asian Martial Arts and Religion (3) PHL 4200 - Feminist Philosophy (3) PHL 4850 - Comparative Philosophy (3) History: 3 units PHL 3120 - History of Ancient Philosophy (3) PHL 4050 - Great Works in Philosophy (3) Subplan/Option Required: 6 units PHL 3140 - History of Modern Philosophy (3) PHL 3500 - Philosophy of Mind (3) or PHL 3600 - Metaphysics (3) Subplan/Option Electives: 12 units A. History: 3 units PHL 3120 - History of Ancient Philosophy (3) PHL 3220 - Existentialism (3) PHL 4050 - Great Works in Philosophy (3) B. Seminar: 3 units PHL 4400W - Seminar in Law and Values (3) PHL 4890W - Seminar in Metaphysics and Epistemology (3) C. Upper-Division: 6 units PHL 3XXX-4XXX - Upper-Division Philosophy courses (6) Unrestricted Electives: 35 units Select a sufficie",
+  "requirements": [
+    {
+      "name": "Core: 21 units",
+      "courses": [
+        "PHL 2010",
+        "PHL 2040",
+        "PHL 2180",
+        "PHL 2900",
+        "PHL 3090",
+        "PHL 3590",
+        "PHL 4610W"
+      ],
+      "raw_text": "Core: 21 units"
+    },
+    {
+      "name": "Non-Canonical: 3 units",
+      "courses": [
+        "PHL 3040",
+        "PHL 3050",
+        "PHL 3060",
+        "PHL 3280",
+        "PHL 4200",
+        "PHL 4850"
+      ],
+      "raw_text": "Non-Canonical: 3 units"
+    },
+    {
+      "name": "History: 3 units",
+      "courses": [
+        "PHL 3120",
+        "PHL 4050"
+      ],
+      "raw_text": "History: 3 units"
+    },
+    {
+      "name": "Subplan/Option Required: 6 units",
+      "courses": [
+        "PHL 3140",
+        "PHL 3500"
+      ],
+      "raw_text": "Subplan/Option Required: 6 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "PHL 3600"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "A. History: 3 units",
+      "courses": [
+        "PHL 3120",
+        "PHL 3220",
+        "PHL 4050"
+      ],
+      "raw_text": "A. History: 3 units"
+    },
+    {
+      "name": "B. Seminar: 3 units",
+      "courses": [
+        "PHL 4400W",
+        "PHL 4890W"
+      ],
+      "raw_text": "B. Seminar: 3 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 3003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PHL 2010",
+      "title": "Ultimate Questions: An Introduction to Philosophy",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434865",
+      "requirement": "Core: 21 units",
+      "description": "[GE 3B] Investigation into the big questions of philosophy (Does God Exist? Can I Know Anything? Who Am I? How Should I Live? Am I Free); emphasis on how philosophers propose to answer such questions and their relevance for intelligent living.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 2040",
+      "title": "Ethical Problems in Contemporary Life",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434867",
+      "requirement": "Core: 21 units",
+      "description": "[GE 3B] Investigation and application of central theoretical traditions in philosophical ethics. Analysis and appraisal of ethical arguments. Development of ethical reasoning skills. Critical consideration of controversial topics in personal, professional, social, and global ethics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 2180",
+      "title": "Logic and Computing",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "437680",
+      "requirement": "Core: 21 units",
+      "description": "[GE 2] Cross Listed as: CS 2180 Introduction to formal techniques for analyzing and evaluating natural language arguments; discussion of relation between these formal techniques and computer gates and computer programming.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 2900",
+      "title": "Philosophy Proseminar II: Philosophical Methods",
+      "units": "3",
+      "ge": null,
+      "coid": "435089",
+      "requirement": "Core: 21 units",
+      "description": "Develops skills necessary for proficiency in philosophical reading, research, and written and oral presentation.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3090",
+      "title": "Moral Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435563",
+      "requirement": "Core: 21 units",
+      "description": "Investigation of central traditions in moral theory, including utilitarianism, virtue theory, Kantianism, contract theories, feminism. Inquiry into the justification and implications of moral principles and claims. Analysis of moral obligation, interests, happiness. Skeptical challenge to morality’s presumed authority.",
+      "prerequisites": "PHL 201, PHL 2010 , PHL 204, or PHL 2040 ; or instructor permission.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3590",
+      "title": "Epistemology",
+      "units": "3",
+      "ge": null,
+      "coid": "435573",
+      "requirement": "Core: 21 units",
+      "description": "An investigation into the nature, scope, and limits of human knowledge. Survey of major topics such as foundationalism, coherentism, reliabilism contextualism and skepticism.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 4610W",
+      "title": "Senior Seminar in Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435096",
+      "requirement": "Core: 21 units",
+      "description": "Development and writing of a thesis in philosophy on the basis of extensive research. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "PHL 3040",
+      "title": "Philosophy and Religion of Japan",
+      "units": "3",
+      "ge": null,
+      "coid": "436359",
+      "requirement": "Non-Canonical: 3 units",
+      "description": "“Traditional ways of thought in Japan. Modifications from its beginnings through the impacts of Buddhism and Confucianism; its reemergence in the 19th Century. Twentieth-century developments and the emergence of the “”New Religions”“. ”",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3050",
+      "title": "Philosophy and Religion of China",
+      "units": "3",
+      "ge": null,
+      "coid": "436360",
+      "requirement": "Non-Canonical: 3 units",
+      "description": "Development of religious thought in China with special reference to Confucianism, Taoism, and Buddhist schools of thought.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3060",
+      "title": "Philosophy and Religion of India",
+      "units": "3",
+      "ge": null,
+      "coid": "436361",
+      "requirement": "Non-Canonical: 3 units",
+      "description": "The diversity of the philosophy and religion of India from Rig Vedic times to the 20th Century. Development of the Upanishads, Yoga systems, the great epics, the Bhakti movements; Emergence of Jainism, Buddhism, Sikhism, Indian Islam.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3280",
+      "title": "Philosophy of Asian Martial Arts and Religion",
+      "units": "3",
+      "ge": null,
+      "coid": "435099",
+      "requirement": "Non-Canonical: 3 units",
+      "description": "Examination of various styles of Asian martial arts and meditation, and of the philosophical traditions from which they have developed. Emphasizes both theory and practice. 3 hours lecture/discussion",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 4200",
+      "title": "Feminist Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "439080",
+      "requirement": "Non-Canonical: 3 units",
+      "description": "Examination of several of the central metaphysical, epistemological, ethical, social, and political questions in Feminist Philosophy. Topics include theories of gender difference, including social construction, realism, and new essentialisms; the relations between sex and gender; feminist epistemologies, including feminist perspectives on objectivity in science, feminist critiques of scientific practice, epistemologies of ignorance, standpoint epistemology, epistemic injustice, and the relations between knowledge and emotion; misrepresenting women, gendered narrative, and women’s appearance; intersectionality and the interactions among gender, race, class, sexuality, immigration status, ability and other social categories; structural injustice, including global gender injustice, transnational feminism, and individual bias; gender and work, including family and domestic work, sex work, and reproductive freedom and abortion; and theorizing misogyny, policing women, and domestic violence.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 4850",
+      "title": "Comparative Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435102",
+      "requirement": "Non-Canonical: 3 units",
+      "description": "A comparative study of Eastern philosophy and Western philosophy. The study will include metaphysics, epistemology, methodology and socio-political values and ideals. Designed for strong interest in multicultural studies.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3120",
+      "title": "History of Ancient Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435564",
+      "requirement": "History: 3 units",
+      "description": "Examination of the philosophical ideas of the Greek and Roman worlds, from the pre-Socratic philosophers to the Hellenistic schools. Critical investigation of metaphysical, epistemological and ethical disputes among ancient thinkers.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 4050",
+      "title": "Great Works in Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "436357",
+      "requirement": "History: 3 units",
+      "description": "Study in depth of a historically significant work of philosophy with attention devoted to primary source materials. May be taken up to two times for a total credit of 6 units.",
+      "prerequisites": "Any upper division course with PHL prefix.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: May be repeated for credit for a maximum of 6 units.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3140",
+      "title": "History of Modern Philosophy",
+      "units": "3",
+      "ge": null,
+      "coid": "435559",
+      "requirement": "Subplan/Option Required: 6 units",
+      "description": "Great philosophical ideas and thinkers from Galileo to Kant.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3500",
+      "title": "Philosophy of Mind",
+      "units": "3",
+      "ge": null,
+      "coid": "435100",
+      "requirement": "Subplan/Option Required: 6 units",
+      "description": "Examination of problems in the philosophy of mind including knowledge of other minds, and the nature of mental states and their properties, in particular, consciousness and representation.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3600",
+      "title": "Metaphysics",
+      "units": "3",
+      "ge": null,
+      "coid": "435101",
+      "requirement": "or",
+      "description": "Fundamental problems that have been central to philosophy throughout its history: substance and attributes, identity and change, personal identity, causality, determinism, free will, and the nature of time.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3220",
+      "title": "Existentialism",
+      "units": "3",
+      "ge": null,
+      "coid": "435572",
+      "requirement": "A. History: 3 units",
+      "description": "Basic ideas of existentialist philosophers of the 19th and 20th centuries; a comparison of theistic and atheistic existentialism; existentialist ideas of anxiety, freedom, and responsibility.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 4400W",
+      "title": "Seminar in Law and Values",
+      "units": "3",
+      "ge": null,
+      "coid": "435565",
+      "requirement": "B. Seminar: 3 units",
+      "description": "Investigation of a central area of inquiry in moral, political, or legal philosophy, with special emphasis on contemporary texts and thinkers. Content varies as offered. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "PHL 3090 , PHL 3100 , PHL 3110 , or consent of instructor; and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: May be taken unlimited times only with different topics.",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "PHL 4890W",
+      "title": "Seminar in Metaphysics and Epistemology",
+      "units": "3",
+      "ge": null,
+      "coid": "435574",
+      "requirement": "B. Seminar: 3 units",
+      "description": "Examination of central controversies or recent developments in the areas of metaphysics, philosophy of language, philosophy of mind, or epistemology, with special emphasis on contemporary texts and thinkers. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "PHL 3590 , PHL 3600 , or consent of instructor; and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: May be repeated for credit for a maximum of 6 units.",
+      "when_offered": "Spring (odd years)"
+    },
+    {
+      "code": "CPU 3003",
+      "title": "Cal Poly Pomona Undergraduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439397",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "PHL 2010",
+    "PHL 2040",
+    "PHL 2180",
+    "PHL 2900",
+    "PHL 3040",
+    "PHL 3050",
+    "PHL 3060",
+    "PHL 3090",
+    "PHL 3120",
+    "PHL 3140",
+    "PHL 3220",
+    "PHL 3280",
+    "PHL 3500",
+    "PHL 3590",
+    "PHL 3600",
+    "PHL 4050",
+    "PHL 4200",
+    "PHL 4400W",
+    "PHL 4610W",
+    "PHL 4850",
+    "PHL 4890W"
+  ]
+}

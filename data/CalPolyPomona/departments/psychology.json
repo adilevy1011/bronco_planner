@@ -1,0 +1,1391 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:57:23+00:00",
+  "id": "psychology",
+  "name": "Psychology",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6338",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Psychology Department Building 5 Room 233 | (909) 869-3888 | Department Website | Faculty Directory The mission of the Psychology Department is to prepare students for success at school, work, home, and society through engagement in education, research, and professional activities. The program enriches understanding of behavior-biological, emotional, social, and cognitive-while fostering scientific literacy, knowledge, communication, and practical application. Rooted in the university’s “learn-by-doing” philosophy, the department emphasizes experiential learning and academic rigor. Students engage directly in faculty‑mentored research across clinical, social, developmental, cognitive, and physiological areas. From sophomore-level methods courses to senior capstone research, the program nurtures both analytical skills and practical know-how. Strong emphasis is placed on diversity, equity, and inclusion, integrated across coursework and graduate training. Organizationally, the department cultivates a professional culture by layering theoretical instruction with applied experiences in labs, research, and community contexts. Psychology majors gain access to manifold opportunities: student-faculty labs, year-long senior research projects, and the Lowell Overton Undergraduate Research Symposium which celebrates student scholarship. Psi Chi, the national honor society, offers academic recognition and professional networking. Additional offerings include internships, mentoring, scholarships, and leadership roles fostering well-rounded academic and career development. Programs Bachelor Psychology, B.A.: 120 units Master Psychology, M.S.: 60 units Minor",
+  "courses": [
+    {
+      "code": "PSY 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438683",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 2201",
+      "title": "Introduction to Psychology",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435049",
+      "description": "[GE 4A] Survey and exploration of scope, methods, and content of both the qualitative and quantitative areas of psychology including: research methods, development, perception, learning, memory, motivation, emotion, personality, social, abnormal, clinical, and interpersonal relations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-minor",
+        "psychology-b-a-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PSY 2204",
+      "title": "Research Methods in Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "436965",
+      "description": "Introduction and intermediate exposure to the methods, techniques, and data analysis used in carrying out research in psychology.",
+      "prerequisites": "Major or minor in PSY; PSY 2201 , PSY 201, or PSY 202; STA 1200 , STA 1202 , or STA 120; and GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-minor",
+        "psychology-b-a-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PSY 2206",
+      "title": "Child Psychology for Educators",
+      "units": "3",
+      "ge": null,
+      "coid": "435246",
+      "description": "Cognitive, social, physical, and emotional development from conception through adolescence. Genetic and environmental influences, and the influences of culture and context. Normative and individual differences in development. Applications of developmental psychology to education.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 2210",
+      "title": "Mind, Brain and Behavior: An Integrated View",
+      "units": "3",
+      "ge": null,
+      "coid": "437886",
+      "description": "Biological exploration of how the functioning of the brain gives rise to the human mind and complex behavior. Research from humans and animal models will be considered to provide this overview of the brain functions important to behavior, from the cellular to systems level. Discussion of brain anatomy, brain development, sensation, motor activity, motivation and emotion, sex differences, learning and memory, pain, psychoactive drugs, normal and abnormal aging, and brain and mental disorders.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-minor",
+        "psychology-b-a-roadmap-4-year-120-units",
+        "psychology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PSY 2222",
+      "title": "Careers in Psychology",
+      "units": "1",
+      "ge": null,
+      "coid": "436389",
+      "description": "Overview of sub-disciplines of psychology, related emphases in the major, possible careers, and overview of skills/experiences in the discipline (e.g., writing style in the discipline, undergraduate research experiences).",
+      "prerequisites": "Major or minor in PSY.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-b-a-roadmap-4-year-120-units",
+        "psychology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PSY 2230",
+      "title": "Positive Psychology: The Science of the Good Life",
+      "units": "3",
+      "ge": null,
+      "coid": "438914",
+      "description": "Positive Psychology is a relatively new sub-field of psychology that employs psychological science to form a scientific understanding of well-being and happiness and how people actualize their highest potential. Topics cover psychological research and theory on character strengths, creativity, aesthetics, the good life, grit, excellence, flow, optimism, hope, mindfulness, search for meaning, authenticity, life enhancement strategies, positive emotions, love and positive relationships, prosocial behavior, positive education, work and communities.",
+      "prerequisites": "",
+      "grading_basis": "Graded",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438684",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438685",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438686",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 3303",
+      "title": "Physiological Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435237",
+      "description": "Exploration of how neural function relates to various aspects of cognition and emotion. Examination of the neuroanatomical, physiological and genetic factors that influence the behavior of organisms. Discussions on the relevance of biological mechanisms in an understanding of human behavior. Corequisite(s): PSY 3303A .",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202; and PSY 2210 , PSY 210, BIO 1110 , BIO 110, BIO 1150 , or BIO 115.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3303A",
+      "title": "Physiological Psychology Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "438842",
+      "description": "Active learning explorations of how neural function relates to various aspects of cognition and emotion. Examination of the neuroanatomical, physiological and genetic factors that influence the behavior of organisms. Discussions on the relevance of biological mechanisms in an understanding of human behavior. Corequisite(s): PSY 3303 .",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202; and PSY 2210 , PSY 210, BIO 1110 , BIO 110, BIO 1150 , or BIO 115.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3304",
+      "title": "Cognitive Neuroscience",
+      "units": "3",
+      "ge": null,
+      "coid": "439412",
+      "description": "Advanced exploration of the neural systems that underlie human sensation and perception, attention, action, memory, emotion, language, executive function, social cognition, and conscious awareness. Covers the research methods of Cognitive Neuroscience, such as neuroimaging, electrophysiology, brain stimulation, and patient studies. Examines how findings from Cognitive Neuroscience research have furthered understanding and treatment of brain disorders.",
+      "prerequisites": "PSY 2201 , PSY 2210 , or BIO 1110 ; and upper-division standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "psychology-b-a",
+        "psychology-minor"
+      ]
+    },
+    {
+      "code": "PSY 3305",
+      "title": "Basic Developmental Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435238",
+      "description": "Focus on developmental changes in, and interactions between, the physical, cognitive, social, and emotional domains throughout the lifespan. The influence of heredity and environment on development, including cross-cultural influences, will be considered.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-minor"
+      ]
+    },
+    {
+      "code": "PSY 3307R",
+      "title": "Statistics for Psychology",
+      "units": "4",
+      "ge": null,
+      "coid": "437371",
+      "description": "Covers descriptive, correlational, and inferential statistics relevant to psychology. Correlation coefficients, t-ratios, analysis of variance, selected non-parametric statistics. Selection, application, and interpretation of appropriate statistics for analysis of behavioral data. Statistical software for data analysis such as SPSS.",
+      "prerequisites": "Upper division standing, PSY 2201 , PSY 201, or PSY 202; PSY 2204 , PSY 204, or SOC 204; and STA 1200 , STA 1202 , or STA 120.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-b-a-roadmap-4-year-120-units",
+        "psychology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PSY 3310",
+      "title": "Child Psychology: Early Childhood",
+      "units": "3",
+      "ge": null,
+      "coid": "435437",
+      "description": "Physical, cognitive, and social-emotional development before age 6. Normative and individual differences in development. Major theories of development. Contributions of heredity and experience. Cultural variations. Discussion of middle childhood research.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3311",
+      "title": "Child Psychology: Middle Childhood",
+      "units": "3",
+      "ge": null,
+      "coid": "435239",
+      "description": "Physical, cognitive, and social-emotional development between ages 5 and 12. Normative and individual differences in development. Major theories of development. Contributions of heredity and experience. Cultural variations. Discussion of middle childhood research.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3312",
+      "title": "Adolescent Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435438",
+      "description": "Physical, social, emotional, and cognitive factors in adolescent development (approx. ages 12 to 20). Normative and individual differences in development. Introduction to developmental theories and research methods. Factors that facilitate or impede development. Historical, ethnic, cross-cultural, and socio-economic aspects of development.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3314",
+      "title": "Human Relations in Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "435104",
+      "description": "Experiential seminar with development of self-understanding and awareness of individual differences, and building interpersonal skills and strategies needed for effective functioning in the contemporary workplace. Skills include interpersonal communication, teamwork skills, problem solving and decision making, cross-cultural relations, positive political skills, conflict resolution skills, strategies for motivating and mentoring others; strategies for managing personal productivity and stress, strategies for self-motivation, goal setting, and managing one’s career, and business ethics.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3321",
+      "title": "Psychology of Identity",
+      "units": "3",
+      "ge": null,
+      "coid": "435174",
+      "description": "An intensive examination of self in terms of theory, locus, development outcomes, sex identity, group identity, and the self in relation to others; extensive in-class practice in techniques for self-awareness, self-evaluation, self-disclosure, and self-assertion.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3322",
+      "title": "Psychology of Women",
+      "units": "3",
+      "ge": null,
+      "coid": "435486",
+      "description": "Examines issues related to women’s lives and experiences from a psychological perspective, including lifespan development, education and employment, relationships, sexuality, violence, discrimination, and mental and physical health.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3325",
+      "title": "Multicultural Psychology",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434932",
+      "description": "[GE 4C] Examination and exploration of the field of Cross-Cultural/Multicultural Psychology. Examines how psychological theory and research are applied for understanding multicultural issues, primarily within the United States. Explores how issues such as racism, ethnic identity, and media portrayal impact both the communities of color and the majority culture, and how these issues relate to contemporary topics. Some aspects of cross-national psychology may be explored, depending upon instructor’s preference.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-minor",
+        "psychology-b-a-roadmap-4-year-120-units",
+        "psychology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PSY 3326",
+      "title": "Health Psychology",
+      "units": "3",
+      "ge": "GE 4C or 5D",
+      "coid": "434956",
+      "description": "[GE 4C or 5D] Health education, promotion, and motivation; acute and chronic pain mechanisms and management; coping with chronic illness; major health disorders and their impact; psychoneuroimmunology; psychological factors in disease; health-related behavior management; health-related research project. Synthesizes biological, nutritional, exercise-related, and psychological issues.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3332",
+      "title": "Organizational Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435105",
+      "description": "Survey of issues related to work in contemporary organizations at the individual, group and organizational levels. Individual-level issues explored include employee motivation, value systems and ethics, emotions at work, and cultural diversity. Group-level issues discussed include decision making processes, effective communication, work group dynamics, teams and team building, and managing conflict. Examination of organizational-level elements include organizational power and politics, organizational culture, and organizational structure and strategy.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202; or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-minor"
+      ]
+    },
+    {
+      "code": "PSY 3333",
+      "title": "Industrial Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435090",
+      "description": "An overview of the research and practice in industrial psychology. Read, discuss, and do in-class and out-of-class activities related to the field. Focus on staffing practices, learning about job analysis, criterion development, recruitment, selection, training, and performance appraisal.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202; or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3334",
+      "title": "Cognitive Processes",
+      "units": "3",
+      "ge": null,
+      "coid": "435298",
+      "description": "Processes by which humans acquire and maintain knowledge. Focus on the relationships of perception, language, and concept attainment. Major theories of cognition. Classroom experience with various perceptual and cognitive tasks.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-minor"
+      ]
+    },
+    {
+      "code": "PSY 3335",
+      "title": "Memory and Amnesia",
+      "units": "3",
+      "ge": null,
+      "coid": "435439",
+      "description": "A survey of topics in the psychology of memory, including current theories of memory and forgetting, the neurobiology of memory, memory models, metamemory, memory development across the lifespan, organic and functional memory disorders, and applied issues such as eyewitness legal testimony, children’s memory abilities, effects of drugs and alcohol on memory, and the repressed memory debate.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3345",
+      "title": "Computer Methods in Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435440",
+      "description": "Survey of computer methods in psychological research. Use of computers to explore internet resources, present stimuli and record subject responses, conduct web-based experiments or surveys, digitally record or otherwise observe and code behavior, analyze data using statistical software, and model human cognition and behavior. Corequisite(s): PSY 3345A .",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202; PSY 2204 ,PSY 204, or SOC 204; and STA 1200 , STA 1202 , or STA 120.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3345A",
+      "title": "Computer Methods in Psychology Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435441",
+      "description": "Survey of computer methods in psychological research. Use of computers to explore internet resources, present stimuli and record subject responses, conduct web-based experiments or surveys, digitally record or otherwise observe and code behavior, analyze data using statistical software, and model human cognition and behavior. Corequisite(s): PSY 3345 .",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202; PSY 2204 , PSY 204, or SOC 204; and STA 1200 , STA 1202 , or STA 120.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 3388",
+      "title": "Positive Psychology: The Science of the Good Life",
+      "units": "3",
+      "ge": null,
+      "coid": "439411",
+      "description": "Advanced psychological exploration of research findings from positive psychology that informs scientific understanding of well-being and happiness and how to optimize human potential. Topics include character strengths, the good life, growth mindset, forgiveness, grit, excellence, flow, optimism, hope, mindfulness, transcendence and searching for meaning, spiritual and religion, authenticity, positive emotions, love and positive relationships, social connections, kindness, prosocial behavior, positive environments, and nature connection.",
+      "prerequisites": "PSY 2201 , and junior or senior standing",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "psychology-b-a",
+        "psychology-b-a-roadmap-4-year-120-units",
+        "psychology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PSY 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438687",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4100",
+      "title": "History and Systems of Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435443",
+      "description": "An examination of the history of modern psychology with an emphasis on the development of the theoretical perspectives and systems of thought that organize knowledge in the field. Focus upon key historical figures who have influenced modern views of mind and behavior, attempting to place them in the context in which they lived. Important goals are to understand how early beliefs have influenced current practices, how techniques for generating new knowledge have changed what we know, and why knowledge of our past is important to modern psychologists. It is essential that psychology students develop and articulate their own theoretical perspectives on human behavior. How others have done this in the past in order to help students think critically about current perspectives and develop their own views.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202; and PSY 2204 or PSY 204 or SOC 204.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4121",
+      "title": "Theories of Counseling",
+      "units": "3",
+      "ge": null,
+      "coid": "436352",
+      "description": "Systematic and comparative analysis of current psychotherapies, their philosophies, purposes, and procedures.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4150",
+      "title": "Abnormal Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435242",
+      "description": "The causes, description, and treatment of the extremes of human behavior. Emphasis is on an integrated analysis from a psycho-social viewpoint.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-minor"
+      ]
+    },
+    {
+      "code": "PSY 4160",
+      "title": "Psychological Testing",
+      "units": "3",
+      "ge": null,
+      "coid": "435487",
+      "description": "Introduction to construction of psychological tests, use of norms, and psychometrics, in areas such as ability, achievement, vocational preference, behavior, affect, and personality. Demonstration of the administration, scoring, and interpretation of selected tests and measures.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202; and PSY 2204 , PSY 204, or SOC 204.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4170",
+      "title": "Basic Counseling Skills",
+      "units": "3",
+      "ge": null,
+      "coid": "435175",
+      "description": "Overview of the basic elements of helping relationships. Emphasis on exploration and development of basic communication skills used in counseling and psychotherapy, such as building rapport, empathy, active listening, questioning, reflecting, clarifying, probing, confronting, and interpreting.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4200",
+      "title": "Environmental Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "438831",
+      "description": "Physical and social contexts of person-environment transactions. Cognition, perception, and social variables in the determinants of environmental behavior. Environmental appraisal and assessment, settings for environmental design, and place analysis. Psychology of resource management and sustainability.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202; or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4220",
+      "title": "Psychology of Creativity",
+      "units": "3",
+      "ge": null,
+      "coid": "437628",
+      "description": "Experiential seminar with students acquiring an understanding of the theories and practices in the study of creativity. Areas of discussion include: the creative person, assessing creative potential, techniques used to stimulate and enhance creativity, the creative process, the creative press (social and psychological) in which creativity is nourished, potential barriers to creativity and how they can be eliminated, and international perspectives to creativity. Students will develop creative abilities individually through a variety of techniques and projects, and within teams as they construct entrepreneurial projects.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4250",
+      "title": "Community Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435495",
+      "description": "Examination and exploration of the field of Community Psychology. Examines how psychological theory and research are applied for understanding and changing social and community problems. Explores how the Community Psychology perspective is incorporated into research, intervention, social action, and public policy. Includes 8 hours of required community activity.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4260",
+      "title": "Applied Social Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435119",
+      "description": "Application of methods, concepts and content of social psychology to helping to resolve social problems in areas such as diversity, the environment, workplace, community, law, education, health, well-being, and the mass media. Development and evaluation of applied programs.",
+      "prerequisites": "PSY 4401 or PSY 401.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4401",
+      "title": "Social Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435097",
+      "description": "Advanced study of human behavior as a product of the individual and social environment: social influences on cognition, perception, emotion, and behavior; attitude formation and change; the self and identity; interpersonal and intergroup relations; and the nature of prejudice.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-minor"
+      ]
+    },
+    {
+      "code": "PSY 4402",
+      "title": "Theories of Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "435442",
+      "description": "Examination of classical theories of learning and current theories and research, including a detailed overview of Pavlovian and operant conditioning, stimulus control and traditional learning theories, cognitive challenges to traditional theory and the evolution of contemporary theories. The limits imposed on learning by biological influences are also discussed. Throughout, theories are related to applications such as parenting, teaching, and therapeutic behavior modification.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4403",
+      "title": "Psychology of Personality",
+      "units": "3",
+      "ge": null,
+      "coid": "435255",
+      "description": "Advanced study of major contemporary approaches to personality. Emphasis on development and structure of personality. Biological, psychological and socio-cultural determinants. Dynamics and changes of personality.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4404",
+      "title": "Qualitative Methods in Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "436386",
+      "description": "Exploration of the theories, characteristics, and approaches to designing and conducting qualitative research projects in psychological applied settings. Hands-on experience in various qualitative methods and analysis techniques while implementing a qualitative research project related to their area of interest. Corequisite(s): PSY 4404A .",
+      "prerequisites": "Senior standing; PSY 2201 or PSY 201 or PSY 202; and PSY 2204 or PSY 204 or SOC 204.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4404A",
+      "title": "Qualitative Methods in Psychology Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "436387",
+      "description": "Exploration of the theories, characteristics, and approaches to designing and conducting qualitative research projects in psychological applied settings. Students gain hands-on experience in various qualitative methods and analysis techniques while implementing a qualitative research project related to their area of interest. Corequisite(s): PSY 4404 .",
+      "prerequisites": "Senior standing; PSY 2201 , PSY 201 or PSY 202; and PSY 2204 , PSY 204 or SOC 204.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4430",
+      "title": "Program Evaluation",
+      "units": "3",
+      "ge": null,
+      "coid": "435091",
+      "description": "Application of psychological theories, research designs, methods, analysis procedures, and communication strategies used in applied research and program evaluation to bring solutions to social and organizational problems. Examination of potential ethical and political problems in applied research. Corequisite(s): PSY 4430A .",
+      "prerequisites": "Senior standing; and PSY 2204 , PSY 204, or SOC 204.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4430A",
+      "title": "Program Evaluation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "436353",
+      "description": "Hands on experience with program evaluation (i.e. data collection instrument design, data collection, analysis, etc.). Word, Excel, SPSS, or similar software is used. Corequisite(s): PSY 4430 .",
+      "prerequisites": "Senior standing; and PSY 2204 , PSY 204, or SOC 204.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4444",
+      "title": "Survey Research",
+      "units": "3",
+      "ge": null,
+      "coid": "435092",
+      "description": "Development and execution of an original research project, experience with the methodology, strengths, and problems in survey research: hypothesis development, operationalization, sampling, questionnaire construction, data analysis, and report writing. 3 hours lecture/discussion. Corequisite(s): PSY 4444A .",
+      "prerequisites": "Senior standing; STA 1200 , STA 1202 , or STA 120; and PSY 2204 , PSY 204, SOC 2205 , or SOC 204.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4444A",
+      "title": "Survey Research Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435093",
+      "description": "Development and execution of an original research project, experience with the methodology, strengths, and problems in survey research: hypothesis development, operationalization, sampling, questionnaire construction, data analysis, and report writing. 1 two hour activity. Corequisite(s): PSY 4444 .",
+      "prerequisites": "Senior standing; STA 1200 , STA 1202 , or STA 120; and PSY 2204 , PSY 204, SOC 2205 , or SOC 204.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4450",
+      "title": "Principles of Behavior Modification",
+      "units": "3",
+      "ge": null,
+      "coid": "435107",
+      "description": "Principles and practice of behavior modification as applicable to home, school, and institutional settings.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4452",
+      "title": "Organizational Development and Change",
+      "units": "3",
+      "ge": null,
+      "coid": "435106",
+      "description": "Exploration of the theories and practices in organizational development and change. Interventions for organizations, groups and teams, and individuals are discussed.",
+      "prerequisites": "PSY 3314 , PSY 314, PSY 3332 , or PSY 332; or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4455",
+      "title": "Human Sexuality: Relationships",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434914",
+      "description": "[GE 4C] Investigation of human sexual relationships. Survey of scientific literature on human sexual behavior and close interpersonal relationships. Examination of historical, cultural, and socioeconomic differences. Comparison of experiences, beliefs and knowledge with class members.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4460",
+      "title": "Sensation and Perception",
+      "units": "3",
+      "ge": null,
+      "coid": "436893",
+      "description": "Examination of the psychophysiological and perceptual aspects of vision, audition, the somatosensory system, and the chemical senses. It also examines the classical and contemporary psychophysical methods used to study sensation and perception. Corequisite(s): PSY 4460A .",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202; and PSY 2204 or PSY 204 or SOC 204.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4460A",
+      "title": "Sensation and Perception Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "436894",
+      "description": "Examination of psychophysiological and perceptual aspects of vision, audition, the somatosensory system, and the chemical senses. It also examines the classical and contemporary psychophysical methods used to study sensation and perception. Corequisite(s): PSY 4460 .",
+      "prerequisites": "PSY 2201 , PSY 201 or PSY 202; and PSY 2204 , PSY 204 or SOC 204.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4490",
+      "title": "Leadership and Teams",
+      "units": "3",
+      "ge": null,
+      "coid": "435094",
+      "description": "Major theoretical approaches in the psychological study of leadership. Examination of traits, skills, and behaviors necessary for effective leadership. Examination of situational factors in determining what is effective leadership. Lectures, discussions, and experiential activities to assist in developing leaders. 3 hours seminar",
+      "prerequisites": "PSY 2201 , PSY 201, PSY 202, or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4610",
+      "title": "Senior Project",
+      "units": "2",
+      "ge": null,
+      "coid": "435498",
+      "description": "Selection and completion of a project under faculty supervision. Projects typical of problems, which graduates must solve in their fields of employment or interest. Formal written report required.",
+      "prerequisites": "Upper division standing and Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-b-a-roadmap-4-year-120-units",
+        "psychology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PSY 4611W",
+      "title": "Senior Symposium",
+      "units": "3",
+      "ge": null,
+      "coid": "435240",
+      "description": "Contemporary concepts, issues, and studies in psychology. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "PSY major and senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "psychology-b-a",
+        "psychology-b-a-roadmap-4-year-120-units",
+        "psychology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PSY 4620",
+      "title": "Senior Project II",
+      "units": "2",
+      "ge": null,
+      "coid": "435499",
+      "description": "Selection and completion of a project under faculty supervision. Projects typical of problems which graduates must solve in their fields of employment or interest. Formal written report required.",
+      "prerequisites": "PSY 4610 or PSY 461, and instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a",
+        "psychology-b-a-roadmap-4-year-120-units",
+        "psychology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PSY 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438688",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "psychology-b-a"
+      ]
+    },
+    {
+      "code": "PSY 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438689",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438690",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438691",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 5510",
+      "title": "Research Methods and Statistics",
+      "units": "3",
+      "ge": null,
+      "coid": "435444",
+      "description": "Review of basic research methods in clinical psychology. Systematic examination of advanced research methods and statistical procedures. Extensive supervised experience in critiquing and redesigning research studies.",
+      "prerequisites": "Graduate standing in Psychology MS Program or permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5515",
+      "title": "Advanced Topics in Human Development",
+      "units": "3",
+      "ge": null,
+      "coid": "435241",
+      "description": "Focus on developmental changes in, and interactions between, the physical, cognitive, social and emotional domains throughout the lifespan. The influence of heredity and environment on development, including cross-cultural influences, will be considered. Psychopathology and its causes throughout the lifespan will also be highlighted.",
+      "prerequisites": "Graduate standing in Psychology MS Program or permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5530",
+      "title": "Psychobiology of Mental Disorders",
+      "units": "3",
+      "ge": null,
+      "coid": "436895",
+      "description": "A neuropsychological overview of neural systems and the brain, and the effects of brain trauma (stroke, closed head injury, etc.). Provides a psychobiological overview of the major mental disorders including schizophrenia, the affective disorders, Alzheimer’s, and developmental disorders such as autism.",
+      "prerequisites": "Graduate standing in Psychology MS Program or permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5545",
+      "title": "Introduction to Family and Marital Therapy",
+      "units": "3",
+      "ge": null,
+      "coid": "435247",
+      "description": "History and development of family and marital therapy. Introduction to a variety of theoretical approaches with special emphasis on family systems. Exploration of the therapy process and the relationship of therapist’s personality to that process. 4 hours lecture/discussion",
+      "prerequisites": "Graduate standing in Psychology MS Program or permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5555",
+      "title": "Psychopathology",
+      "units": "3",
+      "ge": null,
+      "coid": "437342",
+      "description": "Clinical features, diagnosis, prognosis, and suggested etiological explanations of DSM diagnoses.",
+      "prerequisites": "Graduate standing in Psychology MS Program or permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5565",
+      "title": "Advanced Testing and Professional Issues",
+      "units": "3",
+      "ge": null,
+      "coid": "435489",
+      "description": "Theory and practice in assessment techniques in clinical practice. Includes use of assessment procedures in diagnosis, outcome evaluation, as an intervention strategy, and in clinical research. Also includes professional issues such as interviewing skills and issues in professional practice. Corequisite(s): PSY 5565L .",
+      "prerequisites": "Graduate standing in Psychology MS Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5565L",
+      "title": "Advanced Testing and Professional Issues Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435488",
+      "description": "Theory and practice in assessment techniques in clinical practice. Includes use of assessment procedures in diagnosis, outcome evaluation, as an intervention strategy, and in clinical research. Also includes professional issues such as interviewing skills and issues in professional practice. Corequisite(s): PSY 5565 .",
+      "prerequisites": "Admission to MS program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5570",
+      "title": "Ethical Issues in Counseling and Family Therapy",
+      "units": "3",
+      "ge": null,
+      "coid": "435496",
+      "description": "Values, ethics, and legal issues in relational therapy. Emphasis on ethical thought and decision-making. Review of professional codes and family, marriage, and divorce laws as they relate to clinical practice.",
+      "prerequisites": "Graduate standing in Psychology MS Program or permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5575",
+      "title": "Multicultural and Gender Issues in Therapy and Recovery Model",
+      "units": "3",
+      "ge": null,
+      "coid": "435248",
+      "description": "Exploration of gender and race/ethnic relations and their impact on family therapy interventions, on a micro as well as a macro level. Analysis of roles and tasks in families from a multicultural and gender perspective. Discussion of Recovery Model. 3 hours lecture/discussion.",
+      "prerequisites": "Graduate standing in Psychology MS Program or permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5580",
+      "title": "Introduction to Evidence-Based Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "436954",
+      "description": "Introduction to psychological services and essential clinical skills required of marital and family therapists through discussions of and exposure to evidence-based programs used in clinical settings. The integration of theory and practice, professional roles, and personal intervention styles are also explored.",
+      "prerequisites": "Graduate standing in Psychology MS Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5581",
+      "title": "Practicum I",
+      "units": "2",
+      "ge": null,
+      "coid": "435249",
+      "description": "Introduction to supervised experience in clinical skills required of marital and family therapists. Group supervision through video-taped sessions, and live supervision and case notes, will focus on difficult aspects of case management for the beginning therapist.",
+      "prerequisites": "Graduate standing in Psychology MS Program and PSY 5580 , or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5582",
+      "title": "Practicum II",
+      "units": "1",
+      "ge": null,
+      "coid": "435250",
+      "description": "Introduction to supervised experience in clinical skills required of marital and family therapists. Group supervision through video-taped sessions, and live supervision and case notes, will focus on difficult aspects of case management for the beginning therapist.",
+      "prerequisites": "PSY 5581 and Graduate standing in Psychology MS Program, or permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 5583",
+      "title": "Practicum III",
+      "units": "2",
+      "ge": null,
+      "coid": "435251",
+      "description": "Introduction to supervised experience in clinical skills required of marital and family therapists. Group supervision through video-taped sessions, and live supervision and case notes, will focus on difficult aspects of case management for the beginning therapist. Corequisite(s): PSY 6620 .",
+      "prerequisites": "Second year status in Psychology MS program and PSY 5582 , or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5584",
+      "title": "Practicum IV",
+      "units": "2",
+      "ge": null,
+      "coid": "435252",
+      "description": "Fifth in a series. Group supervision of students’ therapy sessions with marriage and family clients. Supervision and peer discussion of video-taped and live sessions will be used. Presentation of student findings for their difficult and/or instructive cases for supervision. Corequisite(s): PSY 6621 .",
+      "prerequisites": "Second year status in Psychology MS program and PSY 5583 , or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5598",
+      "title": "Human Sexuality",
+      "units": "3",
+      "ge": null,
+      "coid": "435497",
+      "description": "Interdisciplinary considerations (biological, psychological, social) of research and theory related to human sexuality. Prevention and remediation of sexual problems. Clinical case material used to demonstrate dysfunctions and treatment.",
+      "prerequisites": "Graduate standing in Psychology MS Program",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438692",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438693",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438694",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 6605",
+      "title": "Diagnosis and Treatment of the Family/Family Violence",
+      "units": "3",
+      "ge": null,
+      "coid": "436959",
+      "description": "Part of a three-course sequence in Marriage and Family Therapy. Diagnostic assessment of family dysfunctions and therapeutic interventions, covering various approaches. Examination of family violence issues, including elder abuse.",
+      "prerequisites": "PSY 5515 , PSY 5545 , and Graduate standing in Psychology MS Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 6606",
+      "title": "Diagnosis and Treatment of Couples and Spousal Abuse",
+      "units": "3",
+      "ge": null,
+      "coid": "436319",
+      "description": "Part of a three-course sequence of didactic material in Marriage and Family Therapy. The focus is on the diagnostic assessment of couple dysfunctions and therapeutic interventions covering various approaches to working with couples. 3 hours lecture/problem-solving.",
+      "prerequisites": "PSY 5515 , PSY 5545 ; and Graduate standing in Psychology MS Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 6607",
+      "title": "Diagnosis and Treatment of Children and Child Abuse",
+      "units": "3",
+      "ge": null,
+      "coid": "436306",
+      "description": "Part of a three-course sequence of didactic material in Marriage and Family Therapy. The focus is on the diagnostic assessment of child behavior problems and child abuse, and interventions with children and families covering various approaches to working with children.",
+      "prerequisites": "PSY 5515 , PSY 5545 ; and Graduate standing in Psychology MS Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 6610",
+      "title": "Substance Use Problems: Individual, Family, and Group Processes",
+      "units": "3",
+      "ge": null,
+      "coid": "435494",
+      "description": "Exploration of theory, research, and clinical treatment of substance use disorders. Contemporary empirically supported approaches to substance use disorders. Includes discussion of drug effects, patterns of use, motivational interviewing, relapse prevention, family interventions, self-help programs, and methods of group therapy. 3 hours lecture/discussion",
+      "prerequisites": "Graduate standing in Psychology MS Program or permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 6620",
+      "title": "Supervised Practice",
+      "units": "4",
+      "ge": null,
+      "coid": "436317",
+      "description": "Directed and supervised training in psychotherapy in a field placement or on-campus clinic setting; weekly case presentations and discussions. Student functions with substantial responsibility appropriate to the level of training. Corequisite(s): PSY 5583 .",
+      "prerequisites": "Second year graduate standing in PSY MS program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 6621",
+      "title": "Advanced Supervised Practice",
+      "units": "4",
+      "ge": null,
+      "coid": "436318",
+      "description": "Directed and supervised training in psychotherapy in a field placement or on-campus clinic setting. This continues the format of PSY 6620 with steadily increasing student responsibility and autonomy. Weekly case presentations and discussions. Corequisite(s): PSY 5584 .",
+      "prerequisites": "C or better in PSY 5583 and PSY 6620 ; or “I” grade(s) with letter grade(s) pending.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 6692",
+      "title": "Independent Study",
+      "units": "1",
+      "ge": null,
+      "coid": "435253",
+      "description": "Independent study of a particular subject under faculty supervision and consultation.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "PSY 6870",
+      "title": "Comprehensive Exam Preparation",
+      "units": "1",
+      "ge": null,
+      "coid": "439550",
+      "description": "Develop and implement a plan to prepare for the Psychology MS comprehensive examination. Develop a plan of study, prepare review materials, and practice writing answers to questions similar to what might be asked on a comprehensive exam.",
+      "prerequisites": "Completion of courses in the first year of the Psychology MS: PSY 5510 , PSY 5515 , PSY 5545 , PSY 5555 , PSY 5565 , PSY 5565L , PSY 5570 , PSY 5575 , and PSY 5580 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 2 units.",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438695",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438696",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 6970",
+      "title": "Comprehensive Exam",
+      "units": "1",
+      "ge": null,
+      "coid": "435254",
+      "description": "Essay examination based on all required coursework.",
+      "prerequisites": "Second year graduate standing and consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "psychology-m-s"
+      ]
+    },
+    {
+      "code": "PSY 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438697",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "psychology-b-a",
+      "name": "Psychology, B.A."
+    },
+    {
+      "id": "psychology-m-s",
+      "name": "Psychology, M.S."
+    },
+    {
+      "id": "psychology-minor",
+      "name": "Psychology Minor"
+    },
+    {
+      "id": "psychology-b-a-roadmap-4-year-120-units",
+      "name": "Psychology, B.A.: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "psychology-b-a-roadmap-2-year-adt-60-units",
+      "name": "Psychology, B.A.: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

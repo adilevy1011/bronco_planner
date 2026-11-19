@@ -1,0 +1,323 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:15:18+00:00",
+  "id": "multicultural-leadership-studies-interdisciplinary-minor",
+  "name": "Multicultural Leadership Studies Interdisciplinary Minor",
+  "title_on_page": "University Catalog",
+  "department": "Ethnic And Womens Studies",
+  "department_id": "ethnic-and-womens-studies",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24173",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6313",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Multicultural Leadership Studies Interdisciplinary Minor: 21 units Offered by: College of Letters, Arts, and Social Sciences , Ethnic and Women’s Studies Department Minor Required | Minor Electives | Program Website Minor Required: 6 units GEMS majors may declare a minor in the same department as their major or option if the college or department determines that the two sets of courses are clearly distinct. Please contact the Department Minor Coordinator. EWS 2900 - Multicultural Leadership (3) MHR 4020 - Leadership: Theory and Practice (3) Minor Electives: 15 units Leadership Education: 6 units Select two courses from the following list. One course must be upper-division. EWS 1450 - Introduction to Gender and Sexuality Studies (3) [GE 4A] MHR 3030 - Management of Not-for-Profit Organizations (3) MHR 4010 - Business Ethics, Diversity and Social Responsibility (3) PLS 2020 - Introduction to Comparative Government (3) [GE 4A] PSY 4490 - Leadership and Teams (3) * Or approved course in consultation with advisor. Multicultural Education: 6 units Select two courses from the following list. One course must be upper-division. ANT 1020 - Introduction to Cultural Anthropology (3) [GE 4A] EWS 1401 - Introduction to Ethnic Studies (3) [GE 6] EWS 3850 - Education and Social Change (3) EWS 3010 - Ethnic Identity (3) [GE 3C] MHR 3020 - Organizational Behavior (3) [GE 4C] PSY 3325 - Multicultural Psychology (3) [GE 4C] * Or approved course in consultation with advisor. Communication: 3 units Select one course from the following list: COM 1103 - Interpersonal Communication (3) COM 3327 - Intercultural Communication (3) [GE 4C] EWS 4250 - Gender, Power, and Em",
+  "requirements": [
+    {
+      "name": "Minor Required: 6 units",
+      "courses": [
+        "EWS 2900",
+        "MHR 4020"
+      ],
+      "raw_text": "Minor Required: 6 units"
+    },
+    {
+      "name": "Leadership Education: 6 units",
+      "courses": [
+        "EWS 1450",
+        "MHR 3030",
+        "MHR 4010",
+        "PLS 2020",
+        "PSY 4490"
+      ],
+      "raw_text": "Leadership Education: 6 units"
+    },
+    {
+      "name": "Multicultural Education: 6 units",
+      "courses": [
+        "ANT 1020",
+        "EWS 1401",
+        "EWS 3850",
+        "EWS 3010",
+        "MHR 3020",
+        "PSY 3325"
+      ],
+      "raw_text": "Multicultural Education: 6 units"
+    },
+    {
+      "name": "Communication: 3 units",
+      "courses": [
+        "COM 1103",
+        "COM 3327",
+        "EWS 4250"
+      ],
+      "raw_text": "Communication: 3 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "EWS 4250L",
+        "EWS 4310",
+        "PSY 3314"
+      ],
+      "raw_text": "or"
+    }
+  ],
+  "courses": [
+    {
+      "code": "EWS 2900",
+      "title": "Multicultural Leadership",
+      "units": "3",
+      "ge": null,
+      "coid": "437113",
+      "requirement": "Minor Required: 6 units",
+      "description": "Preparation for effective leaders in a multicultural world. Introduce the nature of leadership from a U.S. and global multicultural perspective. The implications that multicultural settings have for leadership, specifically the impact that cultural values, beliefs and worldviews have on leadership definitions, leadership styles, and communication. Application of theory and practice through simulation activities, campus projects, case studies and dialogue.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4020",
+      "title": "Leadership: Theory and Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "434796",
+      "requirement": "Minor Required: 6 units",
+      "description": "Introduction to various leadership theories so that they can identify leadership in action and accordingly understand the applications of leadership theories. Develop leadership potential within students by helping them identify their own strengths, weaknesses, and their dominant leadership style.",
+      "prerequisites": "C or better in MHR 3020 or MHR 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 1450",
+      "title": "Introduction to Gender and Sexuality Studies",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435072",
+      "requirement": "Leadership Education: 6 units",
+      "description": "[GE 4A] Introduction to the exploration of gendered and sexual identities in the U.S. and within a global context. Introduces basic concepts and perspectives in gendered and sexual lives both historically and contemporaneously by placing gender, sexuality, race, ethnicity, class, and dis/ability at the center of analysis. Attention will be given to activism and resistance to gendered and sexual inequalities, and the various ways individuals and groups have worked to create transformative change.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3030",
+      "title": "Management of Not-for-Profit Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "434792",
+      "requirement": "Leadership Education: 6 units",
+      "description": "Methods, theory, and institutional knowledge for managing not-for-profit organizations. Problems and issues in policy, organization, program, personnel, and budget unique to not-for-profit organizations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4010",
+      "title": "Business Ethics, Diversity and Social Responsibility",
+      "units": "3",
+      "ge": null,
+      "coid": "434795",
+      "requirement": "Leadership Education: 6 units",
+      "description": "Ethical reasoning skills necessary for making business decisions. Emphasis is given on developing an ethical mindset towards human diversity in organizations and corporate social responsibility. Topics to be discussed: purpose of the corporation, nature of ethics , ethical dilemmas, ethical decision making, diversity in organizations (based on race, ethnicity and accent, age, skin color, religion, physical abilities, sexual orientation, and gender) and corporate social responsibility. The main focus is to develop ethically and socially responsible managers, leaders, and organizational members.",
+      "prerequisites": "MHR 3020 or MHR 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PLS 2020",
+      "title": "Introduction to Comparative Government",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435047",
+      "requirement": "Leadership Education: 6 units",
+      "description": "[GE 4A] Provides an introduction to the comparative study of countries’ political, economic, and social/cultural systems. Several foreign countries, both Western and non-Western, are presented as cases, to illustrate the course concepts.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 4490",
+      "title": "Leadership and Teams",
+      "units": "3",
+      "ge": null,
+      "coid": "435094",
+      "requirement": "Leadership Education: 6 units",
+      "description": "Major theoretical approaches in the psychological study of leadership. Examination of traits, skills, and behaviors necessary for effective leadership. Examination of situational factors in determining what is effective leadership. Lectures, discussions, and experiential activities to assist in developing leaders. 3 hours seminar",
+      "prerequisites": "PSY 2201 , PSY 201, PSY 202, or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 1020",
+      "title": "Introduction to Cultural Anthropology",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434968",
+      "requirement": "Multicultural Education: 6 units",
+      "description": "[GE 4A] The nature of culture and cultural phenomena; comparative social, economic and political organization; religion and value systems of non-literate and folk peoples; cultural and psychological processes in the development of personality; expressive aspects of culture; applied anthropology. Anthropological uses for understanding complex contemporary societies. 3 hours lecture/discussion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 1401",
+      "title": "Introduction to Ethnic Studies",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439104",
+      "requirement": "Multicultural Education: 6 units",
+      "description": "[GE 6] Introduction to foundational theories and concepts in Ethnic Studies that examine how social institutions have historically shaped race relations and social processes producing racial, class, social, and gender inequalities and stratifications. Particular attention is given to the historical presence and contributions of Native Americans, African Americans, Asian Americans, and Latina and Latino Americans in the United States.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 3850",
+      "title": "Education and Social Change",
+      "units": "3",
+      "ge": null,
+      "coid": "437114",
+      "requirement": "Multicultural Education: 6 units",
+      "description": "Comparative theoretical and empirical overview of historically marginalized student educational issues in the United States, with special emphasis on analyzing the effects of race, gender, class, sexuality, and immigrant status on historically marginalized student’s educational attainment and achievements. An examination of how historical, social, political, and economic forces impact their educational experience. Pays specific attention to the active roles that students, parents, and communities have in educational advocacy and social change.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 3010",
+      "title": "Ethnic Identity",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "437729",
+      "requirement": "Multicultural Education: 6 units",
+      "description": "[GE 3C] Using a humanities approach, examine changes and continuities of American identities from an ethnic studies perspective. A comparative and multidisciplinary analysis of identity formation processes in the United States. Topics include immigration history, Western imperialism and colonialism, racial discrimination, laws and policies in the U.S., minority groups’ ethnic resilience and resistance against assimilation, social and political changes, the arrival and settlement of new immigrants, and the historical and contemporary transnational communities and cultures.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: May be taken up to two times, only with different topics, for a total credit of 6 units.",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3020",
+      "title": "Organizational Behavior",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434544",
+      "requirement": "Multicultural Education: 6 units",
+      "description": "[GE 4C] Introductory experiences in the basics of organizational behavior. Emphasis is given to the application of scientific knowledge drawn from different social sciences (primarily psychology, social psychology, sociology, political science, and cultural anthropology) to understand and manage human behavior in organizations. Topics discussed: individual differences, perception, attribution, motivation, working in teams, leadership, power and influence, conflict management, culture, and ethical decision making in the organizational context.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 3325",
+      "title": "Multicultural Psychology",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434932",
+      "requirement": "Multicultural Education: 6 units",
+      "description": "[GE 4C] Examination and exploration of the field of Cross-Cultural/Multicultural Psychology. Examines how psychological theory and research are applied for understanding multicultural issues, primarily within the United States. Explores how issues such as racism, ethnic identity, and media portrayal impact both the communities of color and the majority culture, and how these issues relate to contemporary topics. Some aspects of cross-national psychology may be explored, depending upon instructor’s preference.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 1103",
+      "title": "Interpersonal Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436255",
+      "requirement": "Communication: 3 units",
+      "description": "Examination of the variables determining communication behavior. Development of understanding through involvement in a variety of structured face-to-face interactions with other students.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3327",
+      "title": "Intercultural Communication",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434928",
+      "requirement": "Communication: 3 units",
+      "description": "[GE 4C] Considers complexities of communication in a culturally diverse world toward the goal of improving communication effectiveness. Assimilates theory and research from anthropology, sociology, psychology, ethnic and gender studies, conflict & peace studies, and communication. Examines roles of culture, social groups, and individuals in shaping communication.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 4250",
+      "title": "Gender, Power, and Emerging Technologies",
+      "units": "2",
+      "ge": "GE 4C",
+      "coid": "437742",
+      "requirement": "Communication: 3 units",
+      "description": "[GE 4C] Examination of the interrelationship between identity, power and technological competency while addressing the acceleration of technological innovation and dissemination. Using perspectives from ethnic, gender, and sexuality studies, history, sociology, cultural studies, and political activism, students will explore connections between access and mastery of technology with power and changing societal patterns. Analysis of the emerging technologies that continually restructure the local and global conditions of human experience by changing societal patterns. Corequisite(s): EWS 4250L .",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 4250L",
+      "title": "Gender, Power, and Emerging Technologies Laboratory",
+      "units": "1",
+      "ge": "GE 4C",
+      "coid": "439291",
+      "requirement": "or",
+      "description": "[GE 4C] Examination of the interrelationship between identity, power and technological competency while addressing the acceleration of technological innovation and dissemination. Using perspectives from ethnic, gender, and sexuality studies, history, sociology, cultural studies, and political activism, students will explore connections between access and mastery of technology with power and changing societal patterns. Analysis of the emerging technologies that continually restructure the local and global conditions of human experience by changing societal patterns. Corequisite(s): EWS 4250 .",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 4310",
+      "title": "Ethnicity, Gender and Religion/Spirituality",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437733",
+      "requirement": "or",
+      "description": "[GE 4C] Explores religious experiences of selected ethnic and gender groups from an interdisciplinary and social science approach. The course examines the role played by religious traditions and spiritual beliefs in indigenous cultural life, migration, ethnic networking, family, social conflicts, social change and cultural/ethnic identity. Explore roles played by women in religious and spiritual activities, address inter- and intra-ethnic group similarities and differences in religious and spiritual traditions and practices.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 3314",
+      "title": "Human Relations in Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "435104",
+      "requirement": "or",
+      "description": "Experiential seminar with development of self-understanding and awareness of individual differences, and building interpersonal skills and strategies needed for effective functioning in the contemporary workplace. Skills include interpersonal communication, teamwork skills, problem solving and decision making, cross-cultural relations, positive political skills, conflict resolution skills, strategies for motivating and mentoring others; strategies for managing personal productivity and stress, strategies for self-motivation, goal setting, and managing one’s career, and business ethics.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "EWS 1401",
+    "EWS 1450",
+    "EWS 2900",
+    "EWS 3010",
+    "EWS 3850",
+    "EWS 4250",
+    "EWS 4250L",
+    "EWS 4310"
+  ]
+}

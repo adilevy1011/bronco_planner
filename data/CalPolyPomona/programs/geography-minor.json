@@ -1,0 +1,121 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:15:27+00:00",
+  "id": "geography-minor",
+  "name": "Geography Minor",
+  "title_on_page": "University Catalog",
+  "department": "Geography And Anthropology",
+  "department_id": "geography-and-anthropology",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24232",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6333",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Geography Minor: 22 units Offered by: College of Letters, Arts, and Social Sciences , Geography and Anthropology Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 10 units GEO 1010 - Physical Geography (3) [GE 5A] GEO 1010L - Physical Geography Laboratory (1) [GE 5C] GEO 1020 - Human Geography (3) [GE 4A] GEO 2400 - Geographic Information Systems (2) GEO 2400L - Geographic Information Systems Laboratory (1) Minor Electives: 12 units GEO 3510 - Geography of California (3) [GE 4C or 5D] GEO XXXX - Any three Geography courses not listed above; at least two of which (6 units) must be 3000-level or 4000-level (9). Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 10 units",
+      "courses": [
+        "GEO 1010",
+        "GEO 1010L",
+        "GEO 1020",
+        "GEO 2400",
+        "GEO 2400L"
+      ],
+      "raw_text": "Minor Required: 10 units"
+    },
+    {
+      "name": "Minor Electives: 12 units",
+      "courses": [
+        "GEO 3510"
+      ],
+      "raw_text": "Minor Electives: 12 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "GEO 1010",
+      "title": "Physical Geography",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "438823",
+      "requirement": "Minor Required: 10 units",
+      "description": "[GE 5A] Basic principles of physical geography. Significance of earth-related distribution patterns with reference to their effect on human activities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 1010L",
+      "title": "Physical Geography Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "438825",
+      "requirement": "Minor Required: 10 units",
+      "description": "[GE 5C] Basic principles of physical geography. Significance of earth-related distribution patterns with reference to their effect on human activities. Pre or Corequisite(s): GEO 1010 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "GEO 1020",
+      "title": "Human Geography",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434980",
+      "requirement": "Minor Required: 10 units",
+      "description": "[GE 4A] Basic principles of cultural geography. Significance of people-related distribution patterns with reference to their effect on human activities. 3 hours lecture/discussion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 2400",
+      "title": "Geographic Information Systems",
+      "units": "2",
+      "ge": null,
+      "coid": "436011",
+      "requirement": "Minor Required: 10 units",
+      "description": "Presents geographic concepts in the framework of geographic information systems (GIS). Basic understanding of the theoretical basis of GIS and spatial data. Basic techniques for the computer processing of geographical systems analysis and modeling. Understanding of questions that GIS can answer. Corequisite(s): GEO 2400L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 2400L",
+      "title": "Geographic Information Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437425",
+      "requirement": "Minor Required: 10 units",
+      "description": "Presents geographic concepts in the framework of geographic information systems (GIS). Basic understanding of the theoretical basis of GIS and spatial data. Basic techniques for the computer processing of geographical systems analysis and modeling. Understanding of questions that GIS can answer. 3 hours laboratory. Corequisite(s): GEO 2400 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3510",
+      "title": "Geography of California",
+      "units": "3",
+      "ge": "GE 4C or 5D",
+      "coid": "434981",
+      "requirement": "Minor Electives: 12 units",
+      "description": "[GE 4C or 5D] Location, description, and interplay of California’s human and natural resources. The influence of physical features upon the economic activities and sequence of occupation of California. Particular attention to the relationship of current social and environmental problems to their geographical roots.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "GEO 1010",
+    "GEO 1010L",
+    "GEO 1020",
+    "GEO 2400",
+    "GEO 2400L",
+    "GEO 3510"
+  ]
+}

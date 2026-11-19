@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:12:07+00:00",
+  "id": "engineering-management-m-s",
+  "name": "Engineering Management, M.S.",
+  "title_on_page": "University Catalog",
+  "department": "Industrial And Manufacturing Engineering",
+  "department_id": "industrial-and-manufacturing-engineering",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24193",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6321",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Engineering Management, M.S.: 30 units Offered by: College of Engineering , Industrial and Manufacturing Engineering Department Major Required | Major Electives | Culminating Experience | Program Website Major Required: 24 units Select from List of Courses: 12 units EMT 5380 - Advanced Engineering Economy (3) EMT 5390 - Advanced Human Factors in Engineering Design (3) EMT 5490 - Advanced Methods in Operations Research (3) EMT 5720 - Total Quality Management in Engineering (3) EMT 5730 - Operations and Supply Chain Management (3) EMT 5740 - Advance Facilities Planning (3) Select from List of Courses: 12 units EMT 5140 - Statistics Essentials for Business Analytics (3) EMT 5620 - Strategic Human Resources Management (3) EMT 6050 - Business Data Analytics and Modeling (3) EMT 6080 - Accounting and Managerial Decisions (3) EMT 6360 - Project Management (3) Major Electives: 3 units Select 3 EMT units not previously take as a Major Required course from the following: EMT 5380 - Advanced Engineering Economy (3) EMT 5390 - Advanced Human Factors in Engineering Design (3) EMT 5490 - Advanced Methods in Operations Research (3) EMT 5720 - Total Quality Management in Engineering (3) EMT 5730 - Operations and Supply Chain Management (3) EMT 5740 - Advance Facilities Planning (3) Culminating Experience: 3 units Select 3 units from the following courses: EGR 6960 - Master’s Degree Thesis (1-2) (3 units required) EMT 6950 - Master’s Project (1-3) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page",
+  "requirements": [
+    {
+      "name": "Select from List of Courses: 12 units",
+      "courses": [
+        "EMT 5380",
+        "EMT 5390",
+        "EMT 5490",
+        "EMT 5720",
+        "EMT 5730",
+        "EMT 5740",
+        "EMT 5140",
+        "EMT 5620",
+        "EMT 6050",
+        "EMT 6080",
+        "EMT 6360"
+      ],
+      "raw_text": "Select from List of Courses: 12 units"
+    },
+    {
+      "name": "Major Electives: 3 units",
+      "courses": [
+        "EMT 5380",
+        "EMT 5390",
+        "EMT 5490",
+        "EMT 5720",
+        "EMT 5730",
+        "EMT 5740"
+      ],
+      "raw_text": "Major Electives: 3 units"
+    },
+    {
+      "name": "Culminating Experience: 3 units",
+      "courses": [
+        "EGR 6960",
+        "EMT 6950"
+      ],
+      "raw_text": "Culminating Experience: 3 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "EMT 5380",
+      "title": "Advanced Engineering Economy",
+      "units": "3",
+      "ge": null,
+      "coid": "435158",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Engineering economic decision criteria and models for evaluating capital investment proposals and engineering project. Replacement studies, risk and uncertainty, tax effects, intangibles, probabilistic models, computer techniques.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 5390",
+      "title": "Advanced Human Factors in Engineering Design",
+      "units": "3",
+      "ge": null,
+      "coid": "435744",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Methods and research techniques in engineering design of optimum man-machine systems. Designing systems with the objective of developing optimum combinations of physical and human components. Effects of environment on human performance. Man-machine dynamics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 5490",
+      "title": "Advanced Methods in Operations Research",
+      "units": "3",
+      "ge": null,
+      "coid": "436054",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Methodology of operations research and algorithms for system optimization, emphasis on methods yielding practical numerical procedures. Linear programming and extension, goal and integer programming, transportation problem, Markov chain, queuing theory, and decision theory.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 5720",
+      "title": "Total Quality Management in Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "436053",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Introduction to the principles and practices of Total Quality Management (TQM). The tools and techniques needed for understanding and implementing TQM. A practical state-of-the-art approach will be used. Applications in service, manufacturing, government, military, construction, education, small business, health care and nonprofit organizations will be presented.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 5730",
+      "title": "Operations and Supply Chain Management",
+      "units": "3",
+      "ge": null,
+      "coid": "436055",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Introduction to Operations and Supply Chain Management, Process analysis and value stream mapping, quality management, Six Sigma/Lean Operations, Inventory Management, revenue Management, Interrelationship of Operations with other business functions.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 5740",
+      "title": "Advance Facilities Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "436056",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Planning, analyzing, justifying, controlling and evaluating physical facilities. Long and short range facilities plans, decision criteria, authorization and control procedures, post-completion audits. Resource allocation, optimization, simulation, and computer techniques. Technical, economic, ecological, safety, and intangible factors. Case studies.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 5140",
+      "title": "Statistics Essentials for Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "438917",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Cross Listed as: GBA 5140 Applications of managerial statistics for business decisions. Data collection, confidence interval estimation of mean and proportion, one and two-population hypothesis testing of mean and proportion, one-way and two-way Chi-square testing, simple linear regression, multiple linear regression, and Analysis of Variance. Use of computers.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 5620",
+      "title": "Strategic Human Resources Management",
+      "units": "3",
+      "ge": null,
+      "coid": "438918",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Cross Listed as: GBA 5620 Analytical and descriptive overview of all the main sub-fields within personnel (human resources) management. Typical personnel problems of diverse organizations and their solutions, using contemporary techniques in accordance with legal requirements.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 6050",
+      "title": "Business Data Analytics and Modeling",
+      "units": "3",
+      "ge": null,
+      "coid": "438919",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Cross Listed as: GBA 6050 Data analytics methods and business applications. Uses of data and information in organizational decision making. Data gathering and sharing. Data mining. Descriptive, predictive and prescriptive modeling. Ethical issues in data analytics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 6080",
+      "title": "Accounting and Managerial Decisions",
+      "units": "3",
+      "ge": null,
+      "coid": "438920",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Cross Listed as: GBA 6080 Use of accounting information for decision making within organizations. Special attention to the design and managerial uses of cost and budgeting systems.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 6360",
+      "title": "Project Management",
+      "units": "3",
+      "ge": null,
+      "coid": "438921",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Cross Listed as: GBA 6360 Project Management knowledge areas. Project initiation and charter. Project triple constraints, Time and cost Management, CPM, PERT, time and cost trade off and project expediting, resource allocation and leveling. Risk management, Management of human resources, team dynamics, and organizational issues. Project monitoring and control, earned value analysis. Procurement and Quality Management.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EGR 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "1-2",
+      "ge": null,
+      "coid": "436328",
+      "requirement": "Culminating Experience: 3 units",
+      "description": "Independent investigation intended to be an extension of an existing body of knowledge into an area not thoroughly investigated before, directed by a committee of graduate faculty members, and resulting in a published thesis. Must be repeated as appropriate. Students must register through the Engineering Graduate Studies Office. Credit assigned upon successful completion of entire thesis and approval of the committee. May be taken up to three times for a total credit of 6 units. Students must register through the Engineering Graduate Studies Office. Credit assigned upon successful completion of entire thesis and approval of the committee.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "EMT 6950",
+      "title": "Master’s Project",
+      "units": "1-3",
+      "ge": null,
+      "coid": "439309",
+      "requirement": "Culminating Experience: 3 units",
+      "description": "Individual and independent work on a Master’s Degree Project. Presentation of the project in acceptable written and oral form based on the project proposal, plan, and schedule approved by the advisor. Regular meetings and discussions with the advisor. Credit assigned upon acceptance of the project.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: A total of 3 units are required. Can be taken over two semesters (e.g. 1 units + 2 units) or over three semesters (1 units + 1 units + 1 units). Course may be completed within a single semester with advisor approval.",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "EMT 5140",
+    "EMT 5380",
+    "EMT 5390",
+    "EMT 5490",
+    "EMT 5620",
+    "EMT 5720",
+    "EMT 5730",
+    "EMT 5740",
+    "EMT 6050",
+    "EMT 6080",
+    "EMT 6360",
+    "EMT 6950"
+  ]
+}

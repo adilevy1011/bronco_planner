@@ -1,0 +1,360 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:10:19+00:00",
+  "id": "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+  "name": "Educational Leadership, Ed.D. - Leadership in Community Colleges and Postsecondary Education Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Educational Leadership",
+  "department_id": "educational-leadership",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24517",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6352",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Educational Leadership, Ed.D. - Leadership in Community Colleges and Postsecondary Education Subplan/Option: 60 units Offered by: College of Education and Integrative Studies , Educational Leadership Department Major Required | Subplan/Option Required | Notes | Program Website Major Required: 45 units EDD 7000 - Leadership for Learning (3) EDD 7080 - Building School/Community Partnerships for Student Success (3) EDD 7140 - Leadership for Equity and Advocacy (3) EDD 7170 - Global Perspectives on Educational Leadership, Achievement, and Equity (3) Research EDD 7030 - Quantitative Research Methods for School Improvement (3) EDD 7060 - Qualitative Methods for School Improvement (3) EDD 7110 - Advanced Quantitative Research (3) or EDD 7111 - Advanced Qualitative Research (3) Dissertation Seminar EDD 7010 - Research Learning Community Seminar: Introduction to Doctoral Studies and Dissertation Research (3) EDD 7100 - Research Learning Community Seminar: Literature Review (1) EDD 7150 - Research Learning Community Seminar: Development of a Dissertation Proposal (3) EDD 7180 - Synthesizing Dissertation Research and Concepts of Transformational Leadership (3) EDD 7190 - Research Learning Community Seminar: Dissertation Completion and Doctoral Deliverables (2) Dissertation EDD 8000 - Dissertation (1-6) (12 units required; 6 units in Fall, 6 units in Spring) Subplan/Option Required: 15 units EDD 7320 - Teaching, Learning and Student Success in Postsecondary Settings (3) EDD 7330 - Data-Driven Assessment and Evaluation in Postsecondary Education (3) EDD 7340 - Organizational Culture, Leadership and Change in Postsecondary Education (3) EDD 7370 - Governanc",
+  "requirements": [
+    {
+      "name": "Major Required: 45 units",
+      "courses": [
+        "EDD 7000",
+        "EDD 7080",
+        "EDD 7140",
+        "EDD 7170"
+      ],
+      "raw_text": "Major Required: 45 units"
+    },
+    {
+      "name": "Research",
+      "courses": [
+        "EDD 7030",
+        "EDD 7060",
+        "EDD 7110"
+      ],
+      "raw_text": "Research"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "EDD 7111"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Dissertation Seminar",
+      "courses": [
+        "EDD 7010",
+        "EDD 7100",
+        "EDD 7150",
+        "EDD 7180",
+        "EDD 7190"
+      ],
+      "raw_text": "Dissertation Seminar"
+    },
+    {
+      "name": "Dissertation",
+      "courses": [
+        "EDD 8000"
+      ],
+      "raw_text": "Dissertation"
+    },
+    {
+      "name": "Subplan/Option Required: 15 units",
+      "courses": [
+        "EDD 7320",
+        "EDD 7330",
+        "EDD 7340",
+        "EDD 7370",
+        "EDD 7390"
+      ],
+      "raw_text": "Subplan/Option Required: 15 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "EDD 7000",
+      "title": "Leadership for Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "436419",
+      "requirement": "Major Required: 45 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7080",
+      "title": "Building School/Community Partnerships for Student Success",
+      "units": "3",
+      "ge": null,
+      "coid": "437094",
+      "requirement": "Major Required: 45 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7140",
+      "title": "Leadership for Equity and Advocacy",
+      "units": "3",
+      "ge": null,
+      "coid": "437096",
+      "requirement": "Major Required: 45 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7170",
+      "title": "Global Perspectives on Educational Leadership, Achievement, and Equity",
+      "units": "3",
+      "ge": null,
+      "coid": "437097",
+      "requirement": "Major Required: 45 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7030",
+      "title": "Quantitative Research Methods for School Improvement",
+      "units": "3",
+      "ge": null,
+      "coid": "436420",
+      "requirement": "Research",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7060",
+      "title": "Qualitative Methods for School Improvement",
+      "units": "3",
+      "ge": null,
+      "coid": "437153",
+      "requirement": "Research",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7110",
+      "title": "Advanced Quantitative Research",
+      "units": "3",
+      "ge": null,
+      "coid": "437033",
+      "requirement": "Research",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7111",
+      "title": "Advanced Qualitative Research",
+      "units": "3",
+      "ge": null,
+      "coid": "437158",
+      "requirement": "or",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7010",
+      "title": "Research Learning Community Seminar: Introduction to Doctoral Studies and Dissertation Research",
+      "units": "3",
+      "ge": null,
+      "coid": "436418",
+      "requirement": "Dissertation Seminar",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7100",
+      "title": "Research Learning Community Seminar: Literature Review",
+      "units": "1",
+      "ge": null,
+      "coid": "437032",
+      "requirement": "Dissertation Seminar",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7150",
+      "title": "Research Learning Community Seminar: Development of a Dissertation Proposal",
+      "units": "3",
+      "ge": null,
+      "coid": "437035",
+      "requirement": "Dissertation Seminar",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7180",
+      "title": "Synthesizing Dissertation Research and Concepts of Transformational Leadership",
+      "units": "3",
+      "ge": null,
+      "coid": "437036",
+      "requirement": "Dissertation Seminar",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7190",
+      "title": "Research Learning Community Seminar: Dissertation Completion and Doctoral Deliverables",
+      "units": "2",
+      "ge": null,
+      "coid": "437666",
+      "requirement": "Dissertation Seminar",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 8000",
+      "title": "Dissertation",
+      "units": "1-6",
+      "ge": null,
+      "coid": "437100",
+      "requirement": "Dissertation",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7320",
+      "title": "Teaching, Learning and Student Success in Postsecondary Settings",
+      "units": "3",
+      "ge": null,
+      "coid": "439282",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7330",
+      "title": "Data-Driven Assessment and Evaluation in Postsecondary Education",
+      "units": "3",
+      "ge": null,
+      "coid": "439283",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7340",
+      "title": "Organizational Culture, Leadership and Change in Postsecondary Education",
+      "units": "3",
+      "ge": null,
+      "coid": "439285",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7370",
+      "title": "Governance and Policy in Community Colleges and Postsecondary Education",
+      "units": "3",
+      "ge": null,
+      "coid": "439284",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7390",
+      "title": "Leadership in Postsecondary Strategic Planning and Resource Allocation",
+      "units": "3",
+      "ge": null,
+      "coid": "439286",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "EDD 7000",
+    "EDD 7010",
+    "EDD 7030",
+    "EDD 7060",
+    "EDD 7080",
+    "EDD 7100",
+    "EDD 7110",
+    "EDD 7111",
+    "EDD 7140",
+    "EDD 7150",
+    "EDD 7170",
+    "EDD 7180",
+    "EDD 7190",
+    "EDD 7320",
+    "EDD 7330",
+    "EDD 7340",
+    "EDD 7370",
+    "EDD 7390",
+    "EDD 8000"
+  ]
+}

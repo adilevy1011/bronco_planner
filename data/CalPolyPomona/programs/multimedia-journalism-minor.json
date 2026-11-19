@@ -1,0 +1,253 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:13:34+00:00",
+  "id": "multimedia-journalism-minor",
+  "name": "Multimedia Journalism Minor",
+  "title_on_page": "University Catalog",
+  "department": "Communication",
+  "department_id": "communication",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24212",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6330",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Multimedia Journalism Minor: 22 units Offered by: College of Letters, Arts, and Social Sciences , Communication Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 13 units COM 1107 - Copyediting (3) COM 2217 - Reporting (3) COM 3211 - Multimedia Journalism (3) COM 3351A - News Practicum Activity (1) and COM 3351W - News Practicum (3) OR COM 3352 - Magazine Practicum (3) and COM 3352A - Magazine Practicum Activity (1) Minor Electives: 9 units COM 1104 - Podcasting and the Art of Audio Storytelling (3) COM 2232 - Photojournalism (3) COM 3301 - Video Journalism (3) COM 3310 - Data Journalism (3) COM 3315 - Sports Communication (3) COM 4130 - Social Justice Journalism (3) COM 4180 - Investigative Journalism (3) Notes: Students enrolled in these programs may not declare this minor: Communication, B.S. - Multimedia Journalism Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 13 units",
+      "courses": [
+        "COM 1107",
+        "COM 2217",
+        "COM 3211",
+        "COM 3351A"
+      ],
+      "raw_text": "Minor Required: 13 units"
+    },
+    {
+      "name": "and",
+      "courses": [
+        "COM 3351W",
+        "COM 3352A"
+      ],
+      "raw_text": "and"
+    },
+    {
+      "name": "OR",
+      "courses": [
+        "COM 3352"
+      ],
+      "raw_text": "OR"
+    },
+    {
+      "name": "Minor Electives: 9 units",
+      "courses": [
+        "COM 1104",
+        "COM 2232",
+        "COM 3301",
+        "COM 3310",
+        "COM 3315",
+        "COM 4130",
+        "COM 4180"
+      ],
+      "raw_text": "Minor Electives: 9 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "COM 1107",
+      "title": "Copyediting",
+      "units": "3",
+      "ge": null,
+      "coid": "437544",
+      "requirement": "Minor Required: 13 units",
+      "description": "Instruction in the editorial process of writing text that is clear, correct, concise, comprehensible, and consistent. Use of the Associated Press style manual and reference materials. Applying appropriate level of copyediting and eliminating bias.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2217",
+      "title": "Reporting",
+      "units": "3",
+      "ge": null,
+      "coid": "436515",
+      "requirement": "Minor Required: 13 units",
+      "description": "Reporting and writing the news. Emphasis on news gathering, interviewing and writing principles. Determining newsworthiness, using sources, writing news leads, and developing news stories. Pre or Corequisite(s): COM 106, COM 1106 , or COM 1107 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3211",
+      "title": "Multimedia Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "439210",
+      "requirement": "Minor Required: 13 units",
+      "description": "Introduction to multimedia storytelling practices, including audio, visual, and multi-platform journalism. Utilizing different technologies and software to produce multimedia news stories.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3351A",
+      "title": "News Practicum Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435555",
+      "requirement": "Minor Required: 13 units",
+      "description": "News practicum functions as a multimedia news laboratory for student journalists to deliver informative and compelling content to a dynamic and diverse campus community through The Poly Post student newspaper. Preparation for competitive careers in communication through a simulated newsroom environment. Gain practical news experience, honing reporting, writing, photography, and videography skills across various beats like news, arts and culture, and sports.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units, with a maximum of 1 unit per semester.",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "COM 3351W",
+      "title": "News Practicum",
+      "units": "3",
+      "ge": null,
+      "coid": "439458",
+      "requirement": "and",
+      "description": "News practicum functions as a multimedia news laboratory for student journalists to deliver informative and compelling content to a dynamic and diverse campus community through The Poly Post student newspaper. Preparation for competitive careers in communication through a simulated newsroom environment. Gain practical news experience, honing reporting, writing, photography, and videography skills across various beats like news, arts and culture, and sports. Writing-Intensive courses must be passed with a C or higher to count toward the university’s 3-unit writing requirement. Corequisite(s): COM 3351A .",
+      "prerequisites": "COM 1106 or COM 1107 , COM 2217 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 9 units, with a maximum of 3 units per semester.",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "COM 3352",
+      "title": "Magazine Practicum",
+      "units": "3",
+      "ge": null,
+      "coid": "439532",
+      "requirement": "OR",
+      "description": "Magazine production for beginning staff members. Emphasis on writing, layout, and production. Corequisite(s): COM 3352A .",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 9 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3352A",
+      "title": "Magazine Practicum Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435556",
+      "requirement": "and",
+      "description": "Magazine practicum functions as a magazine laboratory for student journalists to deliver informative and compelling feature stories to a dynamic and diverse campus community through The Poly Pulse student magazine. Preparation for competitive careers in communication through a simulated newsroom environment. Learn the function of magazines and their design, how to develop story ideas, how to write the different elements of a feature story and the different types of magazine articles, as well as in-depth interviewing and reporting techniques. Corequisite(s): COM 3352 .",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units, with a maximum of 1 unit per semester.",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "COM 1104",
+      "title": "Podcasting and the Art of Audio Storytelling",
+      "units": "3",
+      "ge": null,
+      "coid": "439515",
+      "requirement": "Minor Electives: 9 units",
+      "description": "Introductory overview of podcast production and audio storytelling. Emphasis on developing ideas for podcast series, conducting interviews with invited guests, script writing, recording quality sound, editing audio using software like Audacity, getting podcasts on streaming services like Spotify and Apple Podcasts, and social media marketing strategies to attract and retain listeners. Develop limited series podcast, record and edit their first episodes, outline remaining episodes, and develop a post-production social media marketing plan.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "COM 2232",
+      "title": "Photojournalism",
+      "units": "3",
+      "ge": null,
+      "coid": "435547",
+      "requirement": "Minor Electives: 9 units",
+      "description": "Photography for media publications and public relations. Photo editing, picture stories and photo illustrations and photography and lighting for newspapers, magazines, and other media publications.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3301",
+      "title": "Video Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "435548",
+      "requirement": "Minor Electives: 9 units",
+      "description": "Gathering, writing and editing of news for the broadcast media. Introduction to broadcast news production. Beginning field production.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3310",
+      "title": "Data Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "437546",
+      "requirement": "Minor Electives: 9 units",
+      "description": "Finding, interpreting, and displaying data guided by ethical and legal responsibilities. Utilizing data sets and software to produce and visualize news stories by employing spreadsheets, charts, and maps.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3315",
+      "title": "Sports Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "439454",
+      "requirement": "Minor Electives: 9 units",
+      "description": "A comprehensive exploration of sports journalism, covering news writing for print and broadcast media, data reporting in the sports context, as well as sports public relations, including branding, image management, advertising, event promotion and sponsorships. Address and respond to ethical challenges in the field of sports communication.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "COM 4130",
+      "title": "Social Justice Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "439457",
+      "requirement": "Minor Electives: 9 units",
+      "description": "Newsgathering and reporting on various communities, particularly communities that are overlooked or underrepresented in news and groups that are systemically marginalized by mainstream media. Emphasis on community beats and advocacy journalism. Focus will include learning to navigate primary and secondary sources, conduct background research, and closely examine public records, public policy, data, and governmental institutions.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "COM 4180",
+      "title": "Investigative Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "437580",
+      "requirement": "Minor Electives: 9 units",
+      "description": "Researching and writing investigative news stories. Practical skills and ethical principles of investigative reporting. A project-based class in which students will investigate one topic for the majority of the semester.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "COM 1104",
+    "COM 1107",
+    "COM 2217",
+    "COM 2232",
+    "COM 3211",
+    "COM 3301",
+    "COM 3310",
+    "COM 3315",
+    "COM 3351A",
+    "COM 3351W",
+    "COM 3352",
+    "COM 3352A",
+    "COM 4130",
+    "COM 4180"
+  ]
+}

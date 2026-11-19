@@ -1,0 +1,255 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:34+00:00",
+  "id": "business-administration-b-s-management-and-human-resources-subplan-option-as-t-with-business-administration-2-0",
+  "name": "Business Administration, B.S. - Management and Human Resources Subplan/Option: AS-T with Business Administration 2.0",
+  "title_on_page": "University Catalog",
+  "department": "Management And Human Resources",
+  "department_id": "management-and-human-resources",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24551",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6309",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Business Administration, B.S. - Management and Human Resources Subplan/Option: AS-T with Business Administration 2.0: 60 units Offered by: College of Business Administration , Management and Human Resources Department This 60-unit curriculum is based on the Business Administration, B.S. - Management and Human Resources Subplan/Option: 120 units to serve transfer students entering CPP with an ADT in Business Administration 2.0. ADT Required: 39 units BUS 4950 - Strategic Management (3) CIS 3100 - Management Information Systems (3) FRL 3000 - Managerial Finance (3) IBM 3012 - Principles of Marketing Management (3) MAT 1250 - Introductory Calculus for Business (3) [GE 2] MHR 3010 - Principles of Management (3) MHR 3020 - Organizational Behavior (3) [GE 4C] MHR 3210 - Human Resources Management (3) MHR 3410 - Introduction to Entrepreneurship (3) MHR 4010 - Business Ethics, Diversity and Social Responsibility (3) TOM 3010 - Operations Management (3) TOM 3020 - Statistical Foundations for Business Analytics (3) Capstone Course: 3 units MHR 4410W - Internship in Business Management (1-2) or MHR 4420W - Full-Time Internship in Business Management (3) or MHR 4610W - Senior Project (3) ADT Electives: 12 units Select any 12 units of MHR 3XXX or 4XXX courses. Graduation Requirements: 18 units General Education: 9 units Area 3C. Upper Division Arts or Humanities (3) Area 4C. Upper Division Social Sciences (3) Area 5D. Upper Division Science and Quantitative Reasoning (3) American Institutions: 6 units The CSU requires all students complete coursework in US History, US Government, and California and local government. For more information on satisfying this ",
+  "requirements": [
+    {
+      "name": "ADT Required: 39 units",
+      "courses": [
+        "BUS 4950",
+        "CIS 3100",
+        "FRL 3000",
+        "IBM 3012",
+        "MAT 1250",
+        "MHR 3010",
+        "MHR 3020",
+        "MHR 3210",
+        "MHR 3410",
+        "MHR 4010",
+        "TOM 3010",
+        "TOM 3020"
+      ],
+      "raw_text": "ADT Required: 39 units"
+    },
+    {
+      "name": "Capstone Course: 3 units",
+      "courses": [
+        "MHR 4410W"
+      ],
+      "raw_text": "Capstone Course: 3 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "MHR 4420W",
+        "MHR 4610W"
+      ],
+      "raw_text": "or"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BUS 4950",
+      "title": "Strategic Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434607",
+      "requirement": "ADT Required: 39 units",
+      "description": "Integration of all business functions in a culminating experience. A comprehensive, logical, and systematic approach to strategic analysis, planning, implementation, evaluation, control and decision-making based on competitive, economic, and ethical factors. A student with junior standing may take the course witht the consent of the instructor. *The enforcement of the Graduation Writing Assessment Requirement has been temporarily suspended per a Chancellor’s Office memorandum.",
+      "prerequisites": "ACC 2070 or ACC 207; ACC 2080 or ACC 208; CIS 3100 or CIS 310; FRL 2013 or FRL 201; FRL 3000 or FRL 300; IBM 3012 or IBM 301; MHR 3010 or MHR 301; MHR 3020 or MHR 318; TOM 3010 or TOM 301; TOM 3020 or TOM 302; BUS 3000 or MAT 125; BUS 3102 or STA 120; and GWT*, CPU 4010 *, or CPU 401.*",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CIS 3100",
+      "title": "Management Information Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "434698",
+      "requirement": "ADT Required: 39 units",
+      "description": "Introduction to the management and development of business information systems. Information systems topics include, competitive strategy, decision support, infrastructure, business processes, enterprise-wide systems, database management, data analytics, systems development and implementation, information security, ethics, and social impacts of information technology. Course concepts are supported with the use of business technology to develop problem solving skills.",
+      "prerequisites": "ACC 207 and 207A or ACC 2070 ; and CIS 101, CIS 1010 , or PCPT.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer"
+    },
+    {
+      "code": "FRL 3000",
+      "title": "Managerial Finance",
+      "units": "3",
+      "ge": null,
+      "coid": "434739",
+      "requirement": "ADT Required: 39 units",
+      "description": "Introduction to functions of finance in business firms. Application of financial decision-making tools, the structure of financial markets, and financial instruments. Covers agency problems, time value of money, bond and stock, capital budgeting, cost of capital and international corporate finance.",
+      "prerequisites": "EC 201 or EC 2201 ; ACC 207/A or ACC 2070 ; and C or better in MAT 125 or MAT 1250 , MAT 114 and MAT 115, or MAT 1140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall (odd years)"
+    },
+    {
+      "code": "IBM 3012",
+      "title": "Principles of Marketing Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434760",
+      "requirement": "ADT Required: 39 units",
+      "description": "Principles, concepts, and institutions involved in facilitating the exchange of goods and services. Analysis of the markets, the marketing environment, and the ‘marketing mix’ variables. Planning, implementation and control of marketing strategies to gain competitive advantage. Technology mediated. Technology mediated.",
+      "prerequisites": "Completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MAT 1250",
+      "title": "Introductory Calculus for Business",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "435054",
+      "requirement": "ADT Required: 39 units",
+      "description": "[GE 2] Graphing and functions including exponentials and logarithms, derivatives and basic differentiation rules, curve sketching, anti-derivatives, integration, and the Fundamental Theorem of Calculus. A special emphasis is placed on business applications such as break-even analysis, supply and demand, optimization, average cost, marginal analysis, and consumer-producer surplus.",
+      "prerequisites": "Category I, Category II, ALEKS >=46, C or better in a GE Sub-area 2/B4 course, or C- or better or CR in MAT 1051 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3010",
+      "title": "Principles of Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434791",
+      "requirement": "ADT Required: 39 units",
+      "description": "A survey of the basic management functions of planning, organizing, leading and controlling, along with their application to the management of contemporary organizations. Provides an interdisciplinary approach to the study and practice of management theory. Topics included: functions of management, managerial roles and skills, management history, organizational environments, organizational strategy and structure, ethics, and diversity among others.",
+      "prerequisites": "Sophomore standing and completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3020",
+      "title": "Organizational Behavior",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434544",
+      "requirement": "ADT Required: 39 units",
+      "description": "[GE 4C] Introductory experiences in the basics of organizational behavior. Emphasis is given to the application of scientific knowledge drawn from different social sciences (primarily psychology, social psychology, sociology, political science, and cultural anthropology) to understand and manage human behavior in organizations. Topics discussed: individual differences, perception, attribution, motivation, working in teams, leadership, power and influence, conflict management, culture, and ethical decision making in the organizational context.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3210",
+      "title": "Human Resources Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434789",
+      "requirement": "ADT Required: 39 units",
+      "description": "Establishment of human resources objectives and requirements in organizations. Planning recruiting, testing, interviewing, screening, and selection of employees. Training and development, career development, compensation and benefit plans, safety and health, employee and labor relations and human resources research. Case studies.",
+      "prerequisites": "C or better in MHR 301 or MHR 3010 ; and Undergraduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3410",
+      "title": "Introduction to Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "434793",
+      "requirement": "ADT Required: 39 units",
+      "description": "An overview of the process that will take students from having an entrepreneurial idea to turning it into a successful business. Topics covered in this course include the entrepreneurial mindset, design thinking, business model generation, business planning, entrepreneurial “pitching,” and organizational and financing issues related to starting a business.",
+      "prerequisites": "Junior standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4010",
+      "title": "Business Ethics, Diversity and Social Responsibility",
+      "units": "3",
+      "ge": null,
+      "coid": "434795",
+      "requirement": "ADT Required: 39 units",
+      "description": "Ethical reasoning skills necessary for making business decisions. Emphasis is given on developing an ethical mindset towards human diversity in organizations and corporate social responsibility. Topics to be discussed: purpose of the corporation, nature of ethics , ethical dilemmas, ethical decision making, diversity in organizations (based on race, ethnicity and accent, age, skin color, religion, physical abilities, sexual orientation, and gender) and corporate social responsibility. The main focus is to develop ethically and socially responsible managers, leaders, and organizational members.",
+      "prerequisites": "MHR 3020 or MHR 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 3010",
+      "title": "Operations Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434810",
+      "requirement": "ADT Required: 39 units",
+      "description": "An overview of how businesses operate, especially under supply chain settings. Main topics includes business processes analysis, product and service quality management, waiting line (queue) management, inventory (material) management, project management, and supply chain management.",
+      "prerequisites": "STA 120, STA 1200 , or STA 1202 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 3020",
+      "title": "Statistical Foundations for Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "434650",
+      "requirement": "ADT Required: 39 units",
+      "description": "Applications of managerial statistics for business decisions. Data collection, confidence interval estimation of mean and proportion, one and two-population hypothesis testing of mean and proportion, one-way and two-way chi-square testing, simple linear regression, multiple linear regression, and analysis of variance. Use of computers.",
+      "prerequisites": "STA 120, STA 1200 , or STA 1202 ; and MAT 125 or MAT 1250 , MAT 114 and MAT 115, or MAT 1140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4410W",
+      "title": "Internship in Business Management",
+      "units": "1-2",
+      "ge": null,
+      "coid": "434648",
+      "requirement": "Capstone Course: 3 units",
+      "description": "An internship is the integration of classroom theory and practical experience in a planned apprenticeship program. The intern program is based upon the interest and needs of both the student and the employer. The student’s work should be related to his/her field of study and individual interest within the field. The internship is a collaborative agreement involving the internship coordinator, student, and the employer to provide meaningful and relevant work experience to benefit the company as well as enhance the student’s career development. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing, consent of instructor, completion Cal Poly’s internship documentation, and 18-35 hours of internship work per week.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: May be taken up to five times for a total credit of 10 units.",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "MHR 4420W",
+      "title": "Full-Time Internship in Business Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434649",
+      "requirement": "or",
+      "description": "An internship is the integration of classroom theory and practical experience in a planned apprenticeship program. The intern program is based upon the interest and needs of both the student and the employer. The student’s work should be related to his/her field of study and individual interest within the field. The internship is a collaborative agreement involving the internship coordinator, student, and the employer to provide meaningful and relevant work experience to benefit the company as well as enhance the student’s career development. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing, consent of instructor, completion of Cal Poly’s internship documentation, and 36-40 hours of internship work per week.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: May be taken up to five times for a total credit of 15 units.",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "MHR 4610W",
+      "title": "Senior Project",
+      "units": "3",
+      "ge": null,
+      "coid": "434647",
+      "requirement": "or",
+      "description": "Selection and completion of a project under faculty supervision. Projects address problems that graduates need to solve in their fields of work. A formal report must be submitted. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    }
+  ],
+  "department_course_codes": [
+    "MHR 3010",
+    "MHR 3020",
+    "MHR 3210",
+    "MHR 3410",
+    "MHR 4010",
+    "MHR 4410W",
+    "MHR 4420W",
+    "MHR 4610W"
+  ]
+}

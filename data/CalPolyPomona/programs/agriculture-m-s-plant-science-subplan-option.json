@@ -1,0 +1,194 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:08:49+00:00",
+  "id": "agriculture-m-s-plant-science-subplan-option",
+  "name": "Agriculture, M.S. - Plant Science Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Plant Science",
+  "department_id": "plant-science",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24126",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6303",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Agriculture, M.S. - Plant Science Subplan/Option: 30 units Offered by: Don B. Huntley College of Agriculture , Plant Science Department Major Required | Subplan/Option Required | Subplan/Option Electives | Culminating Experience | Notes | Program Website Major Required: 9 units AG 5100 - Introduction to Graduate Research in the Agricultural Sciences (3) AG 5200 - Research Design and Data Analysis for Agriculture (3) AG 5300 - Research Proposal (3) Subplan/Option Required: 10 units PLT 5500 - Advanced Topics in Plant Science (3) PLT 5940 - Presentation of Research Proposal (1) PLT 6940 - Master’s Thesis/Project Research (1-3) (6 units required) Subplan/Option Electives: 10 units Electives include graduate-level courses to be determined with student’s advisor. Suggested courses include: PLT 6910 - Directed Research (1-3) (maximum of 6 units) PLT 6920 - Independent Research (1-3) (maximum of 6 units) Culminating Experience: 1 unit PLT 6960 - Master’s Thesis (1-3) (1 unit required) Notes: Additional 4000-level courses and above from Plant Science or other majors may be included as electives. A minimum of 18 units of 5000 and 6000-level courses must be completed for the Master of Science degree program in Agriculture - Plant Science Subplan/Option. Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A",
+  "requirements": [
+    {
+      "name": "Major Required: 9 units",
+      "courses": [
+        "AG 5100",
+        "AG 5200",
+        "AG 5300"
+      ],
+      "raw_text": "Major Required: 9 units"
+    },
+    {
+      "name": "Subplan/Option Required: 10 units",
+      "courses": [
+        "PLT 5500",
+        "PLT 5940",
+        "PLT 6940"
+      ],
+      "raw_text": "Subplan/Option Required: 10 units"
+    },
+    {
+      "name": "Subplan/Option Electives: 10 units",
+      "courses": [
+        "PLT 6910",
+        "PLT 6920"
+      ],
+      "raw_text": "Subplan/Option Electives: 10 units"
+    },
+    {
+      "name": "Culminating Experience: 1 unit",
+      "courses": [
+        "PLT 6960"
+      ],
+      "raw_text": "Culminating Experience: 1 unit"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AG 5100",
+      "title": "Introduction to Graduate Research in the Agricultural Sciences",
+      "units": "3",
+      "ge": null,
+      "coid": "436983",
+      "requirement": "Major Required: 9 units",
+      "description": "Principles, tools and techniques used in scientific research as applied to the agricultural sciences. Topics will include the development of literature reviews and annotated bibliographies, appropriate literature citation, online research methods and sources, the identification and definition of a research topic and its rationale. Readings, discussions, computer applications, and research.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 5200",
+      "title": "Research Design and Data Analysis for Agriculture",
+      "units": "3",
+      "ge": null,
+      "coid": "438938",
+      "requirement": "Major Required: 9 units",
+      "description": "Introduction and application of different statistic methods required for the graduate research such as regression, correlation, one and two-way ANOVA with post-hoc tests, Chi-square, and SAS. The basics of design of experiments, such as least factorial design of experiments, hypothesis testing, mean comparisons, regressions and multivariate statistical analysis.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 5300",
+      "title": "Research Proposal",
+      "units": "3",
+      "ge": null,
+      "coid": "437909",
+      "requirement": "Major Required: 9 units",
+      "description": "The format and content of research proposals and scientific communication culminating with the student’s Master’s thesis research proposal. The student will develop the justification and rationale for the research through a focused review, will develop hypotheses and experimental approaches for testing each hypothesis. Learn to communicate the scientific content of their thesis research to scientists and effectively communicate the same to lay audiences. This will be accomplished through written assignments and PowerPoint presentations.",
+      "prerequisites": "AG 500 or AG 5100 ; and thesis research project chosen.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "PLT 5500",
+      "title": "Advanced Topics in Plant Science",
+      "units": "3",
+      "ge": null,
+      "coid": "436137",
+      "requirement": "Subplan/Option Required: 10 units",
+      "description": "Analysis and discussion of a selected topic in plant science based upon examination of the current literature, recent research advancements, and exposure to professional issues. Subject matter topic for course rotates. May be taken up to two times for a total credit of 6 units.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "PLT 5940",
+      "title": "Presentation of Research Proposal",
+      "units": "1",
+      "ge": null,
+      "coid": "436138",
+      "requirement": "Subplan/Option Required: 10 units",
+      "description": "A public, oral presentation and discussion of a proposed research plan for the master’s thesis. The student will develop and present, with the aid of the major professor, the scientific and statistical hypotheses, research design, proposed analytical methodologies, as well as a substantial selection from the literature review demonstrating the need and validity of the proposed thesis study. Required for Advancement to Candidacy. May be taken up to three times for a total credit of 3 units.",
+      "prerequisites": "Graduate Standing or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "PLT 6940",
+      "title": "Master’s Thesis/Project Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "436139",
+      "requirement": "Subplan/Option Required: 10 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "PLT 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438680",
+      "requirement": "Subplan/Option Electives: 10 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "PLT 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438681",
+      "requirement": "Subplan/Option Electives: 10 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "PLT 6960",
+      "title": "Master’s Thesis",
+      "units": "1-3",
+      "ge": null,
+      "coid": "436140",
+      "requirement": "Culminating Experience: 1 unit",
+      "description": "Compilation, evaluation, interpretation, and presentation in thesis or project form of supervised research.Open only to unconditional graduate students who have completed their thesis research. Only with the approval of the graduate advisor. May be repeated for a maximum of 6 units.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: .may be repeated for a maximum of 6 units.",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "PLT 5500",
+    "PLT 5940",
+    "PLT 6910",
+    "PLT 6920",
+    "PLT 6940"
+  ]
+}

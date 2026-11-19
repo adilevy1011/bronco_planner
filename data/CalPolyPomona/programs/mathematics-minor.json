@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:19:20+00:00",
+  "id": "mathematics-minor",
+  "name": "Mathematics Minor",
+  "title_on_page": "University Catalog",
+  "department": "Mathematics And Statistics",
+  "department_id": "mathematics-and-statistics",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24281",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6346",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Mathematics Minor: 27 units Offered by: College of Science , Mathematics and Statistics Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 15 units MAT 1140 - Calculus I (4) [GE 2] MAT 1150 - Calculus II (4) [GE 2] MAT 2140 - Calculus III (4) MAT 2240 - Elementary Linear Algebra and Differential Equations (3) or MAT 2250 - Linear Algebra with Applications to Differential Equations (4) Minor Electives: 12 units Select at least 12 units of elective mathematics courses, with the restrictions listed below. At least 9 units must be at the upper division level. Up to 3 units of lower division units may be selected from MAT 2010 / MAT 2010L , STA 2100 , or STA 2260 ; no other lower division units may be counted towards the elective units for the minor. For upper division units, any 3000 or 4000 level MAT or STA course (except MAT 3940 , and except MAT 3950 ) may be selected. Up to 4 units of STA courses in total may be included in the Mathematic Minor. For additional STA coursework, please see instead the Statistics Minor. For students considering graduate work in mathematics, MAT 3100W , MAT 3140 , and MAT 4170 are strongly recommended. Notes: Students enrolled in these program(s) may not declare this minor: Mathematics, B.S. - Applied Mathematics/Statistics Subplan/Option: 120 units Mathematics, B.S. - Secondary Teacher Prep/Pure Mathematics Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State P",
+  "requirements": [
+    {
+      "name": "Minor Required: 15 units",
+      "courses": [
+        "MAT 1140",
+        "MAT 1150",
+        "MAT 2140",
+        "MAT 2240"
+      ],
+      "raw_text": "Minor Required: 15 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "MAT 2250"
+      ],
+      "raw_text": "or"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MAT 1140",
+      "title": "Calculus I",
+      "units": "4",
+      "ge": "GE 2",
+      "coid": "435051",
+      "requirement": "Minor Required: 15 units",
+      "description": "[GE 2] Functions, limits, continuity, derivatives of all functions including trigonometric, exponential, logarithmic, inverse trigonometric, and implicit functions. Applications of derivatives, including max/min problems and L’Hopitals rule. Definite and Indefinite Integrals, The Fundamental Theorem of Calculus, substitution rule and applications.",
+      "prerequisites": "C or better in MAT 1050 and MAT 1060 ; C or better in MAT 1052 and MAT 1060 ; C or better in MAT 1055 and MAT 1060 ; C or better in MAT 1070 ; AP PreCalculus >=3; or ALEKS Comp >=76.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer"
+    },
+    {
+      "code": "MAT 1150",
+      "title": "Calculus II",
+      "units": "4",
+      "ge": "GE 2",
+      "coid": "435052",
+      "requirement": "Minor Required: 15 units",
+      "description": "[GE 2] Integration techniques including integration by parts, integrals of trigonometric products, partial fractions, substitution and trigonometric substitution. Hyperbolic functions. Improper Integrals, sequences and series, polar coordinates, parametric equations and conic sections.",
+      "prerequisites": "AP Calc AB >=3, AP Calc BC >=3, or C or better in MAT 1140 or MAT 1140C.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MAT 2140",
+      "title": "Calculus III",
+      "units": "4",
+      "ge": null,
+      "coid": "436926",
+      "requirement": "Minor Required: 15 units",
+      "description": "Introduction to vectors, dot product, cross product, equations of lines and planes, calculus of vector valued functions, introduction to multivariable functions, differential calculus of multivariable functions, the chain rule, applications including extreme problems and Lagrange multipliers, integral calculus of multivariable functions, double and triple integrals, applications of double and triple integrals, line and surface integrals of vector fields, Green’s Theorem, the Divergence Theorem, Stokes’ Theorem.",
+      "prerequisites": "C or better in MAT 1150 or MAT 1150C.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MAT 2240",
+      "title": "Elementary Linear Algebra and Differential Equations",
+      "units": "3",
+      "ge": null,
+      "coid": "436173",
+      "requirement": "Minor Required: 15 units",
+      "description": "Separable and linear ordinary differential equations; numerical and analytical solutions. Linear algebra: vectors in n-space, matrices, linear transformations, eigenvalues, eigenvectors, diagonalization; applications to the study of systems of linear differential equations.",
+      "prerequisites": "C or better in MAT 1150 or MAT 1150C.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MAT 2250",
+      "title": "Linear Algebra with Applications to Differential Equations",
+      "units": "4",
+      "ge": null,
+      "coid": "436927",
+      "requirement": "or",
+      "description": "Systems of linear equations, Gaussian elimination, matrices and determinants, vector spaces, basis, dimension, linear transformations, rank-nullity, matrix representation and change of basis, eigenvalues and eigenvectors, diagonalization, first order DE’s, constant coefficient linear DE’s, harmonic oscillations, systems of linear 1st order DE, series solutions.",
+      "prerequisites": "C or better in MAT 1150 or MAT 1150C.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "MAT 1140",
+    "MAT 1150",
+    "MAT 2140",
+    "MAT 2240",
+    "MAT 2250"
+  ]
+}

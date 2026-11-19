@@ -1,0 +1,224 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:08:04+00:00",
+  "id": "agriculture-m-s-animal-science-subplan-option",
+  "name": "Agriculture, M.S. - Animal Science Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Animal And Veterinary Science",
+  "department_id": "animal-and-veterinary-science",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24112",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6299",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Agriculture, M.S. - Animal Science Subplan/Option: 30 units Offered by: Don B. Huntley College of Agriculture , Animal and Veterinary Science Department Major Required | Subplan/Option Required | Subplan/Option Electives | Culminating Experience | Program Website Major Required: 9 units AG 5100 - Introduction to Graduate Research in the Agricultural Sciences (3) AG 5200 - Research Design and Data Analysis for Agriculture (3) AG 5300 - Research Proposal (3) Subplan/Option Required: 10 units AVS 5598 - Animal Science Seminar (1) (3 units required) AVS 5990 - Special Topics for Graduate Students (1-3) (3 units required) AVS 6940 - Master Thesis / Project Research (1-4) (4 units required) Subplan/Option Electives: 9 units Choose from the following courses (alternative elective courses chosen in consultation with advisor): AVS 5500 - Advanced Topics in Animal Physiology (3) AGS 5420 - Agricultural Science Internship (2) AVS 6910 - Directed Research (1-3) AVS 6920 - Independent Research (1-3) Culminating Experience: 2 units AVS 6960 - Master’s Degree Thesis (1-2) (2 units required) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scrol",
+  "requirements": [
+    {
+      "name": "Major Required: 9 units",
+      "courses": [
+        "AG 5100",
+        "AG 5200",
+        "AG 5300"
+      ],
+      "raw_text": "Major Required: 9 units"
+    },
+    {
+      "name": "Subplan/Option Required: 10 units",
+      "courses": [
+        "AVS 5598",
+        "AVS 5990",
+        "AVS 6940"
+      ],
+      "raw_text": "Subplan/Option Required: 10 units"
+    },
+    {
+      "name": "Subplan/Option Electives: 9 units",
+      "courses": [
+        "AVS 5500",
+        "AGS 5420",
+        "AVS 6910",
+        "AVS 6920"
+      ],
+      "raw_text": "Subplan/Option Electives: 9 units"
+    },
+    {
+      "name": "Culminating Experience: 2 units",
+      "courses": [
+        "AVS 6960"
+      ],
+      "raw_text": "Culminating Experience: 2 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AG 5100",
+      "title": "Introduction to Graduate Research in the Agricultural Sciences",
+      "units": "3",
+      "ge": null,
+      "coid": "436983",
+      "requirement": "Major Required: 9 units",
+      "description": "Principles, tools and techniques used in scientific research as applied to the agricultural sciences. Topics will include the development of literature reviews and annotated bibliographies, appropriate literature citation, online research methods and sources, the identification and definition of a research topic and its rationale. Readings, discussions, computer applications, and research.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 5200",
+      "title": "Research Design and Data Analysis for Agriculture",
+      "units": "3",
+      "ge": null,
+      "coid": "438938",
+      "requirement": "Major Required: 9 units",
+      "description": "Introduction and application of different statistic methods required for the graduate research such as regression, correlation, one and two-way ANOVA with post-hoc tests, Chi-square, and SAS. The basics of design of experiments, such as least factorial design of experiments, hypothesis testing, mean comparisons, regressions and multivariate statistical analysis.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 5300",
+      "title": "Research Proposal",
+      "units": "3",
+      "ge": null,
+      "coid": "437909",
+      "requirement": "Major Required: 9 units",
+      "description": "The format and content of research proposals and scientific communication culminating with the student’s Master’s thesis research proposal. The student will develop the justification and rationale for the research through a focused review, will develop hypotheses and experimental approaches for testing each hypothesis. Learn to communicate the scientific content of their thesis research to scientists and effectively communicate the same to lay audiences. This will be accomplished through written assignments and PowerPoint presentations.",
+      "prerequisites": "AG 500 or AG 5100 ; and thesis research project chosen.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 5598",
+      "title": "Animal Science Seminar",
+      "units": "1",
+      "ge": null,
+      "coid": "438850",
+      "requirement": "Subplan/Option Required: 10 units",
+      "description": "In depth literature review, seminars and critiques addressing current topics in Animal Science.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438858",
+      "requirement": "Subplan/Option Required: 10 units",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing and permission of instructor. Pre or Corequisite(s): Graduate class standing and permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 6940",
+      "title": "Master Thesis / Project Research",
+      "units": "1-4",
+      "ge": null,
+      "coid": "438836",
+      "requirement": "Subplan/Option Required: 10 units",
+      "description": "Individual research in the area of specialization conducted as part of the preparation for writing a thesis under the direction of graduate faculty.",
+      "prerequisites": "Graduate student, Unconditional standing required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 5500",
+      "title": "Advanced Topics in Animal Physiology",
+      "units": "3",
+      "ge": null,
+      "coid": "438849",
+      "requirement": "Subplan/Option Electives: 9 units",
+      "description": "An advanced study of the physiology of domestic animals. Recent research developments in animal physiology. Topics include in-depth discussion of the nervous, endocrine, digestive, respiratory, circulatory, and excretory systems",
+      "prerequisites": "AVS 350 or AVS 3350 , and AVS 350L or AVS 3350L ; or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5420",
+      "title": "Agricultural Science Internship",
+      "units": "2",
+      "ge": null,
+      "coid": "436268",
+      "requirement": "Subplan/Option Electives: 9 units",
+      "description": "Individualized study, research, or readings in a specialized area under the direction of a faculty member. Maybe be taken up to two times for total credit of 4 units.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438859",
+      "requirement": "Subplan/Option Electives: 9 units",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis.",
+      "prerequisites": "Graduate standing, and permission of instructor and department chair. Total credit limited to six units, with a maximum of 3 units per semester. Pre or Corequisite(s): Graduate standing, and permission of instructor and department chair. Total credit limited to six units, with a maximum of 3 units per semester.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438860",
+      "requirement": "Subplan/Option Electives: 9 units",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis.",
+      "prerequisites": "Graduate standing, and permission of instructor and department chair. Pre or Corequisite(s): Graduate standing, and permission of instructor and department chair.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "1-2",
+      "ge": null,
+      "coid": "438837",
+      "requirement": "Culminating Experience: 2 units",
+      "description": "Compilation, evaluation, interpretation, and report of research for thesis directed by a committee of graduate faculty members. Completion of approved, bound thesis.",
+      "prerequisites": "Graduate students only. Advancement to Candidacy required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "AVS 5500",
+    "AVS 5598",
+    "AVS 5990",
+    "AVS 6910",
+    "AVS 6920",
+    "AVS 6940",
+    "AVS 6960"
+  ]
+}

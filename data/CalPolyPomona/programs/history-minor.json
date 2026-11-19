@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:15:46+00:00",
+  "id": "history-minor",
+  "name": "History Minor",
+  "title_on_page": "University Catalog",
+  "department": "History",
+  "department_id": "history",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24236",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6334",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog History Minor: 24 units Offered by: College of Letters, Arts, and Social Sciences , History Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 9 units HST 1101 - World Civilizations to 1500 (3) [GE 3B] HST 1102 - World Civilizations from 1500 (3) [GE 3B] HST 2201 - United States History to 1877 (3) [GE 4A] [AmInst-A] Minor Electives: 15 units 15 additional units in History, 9 of which must be upper division. Suggested groups of courses include specific world regions (e.g. U.S. history, European history, world history), as well as special topics. Notes: Students enrolled in these program(s) may not declare this minor: History, B.A.: 120 units History, B.A. - Pre-Credential Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 9 units",
+      "courses": [
+        "HST 1101",
+        "HST 1102",
+        "HST 2201"
+      ],
+      "raw_text": "Minor Required: 9 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "HST 1101",
+      "title": "World Civilizations to 1500",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434879",
+      "requirement": "Minor Required: 9 units",
+      "description": "[GE 3B] From the emergence of human societies to the end of the European Renaissance. Cross-cultural study of global civilizations, their interactions with each other, their impacts, and their contributions to human civilization. Science and technology and their influences on civilizations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 1102",
+      "title": "World Civilizations from 1500",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434880",
+      "requirement": "Minor Required: 9 units",
+      "description": "[GE 3B] World Civilizations from 1500 to the present. Cross-cultural study of global civilizations, their interactions with one another, their impacts, and their contributions to human civilization. Science and technology and their influences on civilizations. Current challenges and concerns.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 2201",
+      "title": "United States History to 1877 (3) [GE 4A]",
+      "units": "N/A",
+      "ge": "AmInst-A",
+      "coid": "434913",
+      "requirement": "Minor Required: 9 units",
+      "description": "[GE 4A] [AmInst-A] History of the United States from earliest settlements to the end of Reconstruction (1877), with emphasis on the political, social, cultural, and economic trends and episodes that molded and characterized the early American nation.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "HST 1101",
+    "HST 1102",
+    "HST 2201"
+  ]
+}

@@ -1,0 +1,1433 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:40:49+00:00",
+  "id": "chemical-and-materials-engineering",
+  "name": "Chemical And Materials Engineering",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6317",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Chemical and Materials Engineering Department Building 17 Room 2124 | (909) 869-2626 | Department Website | Faculty Directory Our mission is to prepare graduates who will contribute effectively to an interconnected global society by providing them with a strong foundation in engineering fundamentals, excellent hands-on engineering skills, and extensive training in communication and teamwork. The Department of Chemical and Materials Engineering embodies Cal Poly Pomona’s polytechnic ethos, emphasizing theory, laboratory practice, and applied learning. Chemical Engineering students design sustainable processes for industries such as petrochemicals to pharmaceuticals, addressing environmental and ethical considerations. Materials Engineering students develop metals, polymers, ceramics, and composites for applications in energy, electronics, and structural systems. Faculty-led research prepares graduates for careers in biotechnology, pharmaceuticals, sustainability, advanced materials, and process innovation. Students engage in real-world learning through laboratories in unit operations, process control, materials characterization, and transport phenomena, using industry-standard tools. In senior capstone projects, multidisciplinary teams tackle engineering challenges. Co-curricular organizations including AIChE, ChemE-Car, Material Advantage, ISPE, and AMPP offer community, leadership, and professional networking. Internships, along with faculty-mentored research, enrich students’ development and prepare them for engineering careers. Programs Bachelor Chemical Engineering, B.S.: 125 units Materials Engineering, B.S.: 123 units Master Materials En",
+  "courses": [
+    {
+      "code": "CHE 1311",
+      "title": "Introduction to Chemical Engineering",
+      "units": "1",
+      "ge": null,
+      "coid": "436667",
+      "description": "Introduction to the professions of chemical and materials engineering. Use of computer tools, Excel and MATLAB, to solve engineering problems. Process variables and basic techniques of material balance. Corequisite(s): CHE 1411L .",
+      "prerequisites": "MAT 105, MAT 112, MAT 1050 , MAT 1052 , MAT 1140 , MAT 1150 , MAT 2140 , MAT 2240 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 1321",
+      "title": "Chemical and Materials Engineering Analysis",
+      "units": "1",
+      "ge": null,
+      "coid": "436668",
+      "description": "Data analysis and experimental design using statistical concepts and techniques applied to chemical and materials engineering systems. Analysis of plant and laboratory data. Multiple regression. Correlations and significance of correlations. Analysis of variance. Introduction to statistical process control. Corequisite(s): CHE 1421L .",
+      "prerequisites": "MTE major, C- or better in CHE 1311 / CHE 1411L , or C- or better in CHE 131/141L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 1411L",
+      "title": "Introduction to Chemical Engineering Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436669",
+      "description": "Professions of Chemical and Materials (CME) engineering. Use of computer tools, Excel and MATLAB, to solve engineering problems. Process variables and basic techniques of material balance. Corequisite(s): CHE 1311 .",
+      "prerequisites": "MAT 105, MAT 112, MAT 1050 , MAT 1052 , MAT 1140 , MAT 1150 , MAT 2140 , or MAT 2240 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 1421L",
+      "title": "Chemical and Materials Engineering Analysis Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436670",
+      "description": "Data analysis and experimental design using statistical concepts and techniques applied to chemical and materials engineering systems. Analysis of plant and laboratory data. Multiple regression. Correlations and significance of correlations. Analysis of variance. Introduction to statistical process control. Corequisite(s): CHE 1321 .",
+      "prerequisites": "MTE major, C- or better in CHE 1311 ,/ CHE 1411L , or C- or better in CHE 131/CHE 141L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 1430L",
+      "title": "Introduction to Chemical and Materials Engineering Experiments Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "438908",
+      "description": "Introduction to the use of instrumentation to monitor Chemical and Materials Engineering processes. Measurement of the properties of materials. Introduction to design of experiments.",
+      "prerequisites": "GE Area 1A/A2; and C- or better in CHE 1311 and CHE 1411L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438125",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CHE 2011",
+      "title": "Material and Energy Balances I",
+      "units": "2",
+      "ge": null,
+      "coid": "436695",
+      "description": "Material balances for physical and chemical processes. Use of process flow diagrams for plant mass balance calculations. Solving multi-component mass balance, simple and multiple mixing or separation problems, and chemical reaction problems including recycle and equilibrium. Energy balances for non-reactive processes.",
+      "prerequisites": "Chemical Engineering major; C- or better in CHM 121 and CHM 122, or CHM 1210 ; and C- or better in MAT 115 or MAT 1150 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 2021",
+      "title": "Material and Energy Balances II",
+      "units": "2",
+      "ge": null,
+      "coid": "436671",
+      "description": "Analysis of single and multiple phase systems for chemical and materials engineering systems. Energy balances for both nonreactive and reactive systems. Material and energy balance analysis of transient processes. Material balance analysis of common types of reactors.",
+      "prerequisites": "C- or better in CHE 201 or CHE 2011 , and C- or better in MAT 215 or MAT 2140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 2301",
+      "title": "Process and Automation",
+      "units": "2",
+      "ge": null,
+      "coid": "436672",
+      "description": "Cross Listed as: No Dual Listed as: No Comprehensive introduction to automation and control systems, focusing on fundamental electrical circuit principles and their applications. Basic circuit laws and components, progressing into DC circuit analysis. Alternating current (AC) principles, including the behavior of capacitors, resistors, and inductors in RC, RL, and RLC circuits. Key electronic devices such as diodes, transistors, and operational amplifiers (op-amps) are introduced, emphasizing their roles in electronic systems. Exploration of sensors, sampling, data acquisition, and PID controllers, preparing students to design and implement automation systems. Concepts will be reinforced through laboratory exercises that involve building real-world applications using the Arduino platform. Corequisite(s): CHE 2301L .",
+      "prerequisites": "MAT 215 or MAT 2140 ; CHE 201, CHE 2011 , IME 113L, or IME 1130L ; and C- or better in PHY 133 or PHY 1520 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 2301L",
+      "title": "Process and Automation Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436673",
+      "description": "Comprehensive introduction to automation and control systems, focusing on fundamental electrical circuit principles and their applications. Basic circuit laws and components, progressing into DC circuit analysis. Alternating current (AC) principles, including the behavior of capacitors, resistors, and inductors in RC, RL, and RLC circuits. Key electronic devices such as diodes, transistors, and operational amplifiers (op-amps) are introduced, emphasizing their roles in electronic systems. Exploration of sensors, sampling, data acquisition, and PID controllers, preparing students to design and implement automation systems. Concepts will be reinforced through laboratory exercises that involve building real-world applications using the Arduino platform. Corequisite(s): CHE 2301",
+      "prerequisites": "MAT 215 or MAT 2140 ; CHE 201, CHE 2011 , IME 113L, or IME 1130L ; and C- or better in PHY 133 or PHY 1520 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 2851",
+      "title": "Applied Mathematics in Chemical and Materials Engineering",
+      "units": "2",
+      "ge": null,
+      "coid": "436674",
+      "description": "A study in the application of basic linear algebra, derivative, and integral concepts to solve chemical and materials engineering problems. Use of first-order ordinary differential equations to solve transient materials and energy balances. Use of MATLAB to solve set of non-linear algebraic equations and set of ordinary differential equations. Corequisite(s): MAT 2240 .",
+      "prerequisites": "Chemical Engineering major; MAT 215, MAT 216, or MAT 2140 ; and C- or better in CHE 201 or CHE 2011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438126",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CHE 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438127",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CHE 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438128",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CHE 3021",
+      "title": "Chemical Engineering Thermodynamics I",
+      "units": "3",
+      "ge": null,
+      "coid": "436675",
+      "description": "Energy and its transformations; conversion of heat to work; first and second law analyses; property relationships; equations of state; equilibrium at minimum Gibbs free energy, Clausius-Clapeyron equation, vapor-liquid phase equilibria for pure fluids and mixtures of ideal solutions; thermodynamics of mixtures; partial molar properties and excess Gibbs free energy.",
+      "prerequisites": "MTE 2070 or MTE 207; MAT 2240 , MAT 224, or MAT 216; PHY 1520 or PHY 133; C- or better in CHE 2021 or CHE 202; and CHE major or MTE minor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 3031",
+      "title": "Chemical Engineering Thermodynamics II",
+      "units": "2",
+      "ge": null,
+      "coid": "436676",
+      "description": "Solution thermodynamics. Vapor-liquid phase equilibria of ideal and non-ideal solutions. Definition and applications of fugacity, activity, and activity coefficient. Equation of state calculation of mixture properties. Activity coefficient models: van Laar, Wilson, and NRTL models. Gibbs free energy changes of mixing and phase changes. Distillation and multi-component flash process calculations.",
+      "prerequisites": "CHE 302 or CHE 3021 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 3040",
+      "title": "Kinetics & Reactor Design",
+      "units": "3",
+      "ge": null,
+      "coid": "435157",
+      "description": "Chemical reaction equilibria. Equilibrium constant and the standard Gibbs free energy of reaction. Product distributions in single and multiple reactions. Mole balances. Levenspiel plots. Homogeneous and heterogeneous reaction kinetics for both chemical and materials engineering systems. Analysis of kinetic data. Reactor design, including batch, continuous-stirred tank flow, packed-bed, and plug flow reactors. Isothermal and non-isothermal reactor design.",
+      "prerequisites": "CHE 302 or CHE 3021 ; and CHM 201, CHM 314, CHM 2010 , or CHM 3140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 3111W",
+      "title": "Transport Phenomena I",
+      "units": "3",
+      "ge": null,
+      "coid": "436677",
+      "description": "Introduction to fluid mechanics and heat transfer with application to the unit operations of chemical engineering. Topics include dimensional analysis, fluid properties, kinematics and dynamics of fluid flow, friction, boundary conditions, piping calculations, energy transfer by conduction, convection and radiation, and heat exchanger design. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): CHE 3221LW .",
+      "prerequisites": "CHE 2851 , PHY 1520 , MTE 2070 , C- or better in CHE 2021 , CHE major or MTE minor, and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 3121",
+      "title": "Transport Phenomena II",
+      "units": "4",
+      "ge": null,
+      "coid": "436678",
+      "description": "Heat and mass transport with applications to the unit operations of chemical engineering. Topics include steady and transient heat transfer, convective heat transfer, radiation heat transfer, heat exchanger design, steady and transient mass transfer, convective mass transfer, distillation, absorption, stripping, and water treatment.Mass transport with applications to the unit operations of chemical engineering and environmental problems, including topics in distillation, absorption, stripping, flue gas desulfurization, and water chemical, physicochemical, and biological treatment. Corequisite(s): CHE 3331L .",
+      "prerequisites": "CHE 311 or CHE 3111W .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 3141",
+      "title": "Organic Chemistry for Chemical Engineers",
+      "units": "3",
+      "ge": null,
+      "coid": "436679",
+      "description": "Chemical reactions of organic compounds in relation to the chemical and materials industries.",
+      "prerequisites": "CHM 123 or CHM 1220 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHE 3331L",
+      "title": "Transport Laboratory II",
+      "units": "1",
+      "ge": null,
+      "coid": "436681",
+      "description": "Applying experimental design and the basic concepts in transport phenomena in experimental study of both chemical and materials engineering systems that may involve diffusivity measurement, batch distillation, heat exchanger, membrane separation, droplet evaporation, heat transfer in extended surfaces and others. Corequisite(s): CHE 3121 .",
+      "prerequisites": "CHE 311 or CHE 3111W , and CHE 322L or CHE 3221LW .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438129",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CHE 4251",
+      "title": "Unit Operations and Pollution Abatement",
+      "units": "2",
+      "ge": null,
+      "coid": "436682",
+      "description": "Treatment of mass, momentum and heat transport viewed with the traditional unit operations emphasis. Multi-component and multiphase systems are considered, with some problems involving design. Topics include distillation, cooling tower, absorption and heat exchanger design.",
+      "prerequisites": "CHE 312 or CHE 3121 ; CHE 304 or CHE 3040; CHE 303 or CHE 3031; and CHE 333L or CHE 3331L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 4260",
+      "title": "Process Controls",
+      "units": "2",
+      "ge": null,
+      "coid": "435636",
+      "description": "Introduction to theory, design, and application of automatic control systems to chemical and physical processes. Topics include transfer function, control valve sizing, PID controller tuning, multivariable process control, and MATLAB Simulink. 2 hours lectures/problem-solving.",
+      "prerequisites": "CHE 2301 , and CHE 333L or CHE 3331L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 4321",
+      "title": "Chemical Safety and Hazardous Materials Management",
+      "units": "3",
+      "ge": null,
+      "coid": "436683",
+      "description": "Improve the understanding of natural processes and the fundamentals that govern the concentrations of contaminants in water, air, and other media. Topics in air pollution, water pollution, and solid waste.",
+      "prerequisites": "MAT 116, MAT 224, or MAT 2240 ; CHM 201, CHM 314, or CHM 3140 ; CHE 302 or CHE 3021 ; and CHE 311 or CHE 3111W .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "CHE 4361L",
+      "title": "Unit Operation and Process Control Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436684",
+      "description": "Treatment of mass, momentum and heat transport viewed with the traditional unit operations emphasis. Multi-component and multiphase systems are considered, with some problems involving design. Distillation, absorption and heat exchanger design. Experimental study of the dynamics and control of chemical engineering processes using single-loop, PID controllers. Simulation of real control systems. Hardware requirements for real control systems. Corequisite(s): CHE 426 or CHE4260.",
+      "prerequisites": "ECE 231 or CHE 2301 ; CHE 333L or CHE 3331L ; and CHE 4251 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 4450",
+      "title": "Chemical Process Synthesis and Design I",
+      "units": "3",
+      "ge": null,
+      "coid": "435637",
+      "description": "Design of major equipment common to most chemical industries. Emphasis on how equipment fits together and interacts in an integrated process. Design of steam and refrigeration cycles. Treatment of process design methodology. Process flow diagrams and piping and instrumentation diagrams. Energy integration in plant design. Optimization strategies in process design. Introduction to ammonia synthesis and oil refining. Use of process simulators. Corequisite(s): CHE 4450L .",
+      "prerequisites": "CHE 304 or CHE 3040 ; CHE 312 or CHE 3121; CHE 333L or CHE 3331L; and CHE 303 or CHE 3031.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 4450L",
+      "title": "Chemical Process Synthesis and Design I Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435638",
+      "description": "Design of major equipment common to most chemical industries. Emphasis on how equipment fits together and interacts in an integrated process. Design of steam and refrigeration cycles. Treatment of process design methodology. Process flow diagrams and piping and instrumentation diagrams. Energy integration in plant design. Optimization strategies in process design. Introduction to ammonia synthesis and oil refining. Use of process simulators. Corequisite(s): CHE 4450 .",
+      "prerequisites": "CHE 304 or CHE 3040 , CHE 312 or CHE 3121 , CHE 333L or CHE 3331L , and CHE 303 or CHE 3031 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 4451",
+      "title": "Chemical Process Synthesis and Design II",
+      "units": "3",
+      "ge": null,
+      "coid": "435639",
+      "description": "Team project to perform process design and economic analysis of a complete plant with attention to environmental constraints including state and federal laws. Discussions on contemporary issues. Emphasis on team effort, effective communication, plant design procedure, plant management and control. Use of process simulators. Corequisite(s): CHE 4451L .",
+      "prerequisites": "CHE 441 or CHE 4450 , and CHE 451L or CHE 4450L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 4451L",
+      "title": "Chemical Process Synthesis and Design II Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435640",
+      "description": "Team project to perform process design and economic analysis of a complete plant with attention to environmental constraints including state and federal laws. Discussions on contemporary issues. Emphasis on team effort, effective communication, plant design procedure, plant management and control. Use of process simulators. Corequisite(s): CHE 4451 .",
+      "prerequisites": "CHE 441 or CHE 4450 , and CHE 451L or CHE 4450L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 4631",
+      "title": "Undergraduate Research Project",
+      "units": "1",
+      "ge": null,
+      "coid": "436685",
+      "description": "Final state of major project work. Emphasis on effective communication and critical thinking of research project results.",
+      "prerequisites": "EGR 482 or EGR 4810 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "CHE 4801A",
+      "title": "Professional Development and Case Studies in Chemical and Materials Engineering Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "436686",
+      "description": "Case studies on the fundamental concepts of mathematics, stoichiometry, thermodynamics, transport phenomena, kinetics and reactor design, unit operations, process controls, materials, and corrosion. Topics for discussion included oral and written communications skills, environmental, legal, energy, and ethics issues.",
+      "prerequisites": "CHE 441 or CHE 4450 , and CHE 451L or CHE 4450L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "CHE 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438130",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "CHE 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438131",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CHE 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438132",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438606",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 2070",
+      "title": "Materials Science and Engineering",
+      "units": "2",
+      "ge": null,
+      "coid": "435768",
+      "description": "Introduction to the fundamentals and applications of materials engineering. Atomic, molecular, and crystalline structures and properties of materials with their relevance to engineering. Topics will include: diffusion, defects, phase diagrams, heat treatment, mechanical behavior, and will cover the different materials classes, i.e., metals, ceramics, polymers, and composites.",
+      "prerequisites": "CHM 1210 , CHM 1150 , CHM 121, or CHM 115; PHY 131 or PHY 1510 ; PHY 131L or PHY 1510L ; and MAT 116 or MAT 1150 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438607",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438608",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438609",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 3030",
+      "title": "Polymer Materials",
+      "units": "2",
+      "ge": null,
+      "coid": "436207",
+      "description": "Introduction to the structure, properties, behavior, and processing of polymers as engineering materials. Design of reinforced and unreinforced polymers, and the processing methods used in the manufacture of products. Corequisite(s): MTE 3030L .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and ME 350L, ME 3501L , MTE 317L, or MTE 3170L ; and CHE 311, CHE 3111W , ME 311, ME 3111 , ARO 301, or ARO 3011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 3030L",
+      "title": "Polymer Materials Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436295",
+      "description": "Introduction to the structure, properties, behavior, and processing of polymers as engineering materials. Design of reinforced and unreinforced polymers, and the processing methods used in the manufacture of products. Corequisite(s): MTE 3030 .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and ME 350L, ME 3501L , MTE 317L, or MTE 3170L ; and CHE 311, CHE 3111W , ME 311, ME 3111 , ARO 301, or ARO 3011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 3170L",
+      "title": "Materials Science and Engineering Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436206",
+      "description": "Hands-on experiences to reinforce fundamental materials engineering concepts. Crystal models, microscopy, hardness tests, strengthening, and heat treatment. Materials selection and design. Emphasis on technical written and oral communication skills. Safety awareness reinforced throughout the course. Elements of statistics and experimental design.",
+      "prerequisites": "MTE 207 or MTE 2070 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 3200",
+      "title": "Mechanical Metallurgy",
+      "units": "2",
+      "ge": null,
+      "coid": "436324",
+      "description": "A comprehensive exploration of the field of mechanical metallurgy including the continuum description of stress and strain, the flow and fracture of metals from the defect mechanism point of view, the tests used for determining mechanical properties, and the fundamental/analytical techniques applied to the various metalworking processes used in industry. Corequisite(s): MTE 3200L .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 350L, ME 3501L , MTE 317L, or MTE 3170L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 3200L",
+      "title": "Mechanical Metallurgy Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436224",
+      "description": "A comprehensive exploration of the field of mechanical metallurgy including the continuum description of stress and strain, the flow and fracture of metals from the defect mechanism point of view, the tests used for determining mechanical properties, and the fundamental/analytical techniques applied to the various metalworking processes used in industry. Corequisite(s): MTE 3200 .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and ME 350L, ME 3501L , MTE 317L, MTE 3170L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 3270",
+      "title": "Functional Materials",
+      "units": "2",
+      "ge": null,
+      "coid": "437686",
+      "description": "Advanced concepts of materials science and their relevance to engineering. Origin of electronic, thermal, magnetic and optical properties. Applications of electronic, magnetic, and optical materials. Corequisite(s): MTE 3270L .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; ME 350L, ME 3501L , MTE 317L, or MTE 3170L ; PHY 133 or PHY 1520 ; and PHY 133L or PHY 1520L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 3270L",
+      "title": "Functional Materials Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436225",
+      "description": "Advanced concepts of materials science and their relevance to engineering. Origin of electronic, thermal, magnetic and optical properties. Applications of electronic, magnetic, and optical materials. Corequisite(s): MTE 3270 .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; ME 350L, ME 3501L , MTE 317L, or MTE 3170L ; PHY 133 or PHY 1520 ; and PHY 133L or PHY 1520L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 3280",
+      "title": "Thermodynamics of Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "436226",
+      "description": "Macroscopic thermodynamics, the study of energy and its transformations, as it applies to the field of materials in the solid and liquid state. Detailed topics to be covered are the first and second law, property relationships, equilibrium, electrochemistry, solutions and mixing, phase rule and phase diagrams. In addition, an introduction to microscopic thermodynamics or statistical thermodynamics will be included as it applies to the understanding of the macroscopic properties and behavior of materials.",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 3371",
+      "title": "Joining of Materials",
+      "units": "2",
+      "ge": null,
+      "coid": "436687",
+      "description": "Introduction to the principles, methods and applications of joining as they apply to the metals, ceramics, plastics, and electronic industries. Included are fasteners, welding, brazing, soldering, adhesives, diffusion and ultrasonic bonding. Principles of mechanical, chemical, and physical phenomena related to surfaces and the mechanics of joints. The approach will be to unify the principles underlying diverse engineering technologies to the basic science of the joining processes.",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "MTE 3371L",
+      "title": "Joining of Materials Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436688",
+      "description": "Introduction to the principles, methods and applications of joining as they apply to the metals, ceramics, plastics, and electronic industries. Included are fasteners, welding, brazing, soldering, adhesives, diffusion and ultrasonic bonding. Principles of mechanical, chemical, and physical phenomena related to surfaces and the mechanics of joints. The approach will be to unify the principles underlying diverse engineering technologies to the basic science of the joining processes.",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "MTE 3381",
+      "title": "Kinetic Processes in Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "436689",
+      "description": "Physical chemistry applied to materials engineering. Topics include: surfaces and interfaces; nucleation and growth theory; diffusional and non-diffusional transformations; precipitation from the solid solution, reaction kinetics, transport, and introduction to non-equilibrium thermodynamics.",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 3950",
+      "title": "Computational Materials Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "438956",
+      "description": "Fundamentals of computational materials sciences, such as molecular dynamics, first-principles calculation, density functional theory, and phase-field simulation. Students will gain familiarity with stateoftheart methods to model and simulate materials and handson experience using these methods. A broad range of modeling techniques will be covered that span from atomistic to continuum domains. Applications will be presented that utilize computational tools to study the structural, mechanical, chemical, and electronic properties of materials.",
+      "prerequisites": "MTE 207, MTE 2070 , or ME 3150 ; MTE 317L or MTE 3170L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438610",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 4010",
+      "title": "Corrosion And Materials Degradation",
+      "units": "2",
+      "ge": null,
+      "coid": "436208",
+      "description": "Fundamental principles of corrosion science, application of these principles to corrosion engineering problems and materials selection. Topics to be covered include: thermodynamics and kinetics of metallic corrosion; corrosive/destructive environments, the different forms of corrosion and degradation, corrosion/degradation prevention; principles of materials selection. Corequisite(s): MTE 4010L .",
+      "prerequisites": "ME 302, ME 3121 , CHE 303, or CHE 3031 ; MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4010L",
+      "title": "Corrosion And Materials Degradation Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436296",
+      "description": "Fundamental principles of corrosion science, application of these principles to corrosion engineering problems and materials selection. Topics to be covered include: thermodynamics and kinetics of metallic corrosion; corrosive/destructive environments, the different forms of corrosion and degradation, corrosion/degradation prevention; principles of materials selection. Corequisite(s): MTE 4010 .",
+      "prerequisites": "CHE 3031 , ME 3121 , CHE 303, or ME 302; MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "chemical-engineering-b-s-roadmap-4-year-125-units",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4040",
+      "title": "Electronic Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "436231",
+      "description": "Advanced concepts of electronic materials and their engineering applications. Physical principles, processing, and materials selection for circuits, magnets, transducers, memories, integrated circuits, displays and superconductors.",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "MTE 4050",
+      "title": "Physical Metallurgy - Mechanical Properties",
+      "units": "3",
+      "ge": null,
+      "coid": "436232",
+      "description": "Basic principles underlying the structure and properties of crystalline solids. Metallic and covalent bonding theories; crystallography; solid solutions; intermetallic compounds and alloys. Crystal imperfections; elastic and plastic deformation. Ductile and brittle fracture, fatigue and creep.",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and ME 301, ME 3011 , CHE 302, CHE 3021 , or MTE 3280 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "MTE 4060",
+      "title": "Physical Metallurgy - Solidification and Strengthening Reactions",
+      "units": "2",
+      "ge": null,
+      "coid": "437687",
+      "description": "Principles of solid-state reactions including elementary kinetics, nucleation and growth theory; annealing of cold-worked metals; diffusionless transformation, precipitation reactions and tempering; physical metallurgy of steels; relation between properties and microstructure. Laboratory experiments related to phase transformations in steel, solidification structures, precipitation hardening, and plant trips. Corequisite(s): MTE 4060L .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; MTE 317L, MTE 3170L , ME 350L, or ME 3501L ; ME 301 or ME 3011 ; and CHE 302, CHE 3021 , or MTE 3280 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4060L",
+      "title": "Physical Metallurgy Solidification and Strengthening Reactions Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436233",
+      "description": "Principles of solid-state reactions including elementary kinetics, nucleation and growth theory; annealing of cold-worked metals; diffusionless transformation, precipitation reactions and tempering; physical metallurgy of steels; relation between properties and microstructure. Laboratory experiments related to phase transformations in steel, solidification structures, precipitation hardening, and plant trips. Corequisite(s): MTE 4060 .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; MTE 317L, MTE 3170L , ME 350L, or ME 3501L ; ME 301 or ME 3011 ; and CHE 302, CHE 3021 , or MTE 3280 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4070",
+      "title": "Ceramic Materials",
+      "units": "2",
+      "ge": null,
+      "coid": "436325",
+      "description": "The composition, structure, and properties of ceramic bodies employed as structural and non-structural materials, with an emphasis on processing and their physical state, elasticity, strength, and optical, thermal, and electrical properties. Laboratory experiments related to fabrication, testing, statistical analysis, and plant trips Corequisite(s): MTE 4070L .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4070L",
+      "title": "Ceramic Materials Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436234",
+      "description": "The composition, structure, and properties of ceramic bodies employed as structural and non-structural materials, with an emphasis on processing and their physical state, elasticity, strength, and optical, thermal, and electrical properties. Laboratory experiments related to fabrication, testing, statistical analysis, and plant trips. Corequisite(s): MTE 4070 .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4080",
+      "title": "Composite Materials",
+      "units": "2",
+      "ge": null,
+      "coid": "436326",
+      "description": "Introduction to composite materials engineering processing and mechanics. Properties and processing of fibers and matrices. Polymer matrix composites, metal matrix composites, ceramic composites and carbon/carbon. Lamina and laminate constitutive equations. Laminate strength analysis. Corequisite(s): MTE 4080L .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4080L",
+      "title": "Composite Materials Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436235",
+      "description": "Introduction to composite materials engineering processing and mechanics. Properties and processing of fibers and matrices. Polymer matrix composites, metal matrix composites, ceramic composites and carbon/carbon. Lamina and laminate constitutive equations. Laminate strength analysis. Corequisite(s): MTE 4080 .",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4201",
+      "title": "Materials Selection and Design I",
+      "units": "1",
+      "ge": null,
+      "coid": "436690",
+      "description": "Integration of the undergraduate courses in the basic sciences, engineering sciences, materials engineering, economics, business, and general education in the integrated solution of materials selection and design problems. Analysis, selection, and evaluation of materials and processes aimed at product development. Use of numeric based selection criteria will be emphasized culminating in professional reports and presentations.",
+      "prerequisites": "MTE 338 or MTE 3381 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4201L",
+      "title": "Materials Selection and Design I Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436691",
+      "description": "Integration of the undergraduate courses in the basic sciences, engineering sciences, materials engineering, economics, business, and general education in the integrated solution of materials selection and design problems. Analysis, selection, and evaluation of materials and processes aimed at product development. Use of numeric based selection criteria will be emphasized culminating in professional reports and presentations.",
+      "prerequisites": "MTE 338 or MTE 3381 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4210",
+      "title": "Materials Characterization and Testing",
+      "units": "3",
+      "ge": null,
+      "coid": "436236",
+      "description": "Complete overview of materials characterization and testing for metals, ceramics, polymers, and composites. Macroscopic characterization of the mechanical, electrical, and optical properties. Microscopic evaluation using x-ray, diffraction, SEM, EDAX, TEM, IR-spectroscopy, and ultrasound evaluation techniques.",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "MTE 4220",
+      "title": "Fracture and Failure Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "436237",
+      "description": "Basic principles of fracture mechanics, and applications to failure analysis. Topics include: elements of fracture mechanics, ductile and brittle fracture, residual stresses, creep, fatigue, environmental effects, statistical distributions, and design issues. The approach will emphasize case histories (including guest lectures from practicing engineers on actual studies) and student presentations.",
+      "prerequisites": "MTE 207, MTE 2070 , ME 315, or ME 3150 ; and MTE 317L, MTE 3170L , ME 350L, or ME 3501L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4301",
+      "title": "Materials Selection and Design II",
+      "units": "2",
+      "ge": null,
+      "coid": "436692",
+      "description": "Culmination of the undergraduate courses in the basic sciences, engineering sciences, materials engineering, economics, business, and general education in the integrated solution of materials selection and design problems. Analysis, selection, and evaluation of materials and processes aimed at product development. Use of numeric- based selection criteria will be emphasized culminating in professional reports and presentations.",
+      "prerequisites": "MTE 420 or MTE 4201 , and MTE 420L or MTE 4201L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4301L",
+      "title": "Materials Selection and Design II Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436693",
+      "description": "Integration of the undergraduate courses in the basic sciences, engineering sciences, materials engineering, economics, business, and general education in the integrated solution of materials selection and design problems. Analysis, selection, and evaluation of materials and processes aimed at product development. Use of numeric based selection criteria will be emphasized culminating in professional reports and presentations.",
+      "prerequisites": "MTE 420 or MTE 4201 , and MTE 420L or MTE 4201L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s",
+        "materials-engineering-b-s",
+        "materials-engineering-b-s-roadmap-4-year-123-units"
+      ]
+    },
+    {
+      "code": "MTE 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438611",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "chemical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "MTE 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438612",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438613",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438614",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 5280",
+      "title": "Materials Thermodynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435753",
+      "description": "Advanced macroscopic thermodynamics applied to materials in the solid and liquid states. Laws of thermodynamics, important thermodynamic functions, multicomponent phase equilibria, electrochemistry, solutions and mixing, phase rule and phase diagrams. Discussion of applications and statistical thermodynamics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 5330",
+      "title": "Mechanical Properties of Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "435754",
+      "description": "Study of the mechanical behavior of materials. Fundamental mechanisms controlling deformation and fracture in solid materials. Strain hardening, creep, fatigue, ductile and brittle fracture. Strengthening mechanisms involving alloying and heat treatment. Superplasticity. 3 hours lecture/problem solving.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 5460",
+      "title": "Phase Transformations",
+      "units": "3",
+      "ge": null,
+      "coid": "435755",
+      "description": "Principles of solid-state reactions including nucleation and growth theory, diffusional and shear transformations, the shape-memory effect, transformation toughening, thermal treatment of solids. Special topics include metallic and silicate glasses, physical metallurgy of steels and superalloys.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 5550",
+      "title": "Advanced Corrosion and Environmental Degradation",
+      "units": "3",
+      "ge": null,
+      "coid": "435756",
+      "description": "Thermodynamics and kinetics of corrosion. Nernst and Tafel equations. Pourbaix diagrams. Electrochemical basis for corrosion. Fundamental approach to corrosion and corrosion control. Microbially Induced Corrosion. Biofouling. Degradation of polymers. Weathering of structural and architectural materials.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 5750",
+      "title": "Materials Processing",
+      "units": "3",
+      "ge": null,
+      "coid": "438945",
+      "description": "Mass, heat and momentum transfer applied to materials processing. Topics: fluid properties, dynamic flow, conductive, convective and radiative heat transfer. Mass transport and solid state diffusion. Materials processing operations, e.g., solidification / casting, carburization, chemical vapor deposition, doping, etc.",
+      "prerequisites": "Undergraduate course in materials science, transport phenomena.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438615",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438616",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438617",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 6300",
+      "title": "Materials for Energy Applications",
+      "units": "3",
+      "ge": null,
+      "coid": "435764",
+      "description": "Materials science relevant to energy generation and storage. Thermodynamics, electrochemistry, catalysis, and polymer materials science to understand polymer electrolyte membrane fuel cells. Role of materials in solid oxide fuel cells, batteries, wind, solar, ocean thermal, and nuclear energy generation. Electronic band structure and photovoltaics. Artificial leaves.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 6400",
+      "title": "Composite Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "439534",
+      "description": "Materials science and engineering of composite materials. Special emphasis will be on the structure-property relationships. Classification of Composites. Macromolecular Science. Processing and Production of Composite Materials. Constituent materials and Characterization. Macro- & micro-mechanics. Manufacturing and Machining Methods. Testing and Inspection. Fabrication, defect detection, analysis and repair. Sandwich Panels. Life cycle. Adhesive bonding and mechanical/bonded joints. Applications.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 6500",
+      "title": "Nanomaterials",
+      "units": "3",
+      "ge": null,
+      "coid": "435765",
+      "description": "Fundamental understanding of nanomaterials science. Limits to strengthening of materials at the nanoscale. Thermodynamics and kinetics at the nanoscale. Effects of dimensionality and scale. Graphene, nanotubes, fullerenes, and nanocomposites.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 6700",
+      "title": "Biomaterials",
+      "units": "3",
+      "ge": null,
+      "coid": "435766",
+      "description": "Materials and their interactions with biological hosts. Biological strategies for materials synthesis. Bio-inspired materials. Hierarchical and cellular structure of biomaterials, e.g., bones and muscles. Bio-composites. Damage, degradation, and restoration of biomaterials.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438618",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438619",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 6950",
+      "title": "Master’s Degree Project",
+      "units": "2",
+      "ge": null,
+      "coid": "439469",
+      "description": "A continuation of work on a Master’s Degree Project after a student has completed the required MTE 6910. Presentations of projects in acceptable written and oral form to a committee of faculty in the Department required. The project proposal, plan, and schedule need to be approved by the advisor. Regular meetings and discussions with the faculty advisor should continue until the completion of the project. Credit will be assigned upon acceptance of the project by the defense committee.",
+      "prerequisites": "Graduate standing, advancement to Candidacy, completion of all relevant coursework, and an approved project topic by the faculty advisor.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "1-3",
+      "ge": null,
+      "coid": "439470",
+      "description": "Independent investigation intended to be an extension of an existing body of knowledge into an area not thoroughly investigated before, directed by a committee of graduate faculty members, and resulting in a published thesis. Must be repeated as appropriate. Credit assigned upon successful completion of entire thesis and approval of the committee.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: May be taken up to three times for a total credit of 6 units.",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 6970",
+      "title": "Comprehensive Examination",
+      "units": "0",
+      "ge": null,
+      "coid": "439471",
+      "description": "Comprehensive examination to satisfy the culminating experience requirement of the Master of Science in Materials Engineering (MSMT) degree. May enroll after completing the required course work, and it may be taken up to two times.",
+      "prerequisites": "Graduate standing, consent of instructor, and good standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "materials-engineering-m-s"
+      ]
+    },
+    {
+      "code": "MTE 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438620",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "chemical-engineering-b-s",
+      "name": "Chemical Engineering, B.S."
+    },
+    {
+      "id": "materials-engineering-b-s",
+      "name": "Materials Engineering, B.S."
+    },
+    {
+      "id": "materials-engineering-m-s",
+      "name": "Materials Engineering, M.S."
+    },
+    {
+      "id": "chemical-engineering-b-s-roadmap-4-year-125-units",
+      "name": "Chemical Engineering, B.S.: Roadmap 4-year (125 units)"
+    },
+    {
+      "id": "materials-engineering-b-s-roadmap-4-year-123-units",
+      "name": "Materials Engineering, B.S.: Roadmap 4-year (123 units)"
+    }
+  ]
+}

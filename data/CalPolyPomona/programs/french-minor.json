@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:14:51+00:00",
+  "id": "french-minor",
+  "name": "French Minor",
+  "title_on_page": "University Catalog",
+  "department": "English And Modern Languages",
+  "department_id": "english-and-modern-languages",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24225",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6332",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog French Minor: 18 units Offered by: College of Letters, Arts, and Social Sciences , English and Modern Languages Department Minor Required | Program Website Minor Required: 18 units FRE 2111 - Intermediate French (3) [GE 3B] FRE 2112 - Intermediate French Reading (3) [GE 3B] FRE 2113 - Intermediate French Composition and Conversation (3) FRE 3210 - Readings in French and Francophone Literature (3) FRE 3410 - French Civilization (3) FRE 3420 - Contemporary France (3) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 18 units",
+      "courses": [
+        "FRE 2111",
+        "FRE 2112",
+        "FRE 2113",
+        "FRE 3210",
+        "FRE 3410",
+        "FRE 3420"
+      ],
+      "raw_text": "Minor Required: 18 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "FRE 2111",
+      "title": "Intermediate French",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434911",
+      "requirement": "Minor Required: 18 units",
+      "description": "[GE 3B] Consolidation of previously learned grammar; introduction to new grammatical concepts and expansion of vocabulary. Practice in speaking French with attention to comprehension and oral expression.",
+      "prerequisites": "Instructor consent, FL 103, FRE 1112 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRE 2112",
+      "title": "Intermediate French Reading",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434912",
+      "requirement": "Minor Required: 18 units",
+      "description": "[GE 3B] Development of reading comprehension while also working on other aspects of linguistic and cultural proficiency. Introduction to a variety of texts from France and the Francophone world.",
+      "prerequisites": "Instructor consent, FL 103, FRE 1112 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRE 2113",
+      "title": "Intermediate French Composition and Conversation",
+      "units": "3",
+      "ge": null,
+      "coid": "435225",
+      "requirement": "Minor Required: 18 units",
+      "description": "French composition, both oral and written. Frequent original presentations.",
+      "prerequisites": "Instructor consent, FL 103, FRE 1112 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRE 3210",
+      "title": "Readings in French and Francophone Literature",
+      "units": "3",
+      "ge": null,
+      "coid": "435222",
+      "requirement": "Minor Required: 18 units",
+      "description": "Literature of France and French-speaking world. Canonical authors such as Ronsard, Molire, Voltaire, Hugo, Baudelaire, Sartre, Duras, and representatives from the French-speaking world such as B, Senghor, Csaire, Dadi, Djebar, and Hbert.",
+      "prerequisites": "Instructor consent, FL 202, FRE 2111 , FRE 2112 , FRE 2113 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRE 3410",
+      "title": "French Civilization",
+      "units": "3",
+      "ge": null,
+      "coid": "435223",
+      "requirement": "Minor Required: 18 units",
+      "description": "Survey of French culture and social customs from the Gauls to De Gaulle. Conducted in French.",
+      "prerequisites": "Instructor consent, FL 202, FRE 2111 , FRE 2112 , FRE 2113 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRE 3420",
+      "title": "Contemporary France",
+      "units": "3",
+      "ge": null,
+      "coid": "435224",
+      "requirement": "Minor Required: 18 units",
+      "description": "Culture of 20th-century France, including art, music, history, literature, social customs, and the systems of government and education. Conducted in French.",
+      "prerequisites": "Instructor consent, FL 202, FRE 2111 , FRE 2112 , FRE 2113 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": []
+}

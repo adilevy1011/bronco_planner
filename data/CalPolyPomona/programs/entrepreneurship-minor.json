@@ -1,0 +1,181 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:35+00:00",
+  "id": "entrepreneurship-minor",
+  "name": "Entrepreneurship Minor",
+  "title_on_page": "University Catalog",
+  "department": "Management And Human Resources",
+  "department_id": "management-and-human-resources",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24148",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6309",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Entrepreneurship Minor: 18 units Offered by: College of Business Administration , Management and Human Resources Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 12 units MHR 3410 - Introduction to Entrepreneurship (3) MHR 3420 - Creativity and Entrepreneurship (3) MHR 4450 - Funding New Ventures (3) MHR 4460 - Entrepreneurial Planning (3) Minor Electives: 6 units Select from List of Courses: 3 units MHR 4430 - Technology Entrepreneurship (3) MHR 4440 - Social Entrepreneurship (3) Select from List of Courses: 3 units MHR 3030 - Management of Not-for-Profit Organizations (3) MHR 4020 - Leadership: Theory and Practice (3) MHR 4030 - Leading Organizational Transformations (3) MHR 4250 - Employment Law (3) Notes: Students enrolled in these programs must meet with an advisor to ensure their minor coursework is distinct from their major coursework: Business Administration, B.S. - Management and Human Resources Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 12 units",
+      "courses": [
+        "MHR 3410",
+        "MHR 3420",
+        "MHR 4450",
+        "MHR 4460"
+      ],
+      "raw_text": "Minor Required: 12 units"
+    },
+    {
+      "name": "Select from List of Courses: 3 units",
+      "courses": [
+        "MHR 4430",
+        "MHR 4440",
+        "MHR 3030",
+        "MHR 4020",
+        "MHR 4030",
+        "MHR 4250"
+      ],
+      "raw_text": "Select from List of Courses: 3 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MHR 3410",
+      "title": "Introduction to Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "434793",
+      "requirement": "Minor Required: 12 units",
+      "description": "An overview of the process that will take students from having an entrepreneurial idea to turning it into a successful business. Topics covered in this course include the entrepreneurial mindset, design thinking, business model generation, business planning, entrepreneurial “pitching,” and organizational and financing issues related to starting a business.",
+      "prerequisites": "Junior standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3420",
+      "title": "Creativity and Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "434794",
+      "requirement": "Minor Required: 12 units",
+      "description": "Exploring techniques and exercises to facilitate the creative thinking process. Learn to develop and nurture an entrepreneurial mindset in order to recognize opportunities in a dynamic marketplace. Exploration of the creative process and its application to entrepreneurial ventures as stand-alone businesses or within an established company.",
+      "prerequisites": "Junior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4450",
+      "title": "Funding New Ventures",
+      "units": "3",
+      "ge": null,
+      "coid": "434807",
+      "requirement": "Minor Required: 12 units",
+      "description": "Topics include raising seed and growth capital from crowdfunding, venture capital, business angels, investment banking, commercial banking, bootstrapping sources, and understanding financial problems unique to the small and medium-sized firms undergoing rapid growth. The main focus is on financial management for entrepreneurs over the life of business projects. This includes financing start-ups, financial planning for the nonpublic smaller businesses, going public, selling out, sources of capital, and other related topics. Furthermore, the logic of investor decision-making is examined, particularly with regard to financial viability concerns.",
+      "prerequisites": "MHR 3410 . Junior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4460",
+      "title": "Entrepreneurial Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "434808",
+      "requirement": "Minor Required: 12 units",
+      "description": "Integration of knowledge attained during other entrepreneurship courses and application to developing an effective business plan based on a viable and lucrative business idea.",
+      "prerequisites": "MHR 3410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4430",
+      "title": "Technology Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "434805",
+      "requirement": "Select from List of Courses: 3 units",
+      "description": "Familiarization with emerging disruptive technologies that could provide the backbone for the next technological revolution. In addition, study of business modeling techniques to help “flesh out” ideas and create lucrative business models based on the disruptive technologies in focus.",
+      "prerequisites": "MHR 3410 . Junior standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4440",
+      "title": "Social Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "434806",
+      "requirement": "Select from List of Courses: 3 units",
+      "description": "The application of entrepreneurial concepts and skills to solve or ameliorate societal problems. Examination of profit-seeking, not-for-profit, and hybrid ventures with an authentic social mission. Finding a “cause” and creating a business plan utilizing the business model canvas.",
+      "prerequisites": "Junior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3030",
+      "title": "Management of Not-for-Profit Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "434792",
+      "requirement": "Select from List of Courses: 3 units",
+      "description": "Methods, theory, and institutional knowledge for managing not-for-profit organizations. Problems and issues in policy, organization, program, personnel, and budget unique to not-for-profit organizations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4020",
+      "title": "Leadership: Theory and Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "434796",
+      "requirement": "Select from List of Courses: 3 units",
+      "description": "Introduction to various leadership theories so that they can identify leadership in action and accordingly understand the applications of leadership theories. Develop leadership potential within students by helping them identify their own strengths, weaknesses, and their dominant leadership style.",
+      "prerequisites": "C or better in MHR 3020 or MHR 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4030",
+      "title": "Leading Organizational Transformations",
+      "units": "3",
+      "ge": null,
+      "coid": "434797",
+      "requirement": "Select from List of Courses: 3 units",
+      "description": "The role of leaders as champions of organizational innovation, change, and renewal. Topics include context, content, and process of change, rethinking employee resistance, and leading merger and acquisitions, restructuring, innovation, design thinking, and sustainability.",
+      "prerequisites": "C or better in MHR 3010 or MHR 301.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4250",
+      "title": "Employment Law",
+      "units": "3",
+      "ge": null,
+      "coid": "434802",
+      "requirement": "Select from List of Courses: 3 units",
+      "description": "Federal and state equal employment opportunity laws with respect to discrimination and harassment because of race, color, sex, national origin, religion, age, affinity and disability as well as the legal impact on HRM issues (e.g., hiring, testing).",
+      "prerequisites": "MHR 3210 , HRT 3500 , MHR 311 or HRT 350.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "MHR 3030",
+    "MHR 3410",
+    "MHR 3420",
+    "MHR 4020",
+    "MHR 4030",
+    "MHR 4250",
+    "MHR 4430",
+    "MHR 4440",
+    "MHR 4450",
+    "MHR 4460"
+  ]
+}

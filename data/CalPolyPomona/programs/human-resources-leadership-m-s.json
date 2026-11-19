@@ -1,0 +1,216 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:35+00:00",
+  "id": "human-resources-leadership-m-s",
+  "name": "Human Resources Leadership, M.S.",
+  "title_on_page": "University Catalog",
+  "department": "Management And Human Resources",
+  "department_id": "management-and-human-resources",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24567",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6309",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Human Resources Leadership, M.S.: 33 units Offered jointly by: College of Business Administration - Management and Human Resources Department and College of Professional and Global Education Major Required | Culminating Experience | Program Website Major Required: 30 units MHR 6100 - Strategic Talent Management (3) MHR 6110 - Total Rewards (3) MHR 6120 - Human Resource Analytics (3) MHR 6130 - Employment Law (3) MHR 6200 - Leading People and Organizations (3) MHR 6210 - Business Negotiation and Resolution of Conflict (3) MHR 6220 - Effective Human Resources and Organizational Communication (3) MHR 6300 - Leading Transformations in Contemporary Organizations (3) MHR 6400 - Managerial Creativity and Innovation (3) MHR 6500 - Diversity Equity Inclusion (3) Culminating Experience: 3 units MHR 6950 - Human Resources Project (3) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Major Required: 30 units",
+      "courses": [
+        "MHR 6100",
+        "MHR 6110",
+        "MHR 6120",
+        "MHR 6130",
+        "MHR 6200",
+        "MHR 6210",
+        "MHR 6220",
+        "MHR 6300",
+        "MHR 6400",
+        "MHR 6500"
+      ],
+      "raw_text": "Major Required: 30 units"
+    },
+    {
+      "name": "Culminating Experience: 3 units",
+      "courses": [
+        "MHR 6950"
+      ],
+      "raw_text": "Culminating Experience: 3 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MHR 6100",
+      "title": "Strategic Talent Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439479",
+      "requirement": "Major Required: 30 units",
+      "description": "People-centric approach to talent management with four key components: 1) Understanding the strategic context for talent management. 2) Implementing talent management by addressing core functions and employee well-being.3) Reflective exercises on aligning organizational goals with employee needs. 4) Case studies to apply talent management strategies.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "MHR 6110",
+      "title": "Total Rewards",
+      "units": "3",
+      "ge": null,
+      "coid": "439478",
+      "requirement": "Major Required: 30 units",
+      "description": "Focuses on the creation of effective rewards systems that boost employee motivation and maintain market competitiveness. Covers strategic compensation, performance management, pay structure, benefits, and various incentive topics. Ideal for future and current HR professionals and managers in any organization. Designed for both future and practicing HR professionals and managers. Overview of reward management in all types of organizations.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "MHR 6120",
+      "title": "Human Resource Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "439480",
+      "requirement": "Major Required: 30 units",
+      "description": "Introduction to Human Resource (HR) Analytics. Organizations are increasingly relying on HR Analytics to improve decision making regarding various HR and organizational issues. Focuses on the fundamental logic, metrics, analysis, and interpretation necessary to conducting HR Analytics, and students will learn how to make data-driven decisions in the HR context. Reviews data analysis and statistics; emphasis on the application of HR Analytics to address real-world problems that organizations face.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "MHR 6130",
+      "title": "Employment Law",
+      "units": "3",
+      "ge": null,
+      "coid": "439481",
+      "requirement": "Major Required: 30 units",
+      "description": "Surveys and examines employment laws that govern human resource management practices, programs, and policies. Examines federal and state laws regulating the employer-employee relationship and the dynamics of the contemporary workplace. Topics include employment laws and regulations; equal employment opportunity; wrongful discharge; discrimination (i.e., race, color, gender, religion, disability, age, national origin) and harassment; workplace privacy; compensation, benefits, and employee safety; and hiring, promotion, and termination decisions.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "MHR 6200",
+      "title": "Leading People and Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "439482",
+      "requirement": "Major Required: 30 units",
+      "description": "Human Resources professionals need effective leadership skills to collaborate with upper management to achieve strategic goals, to improve the relationships between management and employees, and to advocate causes on behalf of the employees to achieve high performance. Focuses on the most important leadership theories and their real-life applications in a variety of human resources contexts. Assets with the examination and improvement leadership skills (e.g. communication, conflict resolution, team building, coaching skills) through the use of assessment tools, simulations, role-plays, case analyses and class discussions.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "MHR 6210",
+      "title": "Business Negotiation and Resolution of Conflict",
+      "units": "3",
+      "ge": null,
+      "coid": "439483",
+      "requirement": "Major Required: 30 units",
+      "description": "Effective Human Resources managers and team members will use negotiation skills to identify optimal solutions to problems when dealing with employees, colleagues and/or executives. Negotiation and persuasion skills also help secure high levels of employee and executive acceptance for identified solutions all the while maintaining a productive and positive organizational climate. Topics covered include conflict management and negotiation theory and strategies that are used in a variety of business settings, and focuses on the real-life applications and practice of effective negotiation for Human Resources professionals.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "MHR 6220",
+      "title": "Effective Human Resources and Organizational Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "439484",
+      "requirement": "Major Required: 30 units",
+      "description": "Facilitates HR leaders in developing imperative interpersonal relationship skills. HR leaders must first know themselves before they can understand and develop more effective interactions with others. Improves interpersonal skills with the mastery of concepts, and learning real-world applications via a variety of experiential and reflective exercises including role plays, assessments, journals, case studies, etc. Includes numerous opportunities to practice interpersonal skills and also receive and respond to feedback from peers to better understand communication styles to address real-world HR challenges.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "MHR 6300",
+      "title": "Leading Transformations in Contemporary Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "439485",
+      "requirement": "Major Required: 30 units",
+      "description": "Focuses on the topic of organizational change, and the crucial role played by HR leaders in designing, implementing, and facilitating these changes utilizing a systems lens. The overarching goal is to help HR professionals develop business acumen, understand HR’s contribution to the organizational goals, and become adaptable change leaders and internal consultants. Topics include change context, content, and process, Kotter’s 8-stage framework, employee resistance, HR’s role in managing organizational changes including M&A, restructuring, and crisis management, project management, and human-centric problem-solving through design thinking.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "MHR 6400",
+      "title": "Managerial Creativity and Innovation",
+      "units": "3",
+      "ge": null,
+      "coid": "439486",
+      "requirement": "Major Required: 30 units",
+      "description": "Focuses on fostering creative thinking and an entrepreneurial mindset, especially within the HR context by learning to identify opportunities in a dynamic marketplace and design innovative solutions applicable to established companies. Incorporates project design of an innovation with the potential for implementation in established companies. Additionally, introduces disruptive technologies and business modeling techniques to turn ideas into lucrative models. Emphasis on creativity as a catalyst for innovation, personal growth, and professional legacy.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Summer"
+    },
+    {
+      "code": "MHR 6500",
+      "title": "Diversity Equity Inclusion",
+      "units": "3",
+      "ge": null,
+      "coid": "439540",
+      "requirement": "Major Required: 30 units",
+      "description": "Provides HR leaders with in-depth knowledge and practical skills for fostering diversity, equity, and inclusion in the workplace. Explores the historical and societal context of these concepts, addressing bias, privilege, and power dynamics. Topics include unconscious bias, microaggressions, inclusive communication, recruitment, talent development, and retention strategies. Also covers employee resource groups, allyship, advocacy, and handling harassment and discrimination to cultivate socially responsible and inclusion-focused HR leaders.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Summer"
+    },
+    {
+      "code": "MHR 6950",
+      "title": "Human Resources Project",
+      "units": "3",
+      "ge": null,
+      "coid": "439487",
+      "requirement": "Culminating Experience: 3 units",
+      "description": "A capstone course for the Master of Science in Human Resources Leadership. Successful completion of the course requires selection and comprehensive investigation of a problem that needs to be addressed or opportunity to implement an innovative program, within the HR context and under close and unique faculty guidance. Project activities should be chosen with respect to the student’s interest and special area of expertise, e.g., recruitment, workplace safety, compensation, employee relations, labor law compliance and training. A formal report or presentation is required.",
+      "prerequisites": "MHR 6100 , MHR 6110 , MHR 6120 , MHR 6130 , and MHR 6200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Summer"
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "MHR 6100",
+    "MHR 6110",
+    "MHR 6120",
+    "MHR 6130",
+    "MHR 6200",
+    "MHR 6210",
+    "MHR 6220",
+    "MHR 6300",
+    "MHR 6400",
+    "MHR 6500",
+    "MHR 6950"
+  ]
+}

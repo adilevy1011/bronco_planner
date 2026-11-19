@@ -1,0 +1,354 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:10:45+00:00",
+  "id": "materials-engineering-m-s",
+  "name": "Materials Engineering, M.S.",
+  "title_on_page": "University Catalog",
+  "department": "Chemical And Materials Engineering",
+  "department_id": "chemical-and-materials-engineering",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24343",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6317",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Materials Engineering, M.S.: 30 units Offered by: College of Engineering , Chemical and Materials Engineering Department Modality: Fully F2F, Online Major Required | Major Electives | Culminating Experience | Program Website Major Required: 15 units MTE 5280 - Materials Thermodynamics (3) MTE 5330 - Mechanical Properties of Materials (3) MTE 5460 - Phase Transformations (3) MTE 5550 - Advanced Corrosion and Environmental Degradation (3) MTE 5750 - Materials Processing (3) Major Electives: 9-15 units EGR 5090 - Advanced Differential Equations for Engineers (3) or EGR 5110 - Numerical Methods (3) EGR 5370 - Polymer Fluid Dynamics (3) EGR 5470 - Process Modeling and Analysis (3) EGR 5800 - Materials for Electronics (3) EGR 5990 - Special Topics for Graduate Students (1-3) MTE 5990 - Special Topics for Graduate Students (1-3) MTE 6300 - Materials for Energy Applications (3) MTE 6500 - Nanomaterials (3) MTE 6700 - Biomaterials (3) Culminating Experience: 0-6 units MTE 6910 - Directed Research (1-3) (1 unit required) and MTE 6950 - Master’s Degree Project (2) (2 units required) OR MTE 6960 - Master’s Degree Thesis (1-3) (6 units required) OR MTE 6970 - Comprehensive Examination (0) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessi",
+  "requirements": [
+    {
+      "name": "Major Required: 15 units",
+      "courses": [
+        "MTE 5280",
+        "MTE 5330",
+        "MTE 5460",
+        "MTE 5550",
+        "MTE 5750"
+      ],
+      "raw_text": "Major Required: 15 units"
+    },
+    {
+      "name": "Major Electives: 9-15 units",
+      "courses": [
+        "EGR 5090"
+      ],
+      "raw_text": "Major Electives: 9-15 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "EGR 5110",
+        "EGR 5370",
+        "EGR 5470",
+        "EGR 5800",
+        "EGR 5990",
+        "MTE 5990",
+        "MTE 6300",
+        "MTE 6500",
+        "MTE 6700"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Culminating Experience: 0-6 units",
+      "courses": [
+        "MTE 6910"
+      ],
+      "raw_text": "Culminating Experience: 0-6 units"
+    },
+    {
+      "name": "and",
+      "courses": [
+        "MTE 6950"
+      ],
+      "raw_text": "and"
+    },
+    {
+      "name": "OR",
+      "courses": [
+        "MTE 6960",
+        "MTE 6970"
+      ],
+      "raw_text": "OR"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MTE 5280",
+      "title": "Materials Thermodynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435753",
+      "requirement": "Major Required: 15 units",
+      "description": "Advanced macroscopic thermodynamics applied to materials in the solid and liquid states. Laws of thermodynamics, important thermodynamic functions, multicomponent phase equilibria, electrochemistry, solutions and mixing, phase rule and phase diagrams. Discussion of applications and statistical thermodynamics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 5330",
+      "title": "Mechanical Properties of Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "435754",
+      "requirement": "Major Required: 15 units",
+      "description": "Study of the mechanical behavior of materials. Fundamental mechanisms controlling deformation and fracture in solid materials. Strain hardening, creep, fatigue, ductile and brittle fracture. Strengthening mechanisms involving alloying and heat treatment. Superplasticity. 3 hours lecture/problem solving.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 5460",
+      "title": "Phase Transformations",
+      "units": "3",
+      "ge": null,
+      "coid": "435755",
+      "requirement": "Major Required: 15 units",
+      "description": "Principles of solid-state reactions including nucleation and growth theory, diffusional and shear transformations, the shape-memory effect, transformation toughening, thermal treatment of solids. Special topics include metallic and silicate glasses, physical metallurgy of steels and superalloys.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 5550",
+      "title": "Advanced Corrosion and Environmental Degradation",
+      "units": "3",
+      "ge": null,
+      "coid": "435756",
+      "requirement": "Major Required: 15 units",
+      "description": "Thermodynamics and kinetics of corrosion. Nernst and Tafel equations. Pourbaix diagrams. Electrochemical basis for corrosion. Fundamental approach to corrosion and corrosion control. Microbially Induced Corrosion. Biofouling. Degradation of polymers. Weathering of structural and architectural materials.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 5750",
+      "title": "Materials Processing",
+      "units": "3",
+      "ge": null,
+      "coid": "438945",
+      "requirement": "Major Required: 15 units",
+      "description": "Mass, heat and momentum transfer applied to materials processing. Topics: fluid properties, dynamic flow, conductive, convective and radiative heat transfer. Mass transport and solid state diffusion. Materials processing operations, e.g., solidification / casting, carburization, chemical vapor deposition, doping, etc.",
+      "prerequisites": "Undergraduate course in materials science, transport phenomena.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EGR 5090",
+      "title": "Advanced Differential Equations for Engineers",
+      "units": "3",
+      "ge": null,
+      "coid": "436192",
+      "requirement": "Major Electives: 9-15 units",
+      "description": "Advanced applied differential equations. Multi-disciplinary engineering models are developed and solved. Analytical and numerical techniques for solving differential systems with either a single independent variable or multiple independent variables are used.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EGR 5110",
+      "title": "Numerical Methods",
+      "units": "3",
+      "ge": null,
+      "coid": "436190",
+      "requirement": "or",
+      "description": "Cross Listed as: ECE 5110 Numerical techniques for solving engineering problems. Topics covered include Solutions of Equations of One Variable, Spline Interpolation, Numerical Integration, Numerical Linear and Algebra concepts like Gaussian Elimination, Pivoting, Matrix Factorizations, Special Matrices: Positive Definite Matrices, Orthogonal Matrices, Norms of vectors and matrices, Conditional Numbers, Eigenvalues, Singular Value Decomposition or generalized eigenvalues for singular or non-square matrices.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EGR 5370",
+      "title": "Polymer Fluid Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "436199",
+      "requirement": "or",
+      "description": "The structure, flow phenomena, and material functions for polymeric fluids. Constitutive equations available to solve polymer fluid dynamics problems. Applications in plastics manufacturing, performance of lubricants, processing of food-stuffs, and movement of biological fluids.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EGR 5470",
+      "title": "Process Modeling and Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "436196",
+      "requirement": "or",
+      "description": "Mathematical modeling of physical and chemical processes. Analytical and numerical solutions for steady and unsteady state problems. Design project based on results of modeling.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EGR 5800",
+      "title": "Materials for Electronics",
+      "units": "3",
+      "ge": null,
+      "coid": "436200",
+      "requirement": "or",
+      "description": "Preparation techniques for materials used in electronic devices. Structure and purity control. Crystal growth, epitaxy, vapor deposition, magnetic domains and solid state phase transformations. Current problems concerning Si and III-V compound device production and research.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EGR 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438294",
+      "requirement": "or",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438615",
+      "requirement": "or",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 6300",
+      "title": "Materials for Energy Applications",
+      "units": "3",
+      "ge": null,
+      "coid": "435764",
+      "requirement": "or",
+      "description": "Materials science relevant to energy generation and storage. Thermodynamics, electrochemistry, catalysis, and polymer materials science to understand polymer electrolyte membrane fuel cells. Role of materials in solid oxide fuel cells, batteries, wind, solar, ocean thermal, and nuclear energy generation. Electronic band structure and photovoltaics. Artificial leaves.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 6500",
+      "title": "Nanomaterials",
+      "units": "3",
+      "ge": null,
+      "coid": "435765",
+      "requirement": "or",
+      "description": "Fundamental understanding of nanomaterials science. Limits to strengthening of materials at the nanoscale. Thermodynamics and kinetics at the nanoscale. Effects of dimensionality and scale. Graphene, nanotubes, fullerenes, and nanocomposites.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 6700",
+      "title": "Biomaterials",
+      "units": "3",
+      "ge": null,
+      "coid": "435766",
+      "requirement": "or",
+      "description": "Materials and their interactions with biological hosts. Biological strategies for materials synthesis. Bio-inspired materials. Hierarchical and cellular structure of biomaterials, e.g., bones and muscles. Bio-composites. Damage, degradation, and restoration of biomaterials.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438618",
+      "requirement": "Culminating Experience: 0-6 units",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 6950",
+      "title": "Master’s Degree Project",
+      "units": "2",
+      "ge": null,
+      "coid": "439469",
+      "requirement": "and",
+      "description": "A continuation of work on a Master’s Degree Project after a student has completed the required MTE 6910. Presentations of projects in acceptable written and oral form to a committee of faculty in the Department required. The project proposal, plan, and schedule need to be approved by the advisor. Regular meetings and discussions with the faculty advisor should continue until the completion of the project. Credit will be assigned upon acceptance of the project by the defense committee.",
+      "prerequisites": "Graduate standing, advancement to Candidacy, completion of all relevant coursework, and an approved project topic by the faculty advisor.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "1-3",
+      "ge": null,
+      "coid": "439470",
+      "requirement": "OR",
+      "description": "Independent investigation intended to be an extension of an existing body of knowledge into an area not thoroughly investigated before, directed by a committee of graduate faculty members, and resulting in a published thesis. Must be repeated as appropriate. Credit assigned upon successful completion of entire thesis and approval of the committee.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: May be taken up to three times for a total credit of 6 units.",
+      "when_offered": ""
+    },
+    {
+      "code": "MTE 6970",
+      "title": "Comprehensive Examination",
+      "units": "0",
+      "ge": null,
+      "coid": "439471",
+      "requirement": "OR",
+      "description": "Comprehensive examination to satisfy the culminating experience requirement of the Master of Science in Materials Engineering (MSMT) degree. May enroll after completing the required course work, and it may be taken up to two times.",
+      "prerequisites": "Graduate standing, consent of instructor, and good standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "MTE 5280",
+    "MTE 5330",
+    "MTE 5460",
+    "MTE 5550",
+    "MTE 5750",
+    "MTE 5990",
+    "MTE 6300",
+    "MTE 6500",
+    "MTE 6700",
+    "MTE 6910",
+    "MTE 6950",
+    "MTE 6960",
+    "MTE 6970"
+  ]
+}

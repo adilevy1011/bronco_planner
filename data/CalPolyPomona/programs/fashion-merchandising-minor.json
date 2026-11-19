@@ -1,0 +1,320 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:08:13+00:00",
+  "id": "fashion-merchandising-minor",
+  "name": "Fashion Merchandising Minor",
+  "title_on_page": "University Catalog",
+  "department": "Apparel Merchandising And Management",
+  "department_id": "apparel-merchandising-and-management",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24116",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6300",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Fashion Merchandising Minor: 27 units Offered jointly by: Don B. Huntley College of Agriculture - Apparel Merchandising and Management Department , College of Business Administration - International Business and Marketing Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 18 units AMM 1010 - Introduction to the Fashion Industry (3) AMM 1600 - Introduction to Textile Science (2) AMM 1600L - Introduction to Textile Science Laboratory (1) AMM 2300 - Fashion Brand Promotion (3) AMM 2800 - Apparel Quality Management (2) AMM 2800L - Apparel Quality Management Laboratory (1) IBM 3012 - Principles of Marketing Management (3) IBM 4410 - Internship in Marketing and International Business (1-3) (3 units required) Minor Electives: 9 units Any combination of courses listed below will satisfy the required 9 units. Emphases are listed to provide guidance for helping students to choose courses of interest that best fit your career goals, but there is no requirement for choosing a specific emphasis for fulfilling these units. It is strongly recommended to complete the 9 units from the same emphasis. Emphasis A: Retail Buying, Marketing and Management AMM 2500 - Fashion Retail Buying I (3) AMM 3750 - Digital Commerce and Social Media Marketing for Fashion (3) IBM 3062 - Professional Selling (3) IBM 3082 - Retail Management (3) MAT XXXX - Any GE Area 2 Math Course or STA XXXX - Any GE Area 2 Statistics Course Emphasis B: International Business AMM 4800 - Global Fashion Management (3) IBM 3001 - Principles of Global Business (3) IBM 4141 - International Marketing (3) IBM 4161 - International Exporting (3) Emphasis C: Fashion Pro",
+  "requirements": [
+    {
+      "name": "Minor Required: 18 units",
+      "courses": [
+        "AMM 1010",
+        "AMM 1600",
+        "AMM 1600L",
+        "AMM 2300",
+        "AMM 2800",
+        "AMM 2800L",
+        "IBM 3012",
+        "IBM 4410"
+      ],
+      "raw_text": "Minor Required: 18 units"
+    },
+    {
+      "name": "Emphasis A: Retail Buying, Marketing and Management",
+      "courses": [
+        "AMM 2500",
+        "AMM 3750",
+        "IBM 3062",
+        "IBM 3082"
+      ],
+      "raw_text": "Emphasis A: Retail Buying, Marketing and Management"
+    },
+    {
+      "name": "Emphasis B: International Business",
+      "courses": [
+        "AMM 4800",
+        "IBM 3001",
+        "IBM 4141",
+        "IBM 4161"
+      ],
+      "raw_text": "Emphasis B: International Business"
+    },
+    {
+      "name": "Emphasis C: Fashion Production",
+      "courses": [
+        "AMM 3810",
+        "AMM 3810L",
+        "TOM 3010"
+      ],
+      "raw_text": "Emphasis C: Fashion Production"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AMM 1010",
+      "title": "Introduction to the Fashion Industry",
+      "units": "3",
+      "ge": null,
+      "coid": "436765",
+      "requirement": "Minor Required: 18 units",
+      "description": "Introduction to the development and structure of the global fashion industry, including: Consumer characteristics, product design, textile and apparel production, retail merchandising, brand marketing, distribution, and promotion. An introduction to apparel business organizations, their commercial processes and career opportunities. Oral, written, and multimedia reports on current topics relevant to the fashion industry.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 1600",
+      "title": "Introduction to Textile Science",
+      "units": "2",
+      "ge": null,
+      "coid": "436791",
+      "requirement": "Minor Required: 18 units",
+      "description": "Introductory study of the physical and chemical properties of textiles. Textile fiber production, classification, properties and identification. Textile coloration and finishing processes. Relationship of fiber characteristics, coloration and finishing processes to fabric properties, performance, legislation, and care. Corequisite(s): AMM 1600L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 1600L",
+      "title": "Introduction to Textile Science Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436971",
+      "requirement": "Minor Required: 18 units",
+      "description": "Introductory study of the physical and chemical properties of textiles. Textile fiber production, classification, properties and identification. Textile coloration and finishing processes. Relationship of fiber characteristics, coloration and finishing processes to fabric properties, performance, legislation, and care. Corequisite(s): AMM 1600 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 2300",
+      "title": "Fashion Brand Promotion",
+      "units": "3",
+      "ge": null,
+      "coid": "436775",
+      "requirement": "Minor Required: 18 units",
+      "description": "Principles and techniques of brand management and integrated communications for promoting fashion products. Emphasis is placed on market and consumer research, branding, and promotional tactics. Lectures, discussions, case studies, and team projects. Written analysis and presentation.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 2800",
+      "title": "Apparel Quality Management",
+      "units": "2",
+      "ge": null,
+      "coid": "436804",
+      "requirement": "Minor Required: 18 units",
+      "description": "Identification, analysis, and comparison of features and garment components in ready-to-wear apparel to learn and manage apparel quality. Consideration of design elements and principles in apparel design to meet consumer expectations. Identification of testing methods for quality assurance in the apparel industry. Use of industrial equipment to analyze construction methods and problems. Use of specifications, technical packages, and spreadsheet programs for product consistency. Corequisite(s): AMM 2800L .",
+      "prerequisites": "AMM 1120 or AMM 210, AMM 210A or AMM 1120L ; AMM 160 or AMM 1600 , and AMM 160L or AMM 1600L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 2800L",
+      "title": "Apparel Quality Management Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436808",
+      "requirement": "Minor Required: 18 units",
+      "description": "Identification, analysis, and comparison of features and garment components in ready-to-wear apparel to learn and manage apparel quality. Consideration of design elements and principles in apparel design to meet consumer expectations. Identification of testing methods for quality assurance in the apparel industry. Use of industrial equipment to analyze construction methods and problems. Use of specifications, technical packages, and spreadsheet programs for product consistency. Corequisite(s): AMM 2800 .",
+      "prerequisites": "AMM 1120 or AMM 210, AMM 1120L or AMM 210A, AMM 160 or AMM 1600 , and AMM 1600L or AMM 160L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 3012",
+      "title": "Principles of Marketing Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434760",
+      "requirement": "Minor Required: 18 units",
+      "description": "Principles, concepts, and institutions involved in facilitating the exchange of goods and services. Analysis of the markets, the marketing environment, and the ‘marketing mix’ variables. Planning, implementation and control of marketing strategies to gain competitive advantage. Technology mediated. Technology mediated.",
+      "prerequisites": "Completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4410",
+      "title": "Internship in Marketing and International Business",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437663",
+      "requirement": "Minor Required: 18 units",
+      "description": "Faculty Supervised on the job educational experience in the real world international business and marketing environment. Allocation of unit credit is dependent upon the nature of the work done, the level of responsibility and the number of hours worked. Total Internship credit limited to 6 units.",
+      "prerequisites": "Undergraduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total Internship credit limited to 6 units.",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 2500",
+      "title": "Fashion Retail Buying I",
+      "units": "3",
+      "ge": null,
+      "coid": "436766",
+      "requirement": "Emphasis A: Retail Buying, Marketing and Management",
+      "description": "An introduction to the role of retailing and retail buyers in fashion merchandise management. A foundation in retail principles associated with fashion merchandise buying, pricing, planning and allocation is provided. Quantitative concepts used in retail management and are able to apply those for decision-making. Corequisite(s): AMM 2510A .",
+      "prerequisites": "STA 120, STA 1200 , or STA 1202 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "AMM 3750",
+      "title": "Digital Commerce and Social Media Marketing for Fashion",
+      "units": "3",
+      "ge": null,
+      "coid": "436779",
+      "requirement": "Emphasis A: Retail Buying, Marketing and Management",
+      "description": "Technological and managerial perspectives on how digital commerce is affecting fashion business enterprises and consumers. Concepts and technologies necessary for designing, developing, and deploying e-commerce and m-commerce applications.",
+      "prerequisites": "AMM 296 or AMM 2200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 3062",
+      "title": "Professional Selling",
+      "units": "3",
+      "ge": null,
+      "coid": "434761",
+      "requirement": "Emphasis A: Retail Buying, Marketing and Management",
+      "description": "Focuses on the consultative selling process from a holistic perspective. Includes an emphasis on the role of relationship building with customers for long-term success and the co-creation of value. Examines the role of sales management in hiring, motivating, directing, and controlling the salesforce.",
+      "prerequisites": "C or better in IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 3082",
+      "title": "Retail Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434766",
+      "requirement": "Emphasis A: Retail Buying, Marketing and Management",
+      "description": "Overview of the retail system, examining supply chain, store management, omni-channels, customer experience, and leadership, as well as various forms of retail. Exploration of different retail careers, including those in the supply chain. Review and critique of some successful retail companies",
+      "prerequisites": "Undergraduate standing; and IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 4800",
+      "title": "Global Fashion Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439433",
+      "requirement": "Emphasis B: International Business",
+      "description": "Equips students with a deep understanding of the intricate dynamics that drive success in the global fashion industry. Through a strategic lens, the multifaceted challenges and opportunities faced by fashion businesses when expanding their operations internationally are explored. Delves into the topics of cross-cultural differences in consumers; cross-country differences in economic, political, competitive, and legal environments; and entry mode choices.",
+      "prerequisites": "AMM 3550 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 3001",
+      "title": "Principles of Global Business",
+      "units": "3",
+      "ge": null,
+      "coid": "434759",
+      "requirement": "Emphasis B: International Business",
+      "description": "An introductory survey of important issues in global business. Topics covered include national differences in political, social, economic and financial systems; theories of international trade and investment, monetary systems, and foreign exchanges markets.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4141",
+      "title": "International Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434776",
+      "requirement": "Emphasis B: International Business",
+      "description": "Examines processes for maximizing global marketing opportunities through comprehensive environmental analyses. Applies the marketing mix to emerging trends, the varying cultural landscapes, and economic factors, with an emphasis on effective adaption of U.S. products and services for overseas markets.",
+      "prerequisites": "C or better in IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4161",
+      "title": "International Exporting",
+      "units": "3",
+      "ge": null,
+      "coid": "434777",
+      "requirement": "Emphasis B: International Business",
+      "description": "The study of import and export management process and procedures. The course aims to provide an in depth understanding of the basic concepts of the exporting and importing discipline, discussing opportunities and challenges and provide guidelines to increase success.",
+      "prerequisites": "IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 3810",
+      "title": "Fashion Mass Production",
+      "units": "2",
+      "ge": null,
+      "coid": "435722",
+      "requirement": "Emphasis C: Fashion Production",
+      "description": "Introduction to fashion apparel manufacturing from cut order planning through marker making, spreading, cutting, part and final assembly, and finishing. Assessment of garment quality using standards and specifications and Teck Packs through Inspection and grading defects. Introduction to costing, production sourcing, work-study, production management and inventory management. Use of industrial apparel production equipment to learn mass production process. Site visits to apparel manufacturers. Corequisite(s): AMM 3810L .",
+      "prerequisites": "AMM 301 or AMM 2800 ; and AMM 301L or AMM 2800L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 3810L",
+      "title": "Fashion Mass Production Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435731",
+      "requirement": "Emphasis C: Fashion Production",
+      "description": "Introduction to fashion apparel manufacturing from cut order planning through marker making, spreading, cutting, part and final assembly, and finishing. Assessment of garment quality using standards and specifications and Teck Packs through Inspection and grading defects. Introduction to costing, production sourcing, work-study, production management and inventory management. Use of industrial apparel production equipment to learn mass production process. Site visits to apparel manufacturers. Corequisite(s): AMM 3810 .",
+      "prerequisites": "AMM 301 or AMM 2800 ; and AMM 301L or AMM 2800L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 3010",
+      "title": "Operations Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434810",
+      "requirement": "Emphasis C: Fashion Production",
+      "description": "An overview of how businesses operate, especially under supply chain settings. Main topics includes business processes analysis, product and service quality management, waiting line (queue) management, inventory (material) management, project management, and supply chain management.",
+      "prerequisites": "STA 120, STA 1200 , or STA 1202 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "AMM 1010",
+    "AMM 1600",
+    "AMM 1600L",
+    "AMM 2300",
+    "AMM 2500",
+    "AMM 2800",
+    "AMM 2800L",
+    "AMM 3750",
+    "AMM 3810",
+    "AMM 3810L",
+    "AMM 4800"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:13:34+00:00",
+  "id": "communication-studies-minor",
+  "name": "Communication Studies Minor",
+  "title_on_page": "University Catalog",
+  "department": "Communication",
+  "department_id": "communication",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24213",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6330",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Communication Studies Minor: 21 units Offered by: College of Letters, Arts, and Social Sciences , Communication Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 9 units COM 1103 - Interpersonal Communication (3) COM 2201 - Communication Theory (3) COM 3314 - Organizational Communication (3) [GE 4C] Minor Electives: 12 units Select from List of Courses: 3 units COM 3321W - Advanced Organization Communication (3) COM 4403W - Advanced Interpersonal Communication (3) Select from List of Courses: 9 units COM 2237 - Group Communication (3) COM 2340 - Professional Writing and Speaking (3) COM 3326 - Nonverbal Communication (3) COM 3327 - Intercultural Communication (3) [GE 4C] COM 4244 - Artificial Intelligence, Media, and the Future of Technology (3) COM 4404 - Gender and Communication (3) COM 4405 - Family Communication (3) COM 4409 - Negotiation and Conflict Resolution (3) COM 4440 - Communication Training and Consulting (3) Notes: Students enrolled in these programs may not declare this minor: Communication, B.S. - Communication Studies Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 9 units",
+      "courses": [
+        "COM 1103",
+        "COM 2201",
+        "COM 3314"
+      ],
+      "raw_text": "Minor Required: 9 units"
+    },
+    {
+      "name": "Select from List of Courses: 3 units",
+      "courses": [
+        "COM 3321W",
+        "COM 4403W"
+      ],
+      "raw_text": "Select from List of Courses: 3 units"
+    },
+    {
+      "name": "Select from List of Courses: 9 units",
+      "courses": [
+        "COM 2237",
+        "COM 2340",
+        "COM 3326",
+        "COM 3327",
+        "COM 4244",
+        "COM 4404",
+        "COM 4405",
+        "COM 4409",
+        "COM 4440"
+      ],
+      "raw_text": "Select from List of Courses: 9 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "COM 1103",
+      "title": "Interpersonal Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436255",
+      "requirement": "Minor Required: 9 units",
+      "description": "Examination of the variables determining communication behavior. Development of understanding through involvement in a variety of structured face-to-face interactions with other students.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2201",
+      "title": "Communication Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "435545",
+      "requirement": "Minor Required: 9 units",
+      "description": "Study of contributions of rhetorical theory, linguistics, psychology, and sociology to the development of general communication theory. 4 hours lecture/discussion",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3314",
+      "title": "Organizational Communication",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437783",
+      "requirement": "Minor Required: 9 units",
+      "description": "[GE 4C] Interdisciplinary theoretical approaches to the study of communication in and between organizations. Emphasis on organizational communication theories relating to managerial, psychological, sociological, systemic, cultural and political views of communication in and between organizations.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3321W",
+      "title": "Advanced Organization Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436256",
+      "requirement": "Select from List of Courses: 3 units",
+      "description": "Analysis of breakdowns in communications systems; identification of barriers and constraints to effective message transmission. Emphasis on practical and creative problem solving. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "COM 3314 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "COM 4403W",
+      "title": "Advanced Interpersonal Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436730",
+      "requirement": "Select from List of Courses: 3 units",
+      "description": "Concentrated focus on prominent theories, research, and methods relating to the study of intimate interpersonal communication between friends, partners, and family members. Explores the processes and stages of interpersonal relationships, including how they are created, maintained, altered, and dissolved through communication. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "COM 1103 , and junior or senior standing. Pre or Corequisite(s): COM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "COM 2237",
+      "title": "Group Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "435553",
+      "requirement": "Select from List of Courses: 9 units",
+      "description": "Variables of communication within problem solving groups; development of conference and discussion skills. Secondary emphasis on group psychology as it relates to problem solving discussions.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2340",
+      "title": "Professional Writing and Speaking",
+      "units": "3",
+      "ge": null,
+      "coid": "436727",
+      "requirement": "Select from List of Courses: 9 units",
+      "description": "Development and practice of specific writing and speaking skills applicable to professional-type settings. Emphasis on creating documents and oral presentations that are clear, concise, compelling, and correct. Includes discussion and analysis of both traditional and emerging modes of message delivery.",
+      "prerequisites": "GE Area 1C or A1.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "COM 3326",
+      "title": "Nonverbal Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436725",
+      "requirement": "Select from List of Courses: 9 units",
+      "description": "Examination of prominent theories, research, and methods relating to the study of nonverbal communication at work, home, and play. Includes investigation of the cultural similarities and differences in nonverbal communication.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3327",
+      "title": "Intercultural Communication",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434928",
+      "requirement": "Select from List of Courses: 9 units",
+      "description": "[GE 4C] Considers complexities of communication in a culturally diverse world toward the goal of improving communication effectiveness. Assimilates theory and research from anthropology, sociology, psychology, ethnic and gender studies, conflict & peace studies, and communication. Examines roles of culture, social groups, and individuals in shaping communication.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4244",
+      "title": "Artificial Intelligence, Media, and the Future of Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "436734",
+      "requirement": "Select from List of Courses: 9 units",
+      "description": "Examination of prominent theories, research, and methods relating to the study of how technology functions in organizational settings. Includes how organizations implement and use technological tools, as well as why these tools succeed or fail in meeting the organization’s purposes and goals.",
+      "prerequisites": "COM 314 or COM 3314 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4404",
+      "title": "Gender and Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436379",
+      "requirement": "Select from List of Courses: 9 units",
+      "description": "Examination of prominent theories, research, and methods relating to the study of gender and communication. Explores the social construction of gender and sexuality through communication, and how they influence communication practices and, correspondingly, how communication practices reflect and reinforce gendered roles and differing view of sexuality.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "COM 4405",
+      "title": "Family Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436732",
+      "requirement": "Select from List of Courses: 9 units",
+      "description": "Examination of prominent theories, research, and methods relating to the study of family communication. Explores specific communication processes in the context of families and how particular issues facing families can influence and be influenced by communication.",
+      "prerequisites": "COM 103 or COM 1103 , and COM 201 or COM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4409",
+      "title": "Negotiation and Conflict Resolution",
+      "units": "3",
+      "ge": null,
+      "coid": "435577",
+      "requirement": "Select from List of Courses: 9 units",
+      "description": "The role of communication in the productive settlement of interpersonal and organizational disputes. Examination of effective communication strategies used in negotiation and bargaining situations.",
+      "prerequisites": "COM 201 or COM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4440",
+      "title": "Communication Training and Consulting",
+      "units": "3",
+      "ge": null,
+      "coid": "436735",
+      "requirement": "Select from List of Courses: 9 units",
+      "description": "Study of the principles and processes of effective communication training and development. Includes how to create, implement, and assess communication training and development programs; how to conduct communication audits for business, government, and nonprofit organizations; and how to provide individualized one-on-one training and mentoring within the workplace.",
+      "prerequisites": "COM 201 or COM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "COM 1103",
+    "COM 2201",
+    "COM 2237",
+    "COM 2340",
+    "COM 3314",
+    "COM 3321W",
+    "COM 3326",
+    "COM 3327",
+    "COM 4244",
+    "COM 4403W",
+    "COM 4404",
+    "COM 4405",
+    "COM 4409",
+    "COM 4440"
+  ]
+}

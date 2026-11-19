@@ -1,0 +1,115 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:38+00:00",
+  "id": "management-of-not-for-profit-organizations-minor",
+  "name": "Management of Not-for-Profit Organizations Minor",
+  "title_on_page": "University Catalog",
+  "department": "Management And Human Resources",
+  "department_id": "management-and-human-resources",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24302",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6309",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Management of Not-for-Profit Organizations Minor: 18 units Offered by: College of Business Administration Management and Human Resources Department Minor Required | Notes | Program Website Minor Required: 18 units MHR 3010 - Principles of Management (3) MHR 3020 - Organizational Behavior (3) [GE 4C] MHR 3030 - Management of Not-for-Profit Organizations (3) MHR 3410 - Introduction to Entrepreneurship (3) MHR 4030 - Leading Organizational Transformations (3) MHR 4460 - Entrepreneurial Planning (3) Notes: Students enrolled in these program(s) must meet with an advisor to ensure their minor coursework is distinct from their major coursework: Business Administration, B.S. - Management and Human Resources Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 18 units",
+      "courses": [
+        "MHR 3010",
+        "MHR 3020",
+        "MHR 3030",
+        "MHR 3410",
+        "MHR 4030",
+        "MHR 4460"
+      ],
+      "raw_text": "Minor Required: 18 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MHR 3010",
+      "title": "Principles of Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434791",
+      "requirement": "Minor Required: 18 units",
+      "description": "A survey of the basic management functions of planning, organizing, leading and controlling, along with their application to the management of contemporary organizations. Provides an interdisciplinary approach to the study and practice of management theory. Topics included: functions of management, managerial roles and skills, management history, organizational environments, organizational strategy and structure, ethics, and diversity among others.",
+      "prerequisites": "Sophomore standing and completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3020",
+      "title": "Organizational Behavior",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434544",
+      "requirement": "Minor Required: 18 units",
+      "description": "[GE 4C] Introductory experiences in the basics of organizational behavior. Emphasis is given to the application of scientific knowledge drawn from different social sciences (primarily psychology, social psychology, sociology, political science, and cultural anthropology) to understand and manage human behavior in organizations. Topics discussed: individual differences, perception, attribution, motivation, working in teams, leadership, power and influence, conflict management, culture, and ethical decision making in the organizational context.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3030",
+      "title": "Management of Not-for-Profit Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "434792",
+      "requirement": "Minor Required: 18 units",
+      "description": "Methods, theory, and institutional knowledge for managing not-for-profit organizations. Problems and issues in policy, organization, program, personnel, and budget unique to not-for-profit organizations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3410",
+      "title": "Introduction to Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "434793",
+      "requirement": "Minor Required: 18 units",
+      "description": "An overview of the process that will take students from having an entrepreneurial idea to turning it into a successful business. Topics covered in this course include the entrepreneurial mindset, design thinking, business model generation, business planning, entrepreneurial “pitching,” and organizational and financing issues related to starting a business.",
+      "prerequisites": "Junior standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4030",
+      "title": "Leading Organizational Transformations",
+      "units": "3",
+      "ge": null,
+      "coid": "434797",
+      "requirement": "Minor Required: 18 units",
+      "description": "The role of leaders as champions of organizational innovation, change, and renewal. Topics include context, content, and process of change, rethinking employee resistance, and leading merger and acquisitions, restructuring, innovation, design thinking, and sustainability.",
+      "prerequisites": "C or better in MHR 3010 or MHR 301.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4460",
+      "title": "Entrepreneurial Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "434808",
+      "requirement": "Minor Required: 18 units",
+      "description": "Integration of knowledge attained during other entrepreneurship courses and application to developing an effective business plan based on a viable and lucrative business idea.",
+      "prerequisites": "MHR 3410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "MHR 3010",
+    "MHR 3020",
+    "MHR 3030",
+    "MHR 3410",
+    "MHR 4030",
+    "MHR 4460"
+  ]
+}

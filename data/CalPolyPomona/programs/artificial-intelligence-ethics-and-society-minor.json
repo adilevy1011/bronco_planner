@@ -1,0 +1,226 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:16:28+00:00",
+  "id": "artificial-intelligence-ethics-and-society-minor",
+  "name": "Artificial Intelligence Ethics and Society Minor",
+  "title_on_page": "University Catalog",
+  "department": "Philosophy",
+  "department_id": "philosophy",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24565",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6336",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Artificial Intelligence Ethics and Society Minor: 24 units Offered by: College of Letters, Arts, and Social Sciences , Philosophy Department Minor Required | Minor Electives Minor Required: 12 units PHL 2040 - Ethical Problems in Contemporary Life (3) [GE 3B] PHL 3850 - The Ethics of Artificial Intelligence (3) [GE 5D] STS 2010 - Introduction to Science, Technology, and Society (3) [GE 3B] STS 4610W - Science, Technology, and Society Capstone Seminar (3) Minor Electives: 12 units Historical and Conceptual Background: 6 units Choose two of the following courses MAT 3060 - History of Mathematics (3) PHL 3500 - Philosophy of Mind (3) PHL 3550 - Artificial Intelligence for Thinking Humans: A History (3) [GE 5D] PSY 3334 - Cognitive Processes (3) Ethics, Policy, and Culture: 6 units Choose two of the following courses CIS 3300 - Introduction to Artificial Intelligence (3) COM 4244 - Artificial Intelligence, Media, and the Future of Technology (3) ENG 2880 - Science Fiction (3) [GE 3B] EWS 2600 - Digital Culture, Race, and Ethnicity (3) [GE 6] PHL 3110 - Philosophical Issues in the Law (3) [GE 3C or 4C] Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 12 units",
+      "courses": [
+        "PHL 2040",
+        "PHL 3850",
+        "STS 2010",
+        "STS 4610W"
+      ],
+      "raw_text": "Minor Required: 12 units"
+    },
+    {
+      "name": "Historical and Conceptual Background: 6 units",
+      "courses": [
+        "MAT 3060",
+        "PHL 3500",
+        "PHL 3550",
+        "PSY 3334"
+      ],
+      "raw_text": "Historical and Conceptual Background: 6 units"
+    },
+    {
+      "name": "Ethics, Policy, and Culture: 6 units",
+      "courses": [
+        "CIS 3300",
+        "COM 4244",
+        "ENG 2880",
+        "EWS 2600",
+        "PHL 3110"
+      ],
+      "raw_text": "Ethics, Policy, and Culture: 6 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PHL 2040",
+      "title": "Ethical Problems in Contemporary Life",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434867",
+      "requirement": "Minor Required: 12 units",
+      "description": "[GE 3B] Investigation and application of central theoretical traditions in philosophical ethics. Analysis and appraisal of ethical arguments. Development of ethical reasoning skills. Critical consideration of controversial topics in personal, professional, social, and global ethics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3850",
+      "title": "The Ethics of Artificial Intelligence",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "439293",
+      "requirement": "Minor Required: 12 units",
+      "description": "[GE 5D] Examination of ethical issues surrounding the development and implementation of artificial intelligence. Topics include ethical learning, responsibility and automated systems, moral machines, explainable artificial intelligence, algorithmic bias, automation and work, human-robot interaction, machine consciousness, the moral status and rights of robots, and super-intelligence. Case-based exploration of these issues using contemporary examples.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "STS 2010",
+      "title": "Introduction to Science, Technology, and Society",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "435076",
+      "requirement": "Minor Required: 12 units",
+      "description": "[GE 3B] Examines the interrelation among science, technology, and society. Emphasis on historical and current cases that help characterize the nature of science, and on the involvement of values in science and technology.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "STS 4610W",
+      "title": "Science, Technology, and Society Capstone Seminar",
+      "units": "3",
+      "ge": null,
+      "coid": "437400",
+      "requirement": "Minor Required: 12 units",
+      "description": "Intensive study of the historical, social, political, economic, and ethical dimensions of a topic in science or technology. Selection and development of project for STS majors and minors. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "STS major or minor, and senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "MAT 3060",
+      "title": "History of Mathematics",
+      "units": "3",
+      "ge": null,
+      "coid": "436928",
+      "requirement": "Historical and Conceptual Background: 6 units",
+      "description": "Topics related to the chronological and topical developments of mathematics, with an emphasis on topics common to secondary mathematics. The development of numeration systems (Egyptian, Babylonia, Mayan, Greek, and Hindu-Arabic Numerals) and their computational algorithms; Geometry (with an emphasis on classical Euclidean geometry); Algebra (Cardano’s solution to the cubic, Descartes’ linking of algebra and geometry), Trigonometry (Mathematics in the Arab world) and ‘The Calculus’ (Contributions of Eudoxus, Archimedes, Newton and Leibniz). Specific topics within historical strands include: zero; logarithms; e, pi, and functions.",
+      "prerequisites": "C or better in MAT 2140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "PHL 3500",
+      "title": "Philosophy of Mind",
+      "units": "3",
+      "ge": null,
+      "coid": "435100",
+      "requirement": "Historical and Conceptual Background: 6 units",
+      "description": "Examination of problems in the philosophy of mind including knowledge of other minds, and the nature of mental states and their properties, in particular, consciousness and representation.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3550",
+      "title": "Artificial Intelligence for Thinking Humans: A History",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "439549",
+      "requirement": "Historical and Conceptual Background: 6 units",
+      "description": "[GE 5D] History and core concepts of artificial intelligence for understanding its social significance. Early rule-based AI and the more recent development of data-based processing by machine learning. History of development of AI for object recognition, game design, robotics, and natural language processing.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "PSY 3334",
+      "title": "Cognitive Processes",
+      "units": "3",
+      "ge": null,
+      "coid": "435298",
+      "requirement": "Historical and Conceptual Background: 6 units",
+      "description": "Processes by which humans acquire and maintain knowledge. Focus on the relationships of perception, language, and concept attainment. Major theories of cognition. Classroom experience with various perceptual and cognitive tasks.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CIS 3300",
+      "title": "Introduction to Artificial Intelligence",
+      "units": "3",
+      "ge": null,
+      "coid": "439462",
+      "requirement": "Ethics, Policy, and Culture: 6 units",
+      "description": "Introduction to artificial intelligence (AI) for business. Topics covered focus on AI technology fundamentals, including topics such as machine learning, deep learning and generative models, examines the diverse range of AI capabilities and applications in various business functions, and delves into the ethical and privacy issues of AI.",
+      "prerequisites": "C or better in CIS 2100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "COM 4244",
+      "title": "Artificial Intelligence, Media, and the Future of Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "436734",
+      "requirement": "Ethics, Policy, and Culture: 6 units",
+      "description": "Examination of prominent theories, research, and methods relating to the study of how technology functions in organizational settings. Includes how organizations implement and use technological tools, as well as why these tools succeed or fail in meeting the organization’s purposes and goals.",
+      "prerequisites": "COM 314 or COM 3314 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 2880",
+      "title": "Science Fiction",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "435018",
+      "requirement": "Ethics, Policy, and Culture: 6 units",
+      "description": "[GE 3B] Science fiction as a literary genre. The history of science fiction. The significance of science fiction in contemporary life and thought.",
+      "prerequisites": "Completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2600",
+      "title": "Digital Culture, Race, and Ethnicity",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439122",
+      "requirement": "Ethics, Policy, and Culture: 6 units",
+      "description": "[GE 6] Cross Listed as: IGE 2600 Explores racial formations in a U.S. context and how race has shaped aspects of American digital culture; issues of ethnic identities and racial inequalities in digital media; how race and ethnicity are embodied in and shaped by digital technologies; how digital media serves to complicate, change, erase, and/or recreate ethnic and racial boundaries; possibilities for alternative identities, communities, and cultures that digital technology offers; digital literacy and Gen Z activism.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHL 3110",
+      "title": "Philosophical Issues in the Law",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "434871",
+      "requirement": "Ethics, Policy, and Culture: 6 units",
+      "description": "[GE 3C or 4C] Exploration of the basic value and policy assumptions that structure the foundations of the law. Statutory language, judicial rulings, and constitutional controversies are examined. The writings of legal theorists from a variety of disciplinary perspectives are studied, including political scientists, legal academics, ethicists, historians, and economists.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "PHL 2040",
+    "PHL 3110",
+    "PHL 3500",
+    "PHL 3550",
+    "PHL 3850",
+    "STS 2010",
+    "STS 4610W"
+  ]
+}

@@ -1,0 +1,1390 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:49:46+00:00",
+  "id": "communication",
+  "name": "Communication",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6330",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Communication Department Building 1 Room 313 | (909) 869-3520 | Department Website | Faculty Directory The Communication Department’s mission is to educate and encourage students to effectively communicate through oral, written, and electronic media in a multicultural society, and to prepare students for communication positions in mass media, business, government, education, and nonprofit organizations-sectors vital to the growth and maintenance of a democratic society. The department promotes a polytechnic, practice-based education grounded in the liberal arts and social sciences. Through its three subplans-Communication Studies, Multimedia Journalism, and Public Relations-students explore the relationship between communication and culture, institutions, and technology. Faculty combine professional experience with academic research, creating a learning environment that supports digital storytelling, critical media analysis, and strategic communication. The curriculum emphasizes critical thinking, ethical practice, and analytical and creative expression in service of public discourse. Students gain professional experience by writing for The Poly Post, developing public relations campaigns, and participating in internships across media, nonprofit, and corporate sectors. They build networks through events like COM Day and Alumni Night and are supported by student chapters of national organizations such as the Society of Professional Journalists and the Public Relations Student Society of America. These experiences prepare graduates to enter dynamic fields with practical skills, cultural fluency, and professional confidence. Programs Bachelor Com",
+  "courses": [
+    {
+      "code": "COM 1000",
+      "title": "First Year Experience",
+      "units": "3",
+      "ge": null,
+      "coid": "442736",
+      "description": "Designed to assist first-year students in their transition to university life, with a specific focus on success within the Communication discipline, mental and physical well-being, building lasting connections, and instilling a mindset of career readiness. Introduction to campus and industry resources, tools, programs, and personnel that will enrich their college experience and ensure their academic success.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 1100",
+      "title": "Public Speaking",
+      "units": "3",
+      "ge": "GE 1C",
+      "coid": "434900",
+      "description": "[GE 1C] Study and practice of the principles and skills of effective public speaking, including how to conceptualize, structure, support, and deliver oral messages. Focuses on informative and persuasive speech-making, speech-critiquing, and understanding the role of reasoned discourse in a democratic society.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 1101",
+      "title": "Survey of Mass Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "435543",
+      "description": "Survey of contemporary mass media, communications theory, structure and interrelationships of newspapers, magazines, radio, television, and the Internet. Analysis of major media content. 3 hours lecture/discussion",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "spanish-media-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 1103",
+      "title": "Interpersonal Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436255",
+      "description": "Examination of the variables determining communication behavior. Development of understanding through involvement in a variety of structured face-to-face interactions with other students.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 1104",
+      "title": "Podcasting and the Art of Audio Storytelling",
+      "units": "3",
+      "ge": null,
+      "coid": "439515",
+      "description": "Introductory overview of podcast production and audio storytelling. Emphasis on developing ideas for podcast series, conducting interviews with invited guests, script writing, recording quality sound, editing audio using software like Audacity, getting podcasts on streaming services like Spotify and Apple Podcasts, and social media marketing strategies to attract and retain listeners. Develop limited series podcast, record and edit their first episodes, outline remaining episodes, and develop a post-production social media marketing plan.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 1106",
+      "title": "Writing for Communication Practitioners",
+      "units": "3",
+      "ge": null,
+      "coid": "436271",
+      "description": "Editorial, research, feature, and scholarly writing styles, constructions, and structures unique to the communication field.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 1107",
+      "title": "Copyediting",
+      "units": "3",
+      "ge": null,
+      "coid": "437544",
+      "description": "Instruction in the editorial process of writing text that is clear, correct, concise, comprehensible, and consistent. Use of the Associated Press style manual and reference materials. Applying appropriate level of copyediting and eliminating bias.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "multimedia-journalism-minor",
+        "public-relations-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 1800",
+      "title": "Media Literacy: Bias, Technology, and Misinformation",
+      "units": "3",
+      "ge": null,
+      "coid": "439514",
+      "description": "Introduces the digital tools and skills necessary for practitioners across diverse disciplines to navigate an increasingly confusing and ever-changing media landscape. Identify misinformation, manipulated content, bias, artificial intelligence and effectively grapple with the legal, political, regulatory, and profit-seeking forces that shape media content and technology, social media, algorithms, and digital spaces. Efficiently evaluate content credibility and ethically apply learned media literacy skills to diverse industries and societal problems.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "COM 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438168",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "Department consent required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2201",
+      "title": "Communication Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "435545",
+      "description": "Study of contributions of rhetorical theory, linguistics, psychology, and sociology to the development of general communication theory. 4 hours lecture/discussion",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-studies-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 2204",
+      "title": "Advocacy and Argument",
+      "units": "3",
+      "ge": "GE 1C",
+      "coid": "434899",
+      "description": "[GE 1C] Study and practice of the principles and skills of effective oral argument, including how to conceptualize, structure, support, and deliver oral arguments. Focuses on how to create reasoned oral arguments, adapt arguments to different audiences, and critique the arguments of others.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 2206",
+      "title": "Media Design",
+      "units": "3",
+      "ge": null,
+      "coid": "436514",
+      "description": "Principles and theory of typography, layout, and production of material for media design. Work with Macintosh computers and learn elements of desktop publishing, including word processing, graphic design, and page composition. 3 hours lecture/discussion",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "spanish-media-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 2207",
+      "title": "Video Production",
+      "units": "3",
+      "ge": null,
+      "coid": "442755",
+      "description": "Introduces basic video production techniques for mass media applications, including camera operations, video and audio editing, and off and on-camera interviewing. Develops technical skills needed to enhance visual storytelling, emphasizing video editing and production for diverse platforms including social, digital, and broadcast media.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 2216",
+      "title": "Report Writing",
+      "units": "3",
+      "ge": null,
+      "coid": "435546",
+      "description": "Report-writing techniques. Research, organization, and preparation of specialized and technical information. Regular written reports.",
+      "prerequisites": "Completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2217",
+      "title": "Reporting",
+      "units": "3",
+      "ge": null,
+      "coid": "436515",
+      "description": "Reporting and writing the news. Emphasis on news gathering, interviewing and writing principles. Determining newsworthiness, using sources, writing news leads, and developing news stories. Pre or Corequisite(s): COM 106, COM 1106 , or COM 1107 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "multimedia-journalism-minor",
+        "public-relations-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 2231",
+      "title": "Digital Photo",
+      "units": "3",
+      "ge": null,
+      "coid": "435575",
+      "description": "Nature and types of image capture devices, image manipulation and adjustment techniques, and image output devices typically encountered by working photographers and designers; major emphasis on image manipulation and compositing.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2232",
+      "title": "Photojournalism",
+      "units": "3",
+      "ge": null,
+      "coid": "435547",
+      "description": "Photography for media publications and public relations. Photo editing, picture stories and photo illustrations and photography and lighting for newspapers, magazines, and other media publications.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 2237",
+      "title": "Group Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "435553",
+      "description": "Variables of communication within problem solving groups; development of conference and discussion skills. Secondary emphasis on group psychology as it relates to problem solving discussions.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 2238",
+      "title": "Racialized Language, Power, and Identities",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439391",
+      "description": "[GE 6] Cross Listed as: EWS 2238 Explores the role of language and communication in articulating, maintaining, and subverting historically shaped race relations and social processes which produce racial, class, social, and gender inequalities and stratifications. Drawing from Ethnic Studies, Communication Studies, and Applied Linguistics, to provide the tools to develop a theoretical vocabulary for discussing how race, racism, social identities of certain racialized groups, ethnocentrism, eurocentrism, and white supremacy are manifested in dominant language ideologies in the U.S. which in turn invalidate the ways Native Americans, African Americans, Asian Americans, and/or Latina and Latino Americans speak and communicate. Looks at the multiple ways in which our racial, ethnic, age, gender, and class identities intersect, and how they are reflected and reconstituted through communicative practices. Emphasizes the ways in which cultural backgrounds and social identities affect how we interpret the world, and the ways in which socio-historical relationships of inequality in the US shape communicative practices and racialized identities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 2270",
+      "title": "Media, Politics, Sex and Violence",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434925",
+      "description": "[GE 4A] Effects of mass media institutions on societies; their significance as social institutions. Examines the ways in which news and entertainment media impact public attitudes and behavior. Includes examinations of sex, gender, violence, politics and race.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2280",
+      "title": "Understanding and Appreciating the Photographic Image",
+      "units": "3",
+      "ge": "GE 3A",
+      "coid": "437676",
+      "description": "[GE 3A] History and aesthetics of the photographic image. Explores theories of visual communication and methods of photographic image evaluation. Views and evaluates applications of photography. Examines the role of composition, light, and imagination in the production of photographic images.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2340",
+      "title": "Professional Writing and Speaking",
+      "units": "3",
+      "ge": null,
+      "coid": "436727",
+      "description": "Development and practice of specific writing and speaking skills applicable to professional-type settings. Emphasis on creating documents and oral presentations that are clear, concise, compelling, and correct. Includes discussion and analysis of both traditional and emerging modes of message delivery.",
+      "prerequisites": "GE Area 1C or A1.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor"
+      ]
+    },
+    {
+      "code": "COM 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438169",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438170",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438171",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3000",
+      "title": "Transfer Experience",
+      "units": "3",
+      "ge": null,
+      "coid": "442737",
+      "description": "Tailored for transfer students entering the Communication program and aims to facilitate a smooth transition to Cal Poly Pomona’s four-year university environment. Builds on prior college experiences, focusing on understanding university policies and procedures, exploring career opportunities within the communication discipline, furthering academic development and career readiness, fostering community connections, and prioritizing physical and mental well-being.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3211",
+      "title": "Multimedia Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "439210",
+      "description": "Introduction to multimedia storytelling practices, including audio, visual, and multi-platform journalism. Utilizing different technologies and software to produce multimedia news stories.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3301",
+      "title": "Video Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "435548",
+      "description": "Gathering, writing and editing of news for the broadcast media. Introduction to broadcast news production. Beginning field production.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3310",
+      "title": "Data Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "437546",
+      "description": "Finding, interpreting, and displaying data guided by ethical and legal responsibilities. Utilizing data sets and software to produce and visualize news stories by employing spreadsheets, charts, and maps.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3311",
+      "title": "Reporting for Spanish Speakers",
+      "units": "3",
+      "ge": null,
+      "coid": "439516",
+      "description": "Guide in the methods and styles of reporting and media writing in Spanish. Topics include: news gathering, interviewing and writing principles, determining newsworthiness, using sources, writing news leads, developing news stories and skills reporting on and for Latinx communities.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "COM 3312",
+      "title": "Magazine Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "435550",
+      "description": "Analysis and history of various types of publications produced in magazine format. Work on design and production of several magazine-styled publications using the latest in computer technology and desktop publishing software. Includes lectures, demonstrations and critiques of student projects.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; COM 300 or COM 2217 ; and COM 206 or COM 2206 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3313",
+      "title": "Public Relations Principles",
+      "units": "3",
+      "ge": null,
+      "coid": "436516",
+      "description": "The nature and role of public relations in society, activities of public relations professionals, major influences that affect organizational behavior, and ethics and professional development of practitioners. Emphasis on management functions and developing effective public relations strategies.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-public-relations-subplan-option",
+        "public-relations-minor",
+        "spanish-media-minor",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3314",
+      "title": "Organizational Communication",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437783",
+      "description": "[GE 4C] Interdisciplinary theoretical approaches to the study of communication in and between organizations. Emphasis on organizational communication theories relating to managerial, psychological, sociological, systemic, cultural and political views of communication in and between organizations.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3315",
+      "title": "Sports Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "439454",
+      "description": "A comprehensive exploration of sports journalism, covering news writing for print and broadcast media, data reporting in the sports context, as well as sports public relations, including branding, image management, advertising, event promotion and sponsorships. Address and respond to ethical challenges in the field of sports communication.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "multimedia-journalism-minor",
+        "spanish-media-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3316",
+      "title": "Communication Research",
+      "units": "3",
+      "ge": null,
+      "coid": "436323",
+      "description": "Research methods used to measure the content, process and effects of communications on attitudes, knowledge, and behavior. Research design, data analysis and evaluation in quantitative and qualitative communication research methodology.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 201 or COM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3317",
+      "title": "Entertainment Public Relations",
+      "units": "3",
+      "ge": null,
+      "coid": "439455",
+      "description": "An examination of public relations strategies and tactics applied within the entertainment industry including talent and media relations, reputation management, and promotional practices. Emphasis on techniques employed in major areas of entertainment public relations including music, film, theatre, TV, video games, tourism and book publishing. Students are expected to conduct research using primary and secondary sources to create press materials.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 . Pre or Corequisite(s): COM 313 or COM 3313 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-public-relations-subplan-option",
+        "public-relations-minor",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3318",
+      "title": "Global Public Relations",
+      "units": "3",
+      "ge": null,
+      "coid": "439456",
+      "description": "Explore the different criteria for developing or adapting PR strategies and campaigns in different regions and countries. Explore several models and scholarship that enable the ethical exploration of cultural aspects, demographics, and psychographics for audiences and stakeholders. Case studies of international public figures, organizations, and brands will be analyzed in order to provide learning enrichment opportunities.",
+      "prerequisites": "COM 313 or COM 3313 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-public-relations-subplan-option",
+        "public-relations-minor",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3319W",
+      "title": "Public Relations Writing",
+      "units": "3",
+      "ge": null,
+      "coid": "435551",
+      "description": "Format and style for writing public relations materials. Emphasis on writing the various types of public relations copy. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "COM 1106 or COM 1107 , COM 2217 , COM 3313 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-public-relations-subplan-option",
+        "public-relations-minor",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3321W",
+      "title": "Advanced Organization Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436256",
+      "description": "Analysis of breakdowns in communications systems; identification of barriers and constraints to effective message transmission. Emphasis on practical and creative problem solving. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "COM 3314 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "COM 3325",
+      "title": "Persuasion",
+      "units": "3",
+      "ge": null,
+      "coid": "435552",
+      "description": "Persuasion is examined as affected by messages in various communication contexts. The process is studied through differing aspects of source, channel(s), and receiver(s). Emphasis on contributions from behavioral theorists.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "public-relations-minor",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3326",
+      "title": "Nonverbal Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436725",
+      "description": "Examination of prominent theories, research, and methods relating to the study of nonverbal communication at work, home, and play. Includes investigation of the cultural similarities and differences in nonverbal communication.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor"
+      ]
+    },
+    {
+      "code": "COM 3327",
+      "title": "Intercultural Communication",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434928",
+      "description": "[GE 4C] Considers complexities of communication in a culturally diverse world toward the goal of improving communication effectiveness. Assimilates theory and research from anthropology, sociology, psychology, ethnic and gender studies, conflict & peace studies, and communication. Examines roles of culture, social groups, and individuals in shaping communication.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-studies-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3328",
+      "title": "Diversity and Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436726",
+      "description": "Examination of prominent theories, research, and methods relating to the study of diversity and communication. Explores the multiple ways in which social identities such as race, ethnicity, religion, gender, sexual orientation, social and economic class, age, and disability are both reflected and reconstituted through everyday communication practices.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3351A",
+      "title": "News Practicum Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435555",
+      "description": "News practicum functions as a multimedia news laboratory for student journalists to deliver informative and compelling content to a dynamic and diverse campus community through The Poly Post student newspaper. Preparation for competitive careers in communication through a simulated newsroom environment. Gain practical news experience, honing reporting, writing, photography, and videography skills across various beats like news, arts and culture, and sports.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units, with a maximum of 1 unit per semester.",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3351W",
+      "title": "News Practicum",
+      "units": "3",
+      "ge": null,
+      "coid": "439458",
+      "description": "News practicum functions as a multimedia news laboratory for student journalists to deliver informative and compelling content to a dynamic and diverse campus community through The Poly Post student newspaper. Preparation for competitive careers in communication through a simulated newsroom environment. Gain practical news experience, honing reporting, writing, photography, and videography skills across various beats like news, arts and culture, and sports. Writing-Intensive courses must be passed with a C or higher to count toward the university’s 3-unit writing requirement. Corequisite(s): COM 3351A .",
+      "prerequisites": "COM 1106 or COM 1107 , COM 2217 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 9 units, with a maximum of 3 units per semester.",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3352",
+      "title": "Magazine Practicum",
+      "units": "3",
+      "ge": null,
+      "coid": "439532",
+      "description": "Magazine production for beginning staff members. Emphasis on writing, layout, and production. Corequisite(s): COM 3352A .",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 9 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3352A",
+      "title": "Magazine Practicum Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435556",
+      "description": "Magazine practicum functions as a magazine laboratory for student journalists to deliver informative and compelling feature stories to a dynamic and diverse campus community through The Poly Pulse student magazine. Preparation for competitive careers in communication through a simulated newsroom environment. Learn the function of magazines and their design, how to develop story ideas, how to write the different elements of a feature story and the different types of magazine articles, as well as in-depth interviewing and reporting techniques. Corequisite(s): COM 3352 .",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units, with a maximum of 1 unit per semester.",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 3360",
+      "title": "Communication Law and Ethics",
+      "units": "3",
+      "ge": null,
+      "coid": "436517",
+      "description": "Constitutional, statutory, and case law governing freedom of speech and press, libel, privacy, journalist’s confidential sources, subpoena, search warrant, contempt, newsgathering and freedom of information, free press and fair trial, obscenity, and access to the media. Ethical responsibility of journalists and public relations practitioners.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438172",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4130",
+      "title": "Social Justice Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "439457",
+      "description": "Newsgathering and reporting on various communities, particularly communities that are overlooked or underrepresented in news and groups that are systemically marginalized by mainstream media. Emphasis on community beats and advocacy journalism. Focus will include learning to navigate primary and secondary sources, conduct background research, and closely examine public records, public policy, data, and governmental institutions.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4133",
+      "title": "Public Opinion, Propaganda and Mass Media",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437784",
+      "description": "[GE 4C] Techniques of sociological and political persuasion, mass media and public opinion in the United States; developments in international propaganda. Integrates disciplines of sociology and political science in application to operation of communication and communications media in society.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4140",
+      "title": "Public Relations Case Studies",
+      "units": "3",
+      "ge": null,
+      "coid": "436518",
+      "description": "Examination of how PR professionals deal with the demanding and dynamic environment of corporate, government and nonprofit public relations. Examines situations and strategies and discusses factors that affect how public relations is practiced in organizations: identifying stakeholder groups, developing strategies, embracing diversity and recognizing ethical issues.",
+      "prerequisites": "COM 313 or COM 3313 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-public-relations-subplan-option",
+        "public-relations-minor",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4150",
+      "title": "Public Relations Campaigns",
+      "units": "3",
+      "ge": null,
+      "coid": "437793",
+      "description": "Dive into the world of professional public relations and work directly with real clients to develop and implement a comprehensive PR campaign. Collaborate with local businesses and organizations, identify and analyze their PR challenges, craft targeted media strategies, and develop action plans to achieve tangible PR goals. Focus on client management, creating compelling media content, and developing a PR campaign portfolio.",
+      "prerequisites": "COM 313 or COM 3313 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-public-relations-subplan-option",
+        "public-relations-minor",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4170",
+      "title": "Public Affairs Reporting",
+      "units": "3",
+      "ge": null,
+      "coid": "436519",
+      "description": "Gathering material and writing stories pertaining to government and courts; covering a city beat. Emphasis on organization and procedures of governmental institutions. Students required to research background for story assignments and analyze data from reports.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4180",
+      "title": "Investigative Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "437580",
+      "description": "Researching and writing investigative news stories. Practical skills and ethical principles of investigative reporting. A project-based class in which students will investigate one topic for the majority of the semester.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "multimedia-journalism-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4200",
+      "title": "Special Topics in Journalism",
+      "units": "3",
+      "ge": null,
+      "coid": "437688",
+      "description": "Examination of a topic area that is not regularly covered in the journalism curriculum.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4222",
+      "title": "Crisis Communication",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437883",
+      "description": "[GE 4C] Theory and practice of crisis communication; strategies, and tactics when developing and implementing crisis communication plans through case studies and in-class activities.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-public-relations-subplan-option",
+        "public-relations-minor",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4233",
+      "title": "Political Economy of Mass Communication",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437683",
+      "description": "[GE 4C] Political context of economic principles underwriting communications media. Historical and contemporary assessment of how economics of telecommunications, press, broadcasting, and the Internet interact with wider political processes, including legislative and regulatory agencies. Focus on U.S.-based media-; comparative international references.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4244",
+      "title": "Artificial Intelligence, Media, and the Future of Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "436734",
+      "description": "Examination of prominent theories, research, and methods relating to the study of how technology functions in organizational settings. Includes how organizations implement and use technological tools, as well as why these tools succeed or fail in meeting the organization’s purposes and goals.",
+      "prerequisites": "COM 314 or COM 3314 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-studies-minor",
+        "spanish-media-minor",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4403W",
+      "title": "Advanced Interpersonal Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436730",
+      "description": "Concentrated focus on prominent theories, research, and methods relating to the study of intimate interpersonal communication between friends, partners, and family members. Explores the processes and stages of interpersonal relationships, including how they are created, maintained, altered, and dissolved through communication. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "COM 1103 , and junior or senior standing. Pre or Corequisite(s): COM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "COM 4404",
+      "title": "Gender and Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436379",
+      "description": "Examination of prominent theories, research, and methods relating to the study of gender and communication. Explores the social construction of gender and sexuality through communication, and how they influence communication practices and, correspondingly, how communication practices reflect and reinforce gendered roles and differing view of sexuality.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor"
+      ]
+    },
+    {
+      "code": "COM 4405",
+      "title": "Family Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436732",
+      "description": "Examination of prominent theories, research, and methods relating to the study of family communication. Explores specific communication processes in the context of families and how particular issues facing families can influence and be influenced by communication.",
+      "prerequisites": "COM 103 or COM 1103 , and COM 201 or COM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor"
+      ]
+    },
+    {
+      "code": "COM 4409",
+      "title": "Negotiation and Conflict Resolution",
+      "units": "3",
+      "ge": null,
+      "coid": "435577",
+      "description": "The role of communication in the productive settlement of interpersonal and organizational disputes. Examination of effective communication strategies used in negotiation and bargaining situations.",
+      "prerequisites": "COM 201 or COM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor"
+      ]
+    },
+    {
+      "code": "COM 4411",
+      "title": "Applied Communication Internship",
+      "units": "3",
+      "ge": null,
+      "coid": "437888",
+      "description": "An intensive communication internship or other individual/group study of the communications process as specified by each option.",
+      "prerequisites": "Department consent required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "spanish-media-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4435",
+      "title": "Special Topics in Public Relations",
+      "units": "3",
+      "ge": null,
+      "coid": "437611",
+      "description": "Examination of a topic area that is not regularly covered in the public relations curriculum.",
+      "prerequisites": "COM 313 or COM 3313 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4440",
+      "title": "Communication Training and Consulting",
+      "units": "3",
+      "ge": null,
+      "coid": "436735",
+      "description": "Study of the principles and processes of effective communication training and development. Includes how to create, implement, and assess communication training and development programs; how to conduct communication audits for business, government, and nonprofit organizations; and how to provide individualized one-on-one training and mentoring within the workplace.",
+      "prerequisites": "COM 201 or COM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-studies-minor"
+      ]
+    },
+    {
+      "code": "COM 4446",
+      "title": "Event Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "435579",
+      "description": "Application of public relations techniques to planning events. Participation in planning, organization, and implementation of selected event.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "public-relations-minor",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4447",
+      "title": "Political Communication",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437711",
+      "description": "[GE 4C] Study and practice of strategic communication in a socio-political context, including, but not limited to, campaigns and elections, rhetorical governance, and nonprofit communication. Introduces students to political institutions and players influencing policy-making and campaigns and cultivates an understanding of how candidates, public officials, and campaign operatives craft messages and target various audiences in a swiftly-changing media environment.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4451",
+      "title": "Advanced News Practicum",
+      "units": "3",
+      "ge": null,
+      "coid": "439459",
+      "description": "Multimedia news laboratory for students; provides experientially based guidance in newsroom editorial and management practices. Corequisite(s): COM 4451A .",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; COM 300 or COM 2217 ; and COM 351A or COM 3351A .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 9 units, with a maximum of 3 units per semester.",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4451A",
+      "title": "Advanced News Practicum Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435581",
+      "description": "Advanced News Practicum functions as a multimedia news laboratory for student journalists to deliver informative and compelling content to a dynamic and diverse campus community through The Poly Post student newspaper. Prepare for competitive careers in communication through a simulated newsroom environment. Build on practical news experience and refine their reporting, writing, photography, and videography skills. Returning staff also learn how to cover a beat and build relationships with campus sources. Corequisite(s): COM 4451 .",
+      "prerequisites": "COM 1106 or COM 1107 ; COM 2217 ; COM 3351W ; and COM 3351A .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units, with a maximum of 1 unit per semester.",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4460",
+      "title": "Special Topics in Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "437908",
+      "description": "Contemporary concepts, issues, and skills not regularly covered in the curriculum.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4465",
+      "title": "Online and Social Media",
+      "units": "3",
+      "ge": null,
+      "coid": "436520",
+      "description": "Online storytelling with an emphasis on social media strategy and engagement. Social media optimization across various platforms.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-multimedia-journalism-subplan-option",
+        "communication-b-s-public-relations-subplan-option",
+        "spanish-media-minor",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+        "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+        "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "COM 4620W",
+      "title": "Communication Capstone",
+      "units": "3",
+      "ge": null,
+      "coid": "437882",
+      "description": "Completion of a capstone project working independently or in groups, with instructor guidance. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "COM 1106 or COM 1107 , COM 2201 , COM 3316 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "communication-b-s-communication-studies-subplan-option",
+        "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "COM 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438173",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438174",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438175",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "communication-b-s-communication-studies-subplan-option",
+      "name": "Communication, B.S. - Communication Studies Subplan/Option"
+    },
+    {
+      "id": "communication-b-s-multimedia-journalism-subplan-option",
+      "name": "Communication, B.S. - Multimedia Journalism Subplan/Option"
+    },
+    {
+      "id": "communication-b-s-public-relations-subplan-option",
+      "name": "Communication, B.S. - Public Relations Subplan/Option"
+    },
+    {
+      "id": "communication-studies-minor",
+      "name": "Communication Studies Minor"
+    },
+    {
+      "id": "multimedia-journalism-minor",
+      "name": "Multimedia Journalism Minor"
+    },
+    {
+      "id": "public-relations-minor",
+      "name": "Public Relations Minor"
+    },
+    {
+      "id": "spanish-media-minor",
+      "name": "Spanish Media Minor"
+    },
+    {
+      "id": "communication-b-s-communication-studies-subplan-option-roadmap-4-year-120-units",
+      "name": "Communication, B.S. - Communication Studies Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "communication-b-s-multimedia-journalism-subplan-option-roadmap-4-year-120-units",
+      "name": "Communication, B.S. - Multimedia Journalism Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "communication-b-s-public-relations-subplan-option-roadmap-4-year-120-units",
+      "name": "Communication, B.S. - Public Relations Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "communication-b-s-communication-studies-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Communication, B.S. - Communication Studies Subplan/Option: Roadmap 2-year ADT(60 units)"
+    },
+    {
+      "id": "communication-b-s-multimedia-journalism-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Communication, B.S. - Multimedia Journalism Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "communication-b-s-public-relations-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Communication, B.S. - Public Relations Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

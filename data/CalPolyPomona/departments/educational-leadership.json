@@ -1,0 +1,866 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:38:52+00:00",
+  "id": "educational-leadership",
+  "name": "Educational Leadership",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6352",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Educational Leadership Department Building 94 Room 226 | (909) 869-2358 | Department Website | Faculty Directory The mission of the Department of Educational Leadership of the College of Education and Integrative Studies is to prepare educational leaders to serve the needs of diverse learners, families, schools, and communities across Southern California in ways that are caring, collaborative, and culturally responsive. We are committed to developing transformative educational leaders who embody the values of reflexive self-examination, critical inquiry, and intersectional praxis to lead educational institutions as scholar-practitioners. We commit to providing school leaders with the analytical tools they need to be advocates for equity, social justice, and asset-based approaches that provide opportunities for success to all students, especially historically and persistently minoritized populations. Programs include preparatory pathways for future school administrators (Preliminary Administrative Services Credential), a Master of Science in Educational Leadership, and a Doctor of Education in Educational Leadership designed for both K‑12 and community college leaders. Doctoral candidates benefit from cohort-based, every other weekend seminars, mentorship through the dissertation process, support for job placement, and travel-to-present at academic conferences. Administrative credential candidates gain practical experience through school-based fieldwork and the School-Wide Change Initiative. Alumni emerge as servant-leaders, equipped to champion social justice, build inclusive practices, and lead organizational transformation in educational sys",
+  "courses": [
+    {
+      "code": "EDL 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438271",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDL 5320",
+      "title": "Professional Credential Induction Plan: Assessing for Improved Leadership",
+      "units": "1",
+      "ge": null,
+      "coid": "437329",
+      "description": "Introduces the Clear Administrative Services Professional Credential Induction Plan required by the California Commission on Teacher Credentialing for candidates entering their first position. Based on the candidate’s needs, the Plan is developed by the candidate, a coach/mentor and a University representative. The Plan will guide the candidate through the expected requirements of their first administrative position over a two year period.",
+      "prerequisites": "Admitted to Clear ASC program and ID of CCTC trained Coach.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "EDL 5340",
+      "title": "Practicum I Literacy and Instructional Excellence",
+      "units": "2",
+      "ge": null,
+      "coid": "437330",
+      "description": "Candidates focus on aspects of program standards (CPSELs I and IV) in a custom learning experience highlighting the creation of an effective school through an instructional focus. Professional workshops aligned to the candidate’s induction plan are incorporated into the Practicum.",
+      "prerequisites": "Admitted to Clear ASC program and ID of CCTC trained Coach.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "EDL 5360",
+      "title": "Practicum II Leadership in Challenging Political and Economic Times",
+      "units": "2",
+      "ge": null,
+      "coid": "437331",
+      "description": "Candidates focus on aspects of CPSELs Standards II and VI focusing on learning experience that highlight best practices utilizing the California State Standards and State Assessments. Included are fiscal and political aspects of effective schools. Professional workshops aligned to the candidate’s Induction Plan on school management are incorporated.",
+      "prerequisites": "Admitted to Clear ASC program and ID of CCTC trained Coach.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "EDL 5370",
+      "title": "Practicum III Legal Aspects for Safe and Effective Schools",
+      "units": "2",
+      "ge": null,
+      "coid": "437332",
+      "description": "Candidates focus on aspects of program standards (CPSELs III and V) in a custom learning experience highlighting the legal aspects for establishing safe and effective schools. Professional workshops aligned to the candidate’s induction plan are incorporated into the Practicum.",
+      "prerequisites": "Admitted to Clear ASC program and ID of CCTC trained Coach.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "EDL 5400",
+      "title": "Assessment of Professional Competency",
+      "units": "1",
+      "ge": null,
+      "coid": "437333",
+      "description": "The culminating class for the Clear Professional Administrative Services Credential is designed to assess the candidate’s progress towards completion of the Professional Credential Induction Plan.",
+      "prerequisites": "Admitted to Clear ASC program; ID of CCTC trained Coach; B or better in EDL 5320 , EDL 5340 , EDL 5360 and EDL 5370 ; and min 40 hrs one-to-one coaching/year.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "EDL 5460",
+      "title": "Theory & Practice I; Visionary and Instructional Leadership",
+      "units": "3",
+      "ge": null,
+      "coid": "437334",
+      "description": "A problem-based seminar integrating salient concepts and theories in administrative leadership with ‘problems of practice’ experienced in K-12 schools. Candidates study leadership behaviors and strategies that promote effective instruction, facilitative school climates, appropriate human and system behaviors and school management.",
+      "prerequisites": "Admitted to Preliminary ASC Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-m-s",
+        "administrative-services-credential"
+      ]
+    },
+    {
+      "code": "EDL 5470",
+      "title": "Theory & Practice II; School Improvement Leadership",
+      "units": "3",
+      "ge": null,
+      "coid": "437335",
+      "description": "A problem-based seminar integrating salient concepts and theories in administrative leadership with ‘problems of practice’ experienced in K-12 schools. Candidates study ‘best practice’ strategies focusing on the effective use of data, personnel and fiscal resources that promote student growth.",
+      "prerequisites": "Admitted to Preliminary ASC Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-m-s",
+        "administrative-services-credential"
+      ]
+    },
+    {
+      "code": "EDL 5480",
+      "title": "Theory & Practice III; Community Leadership",
+      "units": "3",
+      "ge": null,
+      "coid": "437336",
+      "description": "An intensive seminar studying selected issues, problems, or areas within public education focusing on various elements of the greater school community including politics, media, parents, etc. Problem-based assignments include promoting school/student achievements and enlisting the community to achieve school goals.",
+      "prerequisites": "Admitted to Preliminary ASC Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-m-s",
+        "administrative-services-credential"
+      ]
+    },
+    {
+      "code": "EDL 5490",
+      "title": "Learning to Lead Content Module I; Professional Learning & Growth",
+      "units": "3",
+      "ge": null,
+      "coid": "437337",
+      "description": "Seminar designed to address key school law competencies via problem-based learning and other instructional strategies with an emphasis on students and staff with topics such as student rights, personnel administration and the curricula/programmatic needs of ELL students.",
+      "prerequisites": "Admitted to Preliminary ASC Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-m-s",
+        "administrative-services-credential"
+      ]
+    },
+    {
+      "code": "EDL 5500",
+      "title": "Learning to Lead Content Module II; Organizational & Systems Leadership",
+      "units": "3",
+      "ge": null,
+      "coid": "437338",
+      "description": "Seminar designed to address key administrative school law competencies via problem-based learning and other instructional strategies with an emphasis on finance, personnel alternatives, site management and technology with topics such as SPSA budget administration, capital improvements, alternative delivery systems, etc.",
+      "prerequisites": "Admitted to Preliminary ASC Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-m-s",
+        "administrative-services-credential"
+      ]
+    },
+    {
+      "code": "EDL 5510",
+      "title": "Fieldwork I",
+      "units": "3",
+      "ge": null,
+      "coid": "437339",
+      "description": "Fieldwork learning activities integrating the competencies and performance domains (CAPEs) for preliminary credential candidates involving the candidate, a district-employed site supervisor and the university supervisor. The two-semester course sequence also integrates four embedded program capstone assignments.",
+      "prerequisites": "Admitted to Preliminary ASC Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "administrative-services-credential"
+      ]
+    },
+    {
+      "code": "EDL 5520",
+      "title": "Fieldwork II",
+      "units": "3",
+      "ge": null,
+      "coid": "437340",
+      "description": "Fieldwork learning activities integrating the competencies and performance domains (CAPEs) for preliminary credential candidates involving the candidate, a district-employed site supervisor and the university supervisor. The two-semester course sequence also integrates four embedded program capstone assignments.",
+      "prerequisites": "Admitted to Preliminary ASC Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "administrative-services-credential"
+      ]
+    },
+    {
+      "code": "EDL 5530",
+      "title": "Schoolwide Change Initiative and Candidate Assessment",
+      "units": "3",
+      "ge": null,
+      "coid": "437341",
+      "description": "An experiential learning practicum, the Schoolwide Change Initiative project develops an individualized, supervised, and planned project as an outgrowth of fieldwork and academic coursework; it is a major program capstone. Other program/candidate assessments comprise the remainder of this course which must be taken during each candidate’s last semester of enrollment.",
+      "prerequisites": "Admitted to Preliminary ASC Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: May be taken up to three times for a total credit of 9 units.",
+      "when_offered": "Summer",
+      "programs": [
+        "educational-leadership-m-s",
+        "administrative-services-credential"
+      ]
+    },
+    {
+      "code": "EDL 5900",
+      "title": "Research for School Improvement",
+      "units": "3",
+      "ge": null,
+      "coid": "442802",
+      "description": "Introduction to educational research with an emphasis on problems of practice in PK-12 public school settings. Qualitative and quantitative data analysis skills are introduced to develop competencies in using educational data for school improvement and program evaluation. Research tools and requirements relating to the development of a research-based culminating project or thesis are introduced.",
+      "prerequisites": "Admission to the Master of Science in Educational Leadership program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "educational-leadership-m-s"
+      ]
+    },
+    {
+      "code": "EDL 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438272",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDL 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438273",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDL 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438274",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDL 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438275",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDL 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438276",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "Admitted to Preliminary ASC Program; complete a valid Intern MOU with CPP and district; and continuing enrollment in Preliminary ASC course sequence until completion.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "administrative-services-credential"
+      ]
+    },
+    {
+      "code": "EDL 6930",
+      "title": "Initiatives, Policies, and Research",
+      "units": "4",
+      "ge": null,
+      "coid": "442799",
+      "description": "Examine the influence and impact of current PK-12 initiatives and policies on equitable educational programming, student learning and well-being outcomes. Includes analysis, evaluation, and synthesis of evidence-based qualitative and quantitative research methodologies, design, and data collection.",
+      "prerequisites": "Admitted into the Masters of Science in Educational Leadership program or the MA in Education - Educational Leadership Option.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "educational-leadership-m-s"
+      ]
+    },
+    {
+      "code": "EDL 6950",
+      "title": "Master’s Degree Project",
+      "units": "1-6",
+      "ge": null,
+      "coid": "442800",
+      "description": "Independent research leading to the design, development and completion of a terminal project that demonstrates the skills and knowledge achieved in the graduate program.",
+      "prerequisites": "Consent of Department Chair.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree.",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "EDL 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "1-6",
+      "ge": null,
+      "coid": "442801",
+      "description": "Independent research leading to the design, implementation, and completion of a research study that demonstrates the skills and knowledge achieved in the graduate program.Â",
+      "prerequisites": "Consent of Department Chair.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "EDL 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438277",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438264",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438265",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438266",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438267",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438268",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438269",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438270",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7000",
+      "title": "Leadership for Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "436419",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7010",
+      "title": "Research Learning Community Seminar: Introduction to Doctoral Studies and Dissertation Research",
+      "units": "3",
+      "ge": null,
+      "coid": "436418",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7020",
+      "title": "Leading and Learning with Technology",
+      "units": "2",
+      "ge": null,
+      "coid": "437020",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7020L",
+      "title": "Leading and Learning with Technology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437207",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7030",
+      "title": "Quantitative Research Methods for School Improvement",
+      "units": "3",
+      "ge": null,
+      "coid": "436420",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7040",
+      "title": "Organizational Culture and Institutional Change",
+      "units": "3",
+      "ge": null,
+      "coid": "437154",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7060",
+      "title": "Qualitative Methods for School Improvement",
+      "units": "3",
+      "ge": null,
+      "coid": "437153",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7070",
+      "title": "Education Policy, Systemic Reform, and Social Justice",
+      "units": "3",
+      "ge": null,
+      "coid": "437030",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7080",
+      "title": "Building School/Community Partnerships for Student Success",
+      "units": "3",
+      "ge": null,
+      "coid": "437094",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7090",
+      "title": "Maximizing Fiscal and Human Resources for Student Success",
+      "units": "3",
+      "ge": null,
+      "coid": "437031",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7100",
+      "title": "Research Learning Community Seminar: Literature Review",
+      "units": "1",
+      "ge": null,
+      "coid": "437032",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7110",
+      "title": "Advanced Quantitative Research",
+      "units": "3",
+      "ge": null,
+      "coid": "437033",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7111",
+      "title": "Advanced Qualitative Research",
+      "units": "3",
+      "ge": null,
+      "coid": "437158",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7120",
+      "title": "Creating the Conditions for Student Success",
+      "units": "3",
+      "ge": null,
+      "coid": "437034",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7140",
+      "title": "Leadership for Equity and Advocacy",
+      "units": "3",
+      "ge": null,
+      "coid": "437096",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7150",
+      "title": "Research Learning Community Seminar: Development of a Dissertation Proposal",
+      "units": "3",
+      "ge": null,
+      "coid": "437035",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7170",
+      "title": "Global Perspectives on Educational Leadership, Achievement, and Equity",
+      "units": "3",
+      "ge": null,
+      "coid": "437097",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7180",
+      "title": "Synthesizing Dissertation Research and Concepts of Transformational Leadership",
+      "units": "3",
+      "ge": null,
+      "coid": "437036",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7190",
+      "title": "Research Learning Community Seminar: Dissertation Completion and Doctoral Deliverables",
+      "units": "2",
+      "ge": null,
+      "coid": "437666",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7320",
+      "title": "Teaching, Learning and Student Success in Postsecondary Settings",
+      "units": "3",
+      "ge": null,
+      "coid": "439282",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7330",
+      "title": "Data-Driven Assessment and Evaluation in Postsecondary Education",
+      "units": "3",
+      "ge": null,
+      "coid": "439283",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7340",
+      "title": "Organizational Culture, Leadership and Change in Postsecondary Education",
+      "units": "3",
+      "ge": null,
+      "coid": "439285",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7370",
+      "title": "Governance and Policy in Community Colleges and Postsecondary Education",
+      "units": "3",
+      "ge": null,
+      "coid": "439284",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7390",
+      "title": "Leadership in Postsecondary Strategic Planning and Resource Allocation",
+      "units": "3",
+      "ge": null,
+      "coid": "439286",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 7440",
+      "title": "Leadership for Equity and Advocacy in Postsecondary Education",
+      "units": "3",
+      "ge": null,
+      "coid": "442803",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 7990",
+      "title": "Special Topics for Doctoral Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437098",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "EDD 8000",
+      "title": "Dissertation",
+      "units": "1-6",
+      "ge": null,
+      "coid": "437100",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+        "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option"
+      ]
+    },
+    {
+      "code": "EDD 8990",
+      "title": "Dissertation Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "437101",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "educational-leadership-m-s",
+      "name": "Educational Leadership, M.S."
+    },
+    {
+      "id": "educational-leadership-ed-d-leadership-in-community-colleges-and-postsecondary-education-subplan-option",
+      "name": "Educational Leadership, Ed.D. - Leadership in Community Colleges and Postsecondary Education Subplan/Option"
+    },
+    {
+      "id": "educational-leadership-ed-d-prek-12-educational-leadership-subplan-option",
+      "name": "Educational Leadership, Ed.D. - PreK-12 Educational Leadership Subplan/Option"
+    },
+    {
+      "id": "administrative-services-credential",
+      "name": "Administrative Services Credential"
+    }
+  ]
+}

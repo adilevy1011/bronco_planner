@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:27+00:00",
+  "id": "international-business-minor",
+  "name": "International Business Minor",
+  "title_on_page": "University Catalog",
+  "department": "International Business And Marketing",
+  "department_id": "international-business-and-marketing",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24145",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6308",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog International Business Minor: 18 units Offered by: College of Business Administration , International Business and Marketing Department Minor Required | Major Electives | Notes | Program Website Minor Required: 12 units EC 2201 - Principles of Microeconomics (3) [GE 4A] or EC 2202 - Principles of Macroeconomics (3) [GE 4A] IBM 3001 - Principles of Global Business (3) IBM 3012 - Principles of Marketing Management (3) IBM 4141 - International Marketing (3) Minor Electives: 6 units Select 6 units from the following: EC 4404 - International Economics (3) FRL 4531 - Multinational Financial Management (3) FRL 4263 - Legal Aspects of International Business (International Business Law) (3) IBM 4361 - International Business Agreements and Negotiation (3) IBM 4291 - International Logistics (3) MHR 4050 - International Management (3) Notes: Students enrolled in these program(s) may not declare this minor: Business Administration, B.S. - International Business Subplan/Option: 120 units Students enrolled in these program(s) must meet with an advisor to ensure their minor coursework is distinct from their major coursework: Business Administration, B.S. - Marketing Management Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog",
+  "requirements": [
+    {
+      "name": "Minor Required: 12 units",
+      "courses": [
+        "EC 2201"
+      ],
+      "raw_text": "Minor Required: 12 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "EC 2202",
+        "IBM 3001",
+        "IBM 3012",
+        "IBM 4141"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Minor Electives: 6 units",
+      "courses": [
+        "EC 4404",
+        "FRL 4531",
+        "FRL 4263",
+        "IBM 4361",
+        "IBM 4291",
+        "MHR 4050"
+      ],
+      "raw_text": "Minor Electives: 6 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "EC 2201",
+      "title": "Principles of Microeconomics",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435061",
+      "requirement": "Minor Required: 12 units",
+      "description": "[GE 4A] Fundamentals of microeconomics. Economic examination of problems of choice among alternative allocations, utilizations, and distributions of resources. Market analysis, consumer and firm behavior, market structure, externalities, and welfare economics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 2202",
+      "title": "Principles of Macroeconomics",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435062",
+      "requirement": "or",
+      "description": "[GE 4A] Introduction to macroeconomics. Determinants of national income, output, and price levels. Monetary and fiscal policy. International economics. Applications of economic principles to domestic and international problems.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 3001",
+      "title": "Principles of Global Business",
+      "units": "3",
+      "ge": null,
+      "coid": "434759",
+      "requirement": "or",
+      "description": "An introductory survey of important issues in global business. Topics covered include national differences in political, social, economic and financial systems; theories of international trade and investment, monetary systems, and foreign exchanges markets.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 3012",
+      "title": "Principles of Marketing Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434760",
+      "requirement": "or",
+      "description": "Principles, concepts, and institutions involved in facilitating the exchange of goods and services. Analysis of the markets, the marketing environment, and the ‘marketing mix’ variables. Planning, implementation and control of marketing strategies to gain competitive advantage. Technology mediated. Technology mediated.",
+      "prerequisites": "Completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4141",
+      "title": "International Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434776",
+      "requirement": "or",
+      "description": "Examines processes for maximizing global marketing opportunities through comprehensive environmental analyses. Applies the marketing mix to emerging trends, the varying cultural landscapes, and economic factors, with an emphasis on effective adaption of U.S. products and services for overseas markets.",
+      "prerequisites": "C or better in IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 4404",
+      "title": "International Economics",
+      "units": "3",
+      "ge": null,
+      "coid": "436855",
+      "requirement": "Minor Electives: 6 units",
+      "description": "Analysis of international income, trade, and financial asset streams. Role of exchange rate dynamics, balance of payments, international financial systems, tariffs and quotas on economic growth and welfare.",
+      "prerequisites": "EC 2201 or EC 201, and EC 2202 or EC 220; or Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 4531",
+      "title": "Multinational Financial Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434733",
+      "requirement": "Minor Electives: 6 units",
+      "description": "Focuses on the nature, risks, and management of foreign exchange exposure in a corporate setting. Topics include international financial systems, foreign exchange markets, measurement of foreign exchange risk, hedging, international asset pricing, and investing and financing from a global perspective. May be taken up three times for a total credit of 9 units.",
+      "prerequisites": "C or better in ACC 2070 or ACC 207/A; ACC 2080 or ACC 208/A; EC 201 or EC 2201 ; EC 202 or EC 2202 ; FRL 201 or FRL 2013 ; FRL 301 or FRL 3000 ; STA 120, STA 1200 , or STA 1202 ; and GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 4263",
+      "title": "Legal Aspects of International Business (International Business Law)",
+      "units": "3",
+      "ge": null,
+      "coid": "434748",
+      "requirement": "Minor Electives: 6 units",
+      "description": "Introduction to the legal aspects of international business, including most importantly: organization forms of international businesses; types of risks in international business and investment transactions; sources of public and private international law; relationship of U.S. and public international law; forms of international trade regulation; principles of international contract law; fundamentals of international trade finance and letters of credit; documentary requirements of international sales, transport and insurance contracts; nature of international business litigation in U.S. courts; and alternative forms of international dispute resolution.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4361",
+      "title": "International Business Agreements and Negotiation",
+      "units": "3",
+      "ge": null,
+      "coid": "434782",
+      "requirement": "Minor Electives: 6 units",
+      "description": "Focuses on comprehensive examinations of the multiple dimensions of international business agreements that incorporates an integrated application of related business disciplines. Includes an emphasis on negotiation strategies and diplomacy to cultivate mutually beneficial strategic alliances that capitalize on marketing opportunities.",
+      "prerequisites": "IBM 414, MKT 414, or IBM 4141 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4291",
+      "title": "International Logistics",
+      "units": "3",
+      "ge": null,
+      "coid": "434779",
+      "requirement": "Minor Electives: 6 units",
+      "description": "Analysis of the global logistics operations. The topics include multinational logistics strategy, FTZ’s, classification of products, Incoterms, and different modes of transportation modes. Trade issues include documentation requirements, customs, administration, and security issues. International logistics issues will include intermediaries, customer service issues, transportation options and costs.",
+      "prerequisites": "IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4050",
+      "title": "International Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434799",
+      "requirement": "Minor Electives: 6 units",
+      "description": "Applying management principles and techniques in an international setting. Adapting management practices to different economic, political, legal, and cultural environments. Formulating multinational strategies, designing global management systems, and managing human resources and corporate social responsibility globally.",
+      "prerequisites": "MHR 3010 or MHR 301.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "IBM 3001",
+    "IBM 3012",
+    "IBM 4141",
+    "IBM 4291",
+    "IBM 4361"
+  ]
+}

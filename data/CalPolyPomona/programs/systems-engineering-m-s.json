@@ -1,0 +1,210 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:12:08+00:00",
+  "id": "systems-engineering-m-s",
+  "name": "Systems Engineering, M.S.",
+  "title_on_page": "University Catalog",
+  "department": "Industrial And Manufacturing Engineering",
+  "department_id": "industrial-and-manufacturing-engineering",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24299",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6321",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Systems Engineering, M.S.: 30 units Offered jointly by: College of Engineering - Industrial and Manufacturing Engineering Department and College of Professional and Global Education Major Required | Major Electives | Culminating Experience | Program Website Major Required: 21 units SE 5100 - Introduction to Systems Science (3) SE 5110 - Advanced Engineering Economics (3) SE 5130 - System Engineering Life Cycle Design and Management (3) SE 5150 - System Sustainability (3) SE 5190 - Operations Research in System Analysis (3) SE 5200 - System Simulation for Managers (3) SE 5230 - System Architecture (3) Major Electives: 6 units SE 5160 - Facility Planning System (3) SE 5180 - Human Systems Interaction (3) SE 5220 - Supply Chain Management in Production Systems (3) Culminating Experience: 3 units SE 6950 - Systems Engineering Project (3) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Major Required: 21 units",
+      "courses": [
+        "SE 5100",
+        "SE 5110",
+        "SE 5130",
+        "SE 5150",
+        "SE 5190",
+        "SE 5200",
+        "SE 5230"
+      ],
+      "raw_text": "Major Required: 21 units"
+    },
+    {
+      "name": "Major Electives: 6 units",
+      "courses": [
+        "SE 5160",
+        "SE 5180",
+        "SE 5220"
+      ],
+      "raw_text": "Major Electives: 6 units"
+    },
+    {
+      "name": "Culminating Experience: 3 units",
+      "courses": [
+        "SE 6950"
+      ],
+      "raw_text": "Culminating Experience: 3 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "SE 5100",
+      "title": "Introduction to Systems Science",
+      "units": "3",
+      "ge": null,
+      "coid": "436082",
+      "requirement": "Major Required: 21 units",
+      "description": "Comprehensive survey, classification, and evaluation of the spectrum of systems approaches and their literatures. History of development and need for unification of systems domains and formulation of a ‘science’ of systems for use in systems engineering. Comprehensive introduction to key systems processes and their interactions. Semester project on a case study application of systems science to specific systems engineering task areas such as management, architectures, modeling and testing.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SE 5110",
+      "title": "Advanced Engineering Economics",
+      "units": "3",
+      "ge": null,
+      "coid": "436083",
+      "requirement": "Major Required: 21 units",
+      "description": "Engineering economic decision criteria and models for evaluating capital investment proposals and engineering project. Replacement studies, risk and uncertainty, tax effects, intangibles, probabilistic models, computer techniques.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SE 5130",
+      "title": "System Engineering Life Cycle Design and Management",
+      "units": "3",
+      "ge": null,
+      "coid": "436084",
+      "requirement": "Major Required: 21 units",
+      "description": "The system engineering process form both technical and management aspects. It investigates the interrelationship between the system engineering and project management as they work together at the project team level. Provides a top-down view for engineers to follow and be able to streamline the system engineering process and reduce costs.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SE 5150",
+      "title": "System Sustainability",
+      "units": "3",
+      "ge": null,
+      "coid": "436086",
+      "requirement": "Major Required: 21 units",
+      "description": "Industrial ecology (IE) focuses on impacts to the natural world from the massive expansion in the rate and scale of human transformation of the earth following the industrial revolution. Concepts and tools trace the impacts of industrial and service operations on natural ecosystems, humans and natural resources. Industrial ecology views these impacts as resulting from the interaction of underlying complex technological, social, economic and legal systems. IE is a heavily interdisciplinary field involving science and technology (engineering), public policy, economics and business operations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SE 5190",
+      "title": "Operations Research in System Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "436090",
+      "requirement": "Major Required: 21 units",
+      "description": "Introduction to the application of mathematical programming and optimization techniques for solving problems encountered in industry and business using several case studies. Analyze results obtained by sensitivity analysis. Practice problem formulation, software applications, analysis and report writing skills through a team project.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SE 5200",
+      "title": "System Simulation for Managers",
+      "units": "3",
+      "ge": null,
+      "coid": "436092",
+      "requirement": "Major Required: 21 units",
+      "description": "Different types of simulation and their role in analysis of system problems. Defining study objectives for a problem encountered in industry and business. Deciding on a suitable simulation tool, creating model, verification and validation of the model, and improving the system. Software applications. Analysis and report writing skills. The nature of information flow from other sources to each technique, and from each technique to their application.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SE 5230",
+      "title": "System Architecture",
+      "units": "3",
+      "ge": null,
+      "coid": "436091",
+      "requirement": "Major Required: 21 units",
+      "description": "Applying architectural modeling concepts to manage large, complex system development projects that require multiple engineering disciplines. Knowledge of inherent relationships between system requirements, operational need, functional capabilities, and physical system design trades. Model Based System Engineering tools including CORE architecture tool and LMS AMESim sub-system simulation and modeling tool in team projects that produce a system architectural model and sub-system models that can be used for system design and optimization re-used and enhanced in cross-discipline engineering courses.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SE 5160",
+      "title": "Facility Planning System",
+      "units": "3",
+      "ge": null,
+      "coid": "436087",
+      "requirement": "Major Electives: 6 units",
+      "description": "Broad coverage of facilities system management topics, including issues such as quality function deployment, concurrent engineering, group technology, ERP, bar coding, RFID etc. Problem applications in industry and business will be discussed. Team projects and case studies will be used for analyzing and designing real-world manufacturing and/or service facilities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SE 5180",
+      "title": "Human Systems Interaction",
+      "units": "3",
+      "ge": null,
+      "coid": "436089",
+      "requirement": "Major Electives: 6 units",
+      "description": "Methods and research techniques in engineering design of optimum man-machine systems. Designing systems with the objective of developing optimum combinations of physical and human components. Effects of environment on human performance.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SE 5220",
+      "title": "Supply Chain Management in Production Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "436093",
+      "requirement": "Major Electives: 6 units",
+      "description": "Operations analysis of integrated production systems; mathematical and computer models for planning, scheduling, and control of production and service systems. Statistical techniques for forecasting, optimization of resources, utilization.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SE 6950",
+      "title": "Systems Engineering Project",
+      "units": "3",
+      "ge": null,
+      "coid": "436094",
+      "requirement": "Culminating Experience: 3 units",
+      "description": "Individual or team work based on the project proposal, plan and schedule approved by the project advisor. Regular meetings and discussions with the advisor.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": []
+}

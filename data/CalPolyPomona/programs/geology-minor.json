@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:18:40+00:00",
+  "id": "geology-minor",
+  "name": "Geology Minor",
+  "title_on_page": "University Catalog",
+  "department": "Geological Sciences",
+  "department_id": "geological-sciences",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24274",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6344",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Geology Minor: 20 units Offered by: College of Science , Geological Sciences Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 8 units GSC 1110 - Principles of Geology (3) [GE 5A] GSC 1120 - Earth, Time, and Life (3) [GE 5A] GSC 1410L - Principles of Geology Laboratory (1) [GE 5C] GSC 1510L - Earth, Time, and Life Laboratory (1) [GE 5C] Minor Electives: 12 units Select 3 units of lower division GSC courses and 9 units of upper division GSC courses. An upper division GSC course may be substituted for the lower division elective. Notes: Students enrolled in these program(s) may not declare this minor: Geology, B.S.: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 8 units",
+      "courses": [
+        "GSC 1110",
+        "GSC 1120",
+        "GSC 1410L",
+        "GSC 1510L"
+      ],
+      "raw_text": "Minor Required: 8 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "GSC 1110",
+      "title": "Principles of Geology",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "435003",
+      "requirement": "Minor Required: 8 units",
+      "description": "[GE 5A] An introduction to minerals, rocks and geologic features that comprise the Earth; analysis of internal and external processes controlling the formation and evolution of features of our dynamic planet.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 1120",
+      "title": "Earth, Time, and Life",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "437764",
+      "requirement": "Minor Required: 8 units",
+      "description": "[GE 5A] A survey of Earth’s history and changing environments: formation from the solar nebula, plate tectonics, ‘continental drift,’ and ocean basins; evolution of the hydrosphere, biosphere, and Earth landscape; crosscutting age relationships; fossil populations during successive geological ages; dating the past and development of the Geologic Time Scale; biostratigraphy; global climate change over time.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 1410L",
+      "title": "Principles of Geology Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "435084",
+      "requirement": "Minor Required: 8 units",
+      "description": "[GE 5C] Laboratory synthesis of the rock cycle and geologic topics, including earthquakes, plate tectonics, and earth surface processes. Classification of minerals and rocks, reading and interpreting topographic and geologic maps, and understanding basic geological concepts. Corequisite(s): Pre or Corequisite(s): GSC 1110 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 1510L",
+      "title": "Earth, Time, and Life Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "435083",
+      "requirement": "Minor Required: 8 units",
+      "description": "[GE 5C] Classification of fossil invertebrates, studies of paleogeographic maps and geologic maps and problems in structural geology and crosscutting age relationships Corequisite(s): Pre or Corequisite(s): GSC 1120 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "GSC 1110",
+    "GSC 1120",
+    "GSC 1410L",
+    "GSC 1510L"
+  ]
+}

@@ -1,0 +1,1646 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:30:55+00:00",
+  "id": "apparel-merchandising-and-management",
+  "name": "Apparel Merchandising And Management",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6300",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Apparel Merchandising and Management Department Building 45 Room 152 | (909) 869-3377 | Department Website | Faculty Directory Our mission is to foster global fashion leaders who promote sustainable innovation, technology, and ethical business practices within a culturally responsive environment. The department is grounded in polytechnic values, combining theory and hands-on learning to prepare students for leadership in the global apparel sector. With Los Angeles as its backdrop, faculty embed professional industry standards across coursework in design, manufacturing, merchandising, and sustainability. Classrooms and labs feature digital textile printing, 3D body scanning, virtual reality store design, and a live retail micro-enterprise- ApparelScapes. Faculty conduct cutting-edge research in areas like textile sustainability and consumer behavior, and the program holds accreditation from TAPAC, further reflecting its applied quality. Students gain extensive experiential opportunities: Design and Production students design, develop, and market their own clothing line; Fashion Retailing students manage an on-campus store; Textile Technology and Sustainability students test and innovate fabric materials. Clubs such as the Apparel Merchandising & Management Association, Fashion Society, and AATCC SoCal Broncos host fashion shows, networking events, workshops, and industry treks. Additional support comes from internship pipelines with top brands, career panels, mentorship networks, and study abroad programs in fashion capitals like London and Paris. These resources ensure graduates leave with professional portfolios, industry connections, and pra",
+  "courses": [
+    {
+      "code": "AMM 1010",
+      "title": "Introduction to the Fashion Industry",
+      "units": "3",
+      "ge": null,
+      "coid": "436765",
+      "description": "Introduction to the development and structure of the global fashion industry, including: Consumer characteristics, product design, textile and apparel production, retail merchandising, brand marketing, distribution, and promotion. An introduction to apparel business organizations, their commercial processes and career opportunities. Oral, written, and multimedia reports on current topics relevant to the fashion industry.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 1080",
+      "title": "Culture, People, and Dress",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435022",
+      "description": "[GE 4A] Study of the interrelatedness of socio-psychological, economic and political/religious influences on dress in a historical perspective. Cross-cultural analysis and interpretation of Western and non-Western clothing behavior through written analysis papers.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 1090",
+      "title": "Race and Ethnicity in Fashion",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439298",
+      "description": "[GE 6] Cross Listed as: EWS 1090 Fashion and race in the context of social, cultural, and environmental influences in the US. A focus is placed on members of historically racialized groups in the US including Native American, African American, Asian American, and/or Latino American communities who are active producers and consumers of apparel. Apparel and textiles will be critically examined with attention to racial formation discourses as they relate to ethnicity, race, nation, class, culture, social movements, environmental-health disparities, and policy. This course is administered as a flipped course that consists of lectures, readings, discussions, a group project, and presentations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 1120",
+      "title": "Digital Design and Illustration for Fashion",
+      "units": "1",
+      "ge": null,
+      "coid": "436772",
+      "description": "Analysis of apparel designs for formal, expressive, and symbolic qualities. Use of design elements and principles as applied to fashion design and human body forms. Application of a computer-aided illustration program. Written and computer illustration projects. Corequisite(s): AMM 1120L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 1120L",
+      "title": "Digital Design and Illustration for Fashion Laboratory",
+      "units": "2",
+      "ge": null,
+      "coid": "436773",
+      "description": "Introduction to computer-added design and graphics in the fashion context. Use of vector and pixel based computer programs to draw fashion apparel flats. Creation of surface designs for fabrics. Illustration of shading and tonal value in fashion figure drawing and to illustrate the figure in proper scale and proportion. Use of design elements and principles as applied to clothing design and human body forms. Corequisite(s): AMM 1120 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 1200",
+      "title": "American Demographics and Lifestyles",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "437717",
+      "description": "[GE 4A] An introduction to demographic issues related to family and consumer dynamics. Topics include social, economic, and housing characteristics. Development of critical thinking skills which address changes to populations, ethnicities, and lifestyles. . 3 hours lecture/discussion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 1250",
+      "title": "Race, Ethnicity, and the American Consumer",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439113",
+      "description": "[GE 6] Cross Listed as: EWS 1250 Examine how race and ethnicity has been constructed in the US, and the impact of racial stigma and discrimination in the retail marketplace as it relates to consumer behavior. Consumer processes and motives will be investigated with reference to the intersection of race and ethnicity with other demographic and behavioral characteristics - with a focus on African Americans, Native Americans, Asian Americans, and Latina and Latino Americans. Topics will include social constructs of race, racism in the consumer market, marketplace discrimination, consumer inequality, stereotyping, sustainability, and consumer rights. Lecture/discussion, case studies, analysis of datasets, and a student project related to race and consumerism in America.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 1480",
+      "title": "First Year Experience and Focus on the Future: Leadership Skills for the 21st Century",
+      "units": "3",
+      "ge": null,
+      "coid": "438870",
+      "description": "A comprehensive exploration of essential leadership skills and qualities needed to succeed in personal, academic, and professional life. Oral and written communication, interpersonal, ethical, creative thinking, and problem-solving skills that are essential to successful leadership and teamwork in a culturally diverse world. Oral, written and role playing individual and team assignments supported by instructor mentoring and peer feedback in a student-centered learning environment.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 1600",
+      "title": "Introduction to Textile Science",
+      "units": "2",
+      "ge": null,
+      "coid": "436791",
+      "description": "Introductory study of the physical and chemical properties of textiles. Textile fiber production, classification, properties and identification. Textile coloration and finishing processes. Relationship of fiber characteristics, coloration and finishing processes to fabric properties, performance, legislation, and care. Corequisite(s): AMM 1600L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 1600L",
+      "title": "Introduction to Textile Science Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436971",
+      "description": "Introductory study of the physical and chemical properties of textiles. Textile fiber production, classification, properties and identification. Textile coloration and finishing processes. Relationship of fiber characteristics, coloration and finishing processes to fabric properties, performance, legislation, and care. Corequisite(s): AMM 1600 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 1800",
+      "title": "Introduction to Fashion Design",
+      "units": "1",
+      "ge": null,
+      "coid": "439434",
+      "description": "Introduction to fashion design elements and principles that can be applied for basic garment construction. Basic sewing terms and construction techniques used in the apparel industry with industrial equipment. Learn appropriate methods for cut-and-sew quality garment construction with woven and knit fabrics. Application of fashion design concepts in a final constructed product. Corequisite(s): AMM 1800L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 1800L",
+      "title": "Introduction to Fashion Design Laboratory",
+      "units": "2",
+      "ge": null,
+      "coid": "439435",
+      "description": "Laboratory component corresponding to introduction to fashion design and sewing for basic garment construction. Use of industrial equipment for sample and garment construction that showcases proficiency in different techniques, including fabric cutting, sewing, and finishing. Apply key design concepts and construction in a final project. Corequisite(s): AMM 1800 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438029",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 2140",
+      "title": "Basic Patternmaking and Apparel Construction",
+      "units": "1",
+      "ge": null,
+      "coid": "438873",
+      "description": "Drafting basic pattern blocks for standardized dress forms. Introduction to pattern making through the flat pattern design method for ready to wear (RTW) garments. Basic clothing construction techniques used in the apparel industry. Appropriate methods for quality construction using knit and woven fabric. Construction of basic pattern blocks and selected samples using industrial equipment. Analysis of fit problems and solutions for RTW garments. Corequisite(s): AMM 2140L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2140L",
+      "title": "Basic Patternmaking and Apparel Construction Laboratory",
+      "units": "2",
+      "ge": null,
+      "coid": "438874",
+      "description": "Drafting basic pattern blocks for standardized dress forms. Introduction to pattern making through the flat pattern design method for ready to wear (RTW) garments. Basic clothing construction techniques used in the apparel industry. Appropriate methods for quality construction using knit and woven fabric. Construction of basic pattern blocks and selected samples using industrial equipment. Analysis of fit problems and solutions for RTW garments. Corequisite(s): AMM 2140 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2150",
+      "title": "Sustainable Fashion",
+      "units": "2",
+      "ge": null,
+      "coid": "438877",
+      "description": "The impact of apparel and textile production and consumption on the environment. Exploring the possibilities of a more environmentally responsible approach to fashion production and consumption from fiber production to the end-use and re-use of apparel products. Corequisite(s): AMM 2150A .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2150A",
+      "title": "Sustainable Fashion Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "439006",
+      "description": "The impact of apparel and textile production and consumption on the environment. Exploring and evaluating more environmentally responsible approaches to fashion production and consumption through written and practical projects. Corequisite(s): AMM 2150 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2200",
+      "title": "Introduction to Fashion Retailing",
+      "units": "3",
+      "ge": null,
+      "coid": "436769",
+      "description": "An introduction to apparel retailing, a review of the organization, development and management practices of the apparel retail sector. Topics include types of apparel retailing, multi-channel retailing, store location strategy, apparel consumer behavior, retail marketing and pricing strategies, and retail operations management. Case studies in apparel retailing, lectures.",
+      "prerequisites": "AMM 101 or AMM 1010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2300",
+      "title": "Fashion Brand Promotion",
+      "units": "3",
+      "ge": null,
+      "coid": "436775",
+      "description": "Principles and techniques of brand management and integrated communications for promoting fashion products. Emphasis is placed on market and consumer research, branding, and promotional tactics. Lectures, discussions, case studies, and team projects. Written analysis and presentation.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2350",
+      "title": "History of Fashion",
+      "units": "3",
+      "ge": "GE 3A",
+      "coid": "451036",
+      "description": "[GE 3A] Examine the history of fashion as a visual art form that integrates aesthetic design with cultural meaning, demonstrating how dress functions as creative expression, social commentary, and a reflection of broader social and historical contexts. Fashion is explored as a visual language through which societies articulate values, beliefs, and ideals across diverse historical periods. Analyze visual imagery and cultural/historical practices through key fashion theories (e.g., Damhorst’s Meaning of Dress framework) to understand how fashion shapes and reflects human experience. Critical reflection on sustainability and responsible fashion practices in the contemporary world is encouraged by situating fashion within its historical and cultural contexts.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "AMM 2400",
+      "title": "Draping for Fashion Design",
+      "units": "1",
+      "ge": null,
+      "coid": "439440",
+      "description": "Builds upon the skills developed in AMM 2140 / L and introduces advanced draping techniques. Explores the art of draping fabric directly onto a dress form, crafting three-dimensional garments, and further enhancing their understanding of design and garment construction. Deepens design process skills through research and conceptual development techniques. Corequisite(s): AMM 2400A .",
+      "prerequisites": "AMM 2140 / L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2400A",
+      "title": "Draping for Fashion Design Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "439466",
+      "description": "Builds upon the skills developed in AMM 2140 / L and introduces advanced draping techniques. Explores the art of draping fabric directly onto a dress form, crafting three-dimensional garments, and further enhancing their understanding of garment construction. Additionally, deepens design process skills through research and conceptual development techniques. Corequisite(s): AMM 2400 .",
+      "prerequisites": "AMM 2140 / L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2450",
+      "title": "Fashion Consumer Behavior",
+      "units": "3",
+      "ge": null,
+      "coid": "437675",
+      "description": "Discipline and contemporary approaches to the study of fashion consumer behavior. Emphasis is placed on understanding why fashion consumers purchase certain products and services by reviewing the examples found in the design-related industry, including apparel. The knowledge of fashion consumer behavior can directly affect the development of the various marketing strategies. How the industry meets the needs and wants of consumers, markets, and society at large, which can be applied to develop better apparel and textile products.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 2500",
+      "title": "Fashion Retail Buying I",
+      "units": "3",
+      "ge": null,
+      "coid": "436766",
+      "description": "An introduction to the role of retailing and retail buyers in fashion merchandise management. A foundation in retail principles associated with fashion merchandise buying, pricing, planning and allocation is provided. Quantitative concepts used in retail management and are able to apply those for decision-making. Corequisite(s): AMM 2510A .",
+      "prerequisites": "STA 120, STA 1200 , or STA 1202 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2510A",
+      "title": "Fashion Retail Buying I Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "436768",
+      "description": "Application of MS Excel to input and analyze data to support decision-making for fashion retail buying. Corequisite(s): AMM 2500 .",
+      "prerequisites": "STA 120, STA 1200 , or STA 1202 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2600",
+      "title": "Textile Fabrication and Digital Design",
+      "units": "2",
+      "ge": null,
+      "coid": "436777",
+      "description": "Intermediate textile course extensively focused on yarns and fabrication technology. Distinctive nuances of fiber vs. fabric and knit vs. woven with the skill set of identification. Scientifically predict performance properties of textiles referring to fiber, yarn, and fabric. Textile properties that impact product quality, cost, and end-use selection. Utilize a professional computer-aided program for fabric design and presentation. Corequisite(s): AMM 2600L .",
+      "prerequisites": "AMM 160 or AMM 1600 ; and AMM 160L or AMM 1600L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2600L",
+      "title": "Textile Fabrication and Digital Design Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436780",
+      "description": "Intermediate textile course extensively focused on yarns and fabrication technology. Distinctive nuances of fiber vs. fabric and knit vs. woven with the skill set of identification. Scientifically predict performance properties of textiles referring to fiber, yarn, and fabric. Textile properties that impact product quality, cost, and end-use selection. Utilize a professional computer-aided program for fabric design and presentation. Corequisite(s): AMM 2600 .",
+      "prerequisites": "AMM 160 or AMM 1600 ; and AMM 160L or AMM 1600L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2605",
+      "title": "Footwear and Accessories Materials",
+      "units": "2",
+      "ge": null,
+      "coid": "438939",
+      "description": "Introduction to the properties and performance characteristics of materials used in footwear and fashion accessories. Methods of production, identification and classification. Relationship of material properties to the characteristics of footwear and accessory products, their performance, legislation, and care. Corequisite(s): AMM 2605L .",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2605L",
+      "title": "Footwear and Accessories Materials Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "438940",
+      "description": "Practical study of textiles, leather and synthetic materials as they apply to footwear and accessories. Evaluation of material properties that impact product quality, cost and end use selection. Corequisite(s): AMM 2605 .",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2700",
+      "title": "Visual Merchandising for Fashion",
+      "units": "2",
+      "ge": null,
+      "coid": "435167",
+      "description": "Understanding of design principles, color theory, space and lighting in relation to display areas and interior design of stores. Analysis of their use in merchandising of goods and customer appeal. Written and oral projects as well as application of a computer graphics program. Corequisite(s): AMM 2700A .",
+      "prerequisites": "AMM 210 or AMM 1120 ; and AMM 210A or AMM 1120L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2700A",
+      "title": "Visual Merchandising for Fashion Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435169",
+      "description": "Understanding of design principles, color theory, space, and lighting in relation to display areas and interior design of stores. Analysis of their use in merchandising of goods and customer appeal. Written and oral projects. Application of a computer graphics program. Corequisite(s): AMM 2700 .",
+      "prerequisites": "AMM 210 or AMM 1200 ; and AMM 210A or AMM 1120L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2800",
+      "title": "Apparel Quality Management",
+      "units": "2",
+      "ge": null,
+      "coid": "436804",
+      "description": "Identification, analysis, and comparison of features and garment components in ready-to-wear apparel to learn and manage apparel quality. Consideration of design elements and principles in apparel design to meet consumer expectations. Identification of testing methods for quality assurance in the apparel industry. Use of industrial equipment to analyze construction methods and problems. Use of specifications, technical packages, and spreadsheet programs for product consistency. Corequisite(s): AMM 2800L .",
+      "prerequisites": "AMM 1120 or AMM 210, AMM 210A or AMM 1120L ; AMM 160 or AMM 1600 , and AMM 160L or AMM 1600L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2800L",
+      "title": "Apparel Quality Management Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436808",
+      "description": "Identification, analysis, and comparison of features and garment components in ready-to-wear apparel to learn and manage apparel quality. Consideration of design elements and principles in apparel design to meet consumer expectations. Identification of testing methods for quality assurance in the apparel industry. Use of industrial equipment to analyze construction methods and problems. Use of specifications, technical packages, and spreadsheet programs for product consistency. Corequisite(s): AMM 2800 .",
+      "prerequisites": "AMM 1120 or AMM 210, AMM 1120L or AMM 210A, AMM 160 or AMM 1600 , and AMM 1600L or AMM 160L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2850L",
+      "title": "Advanced Apparel Construction Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436809",
+      "description": "This course offers basic sewing construction techniques used in the apparel industry on factory equipment. You will learn appropriate methods for quality garment construction using various woven and knit fabrics while cutting and sewing various projects. This class is demonstration with approximately 3 hours of laboratory practice time each class meeting.",
+      "prerequisites": "AMM 180L or AMM 2800L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2900",
+      "title": "CAD for Patternmaking",
+      "units": "2",
+      "ge": null,
+      "coid": "442741",
+      "description": "Explores digital fashion design and production processes using 2D CAD software through lectures, demonstrations, and discussions. Focuses on understanding digital 2D pattern development logic, grading principles, measurement specifications, pattern card preparation, and technical accuracy. Students learn how digital tools support efficient pattern creation, modification, and documentation, while examining the relationship between design information, production requirements, and communication through technical packages. Corequisite(s): AMM 2900L .",
+      "prerequisites": "AMM 2140 and AMM 2140L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2900L",
+      "title": "CAD for Patternmaking Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "439402",
+      "description": "Offers hands-on experience in computer-aided patternmaking using industry-standard software. Engagement in creative experimentation and investigation through digital CAD pattern development, grading, plotting, and garment construction. Emphasis placed on technical accuracy, problem-solving, and sustainable production practices aligned with industry standards. Corequisite(s): AMM 2900 .",
+      "prerequisites": "AMM 2140 and AMM 2140L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438030",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438031",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438032",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 3050",
+      "title": "Fashion Consumer Behavior",
+      "units": "3",
+      "ge": null,
+      "coid": "439475",
+      "description": "Discipline and contemporary approaches to the study of consumer behavior, with an added emphasis on generative AI and digital tools to better understand human and consumer decision-making. How consumers influence the area of marketing and how marketers affect consumers. Understand why people buy certain products and services by reviewing the examples found in the design related industry, including apparel. Discuss various psychology related theories to understand the internal influences (e.g., perception, learning and memory, the self, attitudes) and the external influences (e.g., group, situational effects, sex roles, subculture, social class, and lifestyle) that shape consumer decisions.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3100",
+      "title": "Design and Merchandising Strategies",
+      "units": "2",
+      "ge": null,
+      "coid": "436771",
+      "description": "Planning, developing, and presenting apparel product lines. Analysis of goals, merchandising strategies, and product line constraints. The impact of emerging technologies and changing consumer behavior on apparel product development processes and the interrelationships between market information services, apparel producers, distributors, and consumers. Written projects. Corequisite(s): AMM 3100A .",
+      "prerequisites": "AMM 210 or AMM 1120 ; and AMM 210A or AMM 1120L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 3100A",
+      "title": "Design and Merchandising Strategies Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437163",
+      "description": "Planning, developing, and presenting apparel product lines. Application of computer spreadsheet and graphic illustration programs. Written and visual projects. Corequisite(s): AMM 3100 .",
+      "prerequisites": "AMM 210 or AMM 1120 ; AMM 210A or AMM 1120L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 3120",
+      "title": "Digital Fashion Design and Production",
+      "units": "2",
+      "ge": null,
+      "coid": "439441",
+      "description": "Explores digital fashion design and 3D visualization through virtual garment construction, fit evaluation, and rendering. Emphasizes the logic of digital pattern development and simulation using industry software. Students gain aesthetic and technical competencies in creating and analyzing 3D garments, while connecting digital design processes to real-world production and sustainability practices. Corequisite(s): AMM 3120L .",
+      "prerequisites": "AMM 1120 , AMM 1120L , AMM 2140 , and AMM 2140L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3120A",
+      "title": "Digital Fashion Design and Production Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "437161",
+      "description": "Explore virtual fashion design and production technologies with hands-on implementation in the design and production process. Acquire both aesthetic and technical skills for garment pattern and fabric print design, virtual design/fit analysis, digital printing and cutting and will bridge the digital-to-physical divide, from digital fabric/design to finished garments, while offering industry insights through visual projects. Corequisite(s): AMM 3120 .",
+      "prerequisites": "AMM 1120 , AMM 1120L , AMM 2600 , AMM 2600L , AMM 2140 , and AMM 2140L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 3120L",
+      "title": "Digital Fashion Design and Production Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "442795",
+      "description": "Explores virtual fashion design and production technologies through hands-on laboratory activities that integrate digital and physical processes. Develop both aesthetic and technical skills in garment pattern creation, fabric print design, virtual fitting and analysis, digital printing, and cutting. Emphasis is placed on experimentation and creative problem solving to bridge the digital to physical divide, moving from virtual fabric and design development to finished garments while gaining industry insight through applied projects and visual presentations. Corequisite(s): AMM 3120 .",
+      "prerequisites": "AMM 1120 , AMM 1120L , AMM 2140 , and AMM 2140L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3140",
+      "title": "Fashion Technical Design",
+      "units": "1",
+      "ge": null,
+      "coid": "436789",
+      "description": "Principles and methods of developing apparel technical packages. Creation and evaluation of patterns for style variations and garment construction. Creation of a technical package including creating technical drawings to scale, pattern card, fitting, and specifications. Selection of wholesale materials and packaging based on target market requirements. Calculation of wholesale garment cost. Visual and written projects. Corequisite(s): AMM 3140A .",
+      "prerequisites": "AMM 2900L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3140A",
+      "title": "Fashion Technical Design Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "437164",
+      "description": "Principles and methods of developing apparel technical packages. Creation and evaluation of patterns and ready-to-wear garments for style variations and garment construction. Creation of a technical package including technical drawings to scale, pattern card, fitting, and specifications. Selection of wholesale materials and packaging based on target market requirements. Calculation of wholesale garment cost. Visual and written projects. Corequisite(s): AMM 3140 .",
+      "prerequisites": "AMM 2900L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3300",
+      "title": "Apparel Brand Development",
+      "units": "3",
+      "ge": null,
+      "coid": "438875",
+      "description": "Study of the principles and mechanisms of brand management and the application of brand strategy towards developing new fashion brands. Lectures, discussions, and team projects. Written analysis and presentations.",
+      "prerequisites": "AMM 2300 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 3410",
+      "title": "Apparel Professional and Leadership Development",
+      "units": "3",
+      "ge": null,
+      "coid": "438876",
+      "description": "Detailed investigation of the professional and leadership skills required for and career pathways within the textiles, apparel production and fashion retailing, and related sectors. Development of skills for an effective internship/ job search, resume preparation, letter writing, and interviewing. Introduction to professional etiquette and development of an e-portfolio. Along with this is a comprehensive exploration of essential leadership skills and qualities needed to succeed in personal, academic, and professional life.",
+      "prerequisites": "Junior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3500",
+      "title": "Fashion Retail Buying II",
+      "units": "3",
+      "ge": null,
+      "coid": "436778",
+      "description": "Application of retail merchandising concepts to analyze and develop merchandise buying strategy for a fashion retailer. Advanced study of apparel buying processes, strategic financial planning for determining balanced assortment levels and sourcing strategy. Focus on developing strong analytical, writing, presentation and communication skills.",
+      "prerequisites": "AMM 250 or AMM 2500 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3550",
+      "title": "Data Analytics for Fashion Business",
+      "units": "3",
+      "ge": null,
+      "coid": "437588",
+      "description": "Important concepts related to research data planning, collection, storage, and dissemination for the fashion industry. An introduction to data analysis techniques for fashion marketing and social media. Use of software such as MS Excel, Access, and SPSS software.",
+      "prerequisites": "STA 120, STA 1200, or STA 1202; AMM 251 or AMM 2500 ; and AMM 251A or AMM 2510A ; OR instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3600",
+      "title": "Textile Quality Assurance",
+      "units": "2",
+      "ge": null,
+      "coid": "435172",
+      "description": "Principles and practices in specification buying of textiles, trim, and findings. Performance and appearance testing, labeling and certification requirements. Accompanied by Laboratory Testing of textile materials. Introduction to the color approval processes. Corequisite(s): AMM 3600L .",
+      "prerequisites": "CHM 1210 , CHM 1010 , or PHY 1020 ; CHM 1210L , CHM 1010L , or PHY 1020 ; and AMM 1600 and AMM 1600L , or AMM 2600 and AMM 2600L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3600L",
+      "title": "Textile Quality Assurance Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435170",
+      "description": "Principles and practices in specification testing of textiles, trim, and findings. Performance and appearance testing, labeling and certification requirements. Laboratory testing of textile materials. Introduction to the color approval processes. Corequisite(s): AMM 3600 .",
+      "prerequisites": "CHM 1210 , CHM 1010 , or PHY 1020 ; CHM 1210L , CHM 1010L , or PHY 1020 AMM 3600 - Textile Quality Assurance (2) ; and AMM 1600 and AMM 1600L , or AMM 2600 and AMM 2600L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3650",
+      "title": "Color Science - Principles and Applications",
+      "units": "2",
+      "ge": "GE 5D",
+      "coid": "439025",
+      "description": "[GE 5D] The principles of physical, chemical, physiological and psychophysical aspects of light, color and colorimetry. Color perception, color specification, and colorant types. Techniques for color measurement, color communication, color matching, coloration, and color quality control. Application of color theory and the CIE color system in industrial coloration. Corequisite(s): AMM 3650L .",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3650L",
+      "title": "Color Science - Principles & Applications Laboratory",
+      "units": "1",
+      "ge": "GE 5D",
+      "coid": "439026",
+      "description": "[GE 5D] Exploration of the physical, chemical, physiological and psychophysical aspects of light, color and colorimetry with demonstrations and lab activities. Color perception, color specification, and color communication practices. Color measurement, color matching, and color quality control lab tests. Colorants and coloration processes. Theories and principles of color systems using data. Lab projects addressing industrial color applications. Corequisite(s): AMM 3650 .",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3750",
+      "title": "Digital Commerce and Social Media Marketing for Fashion",
+      "units": "3",
+      "ge": null,
+      "coid": "436779",
+      "description": "Technological and managerial perspectives on how digital commerce is affecting fashion business enterprises and consumers. Concepts and technologies necessary for designing, developing, and deploying e-commerce and m-commerce applications.",
+      "prerequisites": "AMM 296 or AMM 2200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3800",
+      "title": "Fashion Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "439432",
+      "description": "Explores the fundamentals of fashion entrepreneurship, equipping students with the knowledge and skills needed to start and manage a new fashion business. Topics covered include market analysis, business planning, product assortment planning, branding, sustainable practices, financial management, and the use of digital technologies in the fashion industry.",
+      "prerequisites": "AMM 2500 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3810",
+      "title": "Fashion Mass Production",
+      "units": "2",
+      "ge": null,
+      "coid": "435722",
+      "description": "Introduction to fashion apparel manufacturing from cut order planning through marker making, spreading, cutting, part and final assembly, and finishing. Assessment of garment quality using standards and specifications and Teck Packs through Inspection and grading defects. Introduction to costing, production sourcing, work-study, production management and inventory management. Use of industrial apparel production equipment to learn mass production process. Site visits to apparel manufacturers. Corequisite(s): AMM 3810L .",
+      "prerequisites": "AMM 301 or AMM 2800 ; and AMM 301L or AMM 2800L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3810L",
+      "title": "Fashion Mass Production Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435731",
+      "description": "Introduction to fashion apparel manufacturing from cut order planning through marker making, spreading, cutting, part and final assembly, and finishing. Assessment of garment quality using standards and specifications and Teck Packs through Inspection and grading defects. Introduction to costing, production sourcing, work-study, production management and inventory management. Use of industrial apparel production equipment to learn mass production process. Site visits to apparel manufacturers. Corequisite(s): AMM 3810 .",
+      "prerequisites": "AMM 301 or AMM 2800 ; and AMM 301L or AMM 2800L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 3920",
+      "title": "Fashion Operations Management",
+      "units": "3",
+      "ge": null,
+      "coid": "436770",
+      "description": "An introduction to operations management in the apparel industry. Basic concepts, techniques, and methods in operations management related to apparel production. MRP, project management, forecasting, resource allocation, decision theory, capacity planning, quality control, inventory management, and work-study concepts are explained. Emphasis on demand-activated apparel production control.",
+      "prerequisites": "AMM 381 or AMM 3810 ; and AMM 381L or AMM 3810L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438033",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 4140L",
+      "title": "Fashion Product Development Simulation Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "436790",
+      "description": "Design and develop fashion product line through the creation of technical packages, CAD design, fabric testing, 3D prototyping, and the production of sewn prototypes. Perform fit evaluations and conduct a comprehensive line review to refine initial patterns and prototypes, optimizing specifications for quality and design integrity.",
+      "prerequisites": "AMM 381 or AMM 3810 ; AMM 381L or AMM 3810L ; and AMM 3140 and AMM 3140A , or AMM 3920 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4150",
+      "title": "Sustainable Innovations in Fashion",
+      "units": "3",
+      "ge": null,
+      "coid": "439436",
+      "description": "Focuses on the environmental impact assessment of textile and apparel and related products across their entire life cycle, as well as the implementation of sustainable innovative strategies to mitigate their environmental footprint. Explores the main concepts of life cycle assessment, case study analysis, and group projects in sustainable fashion innovations through material selection, circular design, and up-cycling through lectures and practical solutions. Helps gain the skills needed to evaluate, redesign, and up-cycle clothing and textiles, thereby shaping a more environmentally conscious fashion industry.",
+      "prerequisites": "Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4410",
+      "title": "Elective Internship",
+      "units": "1-6",
+      "ge": null,
+      "coid": "437606",
+      "description": "An additional practical on-the-job professional experience related to apparel production, fashion retailing or textiles that affords the student the opportunity to put into practice the knowledge and skills attained in coursework. Assignments include the timely completion of formal internship documentation, a written journal, weekly seminar discussions, an eportfolio entry, a self-evaluation of job performance, and an end of term oral presentation. May be taken up to two times for a total credit of 12 units.",
+      "prerequisites": "AMM 341 or AMM 3410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 4420",
+      "title": "Internship",
+      "units": "2",
+      "ge": null,
+      "coid": "437397",
+      "description": "New, on-the-job professional experience related to apparel production, fashion retailing or textiles. Students must obtain instructor approval of the Internship experience priors to hours worked. Extensive written reports required. Student must complete a minimum of 120 hours.",
+      "prerequisites": "AMM 341 or AMM 3410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4425A",
+      "title": "Internship Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "439424",
+      "description": "New, on-the-job professional experience related to apparel production, fashion retailing, or textiles. Students must obtain instructor approval of the Internship experience prior to hours worked. Extensive written reports are required. Requires the completion of a minimum of 120 hours.",
+      "prerequisites": "AMM 3410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Summer"
+    },
+    {
+      "code": "AMM 4530",
+      "title": "Fashion Supply Chain and Sustainability",
+      "units": "3",
+      "ge": null,
+      "coid": "436783",
+      "description": "The process of bringing fashion items from producers to the market, which includes activities of designing, product development, inbound logistics, production, marketing and sales, outbound services, and return actions for fashion products. The role of supply chain management in the fashion industry, with a focus on sustainability and operational efficiency.",
+      "prerequisites": "Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4570",
+      "title": "Dynamics of the Global Apparel Complex",
+      "units": "3",
+      "ge": null,
+      "coid": "435166",
+      "description": "The modern global economy and globalization as it relates to the apparel production and retail sectors. The economic, competitive, technological and market dynamics of the sectors are examined. Fundamentals of importing and exporting, and associated management practices are reviewed.",
+      "prerequisites": "Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 4600",
+      "title": "Textile Coloration",
+      "units": "2",
+      "ge": null,
+      "coid": "436781",
+      "description": "Chemical and physical nature and component of fibers and dyes. Application of textile colorants including natural dyes, synthetic dyes, and pigments. Principles of textile dyeing and printing techniques, process, and practices. Color theory relate to textile design, production, marketing, and promotion, as well as coloration application techniques, color measurement principles and their applications in the textile and apparel industries emphasizing sustainability. Corequisite(s): AMM 4600L .",
+      "prerequisites": "AMM 360 or AMM 3600 ; and AMM 360L or AMM 3600L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 4600L",
+      "title": "Textile Coloration Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437159",
+      "description": "Chemical and physical nature and component of fibers and dyes. Application of textile colorants including natural dyes, synthetic dyes, and pigments. Principles of textile dyeing and printing techniques, process, and practices. Color theory relate to textile design, production, marketing, and promotion, as well as coloration application techniques, color measurement principles and their applications in the textile and apparel industries emphasizing sustainability. Corequisite(s): AMM 4600 .",
+      "prerequisites": "AMM 360 or AMM 3600 ; and AMM 360L or AMM 3600L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 4630W",
+      "title": "Fashion Research Project",
+      "units": "1",
+      "ge": null,
+      "coid": "436785",
+      "description": "Introduction to research methods commonly used in scientific inquiry to explore topics in textiles, fashion product design, business strategies in fashion, and fashion consumer behavior. Students will learn the conceptual foundations of research, including research design, literature reviews, measurement techniques, sampling methods, and data collection and management. Emphasis will be placed on analyzing data and developing written summaries of research findings, preparing students to conduct meaningful investigations in the field of fashion and textiles. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): AMM 4630AW .",
+      "prerequisites": "Senior standing, and STA 1200 or STA 1202 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4680",
+      "title": "Advanced Textiles",
+      "units": "2",
+      "ge": null,
+      "coid": "436782",
+      "description": "Study of theories and principles of textile materials and related or emerging technologies, emphasizing their application across specific market segments. Includes testing and experimentation with textile innovations to develop analytical and evidence-based conclusions. Explores contemporary and sustainable textile developments in the current marketplace, including recycling and circular design approaches. Corequisite(s): AMM 4680L .",
+      "prerequisites": "AMM 3600 and AMM 3600L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4680L",
+      "title": "Advanced Textiles Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436784",
+      "description": "Study of theories and principles of textile materials and related or emerging technologies, emphasizing their application across specific market segments. Includes testing and experimentation with textile innovations to develop analytical and evidence-based conclusions. Explores contemporary and sustainable textile developments in the current marketplace, including recycling and circular design approaches. Corequisite(s): AMM 4680 .",
+      "prerequisites": "AMM 3600 and AMM 3600L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4710",
+      "title": "Apparel Wholesale Operations",
+      "units": "3",
+      "ge": null,
+      "coid": "435162",
+      "description": "Continuing senior retail student capstone experience focusing on apparel wholesale selling. An understanding of the complete apparel wholesale process from dealing with manufacturers, contractors, and brands; to developing a sales presentation.",
+      "prerequisites": "Senior Standing; and AMM 350 or AMM 3500 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 4800",
+      "title": "Global Fashion Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439433",
+      "description": "Equips students with a deep understanding of the intricate dynamics that drive success in the global fashion industry. Through a strategic lens, the multifaceted challenges and opportunities faced by fashion businesses when expanding their operations internationally are explored. Delves into the topics of cross-cultural differences in consumers; cross-country differences in economic, political, competitive, and legal environments; and entry mode choices.",
+      "prerequisites": "AMM 3550 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-merchandising-minor",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4810",
+      "title": "Advanced Apparel Production",
+      "units": "2",
+      "ge": null,
+      "coid": "436774",
+      "description": "Synthesis of apparel production and management including production planning and material requirement planning. Process analysis and control to improve spreading, cutting, and assembly using Time study and Methods engineering. Analysis of advanced technologies for product development and production including product life cycle management, body scanning, mass customization, and virtual technologies. Use of apparel information management systems. Corequisite(s): AMM 4810L .",
+      "prerequisites": "AMM 381 or AMM 3810 ; and AMM 381L or AMM 3810L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4810L",
+      "title": "Advanced Apparel Production Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436776",
+      "description": "Synthesis of apparel production and management including production planning and material requirement planning. Process analysis and control to improve spreading, cutting, and assembly using Time study and Methods engineering. Analysis of advanced technologies for product development and production including product life cycle management, body scanning, mass customization, and virtual technologies. Use of apparel information management systems. Corequisite(s): AMM 4810 .",
+      "prerequisites": "AMM 381 or AMM 3810 ; and AMM 381L or AMM 3810L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4920L",
+      "title": "Fashion Production Simulation Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437589",
+      "description": "Senior production experience capstone. Production of the AM2 product line in a commercial setting. Working with industry partners to procure components, outsource assembly and finishing, and receive finished product line for retail delivery. Promoting and marketing the line for a successful product line launch.",
+      "prerequisites": "AMM 3810 and AMM 3810L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4960",
+      "title": "International Fashion Retailing",
+      "units": "3",
+      "ge": null,
+      "coid": "435171",
+      "description": "Issues faced by fashion retailers while expanding operations in the national and international market. Analysis of consumer behavior, supply chain and logistics challenges and channel development and expansion strategies in international markets. Case studies of fashion retail management issues.",
+      "prerequisites": "Senior Fashion Retail Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 4970L",
+      "title": "Fashion Retail Simulation Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "439147",
+      "description": "Fashion retail learn-by-doing simulation experience. The application of concepts learned in major and support courses to the management of all aspects of a micro wholesale and retail apparel business from market research and demand forecasting, through merchandise planning, buying, supply chain and inventory management, visual merchandising, store/ showroom management, ecommerce, and brand development and promotion.",
+      "prerequisites": "AMM Fashion Retail major and senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438034",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+        "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+        "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AMM 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438035",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AMM 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438036",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 5410",
+      "title": "Graduate Internship in Apparel Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439325",
+      "description": "On-the-job training in some phases of the apparel industry. The experience must be new to the student. Students must obtain instructor approval of the Internship experience. Periodic analysis of internship experience is reported in written reports to the instructor. Pre or Corequisite(s): Minimum of 12 units of IAM coursework completed.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 5450",
+      "title": "International Apparel Consumer Behavior",
+      "units": "3",
+      "ge": null,
+      "coid": "439011",
+      "description": "Understanding of the basis of consumer needs and the consumer buying process based on various consumer cohorts. Unique characteristics of fashion products and consumer behavior in apparel product purchase situations are discussed. 4 lectures/problem solving.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 5520",
+      "title": "International Apparel and Textile Sourcing",
+      "units": "3",
+      "ge": null,
+      "coid": "439013",
+      "description": "Examination of the management tasks and challenges associated with sourcing of apparel and textile products. Factors influencing sourcing are explored. Planning, replenishment, and vendor management are discussed. The sourcing policies of international retailers and apparel vendors are evaluated.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 5570",
+      "title": "International Apparel Market Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "439014",
+      "description": "The economic, competitive, and structural dynamics of the apparel production and retail sectors. Patterns of production, distribution and consumption at the global, regional, national, and company level are examined. The outlook for the apparel complex is considered.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 5600",
+      "title": "Sustainability and Emerging Technologies in Textiles and Apparel",
+      "units": "3",
+      "ge": null,
+      "coid": "439015",
+      "description": "Current advances in sustainable textile and apparel materials, processes and business technologies. Application of innovative materials in apparel and related end-uses. Emerging technologies used in the apparel industry for communications, sourcing, product development, manufacturing, logistics, retail management, consumer use, and end-of-life options are explored.",
+      "prerequisites": "AMM 1600 and AMM 1600L , or equivalent.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 5800",
+      "title": "Seminar in International Apparel Management",
+      "units": "1-3",
+      "ge": null,
+      "coid": "439016",
+      "description": "Seminars, case studies and speakers on current and emerging issues and best practices in the international apparel business. Identify and evaluate strategic challenges and opportunities facing managers and propose solutions which involve the various functional areas of business. 3 seminars, case studies. 1 unit per semester.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units, with a maximum of 1 unit per semester.",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 6010",
+      "title": "Introduction to Graduate Research for the International Apparel Industry",
+      "units": "3",
+      "ge": null,
+      "coid": "438995",
+      "description": "Principles, tools and techniques used in industry and marketing research as applied to the international apparel production and distribution sector. Includes qualitative and quantitative methodologies. Topics include the development of literature reviews, online research methods and resources, and the identification and definition of a research topic. Readings, discussions, computer applications, and research. Pre or Corequisite(s): Graduate Standing.",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 6020",
+      "title": "Data Analytics in International Apparel Management",
+      "units": "3",
+      "ge": null,
+      "coid": "438996",
+      "description": "Data analysis and statistical methods for management decision-making in the international apparel industry. Uses of data and information in decision-making for the apparel business. Statistical methods in data analysis: confidence interval estimation of mean and proportion, one and two-population hypothesis testing of mean and proportion, one-way and two-way chi-square testing, simple linear regression, multiple linear regression, and analysis of variance. Analysis and application of qualitative data. Data Visualization tools and techniques. Pre or Corequisite(s): IAM 6010 .",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 6100",
+      "title": "Apparel Product Innovation and Digital Transformation",
+      "units": "3",
+      "ge": null,
+      "coid": "438997",
+      "description": "The management of product and process innovation as a strategic activity in the apparel industry through the fusion of creative, entrepreneurial and technological functions to meet latent market needs. Case studies of retailers and manufacturers that have pioneered game-changing innovations. Pre or Corequisite(s): IAM 5600 .",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 6300",
+      "title": "International Apparel Brand Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439017",
+      "description": "How to build and sustain innovative apparel brands. The value, equity, and psychological relations that brands make with apparel consumers. Issues including multi-channel branding and global branding strategy are discussed.",
+      "prerequisites": "IAM 5450 and IAM 5570 .",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 6500",
+      "title": "International Apparel Financial Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439018",
+      "description": "Financial management decisions for the apparel production and distribution sectors in the international context. Evaluation of cases in operational budgeting, product costing, product line pricing, asset valuation, capital budgeting, capital structure, raising capital, business performance, and corporate control. 3 lectures/ problem solving.",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 6850",
+      "title": "Research Proposal",
+      "units": "3",
+      "ge": null,
+      "coid": "438998",
+      "description": "Available to all master’s students. Emphasis on the development of a research proposal. Students are required to complete the first three chapters of their master’s project or thesis: Introduction, Literature Review, and Methodology.",
+      "prerequisites": "IAM 6010 , consent of instructor, and unconditional standing.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 6950",
+      "title": "Apparel Business Project",
+      "units": "3",
+      "ge": null,
+      "coid": "438999",
+      "description": "This course is for master’s candidates pursuing a professional career in the apparel industry who choose the non-thesis option. Students will research a significant research problem from the various aspects of the business processes for an apparel company and make recommendations for future growth opportunities. Before enrolling in this course, students should select an apparel company, have discussions with the management executives and identify a business problem or potential opportunity currently faced by the company. A professional paper committee comprising a chair professor and two other committee members is required. One of the members should preferably be from the apparel company selected for this project. Pre or Corequisite(s): IAM 6850 - Research Proposal (3) IAM 6410: Graduate Internship in Apparel Management",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 6960",
+      "title": "Master’s Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "439000",
+      "description": "The scientific study of the various aspects of the apparel business through primary research to complete a master’s thesis. A final thesis defense and submission to a peer reviewed journal is required. Intended for master’s candidates who choose the thesis option. Pre or Corequisite(s): IAM 6850 and unconditional standing.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-apparel-management-m-s"
+      ]
+    },
+    {
+      "code": "IAM 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "439023",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "IAM 6950 or IAM 6960 .",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "fashion-design-technology-and-management-b-s-design-and-production-subplan-option",
+      "name": "Fashion Design, Technology, and Management, B.S. - Design and Production Subplan/Option"
+    },
+    {
+      "id": "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option",
+      "name": "Fashion Design, Technology, and Management, B.S. - Fashion Retailing Subplan/Option"
+    },
+    {
+      "id": "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option",
+      "name": "Fashion Design, Technology, and Management, B.S. - Textile Technology and Sustainability Subplan/Option"
+    },
+    {
+      "id": "international-apparel-management-m-s",
+      "name": "International Apparel Management, M.S."
+    },
+    {
+      "id": "fashion-merchandising-minor",
+      "name": "Fashion Merchandising Minor"
+    },
+    {
+      "id": "fashion-design-technology-and-management-b-s-design-and-production-subplan-option-roadmap-4-year-120-units",
+      "name": "Fashion Design, Technology, and Management, B.S. - Design and Production Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "fashion-design-technology-and-management-b-s-fashion-retailing-subplan-option-roadmap-4-year-120-units",
+      "name": "Fashion Design, Technology, and Management, B.S. - Fashion Retailing Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "fashion-design-technology-and-management-b-s-textile-technology-and-sustainability-subplan-option-roadmap-4-year-120-units",
+      "name": "Fashion Design, Technology, and Management, B.S. - Textile Technology and Sustainability Subplan/Option: Roadmap 4-year (120 units)"
+    }
+  ]
+}

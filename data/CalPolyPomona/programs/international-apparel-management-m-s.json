@@ -1,0 +1,258 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:08:12+00:00",
+  "id": "international-apparel-management-m-s",
+  "name": "International Apparel Management, M.S.",
+  "title_on_page": "University Catalog",
+  "department": "Apparel Merchandising And Management",
+  "department_id": "apparel-merchandising-and-management",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24335",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6300",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog International Apparel Management, M.S.: 30 units Offered jointly by: Don B. Huntley College of Agriculture - Apparel Merchandising and Management Department and College of Professional and Global Education Major Required | Major Electives | Culminating Experience Major Required: 21 units IAM 5410 - Graduate Internship in Apparel Management (3) or IAM 6020 - Data Analytics in International Apparel Management (3) IAM 5450 - International Apparel Consumer Behavior (3) IAM 5570 - International Apparel Market Analysis (3) IAM 5600 - Sustainability and Emerging Technologies in Textiles and Apparel (3) IAM 5800 - Seminar in International Apparel Management (1-3) (3 units required) IAM 6010 - Introduction to Graduate Research for the International Apparel Industry (3) IAM 6100 - Apparel Product Innovation and Digital Transformation (3) Major Electives: 6 units Choose six units from the following courses (in consultation with an advisor): IAM 5520 - International Apparel and Textile Sourcing (3) IAM 6300 - International Apparel Brand Management (3) IAM 6500 - International Apparel Financial Management (3) Culminating Experience: 3 units IAM 6950 - Apparel Business Project (3) or IAM 6960 - Master’s Thesis (3) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University .",
+  "requirements": [
+    {
+      "name": "Major Required: 21 units",
+      "courses": [
+        "IAM 5410"
+      ],
+      "raw_text": "Major Required: 21 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "IAM 6020",
+        "IAM 5450",
+        "IAM 5570",
+        "IAM 5600",
+        "IAM 5800",
+        "IAM 6010",
+        "IAM 6100",
+        "IAM 6960"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Major Electives: 6 units",
+      "courses": [
+        "IAM 5520",
+        "IAM 6300",
+        "IAM 6500"
+      ],
+      "raw_text": "Major Electives: 6 units"
+    },
+    {
+      "name": "Culminating Experience: 3 units",
+      "courses": [
+        "IAM 6950"
+      ],
+      "raw_text": "Culminating Experience: 3 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "IAM 5410",
+      "title": "Graduate Internship in Apparel Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439325",
+      "requirement": "Major Required: 21 units",
+      "description": "On-the-job training in some phases of the apparel industry. The experience must be new to the student. Students must obtain instructor approval of the Internship experience. Periodic analysis of internship experience is reported in written reports to the instructor. Pre or Corequisite(s): Minimum of 12 units of IAM coursework completed.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 6020",
+      "title": "Data Analytics in International Apparel Management",
+      "units": "3",
+      "ge": null,
+      "coid": "438996",
+      "requirement": "or",
+      "description": "Data analysis and statistical methods for management decision-making in the international apparel industry. Uses of data and information in decision-making for the apparel business. Statistical methods in data analysis: confidence interval estimation of mean and proportion, one and two-population hypothesis testing of mean and proportion, one-way and two-way chi-square testing, simple linear regression, multiple linear regression, and analysis of variance. Analysis and application of qualitative data. Data Visualization tools and techniques. Pre or Corequisite(s): IAM 6010 .",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 5450",
+      "title": "International Apparel Consumer Behavior",
+      "units": "3",
+      "ge": null,
+      "coid": "439011",
+      "requirement": "or",
+      "description": "Understanding of the basis of consumer needs and the consumer buying process based on various consumer cohorts. Unique characteristics of fashion products and consumer behavior in apparel product purchase situations are discussed. 4 lectures/problem solving.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 5570",
+      "title": "International Apparel Market Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "439014",
+      "requirement": "or",
+      "description": "The economic, competitive, and structural dynamics of the apparel production and retail sectors. Patterns of production, distribution and consumption at the global, regional, national, and company level are examined. The outlook for the apparel complex is considered.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 5600",
+      "title": "Sustainability and Emerging Technologies in Textiles and Apparel",
+      "units": "3",
+      "ge": null,
+      "coid": "439015",
+      "requirement": "or",
+      "description": "Current advances in sustainable textile and apparel materials, processes and business technologies. Application of innovative materials in apparel and related end-uses. Emerging technologies used in the apparel industry for communications, sourcing, product development, manufacturing, logistics, retail management, consumer use, and end-of-life options are explored.",
+      "prerequisites": "AMM 1600 and AMM 1600L , or equivalent.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 5800",
+      "title": "Seminar in International Apparel Management",
+      "units": "1-3",
+      "ge": null,
+      "coid": "439016",
+      "requirement": "or",
+      "description": "Seminars, case studies and speakers on current and emerging issues and best practices in the international apparel business. Identify and evaluate strategic challenges and opportunities facing managers and propose solutions which involve the various functional areas of business. 3 seminars, case studies. 1 unit per semester.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units, with a maximum of 1 unit per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 6010",
+      "title": "Introduction to Graduate Research for the International Apparel Industry",
+      "units": "3",
+      "ge": null,
+      "coid": "438995",
+      "requirement": "or",
+      "description": "Principles, tools and techniques used in industry and marketing research as applied to the international apparel production and distribution sector. Includes qualitative and quantitative methodologies. Topics include the development of literature reviews, online research methods and resources, and the identification and definition of a research topic. Readings, discussions, computer applications, and research. Pre or Corequisite(s): Graduate Standing.",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 6100",
+      "title": "Apparel Product Innovation and Digital Transformation",
+      "units": "3",
+      "ge": null,
+      "coid": "438997",
+      "requirement": "or",
+      "description": "The management of product and process innovation as a strategic activity in the apparel industry through the fusion of creative, entrepreneurial and technological functions to meet latent market needs. Case studies of retailers and manufacturers that have pioneered game-changing innovations. Pre or Corequisite(s): IAM 5600 .",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 5520",
+      "title": "International Apparel and Textile Sourcing",
+      "units": "3",
+      "ge": null,
+      "coid": "439013",
+      "requirement": "Major Electives: 6 units",
+      "description": "Examination of the management tasks and challenges associated with sourcing of apparel and textile products. Factors influencing sourcing are explored. Planning, replenishment, and vendor management are discussed. The sourcing policies of international retailers and apparel vendors are evaluated.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 6300",
+      "title": "International Apparel Brand Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439017",
+      "requirement": "Major Electives: 6 units",
+      "description": "How to build and sustain innovative apparel brands. The value, equity, and psychological relations that brands make with apparel consumers. Issues including multi-channel branding and global branding strategy are discussed.",
+      "prerequisites": "IAM 5450 and IAM 5570 .",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 6500",
+      "title": "International Apparel Financial Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439018",
+      "requirement": "Major Electives: 6 units",
+      "description": "Financial management decisions for the apparel production and distribution sectors in the international context. Evaluation of cases in operational budgeting, product costing, product line pricing, asset valuation, capital budgeting, capital structure, raising capital, business performance, and corporate control. 3 lectures/ problem solving.",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 6950",
+      "title": "Apparel Business Project",
+      "units": "3",
+      "ge": null,
+      "coid": "438999",
+      "requirement": "Culminating Experience: 3 units",
+      "description": "This course is for master’s candidates pursuing a professional career in the apparel industry who choose the non-thesis option. Students will research a significant research problem from the various aspects of the business processes for an apparel company and make recommendations for future growth opportunities. Before enrolling in this course, students should select an apparel company, have discussions with the management executives and identify a business problem or potential opportunity currently faced by the company. A professional paper committee comprising a chair professor and two other committee members is required. One of the members should preferably be from the apparel company selected for this project. Pre or Corequisite(s): IAM 6850 - Research Proposal (3) IAM 6410: Graduate Internship in Apparel Management",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IAM 6960",
+      "title": "Master’s Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "439000",
+      "requirement": "or",
+      "description": "The scientific study of the various aspects of the apparel business through primary research to complete a master’s thesis. A final thesis defense and submission to a peer reviewed journal is required. Intended for master’s candidates who choose the thesis option. Pre or Corequisite(s): IAM 6850 and unconditional standing.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "IAM 5410",
+    "IAM 5450",
+    "IAM 5520",
+    "IAM 5570",
+    "IAM 5600",
+    "IAM 5800",
+    "IAM 6010",
+    "IAM 6020",
+    "IAM 6100",
+    "IAM 6300",
+    "IAM 6500",
+    "IAM 6950",
+    "IAM 6960"
+  ]
+}

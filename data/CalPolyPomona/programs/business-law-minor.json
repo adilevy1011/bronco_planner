@@ -1,0 +1,209 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:18+00:00",
+  "id": "business-law-minor",
+  "name": "Business Law Minor",
+  "title_on_page": "University Catalog",
+  "department": "Finance Real Estate And Law",
+  "department_id": "finance-real-estate-and-law",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24139",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6307",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Business Law Minor: 21 units Offered by: College of Business Administration , Finance, Real Estate, and Law Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 9 units ACC 2070 - Financial Accounting for Decision Making (3) ENG 1103 - First Year Composition (3) [GE 1A] FRL 2013 - The Legal Environment of Business and its Transactions (3) Minor Electives: 12 units FRL 3253 - Contract Administration (3) FRL 3263 - Contract Aspects of the Uniform Commercial Code (3) FRL 3273 - Contract Case Study/Practical Application (3) FRL 3293 - Legal and Contract Management Aspects of Federal Government Contract Property (3) FRL 4033 - Law of Financial Transactions (3) FRL 4083 - Law for Accountants (3) FRL 4263 - Legal Aspects of International Business (International Business Law) (3) FRL 4503 - International Law and Dispute Settlement (3) FRL 4842 - Real Estate Law (3) Notes: Students are advised to verify course prerequisites in the current University Catalog. Approval of your Business Law Minor may be obtained from one of the advisors. Students enrolled in these program(s) must meet with an advisor to ensure their minor coursework is distinct from their major coursework: Business Administration, B.S. - Finance, Real Estate, and Law Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Acces",
+  "requirements": [
+    {
+      "name": "Minor Required: 9 units",
+      "courses": [
+        "ACC 2070",
+        "ENG 1103",
+        "FRL 2013"
+      ],
+      "raw_text": "Minor Required: 9 units"
+    },
+    {
+      "name": "Minor Electives: 12 units",
+      "courses": [
+        "FRL 3253",
+        "FRL 3263",
+        "FRL 3273",
+        "FRL 3293",
+        "FRL 4033",
+        "FRL 4083",
+        "FRL 4263",
+        "FRL 4503",
+        "FRL 4842"
+      ],
+      "raw_text": "Minor Electives: 12 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ACC 2070",
+      "title": "Financial Accounting for Decision Making",
+      "units": "3",
+      "ge": null,
+      "coid": "434677",
+      "requirement": "Minor Required: 9 units",
+      "description": "Introduction to financial accounting and accounting information systems (AIS), including basic concepts, limitations, tools and methods, use of AIS-generated information, including financial statements in decision making by investors, creditors, and other users external to the organization.",
+      "prerequisites": "CIS 101, CIS 1010 , or PCPT.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 1103",
+      "title": "First Year Composition",
+      "units": "3",
+      "ge": "GE 1A",
+      "coid": "434942",
+      "requirement": "Minor Required: 9 units",
+      "description": "[GE 1A] Principal concepts of rhetoric, argumentation, and research. Frequent practice writing essays, letters, and other genres commonly used in academic writing. Sections designated with an M are recommended for multilingual speakers.",
+      "prerequisites": "CO Category II.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 2013",
+      "title": "The Legal Environment of Business and its Transactions",
+      "units": "3",
+      "ge": null,
+      "coid": "434608",
+      "requirement": "Minor Required: 9 units",
+      "description": "The study of the legal adversarial system, principles of American law, coverage of business-related torts and contracts, strict liability, real/personal property, regulatory environment and criminal law. The law of products liability will also be critically examined.",
+      "prerequisites": "GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 3253",
+      "title": "Contract Administration",
+      "units": "3",
+      "ge": null,
+      "coid": "434738",
+      "requirement": "Minor Electives: 12 units",
+      "description": "Organization, procedures, and areas of application in contract administration. Designed to provide the student with knowledge and skills essential to accomplish the responsibility of contract administration. Provides a comprehensive approach to the interrelationship between contract administration and various functional disciplines.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 3263",
+      "title": "Contract Aspects of the Uniform Commercial Code",
+      "units": "3",
+      "ge": null,
+      "coid": "434740",
+      "requirement": "Minor Electives: 12 units",
+      "description": "Transition from common law background to statutory contract law. Formation of sales contract under the UCC. Insight regarding policy considerations, legal remedies, and the mechanical requirements.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 3273",
+      "title": "Contract Case Study/Practical Application",
+      "units": "3",
+      "ge": null,
+      "coid": "434741",
+      "requirement": "Minor Electives: 12 units",
+      "description": "Review of current and past cases in government and private contracting, using the case study method. Combined class textbook and library assignments. Cases, selected by areas briefed, discussed and reviewed.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 3293",
+      "title": "Legal and Contract Management Aspects of Federal Government Contract Property",
+      "units": "3",
+      "ge": null,
+      "coid": "438954",
+      "requirement": "Minor Electives: 12 units",
+      "description": "Organization, procedures, and areas of application in basic concepts of Federal Government Contract Property Management including the examination of inherent fundamental legal issues. Further designed to provide the student with knowledge and skills essential to obtaining the National Property Management Association’s Certified Professional Property Specialist (CPPS) certification. Provides a comprehensive approach to the interrelationship between contract property management and various functional disciplines.",
+      "prerequisites": "FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 4033",
+      "title": "Law of Financial Transactions",
+      "units": "3",
+      "ge": null,
+      "coid": "434747",
+      "requirement": "Minor Electives: 12 units",
+      "description": "Study of the nature, documentary forms, legal implications and rationales of commercial transactions and financial instruments. Covers legal issues confronting international business, with an emphasis on financial transactions and global regulation of financial institutions. Statutory and case law, and applicable principles of contract law are emphasized. Also discussed are principles of debtor-creditor law regarding secured and unsecured realty and personal property transactions, bankruptcy law, and law of investment securities.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 4083",
+      "title": "Law for Accountants",
+      "units": "3",
+      "ge": null,
+      "coid": "434724",
+      "requirement": "Minor Electives: 12 units",
+      "description": "General principles of business, commercial, corporate law and bankruptcy law, and the nature and bases of an accountant’s legal responsibilities under state and federal law. Emphasis: 1 - rights and duties of accountants under contract and tort law; 2 - scope and documentary requirements of negotiable instruments law; 3 - bank relations in the digital age; 4 - law of secured transactions; 5 - debtor and creditor rights; 6 - federal bankruptcy law (particularly Chapter 7 liquidations, Chapter 11 business reorganizations, and Chapter 13 debtor payment plans); 7 - survey of agency and partnership law; 8 - corporate law and corporate governance; 9 - federal securities law and bases of domestic and extraterritorial regulation; 10 - principles of international contract law; and 11 - international corporate governance and social responsibility.",
+      "prerequisites": "FRL 201 or FRL 2013 ; ACC 207/A or ACC 2070 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "FRL 4263",
+      "title": "Legal Aspects of International Business (International Business Law)",
+      "units": "3",
+      "ge": null,
+      "coid": "434748",
+      "requirement": "Minor Electives: 12 units",
+      "description": "Introduction to the legal aspects of international business, including most importantly: organization forms of international businesses; types of risks in international business and investment transactions; sources of public and private international law; relationship of U.S. and public international law; forms of international trade regulation; principles of international contract law; fundamentals of international trade finance and letters of credit; documentary requirements of international sales, transport and insurance contracts; nature of international business litigation in U.S. courts; and alternative forms of international dispute resolution.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 4503",
+      "title": "International Law and Dispute Settlement",
+      "units": "3",
+      "ge": null,
+      "coid": "434749",
+      "requirement": "Minor Electives: 12 units",
+      "description": "International law is a dynamic decision-making process that is guided by conceptual rules articulated in national and international agreements, court and arbitral decisions, expert writings, and historic and modern public forms of international customary law. Although public international law is state-centric, participants and subjects of international law are also international governmental organizations, non-governmental organization, multinational enterprises, and - increasingly - individuals. Introduction to the formative history of modern international law, and the scope, doctrine and common applications of public and private international law today - with particular attention to the fundamental norms of international economic law, international investment regulation, international business law and transactional norms, international corporate governance, transnational financial crime, and international dispute resolution. Major course topics are: 1 - the functions of law in the international community; 2 - the sources and influence of international law today; 3 - the proliferation of international courts and tribunals; 4 - the rising importance of regional economic integration systems; 5 - the most-renowned writers and interpreters of contemporary international law - as well as the lawyers who established international law in the United States; 6 - the relationship of U.S. and public international law; 7 - the impact of treaties on business; 8 - multinational corporations as engines and major beneficiaries of the global economy; 8 - the International Centre for the Settlement of Investment Disputes (ICSID) and the evolving regime for the regulation of foreign direct investment; 9 - fundamental international human rights; 10 - principals of international investment law; 10 - principles of international securities law; 11 - jurisdiction of the International Criminal Court; 12 - the United Nations Convention Against Corruption (UNCAVC) and transnational financial crime; 13 - international criminal law of the sea; and alternative approaches to international dispute settlement.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 4842",
+      "title": "Real Estate Law",
+      "units": "3",
+      "ge": null,
+      "coid": "434751",
+      "requirement": "Minor Electives: 12 units",
+      "description": "Rights, liabilities, title issues related to the acquisition, possession, use and transfer of real estate interests. Covers issues of easements, licenses, deeds, zoning, leases, variances, mortgages, foreclosure, landlord and tenant relationships, fair housing laws, and natural resource acquisitions. Topics included are methods of clearing title problems to create marketable title transfer to buyer. Satisfies educational requirement for broker’s license.",
+      "prerequisites": "FRL 201 or FRL 2013 ; and FRL 306 or FRL 3062 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    }
+  ],
+  "department_course_codes": [
+    "FRL 2013",
+    "FRL 3253",
+    "FRL 3263",
+    "FRL 3273",
+    "FRL 3293",
+    "FRL 4033",
+    "FRL 4083",
+    "FRL 4263",
+    "FRL 4503",
+    "FRL 4842"
+  ]
+}

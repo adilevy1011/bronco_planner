@@ -1,0 +1,718 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:36:30+00:00",
+  "id": "management-and-human-resources",
+  "name": "Management And Human Resources",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6309",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Management and Human Resources Department Building 164 Room 3062 | (909) 869-3646 | Department Website | Faculty Directory The faculty of the Management and Human Resources Department at Cal Poly Pomona prepares students to become effective professionals by employing the ‘learn by doing’ philosophy and the ‘teacher‑scholar’ model. Through discipline‑based knowledge, we develop our students’ skills in management, human resources, and entrepreneurship. Our aim is to graduate students who are productive and responsible citizens. The department reflects Cal Poly Pomona’s polytechnic culture, emphasizing experiential learning, teamwork, and practical skill development. Students select specializations in management and leadership, human resources management (aligned with SHRM standards), or entrepreneurship. Faculty are actively engaged in research, creative scholarship, and consulting, bolstering a culture of academic inquiry and industry relevance. The department also fosters a reputation for bridging theory and practice, aiming to prepare diverse graduates to thrive in collaborative and dynamic organizational landscapes. Students experience robust co-curricular and professional opportunities. They are required to earn internship credit or complete a senior project, partnering with local or national organizations. Student groups like the Collegiate Entrepreneurs’ Organization (CEO) and Professionals in Human Resources Association (PIHRA) host workshops, networking events, and community outreach. Dedicated advising, including personalized plans for transfer students, ensures academic alignment with career goals. Through hands-on internships, mentor",
+  "courses": [
+    {
+      "code": "MHR 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434857",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434858",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438587",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438588",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3010",
+      "title": "Principles of Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434791",
+      "description": "A survey of the basic management functions of planning, organizing, leading and controlling, along with their application to the management of contemporary organizations. Provides an interdisciplinary approach to the study and practice of management theory. Topics included: functions of management, managerial roles and skills, management history, organizational environments, organizational strategy and structure, ethics, and diversity among others.",
+      "prerequisites": "Sophomore standing and completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "business-administration-b-s-management-and-human-resources-subplan-option-as-t-with-business-administration-2-0",
+        "human-resources-minor",
+        "management-and-leadership-minor",
+        "management-of-not-for-profit-organizations-minor",
+        "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "MHR 3020",
+      "title": "Organizational Behavior",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434544",
+      "description": "[GE 4C] Introductory experiences in the basics of organizational behavior. Emphasis is given to the application of scientific knowledge drawn from different social sciences (primarily psychology, social psychology, sociology, political science, and cultural anthropology) to understand and manage human behavior in organizations. Topics discussed: individual differences, perception, attribution, motivation, working in teams, leadership, power and influence, conflict management, culture, and ethical decision making in the organizational context.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "business-administration-b-s-management-and-human-resources-subplan-option-as-t-with-business-administration-2-0",
+        "management-and-leadership-minor",
+        "management-of-not-for-profit-organizations-minor",
+        "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "MHR 3030",
+      "title": "Management of Not-for-Profit Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "434792",
+      "description": "Methods, theory, and institutional knowledge for managing not-for-profit organizations. Problems and issues in policy, organization, program, personnel, and budget unique to not-for-profit organizations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "entrepreneurship-minor",
+        "management-of-not-for-profit-organizations-minor"
+      ]
+    },
+    {
+      "code": "MHR 3210",
+      "title": "Human Resources Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434789",
+      "description": "Establishment of human resources objectives and requirements in organizations. Planning recruiting, testing, interviewing, screening, and selection of employees. Training and development, career development, compensation and benefit plans, safety and health, employee and labor relations and human resources research. Case studies.",
+      "prerequisites": "C or better in MHR 301 or MHR 3010 ; and Undergraduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "business-administration-b-s-management-and-human-resources-subplan-option-as-t-with-business-administration-2-0",
+        "human-resources-minor",
+        "management-and-leadership-minor",
+        "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "MHR 3410",
+      "title": "Introduction to Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "434793",
+      "description": "An overview of the process that will take students from having an entrepreneurial idea to turning it into a successful business. Topics covered in this course include the entrepreneurial mindset, design thinking, business model generation, business planning, entrepreneurial “pitching,” and organizational and financing issues related to starting a business.",
+      "prerequisites": "Junior standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "business-administration-b-s-management-and-human-resources-subplan-option-as-t-with-business-administration-2-0",
+        "entrepreneurship-minor",
+        "management-of-not-for-profit-organizations-minor",
+        "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "MHR 3420",
+      "title": "Creativity and Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "434794",
+      "description": "Exploring techniques and exercises to facilitate the creative thinking process. Learn to develop and nurture an entrepreneurial mindset in order to recognize opportunities in a dynamic marketplace. Exploration of the creative process and its application to entrepreneurial ventures as stand-alone businesses or within an established company.",
+      "prerequisites": "Junior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "entrepreneurship-minor"
+      ]
+    },
+    {
+      "code": "MHR 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434859",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4010",
+      "title": "Business Ethics, Diversity and Social Responsibility",
+      "units": "3",
+      "ge": null,
+      "coid": "434795",
+      "description": "Ethical reasoning skills necessary for making business decisions. Emphasis is given on developing an ethical mindset towards human diversity in organizations and corporate social responsibility. Topics to be discussed: purpose of the corporation, nature of ethics , ethical dilemmas, ethical decision making, diversity in organizations (based on race, ethnicity and accent, age, skin color, religion, physical abilities, sexual orientation, and gender) and corporate social responsibility. The main focus is to develop ethically and socially responsible managers, leaders, and organizational members.",
+      "prerequisites": "MHR 3020 or MHR 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "business-administration-b-s-management-and-human-resources-subplan-option-as-t-with-business-administration-2-0",
+        "management-and-leadership-minor",
+        "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "MHR 4020",
+      "title": "Leadership: Theory and Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "434796",
+      "description": "Introduction to various leadership theories so that they can identify leadership in action and accordingly understand the applications of leadership theories. Develop leadership potential within students by helping them identify their own strengths, weaknesses, and their dominant leadership style.",
+      "prerequisites": "C or better in MHR 3020 or MHR 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "entrepreneurship-minor",
+        "management-and-leadership-minor"
+      ]
+    },
+    {
+      "code": "MHR 4030",
+      "title": "Leading Organizational Transformations",
+      "units": "3",
+      "ge": null,
+      "coid": "434797",
+      "description": "The role of leaders as champions of organizational innovation, change, and renewal. Topics include context, content, and process of change, rethinking employee resistance, and leading merger and acquisitions, restructuring, innovation, design thinking, and sustainability.",
+      "prerequisites": "C or better in MHR 3010 or MHR 301.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "entrepreneurship-minor",
+        "management-and-leadership-minor",
+        "management-of-not-for-profit-organizations-minor"
+      ]
+    },
+    {
+      "code": "MHR 4040",
+      "title": "Conflict Management in Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "434798",
+      "description": "Explore the major concepts and theories of conflict management and resolution in organizational settings. Topics covered include: cooperative and competitive business negotiations; distributive and integrative bargaining situations at the workplace; interests, rights and power oriented conflict management strategies; creativity, problem solving and cross-cultural issues in conflict management and resolution; coalitions and multi-party negotiations; and third party interventions. Emphasis on developing and practicing students’ conflict management and resolution skills that can be utilized in business world.",
+      "prerequisites": "C or better in MHR 3020 or MHR 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "management-and-leadership-minor"
+      ]
+    },
+    {
+      "code": "MHR 4050",
+      "title": "International Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434799",
+      "description": "Applying management principles and techniques in an international setting. Adapting management practices to different economic, political, legal, and cultural environments. Formulating multinational strategies, designing global management systems, and managing human resources and corporate social responsibility globally.",
+      "prerequisites": "MHR 3010 or MHR 301.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "management-and-leadership-minor"
+      ]
+    },
+    {
+      "code": "MHR 4220",
+      "title": "Training and Development",
+      "units": "3",
+      "ge": null,
+      "coid": "434800",
+      "description": "Theory and applications of employee training and development. How rapid changes in technology, market conditions, and business practices make training a growing management function. Determining training needs, selecting methods, planning programs, and evaluating results.",
+      "prerequisites": "MHR 3210 , HRT 3500 , MHR 311 or HRT 350; and Upper Division standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "human-resources-minor"
+      ]
+    },
+    {
+      "code": "MHR 4230",
+      "title": "Human Resources Staffing, Planning, Recruiting and Selection",
+      "units": "3",
+      "ge": null,
+      "coid": "434801",
+      "description": "Theory and practical applications in organizational planning, recruiting and selection processes and systems used in staffing organizations. Multiple tools, techniques and activities important to matching organizational human resources requirements and specifications with applicant abilities and motivations.",
+      "prerequisites": "MHR 3210 or MHR 311.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "human-resources-minor"
+      ]
+    },
+    {
+      "code": "MHR 4240",
+      "title": "Employee Compensation and Benefits",
+      "units": "3",
+      "ge": null,
+      "coid": "434790",
+      "description": "Theory and practical applications in planning and administering compensation and benefits in organizations. In-depth examination of policy and design of Job evaluation, performance appraisal systems, incentive pay, health insurance and retirement plans.",
+      "prerequisites": "MHR 3210 or MHR 311.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "human-resources-minor"
+      ]
+    },
+    {
+      "code": "MHR 4250",
+      "title": "Employment Law",
+      "units": "3",
+      "ge": null,
+      "coid": "434802",
+      "description": "Federal and state equal employment opportunity laws with respect to discrimination and harassment because of race, color, sex, national origin, religion, age, affinity and disability as well as the legal impact on HRM issues (e.g., hiring, testing).",
+      "prerequisites": "MHR 3210 , HRT 3500 , MHR 311 or HRT 350.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "entrepreneurship-minor",
+        "human-resources-minor"
+      ]
+    },
+    {
+      "code": "MHR 4260",
+      "title": "Human Resources Information Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "434803",
+      "description": "Emerging approaches to the management of human resources information in hiring, compensation/benefits, skills inventory, employee records, and training. Automated and manual systems compared. Student presentations on proposed and operational human resource information systems. Microcomputer exercises.",
+      "prerequisites": "MHR 3210 or MHR 311.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option"
+      ]
+    },
+    {
+      "code": "MHR 4270",
+      "title": "Management Union Relations",
+      "units": "3",
+      "ge": null,
+      "coid": "434804",
+      "description": "Development of management-union relations in the United States; the continuously changing roles and relationships of labor, management, and government through collective bargaining, arbitration, and legislation. Review of trends affecting productivity and the labor force.",
+      "prerequisites": "MHR 3210 , HRT 3500 , MHR 311 or HRT 350; and Upper Division standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option"
+      ]
+    },
+    {
+      "code": "MHR 4410W",
+      "title": "Internship in Business Management",
+      "units": "1-2",
+      "ge": null,
+      "coid": "434648",
+      "description": "An internship is the integration of classroom theory and practical experience in a planned apprenticeship program. The intern program is based upon the interest and needs of both the student and the employer. The student’s work should be related to his/her field of study and individual interest within the field. The internship is a collaborative agreement involving the internship coordinator, student, and the employer to provide meaningful and relevant work experience to benefit the company as well as enhance the student’s career development. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing, consent of instructor, completion Cal Poly’s internship documentation, and 18-35 hours of internship work per week.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: May be taken up to five times for a total credit of 10 units.",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "business-administration-b-s-management-and-human-resources-subplan-option-as-t-with-business-administration-2-0"
+      ]
+    },
+    {
+      "code": "MHR 4420W",
+      "title": "Full-Time Internship in Business Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434649",
+      "description": "An internship is the integration of classroom theory and practical experience in a planned apprenticeship program. The intern program is based upon the interest and needs of both the student and the employer. The student’s work should be related to his/her field of study and individual interest within the field. The internship is a collaborative agreement involving the internship coordinator, student, and the employer to provide meaningful and relevant work experience to benefit the company as well as enhance the student’s career development. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing, consent of instructor, completion of Cal Poly’s internship documentation, and 36-40 hours of internship work per week.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: May be taken up to five times for a total credit of 15 units.",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "business-administration-b-s-management-and-human-resources-subplan-option-as-t-with-business-administration-2-0"
+      ]
+    },
+    {
+      "code": "MHR 4430",
+      "title": "Technology Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "434805",
+      "description": "Familiarization with emerging disruptive technologies that could provide the backbone for the next technological revolution. In addition, study of business modeling techniques to help “flesh out” ideas and create lucrative business models based on the disruptive technologies in focus.",
+      "prerequisites": "MHR 3410 . Junior standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "entrepreneurship-minor"
+      ]
+    },
+    {
+      "code": "MHR 4440",
+      "title": "Social Entrepreneurship",
+      "units": "3",
+      "ge": null,
+      "coid": "434806",
+      "description": "The application of entrepreneurial concepts and skills to solve or ameliorate societal problems. Examination of profit-seeking, not-for-profit, and hybrid ventures with an authentic social mission. Finding a “cause” and creating a business plan utilizing the business model canvas.",
+      "prerequisites": "Junior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "entrepreneurship-minor"
+      ]
+    },
+    {
+      "code": "MHR 4450",
+      "title": "Funding New Ventures",
+      "units": "3",
+      "ge": null,
+      "coid": "434807",
+      "description": "Topics include raising seed and growth capital from crowdfunding, venture capital, business angels, investment banking, commercial banking, bootstrapping sources, and understanding financial problems unique to the small and medium-sized firms undergoing rapid growth. The main focus is on financial management for entrepreneurs over the life of business projects. This includes financing start-ups, financial planning for the nonpublic smaller businesses, going public, selling out, sources of capital, and other related topics. Furthermore, the logic of investor decision-making is examined, particularly with regard to financial viability concerns.",
+      "prerequisites": "MHR 3410 . Junior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "entrepreneurship-minor"
+      ]
+    },
+    {
+      "code": "MHR 4460",
+      "title": "Entrepreneurial Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "434808",
+      "description": "Integration of knowledge attained during other entrepreneurship courses and application to developing an effective business plan based on a viable and lucrative business idea.",
+      "prerequisites": "MHR 3410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "entrepreneurship-minor",
+        "management-of-not-for-profit-organizations-minor"
+      ]
+    },
+    {
+      "code": "MHR 4610W",
+      "title": "Senior Project",
+      "units": "3",
+      "ge": null,
+      "coid": "434647",
+      "description": "Selection and completion of a project under faculty supervision. Projects address problems that graduates need to solve in their fields of work. A formal report must be submitted. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "business-administration-b-s-management-and-human-resources-subplan-option",
+        "business-administration-b-s-management-and-human-resources-subplan-option-as-t-with-business-administration-2-0"
+      ]
+    },
+    {
+      "code": "MHR 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434860",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438589",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438590",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 6100",
+      "title": "Strategic Talent Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439479",
+      "description": "People-centric approach to talent management with four key components: 1) Understanding the strategic context for talent management. 2) Implementing talent management by addressing core functions and employee well-being.3) Reflective exercises on aligning organizational goals with employee needs. 4) Case studies to apply talent management strategies.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    },
+    {
+      "code": "MHR 6110",
+      "title": "Total Rewards",
+      "units": "3",
+      "ge": null,
+      "coid": "439478",
+      "description": "Focuses on the creation of effective rewards systems that boost employee motivation and maintain market competitiveness. Covers strategic compensation, performance management, pay structure, benefits, and various incentive topics. Ideal for future and current HR professionals and managers in any organization. Designed for both future and practicing HR professionals and managers. Overview of reward management in all types of organizations.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    },
+    {
+      "code": "MHR 6120",
+      "title": "Human Resource Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "439480",
+      "description": "Introduction to Human Resource (HR) Analytics. Organizations are increasingly relying on HR Analytics to improve decision making regarding various HR and organizational issues. Focuses on the fundamental logic, metrics, analysis, and interpretation necessary to conducting HR Analytics, and students will learn how to make data-driven decisions in the HR context. Reviews data analysis and statistics; emphasis on the application of HR Analytics to address real-world problems that organizations face.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    },
+    {
+      "code": "MHR 6130",
+      "title": "Employment Law",
+      "units": "3",
+      "ge": null,
+      "coid": "439481",
+      "description": "Surveys and examines employment laws that govern human resource management practices, programs, and policies. Examines federal and state laws regulating the employer-employee relationship and the dynamics of the contemporary workplace. Topics include employment laws and regulations; equal employment opportunity; wrongful discharge; discrimination (i.e., race, color, gender, religion, disability, age, national origin) and harassment; workplace privacy; compensation, benefits, and employee safety; and hiring, promotion, and termination decisions.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    },
+    {
+      "code": "MHR 6200",
+      "title": "Leading People and Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "439482",
+      "description": "Human Resources professionals need effective leadership skills to collaborate with upper management to achieve strategic goals, to improve the relationships between management and employees, and to advocate causes on behalf of the employees to achieve high performance. Focuses on the most important leadership theories and their real-life applications in a variety of human resources contexts. Assets with the examination and improvement leadership skills (e.g. communication, conflict resolution, team building, coaching skills) through the use of assessment tools, simulations, role-plays, case analyses and class discussions.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    },
+    {
+      "code": "MHR 6210",
+      "title": "Business Negotiation and Resolution of Conflict",
+      "units": "3",
+      "ge": null,
+      "coid": "439483",
+      "description": "Effective Human Resources managers and team members will use negotiation skills to identify optimal solutions to problems when dealing with employees, colleagues and/or executives. Negotiation and persuasion skills also help secure high levels of employee and executive acceptance for identified solutions all the while maintaining a productive and positive organizational climate. Topics covered include conflict management and negotiation theory and strategies that are used in a variety of business settings, and focuses on the real-life applications and practice of effective negotiation for Human Resources professionals.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    },
+    {
+      "code": "MHR 6220",
+      "title": "Effective Human Resources and Organizational Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "439484",
+      "description": "Facilitates HR leaders in developing imperative interpersonal relationship skills. HR leaders must first know themselves before they can understand and develop more effective interactions with others. Improves interpersonal skills with the mastery of concepts, and learning real-world applications via a variety of experiential and reflective exercises including role plays, assessments, journals, case studies, etc. Includes numerous opportunities to practice interpersonal skills and also receive and respond to feedback from peers to better understand communication styles to address real-world HR challenges.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    },
+    {
+      "code": "MHR 6300",
+      "title": "Leading Transformations in Contemporary Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "439485",
+      "description": "Focuses on the topic of organizational change, and the crucial role played by HR leaders in designing, implementing, and facilitating these changes utilizing a systems lens. The overarching goal is to help HR professionals develop business acumen, understand HR’s contribution to the organizational goals, and become adaptable change leaders and internal consultants. Topics include change context, content, and process, Kotter’s 8-stage framework, employee resistance, HR’s role in managing organizational changes including M&A, restructuring, and crisis management, project management, and human-centric problem-solving through design thinking.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    },
+    {
+      "code": "MHR 6400",
+      "title": "Managerial Creativity and Innovation",
+      "units": "3",
+      "ge": null,
+      "coid": "439486",
+      "description": "Focuses on fostering creative thinking and an entrepreneurial mindset, especially within the HR context by learning to identify opportunities in a dynamic marketplace and design innovative solutions applicable to established companies. Incorporates project design of an innovation with the potential for implementation in established companies. Additionally, introduces disruptive technologies and business modeling techniques to turn ideas into lucrative models. Emphasis on creativity as a catalyst for innovation, personal growth, and professional legacy.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Summer",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    },
+    {
+      "code": "MHR 6500",
+      "title": "Diversity Equity Inclusion",
+      "units": "3",
+      "ge": null,
+      "coid": "439540",
+      "description": "Provides HR leaders with in-depth knowledge and practical skills for fostering diversity, equity, and inclusion in the workplace. Explores the historical and societal context of these concepts, addressing bias, privilege, and power dynamics. Topics include unconscious bias, microaggressions, inclusive communication, recruitment, talent development, and retention strategies. Also covers employee resource groups, allyship, advocacy, and handling harassment and discrimination to cultivate socially responsible and inclusion-focused HR leaders.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Summer",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    },
+    {
+      "code": "MHR 6950",
+      "title": "Human Resources Project",
+      "units": "3",
+      "ge": null,
+      "coid": "439487",
+      "description": "A capstone course for the Master of Science in Human Resources Leadership. Successful completion of the course requires selection and comprehensive investigation of a problem that needs to be addressed or opportunity to implement an innovative program, within the HR context and under close and unique faculty guidance. Project activities should be chosen with respect to the student’s interest and special area of expertise, e.g., recruitment, workplace safety, compensation, employee relations, labor law compliance and training. A formal report or presentation is required.",
+      "prerequisites": "MHR 6100 , MHR 6110 , MHR 6120 , MHR 6130 , and MHR 6200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Summer",
+      "programs": [
+        "human-resources-leadership-m-s"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "business-administration-b-s-management-and-human-resources-subplan-option",
+      "name": "Business Administration, B.S. - Management and Human Resources Subplan/Option"
+    },
+    {
+      "id": "business-administration-b-s-management-and-human-resources-subplan-option-as-t-with-business-administration-2-0",
+      "name": "Business Administration, B.S. - Management and Human Resources Subplan/Option: AS-T with Business Administration 2.0"
+    },
+    {
+      "id": "human-resources-leadership-m-s",
+      "name": "Human Resources Leadership, M.S."
+    },
+    {
+      "id": "entrepreneurship-minor",
+      "name": "Entrepreneurship Minor"
+    },
+    {
+      "id": "human-resources-minor",
+      "name": "Human Resources Minor"
+    },
+    {
+      "id": "management-and-leadership-minor",
+      "name": "Management and Leadership Minor"
+    },
+    {
+      "id": "management-of-not-for-profit-organizations-minor",
+      "name": "Management of Not-for-Profit Organizations Minor"
+    },
+    {
+      "id": "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-4-year-120-units",
+      "name": "Business Administration, B.S. - Management and Human Resources Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "business-administration-b-s-management-and-human-resources-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Business Administration, B.S. - Management and Human Resources Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

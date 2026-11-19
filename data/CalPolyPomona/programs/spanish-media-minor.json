@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:14:55+00:00",
+  "id": "spanish-media-minor",
+  "name": "Spanish Media Minor",
+  "title_on_page": "University Catalog",
+  "department": "English And Modern Languages",
+  "department_id": "english-and-modern-languages",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25133",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6332",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Spanish Media Minor: 24 units Offered by: College of Letters, Arts, and Social Sciences , Communication Department and English and Modern Languages Department Minor Required | Minor Electives | Program Website Minor Required: 12 units COM 1101 - Survey of Mass Communication (3) COM 2206 - Media Design (3) SPN 2112 - Intermediate Spanish II (3) [GE 3B] or SPN 2120 - Spanish for Spanish Speakers II (3) [GE 3B] SPN 2130 - Spanish Intermediate Composition (3) [GE 3B] Minor Electives: 12 units Select from List of Courses: 6 units COM 3313 - Public Relations Principles (3) COM 3315 - Sports Communication (3) COM 4244 - Artificial Intelligence, Media, and the Future of Technology (3) COM 4411 - Applied Communication Internship (3) COM 4465 - Online and Social Media (3) Select from List of Courses: 6 units SPN 3110 - Advanced Spanish Writing and Academic Speech (3) SPN 3120 - Introduction to Translation and Interpretation (3) SPN 3160 - Creative Writing in Spanish for a Global World (3) SPN 4420 - Writing for New Media in Spanish (3) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 12 units",
+      "courses": [
+        "COM 1101",
+        "COM 2206",
+        "SPN 2112"
+      ],
+      "raw_text": "Minor Required: 12 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "SPN 2120",
+        "SPN 2130"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Select from List of Courses: 6 units",
+      "courses": [
+        "COM 3313",
+        "COM 3315",
+        "COM 4244",
+        "COM 4411",
+        "COM 4465",
+        "SPN 3110",
+        "SPN 3120",
+        "SPN 3160",
+        "SPN 4420"
+      ],
+      "raw_text": "Select from List of Courses: 6 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "COM 1101",
+      "title": "Survey of Mass Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "435543",
+      "requirement": "Minor Required: 12 units",
+      "description": "Survey of contemporary mass media, communications theory, structure and interrelationships of newspapers, magazines, radio, television, and the Internet. Analysis of major media content. 3 hours lecture/discussion",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2206",
+      "title": "Media Design",
+      "units": "3",
+      "ge": null,
+      "coid": "436514",
+      "requirement": "Minor Required: 12 units",
+      "description": "Principles and theory of typography, layout, and production of material for media design. Work with Macintosh computers and learn elements of desktop publishing, including word processing, graphic design, and page composition. 3 hours lecture/discussion",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPN 2112",
+      "title": "Intermediate Spanish II",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434952",
+      "requirement": "Minor Required: 12 units",
+      "description": "[GE 3B] Advanced intermediate grammar and vocabulary presented within the context of Hispanic Cultures. Communicative competence developed through the skills areas of conversation, listening, reading and writing.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPN 2120",
+      "title": "Spanish for Spanish Speakers II",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434954",
+      "requirement": "or",
+      "description": "[GE 3B] Further development of all four basic skills in Spanish–comprehension, speaking, reading and writing–in speakers of Spanish as a heritage language. Emphasis on orthography, written style, and ability to distinguish between non-standard varieties and general Latin American Spanish.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPN 2130",
+      "title": "Spanish Intermediate Composition",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434953",
+      "requirement": "or",
+      "description": "[GE 3B] Study of the principles, structure, and strategies of expository writing in Spanish in the context of the cultures of the Spanish-speaking world.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3313",
+      "title": "Public Relations Principles",
+      "units": "3",
+      "ge": null,
+      "coid": "436516",
+      "requirement": "Select from List of Courses: 6 units",
+      "description": "The nature and role of public relations in society, activities of public relations professionals, major influences that affect organizational behavior, and ethics and professional development of practitioners. Emphasis on management functions and developing effective public relations strategies.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3315",
+      "title": "Sports Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "439454",
+      "requirement": "Select from List of Courses: 6 units",
+      "description": "A comprehensive exploration of sports journalism, covering news writing for print and broadcast media, data reporting in the sports context, as well as sports public relations, including branding, image management, advertising, event promotion and sponsorships. Address and respond to ethical challenges in the field of sports communication.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "COM 4244",
+      "title": "Artificial Intelligence, Media, and the Future of Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "436734",
+      "requirement": "Select from List of Courses: 6 units",
+      "description": "Examination of prominent theories, research, and methods relating to the study of how technology functions in organizational settings. Includes how organizations implement and use technological tools, as well as why these tools succeed or fail in meeting the organization’s purposes and goals.",
+      "prerequisites": "COM 314 or COM 3314 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4411",
+      "title": "Applied Communication Internship",
+      "units": "3",
+      "ge": null,
+      "coid": "437888",
+      "requirement": "Select from List of Courses: 6 units",
+      "description": "An intensive communication internship or other individual/group study of the communications process as specified by each option.",
+      "prerequisites": "Department consent required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4465",
+      "title": "Online and Social Media",
+      "units": "3",
+      "ge": null,
+      "coid": "436520",
+      "requirement": "Select from List of Courses: 6 units",
+      "description": "Online storytelling with an emphasis on social media strategy and engagement. Social media optimization across various platforms.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "SPN 3110",
+      "title": "Advanced Spanish Writing and Academic Speech",
+      "units": "3",
+      "ge": null,
+      "coid": "435381",
+      "requirement": "Select from List of Courses: 6 units",
+      "description": "Development of advanced writing and academic speaking skills within the framework of the Spanish-speaking world cultures. Students will analyze and write texts and produce oral presentations for a variety of purposes that require a formal and/or academic style.",
+      "prerequisites": "SPN 254 or SPN 2130 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPN 3120",
+      "title": "Introduction to Translation and Interpretation",
+      "units": "3",
+      "ge": null,
+      "coid": "437160",
+      "requirement": "Select from List of Courses: 6 units",
+      "description": "A hands-on approach to English/Spanish translation and interpretation in theory and practice, using a variety of activities from several areas of professional specialization. Participants must be highly proficient in both English and Spanish.",
+      "prerequisites": "SPN 2130 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPN 3160",
+      "title": "Creative Writing in Spanish for a Global World",
+      "units": "3",
+      "ge": null,
+      "coid": "438990",
+      "requirement": "Select from List of Courses: 6 units",
+      "description": "An introduction to creative writing and creative non-fiction in Spanish, this course emphasizes genre and form, the writing process, and aspects of style and authorial voice. Students study the basic techniques of fiction, poetry, and contemporary non-fiction, draft and refine original pieces of writing, and are introduced to the enriched critique of the writing workshop. The course is conducted in Spanish. All writing is produced in Spanish. Corequisite(s): SPN 2130 or instructor consent.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPN 4420",
+      "title": "Writing for New Media in Spanish",
+      "units": "3",
+      "ge": null,
+      "coid": "439335",
+      "requirement": "Select from List of Courses: 6 units",
+      "description": "Provides a practical take on the contemporary realities of writing as a profession. Navigate, learn, analyze, and practice the several opportunities for writing in the digital age (press releases, social media, blogs, newsletters, etc.). Build skills to create clear and compelling written messages across several media and platforms, focusing on the rhetorical structures and strategies in accordance with the audiences. The course is conducted in Spanish. All writing is produced in Spanish.",
+      "prerequisites": "SPN 3160 or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": []
+}

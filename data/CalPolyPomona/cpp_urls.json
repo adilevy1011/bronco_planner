@@ -1,0 +1,861 @@
+{
+  "agribusiness_and_food_industry_management_and_agricultural_science": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6301",
+      "programs": [
+        {
+          "Agribusiness and Food Industry Management, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24108",
+          "Agricultural Science, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24109",
+          "Agriculture, M.S. - Agricultural Science Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24102",
+          "Agribusiness and Food Industry Management Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24127",
+          "International Agricultural Business Management Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24129"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6301"
+      ]
+    }
+  ],
+  "animal_and_veterinary_science": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6299",
+      "programs": [
+        {
+          "Animal Health Science, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24110",
+          "Animal Science, B.S. - Animal Science Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24313",
+          "Animal Science, B.S. - Pre-Veterinary Science/Graduate School Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24111",
+          "Agriculture, M.S. - Animal Science Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24112",
+          "Animal and Veterinary Science Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24113",
+          "Equine Studies Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24304"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6299"
+      ]
+    }
+  ],
+  "apparel_merchandising_and_management": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6300",
+      "programs": [
+        {
+          "Fashion Design, Technology, and Management, B.S. - Design and Production Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24114",
+          "Fashion Design, Technology, and Management, B.S. - Fashion Retailing Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24115",
+          "Fashion Design, Technology, and Management, B.S. - Textile Technology and Sustainability Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24308",
+          "International Apparel Management, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24335",
+          "Fashion Merchandising Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24116"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6300"
+      ]
+    }
+  ],
+  "nutrition_and_food_science": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6302",
+      "programs": [
+        {
+          "Food Science and Technology, B.S. - Culinology® Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24514",
+          "Food Science and Technology, B.S. - General Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24117",
+          "Food Science and Technology, B.S. - Science and Technology Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24515",
+          "Nutrition, B.S. - Dietetics Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24118",
+          "Nutrition, B.S. - Nutrition and Health Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24336",
+          "Nutrition, B.S. - Nutrition Science Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24119",
+          "Agriculture, M.S. - Nutrition and Food Science Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24120",
+          "Dietetics, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24344",
+          "Culinology® Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24121",
+          "Food Safety Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24122",
+          "Food Science and Technology Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24123",
+          "Nutrition Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24124",
+          "Plant Based Food and Nutrition Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24337",
+          "Dietetic Internship Certificate": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24306"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6302",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6302&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6302&p=2"
+      ]
+    }
+  ],
+  "plant_science": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6303",
+      "programs": [
+        {
+          "Plant Science, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24125",
+          "Agriculture, M.S. - Plant Science Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24126",
+          "Agronomy Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24128",
+          "Horticulture Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24131",
+          "Pest and Disease Management Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24132",
+          "Soil Science Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24133",
+          "Urban and Community Agriculture Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24325",
+          "Water Resources and Irrigation Design Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24130"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6303",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6303&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6303&p=2"
+      ]
+    }
+  ],
+  "accounting": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6305",
+      "programs": [
+        {
+          "Business Administration, B.S. - Accounting Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24134",
+          "Business Administration, B.S. - Accounting Subplan/Option: AS-T in Business Administration 2.0": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24546",
+          "Accountancy, M.S. (Accelerated): 31-33 units": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24303",
+          "Accountancy, M.S.: 31-51 units": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24135",
+          "Accounting Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24136"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6305"
+      ]
+    }
+  ],
+  "computer_information_systems": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6306",
+      "programs": [
+        {
+          "Business Administration, B.S. - Computer Information Systems Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24137",
+          "Business Administration, B.S. - Computer Information Systems Subplan/Option: AS-T in Business Administration 2.0": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24547",
+          "Computer Information Systems Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24301"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6306"
+      ]
+    }
+  ],
+  "finance_real_estate_and_law": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6307",
+      "programs": [
+        {
+          "Business Administration, B.S. - Finance, Real Estate, and Law Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24138",
+          "Business Administration, B.S. - Finance, Real Estate, and Law Subplan/Option: AS-T with Business Administration 2.0": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24549",
+          "Financial Analytics, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24544",
+          "Business Law Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24139",
+          "Contract Management Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24140",
+          "Finance Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24141",
+          "Real Estate Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24142"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6307"
+      ]
+    }
+  ],
+  "international_business_and_marketing": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6308",
+      "programs": [
+        {
+          "Business Administration, B.S. - International Business Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24143",
+          "Business Administration, B.S. - Marketing Management Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24144",
+          "Business Administration, B.S. - International Business Subplan/Option: AS-T with Business Administration 2.0": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24550",
+          "Business Administration, B.S. - Marketing Management Subplan/Option: AS-T with Business Administration 2.0": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24552",
+          "Digital Marketing, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24518",
+          "International Business Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24145",
+          "Marketing Analytics Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24560",
+          "Marketing Management Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24146"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6308"
+      ]
+    }
+  ],
+  "management_and_human_resources": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6309",
+      "programs": [
+        {
+          "Business Administration, B.S. - Management and Human Resources Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24147",
+          "Business Administration, B.S. - Management and Human Resources Subplan/Option: AS-T with Business Administration 2.0": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24551",
+          "Human Resources Leadership, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24567",
+          "Entrepreneurship Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24148",
+          "Human Resources Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24150",
+          "Management and Leadership Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24149",
+          "Management of Not-for-Profit Organizations Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24302"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6309"
+      ]
+    }
+  ],
+  "technology_and_operations_management": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6310",
+      "programs": [
+        {
+          "Business Administration, B.S. - E-Business Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24151",
+          "Business Administration, B.S. - Technology and Operations Management Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24152",
+          "Business Administration, B.S. - E-Business Subplan/Option: AS-T in Business Administration 2.0": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24548",
+          "Business Administration, B.S. - Technology and Operations Management Subplan/Option: AS-T in Business Administration 2.0": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24557",
+          "Business Analytics, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24340",
+          "Digital Supply Chain Management, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24345",
+          "Operations Management Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24154",
+          "Supply Chain/Logistics Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24153"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6310"
+      ]
+    }
+  ],
+  "early_childhood_studies": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6351",
+      "programs": [
+        {
+          "Early Childhood Studies, B.A. - Early Childhood Teaching Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24368",
+          "Early Childhood Studies, B.A. - Multilingual Teaching Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24373",
+          "Early Childhood Studies, B.A. - PK-Grade 3 Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24375"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6351"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6312",
+      "programs": [
+        {
+          "Education, M.A. - Curriculum and Instruction Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24166",
+          "Education, M.A. - Special Education Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24167",
+          "Adapted Physical Education Added Authorization": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24158",
+          "Agriculture Specialist Credential": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24159",
+          "Bilingual Authorization": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24295",
+          "Intern Credential Program: 36-47 units": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24294",
+          "Multiple Subject Credential": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24162",
+          "Preliminary Education Specialist Credential, Extensive Support Needs": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24160",
+          "Preliminary Education Specialist Credential, Mild to Moderate Support Needs": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24316",
+          "Single Subject Credential": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24163"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6312"
+      ]
+    }
+  ],
+  "educational_leadership": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6352",
+      "programs": [
+        {
+          "Educational Leadership, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24165",
+          "Educational Leadership, Ed.D. - Leadership in Community Colleges and Postsecondary Education Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24517",
+          "Educational Leadership, Ed.D. - PreK-12 Educational Leadership Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24164",
+          "Administrative Services Credential": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24161"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6352"
+      ]
+    }
+  ],
+  "liberal_studies": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6314",
+      "programs": [
+        {
+          "Liberal Studies, B.A. - General Studies Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24176",
+          "Liberal Studies, B.A. - Pre-Credential Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24177",
+          "Global Humanities Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24530",
+          "Science Education Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24516",
+          "Sustainability Education Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24529",
+          "Interdisciplinary General Education": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24291"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6314"
+      ]
+    }
+  ],
+  "aerospace_engineering": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6316",
+      "programs": [
+        {
+          "Aerospace Engineering, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24178",
+          "Aerospace Engineering, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24179"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6316"
+      ]
+    }
+  ],
+  "chemical_and_materials_engineering": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6317",
+      "programs": [
+        {
+          "Chemical Engineering, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24180",
+          "Materials Engineering, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25128",
+          "Materials Engineering, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24343"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6317"
+      ]
+    }
+  ],
+  "civil_engineering": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6318",
+      "programs": [
+        {
+          "Civil Engineering, B.S. - Environmental Engineering Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24181",
+          "Civil Engineering, B.S. - General Civil Engineering Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24182",
+          "Civil Engineering, B.S. - Geospatial Engineering Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24183",
+          "Construction Engineering and Management, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24188",
+          "Civil Engineering, M.S. - Construction Engineering and Management Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24184",
+          "Civil Engineering, M.S. - Environmental and Water Resources Engineering Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24326",
+          "Civil Engineering, M.S. - Geotechnical Engineering Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24327",
+          "Civil Engineering, M.S. - Structural Engineering Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24328",
+          "Civil Engineering, M.S. - Transportation Engineering Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24329"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6318",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6318&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6318&p=2"
+      ]
+    }
+  ],
+  "electrical_and_computer_engineering": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6319",
+      "programs": [
+        {
+          "Computer Engineering, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24185",
+          "Electrical Engineering, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24186",
+          "Electrical Engineering, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24187"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6319",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6319&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6319&p=2"
+      ]
+    }
+  ],
+  "electro_mechanical_engineering_technology": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6320",
+      "programs": [
+        {
+          "Electromechanical Systems Engineering Technology, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24190",
+          "Electronic Systems Engineering Technology, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24189"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6320"
+      ]
+    }
+  ],
+  "industrial_and_manufacturing_engineering": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6321",
+      "programs": [
+        {
+          "Industrial Engineering, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24191",
+          "Manufacturing Engineering, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24192",
+          "Engineering Management, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24193",
+          "Systems Engineering, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24299"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6321",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6321&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6321&p=2"
+      ]
+    }
+  ],
+  "mechanical_engineering": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6322",
+      "programs": [
+        {
+          "Mechanical Engineering, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24194",
+          "Mechanical Engineering, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24195"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6322"
+      ]
+    }
+  ],
+  "architecture": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6324",
+      "programs": [
+        {
+          "Architecture, B.Arch.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24198",
+          "Architecture, M.Arch.: 60-90 units": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24199",
+          "Interior Architecture, M.I.A.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24200"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6324",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6324&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6324&p=2"
+      ]
+    }
+  ],
+  "art": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6325",
+      "programs": [
+        {
+          "Art History, B.A.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24201",
+          "Visual Communication Design, B.F.A.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24324",
+          "Art History Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24202",
+          "Studio Arts Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24310"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6325"
+      ]
+    }
+  ],
+  "landscape_architecture": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6326",
+      "programs": [
+        {
+          "Landscape Architecture, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24203",
+          "Landscape Architecture, M.L.A.: 48-72 units": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24204",
+          "Landscape Architecture Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24311"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6326"
+      ]
+    }
+  ],
+  "urban_and_regional_planning": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6328",
+      "programs": [
+        {
+          "Urban and Regional Planning, B.S. - Community Development and Social Justice Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24322",
+          "Urban and Regional Planning, B.S. - Infrastructure and Transportation Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24323",
+          "Urban and Regional Planning, B.S. - Resiliency, Sustainability and the Environment Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24321",
+          "Urban and Regional Planning, B.S. - Urban Design Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24205",
+          "Urban and Regional Planning, M.U.R.P.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24206",
+          "Urban and Regional Planning Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24305"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6328",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6328&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6328&p=2"
+      ]
+    }
+  ],
+  "communication": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6330",
+      "programs": [
+        {
+          "Communication, B.S. - Communication Studies Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24210",
+          "Communication, B.S. - Multimedia Journalism Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24209",
+          "Communication, B.S. - Public Relations Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24211",
+          "Communication Studies Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24213",
+          "Multimedia Journalism Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24212",
+          "Public Relations Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24214",
+          "Spanish Media Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25134"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6330"
+      ]
+    }
+  ],
+  "economics": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6331",
+      "programs": [
+        {
+          "Economics, B.S. - Applied Economics Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24318",
+          "Economics, B.S. - General Economics Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24215",
+          "Economics, B.S. - Quantitative Economics Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24317",
+          "Quantitative Economics, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24216",
+          "Economics, B.S. - Applied Economics Subplan/Option + Quantitative Economics, M.S. Blended Program": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25129",
+          "Economics, B.S. - General Economics Subplan/Option + Quantitative Economics, M.S. Blended Program": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25130",
+          "Economics, B.S. - Quantitative Economics Subplan/Option + Quantitative Economics, M.S. Blended Program": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25131",
+          "Economics Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24217"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6331"
+      ]
+    }
+  ],
+  "english_and_modern_languages": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6332",
+      "programs": [
+        {
+          "English, B.A. - Applied Linguistics Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24312",
+          "English, B.A. - English Education Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24218",
+          "English, B.A. - Literary Studies Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24219",
+          "Spanish, B.A.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24220",
+          "English, M.A. - Literary Studies Subplan/Option: 30-31 units": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24221",
+          "English, M.A. - Rhetoric and Composition Subplan/Option: 30-31 units": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24222",
+          "English, M.A. - Teaching English to Speakers of Other Languages Subplan/Option: 30-31 units": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24223",
+          "English, B.A. - Applied Linguistics Subplan/Option + English, M.A. - Teaching English to Speakers of Other Languages Subplan/Option Blended Program": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24545",
+          "Chinese Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24298",
+          "Computational Linguistics Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=26671",
+          "English Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24224",
+          "French Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24225",
+          "Spanish Media Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25133",
+          "Spanish Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24226",
+          "Teaching English to Speakers of Other Languages Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24227",
+          "Writing Studies Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24307",
+          "German Studies for the Professions Certificate": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24309"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6332",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6332&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6332&p=2",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6332&p=3"
+      ]
+    }
+  ],
+  "ethnic_and_womens_studies": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6313",
+      "programs": [
+        {
+          "Gender, Ethnicity, and Multicultural Studies, B.A. - GEMS Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24168",
+          "Gender, Ethnicity, and Multicultural Studies, B.A. - Pre-Credential Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24169",
+          "African American Studies Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24170",
+          "Asian/Pacific Islander American Studies Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24171",
+          "Chicana/o and Latina/o Studies Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24172",
+          "Gender and Sexuality Studies Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24175",
+          "Multicultural Leadership Studies Interdisciplinary Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24173",
+          "Native American Studies Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24174"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6313"
+      ]
+    }
+  ],
+  "geography_and_anthropology": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6333",
+      "programs": [
+        {
+          "Anthropology, B.S. - Applied Anthropology Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24314",
+          "Anthropology, B.S. - Archaeology Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24315",
+          "Anthropology, B.S. - General Anthropology Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24228",
+          "Geography, B.S. - Environmental Studies Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24229",
+          "Geography, B.S. - Geospatial Analysis Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24230",
+          "Anthropology Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24231",
+          "Geography Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24232"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6333"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6334",
+      "programs": [
+        {
+          "History, B.A. - Pre-Credential Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24234",
+          "History, B.A.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24233",
+          "History, M.A.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24235",
+          "History Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24236"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6334",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6334&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6334&p=2"
+      ]
+    }
+  ],
+  "music": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6335",
+      "programs": [
+        {
+          "Music, B.A. - General Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24289",
+          "Music, B.A. - Music Industry Studies Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24237",
+          "Music, B.M. - Composition Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24332",
+          "Music, B.M. - Music Education Pre-credential Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24331",
+          "Music, B.M. - Performance Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24330",
+          "Music Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24238"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6335",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6335&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6335&p=2"
+      ]
+    }
+  ],
+  "philosophy": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6336",
+      "programs": [
+        {
+          "Philosophy, B.A. - General Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24239",
+          "Philosophy, B.A. - Law and Society Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24240",
+          "Science, Technology, and Society, B.A. - Artificial Intelligence Ethics and Society Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24566",
+          "Science, Technology, and Society, B.A.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24103",
+          "Artificial Intelligence Ethics and Society Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24565",
+          "Philosophy Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24241",
+          "Science, Technology, and Society Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24107"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6336"
+      ]
+    }
+  ],
+  "political_science": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6337",
+      "programs": [
+        {
+          "Political Science, B.A.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24242",
+          "Public Administration, M.P.A.: 36-39 units": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24243",
+          "Political Science Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24288"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6337",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6337&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6337&p=2"
+      ]
+    }
+  ],
+  "psychology": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6338",
+      "programs": [
+        {
+          "Psychology, B.A.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24244",
+          "Psychology, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24247",
+          "Psychology Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24101"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6338"
+      ]
+    }
+  ],
+  "sociology": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6353",
+      "programs": [
+        {
+          "Criminology, B.A.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24333",
+          "Sociology, B.A. - General Sociology Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24245",
+          "Sociology, B.A. - Social Work Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24246",
+          "Criminology Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24248",
+          "Social Work Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24334",
+          "Sociology Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24249"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6353"
+      ]
+    }
+  ],
+  "theatre_and_new_dance": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6339",
+      "programs": [
+        {
+          "Theatre, B.A. - Acting Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24250",
+          "Theatre, B.A. - Dance Theatre Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24251",
+          "Theatre, B.A. - Design and Technical Production Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24254",
+          "Theatre, B.A. - General Theatre Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24253",
+          "Theatre, B.A. - Theatre in Education and Community Engagement Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24252",
+          "Dance Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24255",
+          "Theatre Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24256"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6339",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6339&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6339&p=2"
+      ]
+    }
+  ],
+  "biological_sciences": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6341",
+      "programs": [
+        {
+          "Biology, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24258",
+          "Biotechnology, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24259",
+          "Environmental Biology, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24260",
+          "Biological Science, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24261",
+          "Botany Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24262",
+          "Microbiology Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24263",
+          "Zoology Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24264"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6341",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6341&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6341&p=2"
+      ]
+    }
+  ],
+  "chemistry_and_biochemistry": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6342",
+      "programs": [
+        {
+          "Chemistry, B.S. - American Chemical Society Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24267",
+          "Chemistry, B.S. - Biochemistry Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24265",
+          "Chemistry, B.S. - General Chemistry Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24266",
+          "Chemistry, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24268",
+          "Chemistry Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24269"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6342",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6342&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6342&p=2"
+      ]
+    }
+  ],
+  "computer_science": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6343",
+      "programs": [
+        {
+          "Computer Science, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24270",
+          "Computer Science, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24271",
+          "Artificial Intelligence Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=26673",
+          "Computational Linguistics Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=26672",
+          "Computer Science Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24272",
+          "Cyber Security Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24528",
+          "Data Science Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24342",
+          "Computer Science Global Access Certificate": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24527"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6343",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6343&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6343&p=2"
+      ]
+    }
+  ],
+  "geological_sciences": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6344",
+      "programs": [
+        {
+          "Geology, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24273",
+          "Geology, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24296",
+          "Geology Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24274"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6344"
+      ]
+    }
+  ],
+  "kinesiology_and_health_promotion": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6345",
+      "programs": [
+        {
+          "Kinesiology, B.S. - General Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24275",
+          "Kinesiology, B.S. - Physical Education Teacher Education Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24276",
+          "Kinesiology, M.S. - Adapted Physical Education Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24277",
+          "Kinesiology, M.S. - General Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25126",
+          "Kinesiology, M.S. - Health and Human Performance Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25124",
+          "Kinesiology, M.S. - Physical Education Leadership and Advocacy Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25125",
+          "Adapted Physical Activity Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24562",
+          "Exercise Science Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24561",
+          "Public Health Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24563",
+          "Sport and Social Justice Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24564"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6345",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6345&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6345&p=2"
+      ]
+    }
+  ],
+  "mathematics_and_statistics": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6346",
+      "programs": [
+        {
+          "Mathematics, B.S. - Applied Mathematics/Statistics Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24278",
+          "Mathematics, B.S. - Secondary Teacher Prep/Pure Mathematics Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24279",
+          "Mathematics, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24280",
+          "Statistics and Applied Mathematics, M.S. - Applied Mathematics Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24532",
+          "Statistics and Applied Mathematics, M.S. - Statistics Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24531",
+          "Mathematics Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24281",
+          "Statistics Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24282"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6346",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6346&p=1",
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6346&p=2"
+      ]
+    }
+  ],
+  "physics_and_astronomy": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6347",
+      "programs": [
+        {
+          "Physics, B.S. - Biophysics Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24320",
+          "Physics, B.S. - General Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24283",
+          "Physics, B.S. - Integrated Science Subplan/Option": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24319",
+          "Astronomy Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24297",
+          "Biophysics Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24300",
+          "Physics Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24284"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6347"
+      ]
+    }
+  ],
+  "collins_college_of_hospitality_management": [
+    {
+      "department": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6348",
+      "programs": [
+        {
+          "Hospitality Management, B.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24287",
+          "Hospitality Management, M.S.": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24286",
+          "Hospitality Management Minor": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24285"
+        }
+      ],
+      "department_pages": [
+        "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6348"
+      ]
+    }
+  ]
+}

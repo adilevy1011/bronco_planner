@@ -1,0 +1,1132 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:29:06+00:00",
+  "id": "agribusiness-and-food-industry-management-and-agricultural-science",
+  "name": "Agribusiness And Food Industry Management And Agricultural Science",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6301",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Agribusiness & Food Industry Management and Agricultural Science Department Building 2 Room 21 3 | (909) 869-2206 | Department Website | Faculty Directory Agribusiness & Food Industry Management Mission: The Agribusiness & Food Industry Management program seeks to effectively educate and prepare students within the fields of agribusiness, food industries, finance, marketing, and management for successful careers. The program utilizes connections within the agricultural industry to incorporate real-world experiences and hands-on learning in addition to quality classroom instruction for a comprehensive education in agribusiness. In addition to cultivating beneficial relationships with potential employers, the program is dedicated to empowering graduates with the essential skills and knowledge necessary for professional careers in agribusiness and the food industry. The majors culture blends business insight with applied agricultural practice, reflecting Cal Poly Pomona’s polytechnic philosophy. Through coursework in supply chain management, agricultural finance, and commodity marketing, students gain the tools to lead in farming, food distribution, policy, and entrepreneurial ventures. Faculty engage in industry-informed teaching and research that mirrors Southern California’s agricultural and food landscape. Agricultural Science Mission: The Agricultural Science major at Cal Poly Pomona is committed to providing a hands-on, career-focused education that prepares students for a wide range of roles in the agriculture industry. Guided by the university’s polytechnic “become-by-doing” philosophy, the program integrates scientific coursework with pr",
+  "courses": [
+    {
+      "code": "AG 1010",
+      "title": "Agriculture & The Modern World",
+      "units": "3",
+      "ge": null,
+      "coid": "435024",
+      "description": "Introduction to the history of modern agriculture, including its integration in social, economic and political institutions, its biological systems, the causes and impact of world hunger, and the implications of future changes and innovations in the production of food and fiber. Emphasis on critical analysis of agriculture within the United States and California, both from a historical perspective as well as the present situation and current issues. Open to all majors. Required of all College of Agriculture majors. Open to all majors. Required of all College of Agriculture majors.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "international-agricultural-business-management-minor"
+      ]
+    },
+    {
+      "code": "AG 1110",
+      "title": "Agriculture: The Foundation of Civilizations",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "439103",
+      "description": "[GE 3B] Introduction to the genesis and evolution of agriculture as the foundation of civilizations throughout history. Analyzing agriculture within the context of the development and evolution of various civilizations over time. Emphasis on critical analysis of the historical development of agriculture in various parts of the world including the United States using documentary and literature collections. Open to all majors. Required of all College of Agriculture majors.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agricultural-science-b-s",
+        "international-agricultural-business-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agricultural-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AG 1280",
+      "title": "Computer Applications for Agriculture",
+      "units": "3",
+      "ge": null,
+      "coid": "435826",
+      "description": "Instruction in essential computing and data analysis skills necessary for subsequent agribusiness courses as well as preparation for transition to the business world. Focus on use of business functions within Microsoft Office. Additionally instruction in: advanced internet search skills; locating, formatting and analyzing agricultural and business data; and high-tech applications within the agribusiness industry. Career enhancement skills such as creating online resumes and business use of social media will also be explored.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s"
+      ]
+    },
+    {
+      "code": "AG 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437983",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 2010",
+      "title": "Global Resources for Food",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435020",
+      "description": "[GE 4A] Examine the resource base for agricultural production on various continents, and whether there is potential for increasing food supplies. The role of agriculture in economic development will be addressed.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agricultural-science-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "international-agricultural-business-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agricultural-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AG 2050",
+      "title": "Race, Ethnicity and Food Justice",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439112",
+      "description": "[GE 6] Cross Listed as: EWS 2050 Examination of racialization and erasure of the histories of Native Americans, African Americans, Asian Americans, and/or Latina and Latino Americans communities in the US with regard to food and agriculture. A foundational understanding of the history of oppression of minorities and policies that have kept these groups marginalized within the Agriculture industry will be investigated. Current food justice movements that aim to solve long withstanding and historical problems within society will also be studied.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "AG 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437984",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437985",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437986",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437987",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 4010",
+      "title": "Ethical Issues in Food, Agricultural and Apparel Industries",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "437725",
+      "description": "[GE 3C or 4C] Socioeconomic and scientific issues in the Food, Agricultural, and Apparel Systems within a framework of moral philosophy and ethical reasoning. Analysis of topics in biotechnology in agricultural and apparel production, food processing, intellectual property rights, food safety, nutrition, the treatment of animals, the environment, labor rights in a global marketplace, and reducing world hunger and malnutrition.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agricultural-science-b-s",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agricultural-science-b-s-roadmap-4-year-120-units",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units",
+        "agricultural-science-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AG 4640W",
+      "title": "Development of Leadership Skills In Agriculture",
+      "units": "3",
+      "ge": null,
+      "coid": "435987",
+      "description": "The exploration of professional growth and leadership development in the context of food and agriculture careers. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agricultural-science-b-s",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agricultural-science-b-s-roadmap-4-year-120-units",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units",
+        "agricultural-science-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AG 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437988",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437989",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437990",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437966",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 2010",
+      "title": "Agribusiness Management Fundamentals",
+      "units": "3",
+      "ge": null,
+      "coid": "435297",
+      "description": "A comprehensive introduction to agribusiness fundamentals emphasizing the study of agriculture industries and careers in the contemporary food and agricultural system. Includes various management components and techniques and how they might be applied to organizations within the food and agricultural system. Understanding the management process and being ethically and socially responsible. 3 Lecture/discussion",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ABM 2030",
+      "title": "Dairy Business and Product Innovation",
+      "units": "3",
+      "ge": null,
+      "coid": "442739",
+      "description": "Introduction to milk production and processing technologies with a focus on sustainability, innovation, and market relevance. Emphasis on biological, nutritional, and genetic factors influencing milk yield and quality, alongside the impact of diseases and environmental conditions. Covers advanced dairy processing methods including thermal, non-thermal, membrane filtration, fermentation, and extrusion technologies used to enhance product safety, functionality, and value. Topics covered include economic feasibility analysis, and life cycle assessment, and the sustainability of dairy systems from farm to consumer.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s"
+      ]
+    },
+    {
+      "code": "ABM 2210",
+      "title": "Principles of Agriculture and Food Economics",
+      "units": "3",
+      "ge": null,
+      "coid": "442796",
+      "description": "Introduction to the application of economic principles including production, supply, demand, markets, costs, pricing, inputs, and trade to problems of food, agriculture, fiber and related industries. Critically apply these principles to economizing scenarios faced by consumers, farmers, businesses, and government decision makers.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ABM 2240",
+      "title": "Accounting for Agribusiness I",
+      "units": "3",
+      "ge": null,
+      "coid": "435803",
+      "description": "Presentation of the underlying framework and concepts of financial accounting used by businesses and organizations in the food and agribusiness industries. Students learn how accounting information is collected and organized to evaluate the performance and financial status of organizations. Topics include the basics of recording transactions as well as accounting for assets, liabilities, owner’s equity, cash flows, revenue and net income. Additionally, students will learn the preparation of financial statements using generally accepted accounting principles (GAAP).",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agricultural-science-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agricultural-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ABM 2260",
+      "title": "Accounting for Agribusiness II",
+      "units": "3",
+      "ge": null,
+      "coid": "437390",
+      "description": "The underlying framework and concepts of managerial accounting used by businesses and organizations in the food and agribusiness industries. Managerial accounting is the second of two accounting courses offered and provides agriculture students with an understanding of how accounting analyses are used in management decision making within the firm. Topics include manufacturing and product costs, cost control, activity based costing, profit analysis and performance measurement, budgeting and planning for capital investments.",
+      "prerequisites": "ABM 224 or ABM 2240 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-minor"
+      ]
+    },
+    {
+      "code": "ABM 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437967",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437968",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437969",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 3040",
+      "title": "Food and Agribusiness Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "435975",
+      "description": "An introduction to the theory of marketing and its practical application to food and agricultural products and services. Evaluation of the marketing process, market research, marketing strategies and consumer behavior as applied to the agribusiness sector. Likewise, analysis of issues facing marketing institutions and formulation of solutions to address the current trends and developments in the California and American agribusiness industry. Develope skills for creating, evaluating and executing marketing decisions.",
+      "prerequisites": "EC 201, EC 2201 , or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ABM 3060",
+      "title": "Retailing and Wholesaling of Agribusiness Products",
+      "units": "3",
+      "ge": null,
+      "coid": "435981",
+      "description": "An introduction to the principles and practices of distributing food and agricultural products to the end consumer. Principles of buying, assembling, transporting, handling, receiving and merchandising. Functions of wholesalers and intermediate handlers, retail chains and food brokers. Operating costs of retail stores, as well as site selection, layout, management of store personnel, pricing and inventory control. Critical analysis of the retailing process, the environment within which it operates, and the institutions and functions that are performed. Key topics of the course include Retail Formats, Multichannel Retailing, Merchandise Assortment, Retail Locations, Supply Chain Management, Store Layout and Design, Retail Communication Mix, and Customer Service.",
+      "prerequisites": "ABM 201 or ABM 2010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ABM 3090",
+      "title": "Promotion and Advertising for Agribusiness",
+      "units": "3",
+      "ge": null,
+      "coid": "435978",
+      "description": "An introduction to the principles of promotion and advertising as related to the marketing of agribusiness products and services. Functions of promotion and advertising as a core aspect of an Integrated Marketing Communications (IMC) mix. Evaluate strategies, tactics, execution and results of promotional efforts within the agribusiness sector, as well as its effects on consumers. Teams of students will work to create and develop a completely integrated promotional campaign that coordinates all aspects of promotion, including: Advertising, sales promotion, public relations, social media, and personal selling.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ABM 3100",
+      "title": "Sales and Professional Development for Agribusiness",
+      "units": "3",
+      "ge": null,
+      "coid": "435821",
+      "description": "Professional agribusiness sales and principles of selling techniques within the food, agricultural, financial and other allied industries. Development of professional selling techniques for business-to-consumer as well as business-to-business with regard for the specific industry, product, service and customer profile. Development of a targeted sales presentation for peer and professional/industry evaluation. Develop the necessary skills to engage in life/career planning, with special emphasis placed on the development of employability and soft skills necessary for success in today’s agribusiness sector and connected industries.",
+      "prerequisites": "ABM 304 or ABM 3040 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ABM 3110",
+      "title": "Applied Economics for Agribusiness",
+      "units": "3",
+      "ge": null,
+      "coid": "435989",
+      "description": "Intermediate micro-economic theory applied to production and marketing problems in agriculture. Introduces fundamental microeconomic concepts, including consumer theory and demand, theory of the firm and supply; market equilibrium; and market failure. Emphasizes mastery of economic theory, as well as application of theory to food and agricultural markets and policy. 3 Lectures/problem solving",
+      "prerequisites": "EC 201, EC 2201 , or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor"
+      ]
+    },
+    {
+      "code": "ABM 3130",
+      "title": "Food and Agriculture Policy",
+      "units": "3",
+      "ge": null,
+      "coid": "435823",
+      "description": "The political and historical framework affecting the food and agriculture system within the United States. Federal and state process of agricultural policy formation. Contemporary development and economic analysis of public programs and policies relating to agriculture, including: Food Safety, Nutrition, Trade, Conservation, and Farmer Supports. Current agricultural policies and programs as well as alternate policies evaluated. Evaluation of U.S. agricultural production and international trade policies and programs. Seminar discussions. Policy case studies.",
+      "prerequisites": "EC 201, EC 2201 , or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ABM 3260",
+      "title": "Financial Analysis for Agribusiness",
+      "units": "3",
+      "ge": null,
+      "coid": "435986",
+      "description": "Financial analysis techniques and tools to develop critical thinking and problem solving competencies, at both the individual and group levels, to enable the evaluation of agribusiness firm performance. Topics include financial statement analysis, ratio and trend analysis, cost of capital calculations, risk and return tradeoffs and enterprise budgeting and management techniques.",
+      "prerequisites": "ABM 224 or ABM 2240 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ABM 3290",
+      "title": "Equine Enterprise Management",
+      "units": "3",
+      "ge": null,
+      "coid": "435990",
+      "description": "Equine enterprise analysis with emphasis on capital acquisition, leasing, land acquisition, legal problems and labor problems.",
+      "prerequisites": "AVS 125 and AVS 125L, AVS 1125 and AVS 1125L , or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 3300",
+      "title": "International Food and Agribusiness Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "435982",
+      "description": "Marketing of food, fiber, and horticulture products in foreign markets. Overview of international marketing, including: political, social, cultural and legal environments. Foreign market entry opportunities for American agribusiness products and services; planning and managing market entry strategies and products. Special emphasis on selecting export markets, procedures for establishing markets, promotions, financing, insuring, logistics, tariffs, customs, regulations and other matters related to food and fiber products. Global logistics, distribution and pricing. Marketing concepts applied in foreign markets including: planning, promotion, sales and negotiations. Management practices and problems of firms involved in exporting and importing textiles and garments, livestock, fruits, vegetables, grains and other processed food and fiber products.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-minor",
+        "international-agricultural-business-management-minor"
+      ]
+    },
+    {
+      "code": "ABM 3750",
+      "title": "Data Management for Agribusiness",
+      "units": "3",
+      "ge": null,
+      "coid": "435985",
+      "description": "The principles and procedures involved in the analysis of quantitative data for agribusiness managers. Application of a variety of statistical techniques to solve problems in data collection, analysis, presentation and interpretation of data to solve business problems. Demonstrating proficiency with intermediate level spreadsheet and analytics functions using Microsoft Excel.",
+      "prerequisites": "STA 120 or STA 1200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ABM 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437970",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 4020",
+      "title": "Agribusiness Personnel Management",
+      "units": "3",
+      "ge": null,
+      "coid": "435827",
+      "description": "Management-employee relations and theory; employee motivation; union and management relations; recruitment and selection; performance appraisal; communications; individual and group incentive systems; employee counseling; labor legislation; wage determination and salary systems; employment and unemployment. Case studies analyzed. Seminar discussions held, role playing emphasized, guest speakers.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ABM 4050",
+      "title": "Food and Agricultural Marketing Applications",
+      "units": "3",
+      "ge": null,
+      "coid": "435984",
+      "description": "An application of theories, principles and procedures involved in developing a marketing strategy. Students will work as a team to develop a marketing plan for an agricultural product. Topics covered will include all aspects of food and fiber market strategy planning such as identifying a target market, analyzing market opportunities, developing a marketing mix, and completing a budget for the plan.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor"
+      ]
+    },
+    {
+      "code": "ABM 4080",
+      "title": "Food Consumer Behavior for Agribusiness",
+      "units": "3",
+      "ge": null,
+      "coid": "439467",
+      "description": "A comprehensive understanding of consumer behavior is fundamental in agribusiness. The foundational tenet expounded in this introductory course asserts that the development of effective marketing strategies must commence with a clear and precise apprehension of consumers’ preferences and needs concerning agricultural products. Delve deeply into the core principles of consumer behavior specific to agribusiness contexts. Explore key topics such as consumer motivation, perception, decision-making processes, cultural and social influences, and the impact of digital technology.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ABM 4300",
+      "title": "Equine Appraisal and Evaluation",
+      "units": "3",
+      "ge": null,
+      "coid": "436002",
+      "description": "Principles of equine evaluation and appraisal. The student will perform an actual appraisal and be required to prepare an appraisal report.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s"
+      ]
+    },
+    {
+      "code": "ABM 4410",
+      "title": "Cooperative Education in Agribusiness I",
+      "units": "1-3",
+      "ge": null,
+      "coid": "435824",
+      "description": "On-the-job training in agricultural business management providing collegiate level experience in the agribusiness industry. For each one unit of credit a minimum of 60 hours of cooperative education and training. Useful for industry networking, career aspirations and professional experience. Application to faculty during the quarter prior to the work experience. Meets career track requirements. May be taken up to two times for a total credit of 6 units.",
+      "prerequisites": "Junior or Senior Standing; IA 101 or AG 2010 ; AG 128 or AG 1280 , or CIS 101 or CIS 1010 ; ABM 201 or ABM 2010 ; ABM 224 or ABM 2240 ; STA 120 or STA 1200 ; and EC 201 or EC 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 4420",
+      "title": "Cooperative Education in Agribusiness II",
+      "units": "1-3",
+      "ge": null,
+      "coid": "435825",
+      "description": "On-the-job training in agricultural business management providing collegiate level experience in the agribusiness industry. For each one unit of credit a minimum of 60 hours of cooperative education and training. Useful for industry networking, career aspirations and professional experience. Application to faculty during the quarter prior to the work experience. Meets career track requirements. May be taken up to two times for a total credit of 6 units.",
+      "prerequisites": "Junior or Senior Standing; IA 101 or ABM 2010 ; AG 128 or AG 1280 , or CIS 101 or CIS 1010 ; ABM 201 or ABM 2010 ; ABM 224 or ABM 2240 ; STA 120 or STA 1200 ; and EC 201 or EC 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 4500",
+      "title": "Agricultural Water Resource Management",
+      "units": "3",
+      "ge": null,
+      "coid": "435988",
+      "description": "Water resource management applied to current issues. Water delivery systems in the United States and California, survey of water rights, water pollution, water conservation, food and agricultural system water use, and efficient water management. Includes water problems in developing nations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agricultural-science-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "international-agricultural-business-management-minor",
+        "agricultural-science-b-s-roadmap-4-year-120-units",
+        "agricultural-science-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ABM 4900",
+      "title": "Agribusiness Senior Feasibility Study",
+      "units": "3",
+      "ge": null,
+      "coid": "436000",
+      "description": "Selection and completion of a major feasibility study under faculty supervision.",
+      "prerequisites": "ABM 224 or ABM 2240 ; and ABM 311 or ABM 3110 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agribusiness-and-food-industry-management-minor",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ABM 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437971",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437972",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437973",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 1000",
+      "title": "Orientation to Agricultural Science",
+      "units": "1",
+      "ge": null,
+      "coid": "436249",
+      "description": "Outline the academic path that students will follow to be successful in this major. Discuss the various employment opportunities available for students graduating with this degree. Cover campus life, university rules, policies and regulations. Mandatory fall quarter course for entering freshmen. Strategies to assist students with the transition from school to university and the successful completion of their college career in the Agricultural Science department. Topics covered include: campus student support services, career planning, time management, academic planning, study/note/test skills, learning styles, navigating the college and university, professional development, extracurricular activities, and others.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agricultural-science-b-s",
+        "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+        "agricultural-science-b-s-roadmap-4-year-120-units",
+        "agricultural-science-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AGS 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437998",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437999",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438000",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438001",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 3000",
+      "title": "Advocacy in Agricultural Science",
+      "units": "2",
+      "ge": null,
+      "coid": "436251",
+      "description": "Overview of agriculture programs including goals and purposes of all educational levels of education in agriculture. Course focuses on developing students’ abilities in presenting personal and researched views of the agricultural industry and developing students ability to advocate for the industry as a whole.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agribusiness-and-food-industry-management-b-s",
+        "agricultural-science-b-s",
+        "agricultural-science-b-s-roadmap-4-year-120-units",
+        "agricultural-science-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AGS 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438002",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438003",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438004",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438005",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438006",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5420",
+      "title": "Agricultural Science Internship",
+      "units": "2",
+      "ge": null,
+      "coid": "436268",
+      "description": "Individualized study, research, or readings in a specialized area under the direction of a faculty member. Maybe be taken up to two times for total credit of 4 units.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-agricultural-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AGS 5430",
+      "title": "Program Planning and Development",
+      "units": "3",
+      "ge": null,
+      "coid": "438896",
+      "description": "Study of career opportunities in agriculture. Program development in such areas as the Future Farmers of America, and other youth groups. Supervised practice including cooperative work experience in agriculture. Development of up-to-date approaches in an integrated program. Operating policies and procedures.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-agricultural-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AGS 5440",
+      "title": "Procedures in Agricultural Education",
+      "units": "3",
+      "ge": null,
+      "coid": "438897",
+      "description": "Approaches to the learning process and development of daily and unit plans as well as the utilization of resources. Class demonstration in teaching procedures with emphasis being given to lesson development, micro-teaching, and the development of pedagogical skills including development analysis, assessment and evaluation.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-agricultural-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AGS 5440A",
+      "title": "Procedures in Agricultural Education Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "438898",
+      "description": "Approaches to the learning process and development of daily and unit plans as well as the utilization of resources. Class demonstration in teaching procedures with emphasis being given lesson development, micro-teaching, and the development of pedagogical skills including development analysis, assessment and evaluation.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-agricultural-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AGS 5441",
+      "title": "Early Field Experiences",
+      "units": "3",
+      "ge": null,
+      "coid": "436261",
+      "description": "An overview of Agricultural Education in the public schools. Professional type experience new to the student so that a valuable contribution toward career development results. Supervised, focused observation/participation at the secondary school level. Written reports necessary.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5442",
+      "title": "Agriculture Skills and Facilities",
+      "units": "3",
+      "ge": null,
+      "coid": "436252",
+      "description": "Exploring the development, operation, and maintenance of agriculture education facilities. Skills necessary for implementing project based instruction, laboratory activities, and technology applications in agriculture education will be demonstrated. Emphasis will be on management of program, facilities, teaching skill development and community involvement.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5442A",
+      "title": "Agriculture Skills and Facilities Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "436253",
+      "description": "Development, operation, and maintenance of agriculture education facilities. Skills necessary for implementing project based instruction, laboratory activities, and technology applications in agriculture education will be demonstrated. Emphasis will be on management of program, facilities, teaching skill development and community involvement.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5450",
+      "title": "Field Practices and Supervision",
+      "units": "4",
+      "ge": null,
+      "coid": "436258",
+      "description": "Organization and implementation of an instructional program in agricultural education. Field application of Future Farmers of America, supervised practice, and classroom instruction.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5450A",
+      "title": "Field Practices and Supervision Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "436260",
+      "description": "Organization and implementation of an instructional program in agricultural education. Field application of Future Farmers of America, supervised practice, and classroom instruction.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5470",
+      "title": "Teaching Methods in Agricultural Systems Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "438899",
+      "description": "Organizing agriculture mechanics operations & workshops, planning shop curriculum, determining technical course content, and instructing youth and adults in industrial settings. Student directed activities, demonstration, and presentations; evaluation of performance; analysis of skill development.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5470L",
+      "title": "Teaching Methods in Agriculture Systems Technology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "438900",
+      "description": "Organizing agriculture mechanics operations & workshops, planning shop curriculum, determining technical course content, and instructing youth and adults in industrial settings. Student directed activities, demonstration, and presentations; evaluation of performance; analysis of skill development.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5910",
+      "title": "Specialized Studies in Agricultural Science",
+      "units": "2",
+      "ge": null,
+      "coid": "436270",
+      "description": "Individualized study, research, or readings in a specialized area under the direction of a faculty member.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Maybe taken up to two times for a total credit of 4 units.",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-agricultural-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AGS 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438007",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438008",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438009",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438010",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438011",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AGS 6970",
+      "title": "Comprehensive Exam",
+      "units": "2",
+      "ge": null,
+      "coid": "436269",
+      "description": "Preparation for and completion of the written comprehensive examination. The examination may be taken no more than two times. Failure to complete exam satisfactorily the second time will result in termination from the program.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "agriculture-m-s-agricultural-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AGS 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438012",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "agribusiness-and-food-industry-management-b-s",
+      "name": "Agribusiness and Food Industry Management, B.S."
+    },
+    {
+      "id": "agricultural-science-b-s",
+      "name": "Agricultural Science, B.S."
+    },
+    {
+      "id": "agriculture-m-s-agricultural-science-subplan-option",
+      "name": "Agriculture, M.S. - Agricultural Science Subplan/Option"
+    },
+    {
+      "id": "agribusiness-and-food-industry-management-minor",
+      "name": "Agribusiness and Food Industry Management Minor"
+    },
+    {
+      "id": "international-agricultural-business-management-minor",
+      "name": "International Agricultural Business Management Minor"
+    },
+    {
+      "id": "agribusiness-and-food-industry-management-b-s-roadmap-4-year-120-units",
+      "name": "Agribusiness and Food Industry Management, B.S.: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "agricultural-science-b-s-roadmap-4-year-120-units",
+      "name": "Agricultural Science, B.S.: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "agribusiness-and-food-industry-management-b-s-roadmap-2-year-adt-60-units",
+      "name": "Agribusiness and Food Industry Management, B.S.: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "agricultural-science-b-s-roadmap-2-year-adt-60-units",
+      "name": "Agricultural Science, B.S.: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

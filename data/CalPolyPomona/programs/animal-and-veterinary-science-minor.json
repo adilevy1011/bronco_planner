@@ -1,0 +1,242 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:08:05+00:00",
+  "id": "animal-and-veterinary-science-minor",
+  "name": "Animal and Veterinary Science Minor",
+  "title_on_page": "University Catalog",
+  "department": "Animal And Veterinary Science",
+  "department_id": "animal-and-veterinary-science",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24113",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6299",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Animal and Veterinary Science Minor: 30 units Offered by: Don B. Huntley College of Agriculture , Animal and Veterinary Science Department Minor Required | Notes Minor Required: 30 units AVS 1112 - Food Animal Production (3) AVS 1114L - Food Animal Production Laboratory (1) AVS 2101 - Fundamentals of Animal Nutrition (3) AVS 2101L - Fundamentals of Animal Nutrition Laboratory (1) AVS 3305 - Animal Genetics (3) AVS 3350 - Anatomy and Physiology (4) AVS 3350L - Domestic Animal Anatomy Laboratory (1) AVS 3456 - Animal Behavior (3) OR AVS 4430W - Biotechnology Applications in Animal Science (3) and AVS 4430LW - Biotechnology Applications in Animal Science Laboratory (1) BIO 1210 - Foundations of Biology: Energy, Matter, and Information (3) [GE 5B] BIO 1210L - Foundations of Biology: Energy, Matter, and Information Laboratory (1) [GE 5C] CHM 1210 - General Chemistry I (3) [GE 5A] CHM 1210L - General Chemistry Laboratory I (1) [GE 5C] MAT 1050 - College Algebra (3) [GE 2] Notes: Students enrolled in these program(s) may not declare this minor: Animal Science, B.S. - Animal Science Subplan/Option: 120 units Animal Science, B.S. - Pre-Veterinary Science/Graduate School Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scrol",
+  "requirements": [
+    {
+      "name": "Minor Required: 30 units",
+      "courses": [
+        "AVS 1112",
+        "AVS 1114L",
+        "AVS 2101",
+        "AVS 2101L",
+        "AVS 3305",
+        "AVS 3350",
+        "AVS 3350L",
+        "AVS 3456"
+      ],
+      "raw_text": "Minor Required: 30 units"
+    },
+    {
+      "name": "OR",
+      "courses": [
+        "AVS 4430W"
+      ],
+      "raw_text": "OR"
+    },
+    {
+      "name": "and",
+      "courses": [
+        "BIO 1210",
+        "BIO 1210L",
+        "CHM 1210",
+        "CHM 1210L",
+        "MAT 1050"
+      ],
+      "raw_text": "and"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AVS 1112",
+      "title": "Food Animal Production",
+      "units": "3",
+      "ge": null,
+      "coid": "435771",
+      "requirement": "Minor Required: 30 units",
+      "description": "A study of the domestic livestock industry and animal management techniques emphasizing the importance of management strategies, equipment and facilities, nutrition, selection, breeding principles and disease control to ensure scientifically based management decisions.",
+      "prerequisites": "AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "AVS 1114L",
+      "title": "Food Animal Production Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435780",
+      "requirement": "Minor Required: 30 units",
+      "description": "A study of the commonly applied animal techniques and practices used to scientifically manage livestock in the commercial food animal industry. The laboratory will emphasize the importance of evaluating business management strategies, equipment and facilities, nutrition, genetics and selection, breeding principles and herd health plans in order of evaluate scientifically based domestic animal livestock management methodologies. Product fee required.",
+      "prerequisites": "AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "AVS 2101",
+      "title": "Fundamentals of Animal Nutrition",
+      "units": "3",
+      "ge": null,
+      "coid": "435446",
+      "requirement": "Minor Required: 30 units",
+      "description": "A comprehensive introduction to animal nutrition with an emphasis on nutrients, digestive physiology, digestion, and feedstuff characteristics. Focus on developing a foundation for understanding more advanced topics in nutrition including the interaction between health and nutrition. Corequisite(s): AVS 2101L .",
+      "prerequisites": "AVS 1112 ; CHM 1210 ; CHM 1210L ; MAT 1050 , MAT 1052 , or MAT 1140 ; and AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 2101L",
+      "title": "Fundamentals of Animal Nutrition Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436322",
+      "requirement": "Minor Required: 30 units",
+      "description": "A comprehensive and applied introduction to animal nutrition with an emphasis on nutrients, digestive physiology, digestion, feed ingredient characteristics, feed identification, and ration formulation. Includes practical activities focused on developing the understanding necessary to balance appropriate diets. Corequisite(s): AVS 2101 .",
+      "prerequisites": "AVS major; AVS 1112 ; CHM 1210 ; CHM 1210L ; and MAT 1050 , MAT 1052 , or MAT 1140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "AVS 3305",
+      "title": "Animal Genetics",
+      "units": "3",
+      "ge": null,
+      "coid": "435889",
+      "requirement": "Minor Required: 30 units",
+      "description": "An introductory course dealing with the basic genetics of all species of livestock and common companion animals. Emphasis will be placed on inherited abnormalities, traits of economic importance, conventional methods of dealing with these traits, and technologies of the future.",
+      "prerequisites": "BIO 1150 or BIO 1210 , BIO 1150L or BIO 1210L , and AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 3350",
+      "title": "Anatomy and Physiology",
+      "units": "4",
+      "ge": null,
+      "coid": "435890",
+      "requirement": "Minor Required: 30 units",
+      "description": "An integrated approach to the structure and function of animal systems. Topics to be discussed include the cell, the muscular-skeletal system, the nervous system, the cardiovascular system, the respiratory system, and the excretory system. Corequisite(s): AVS 3350L .",
+      "prerequisites": "BIO 1150 or BIO 1210 , BIO 1150L or BIO 1210L , CHM 1210 , CHM 1210L , and AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 3350L",
+      "title": "Domestic Animal Anatomy Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435894",
+      "requirement": "Minor Required: 30 units",
+      "description": "An integrated approach to the structure and function of animal systems. Topics to be discussed include the cell, the muscular-skeletal system, the nervous system, the cardio-vascular system, the respiratory system, and the excretory system. Corequisite(s): AVS 3350 .",
+      "prerequisites": "AVS major; BIO 115, BIO 1150 , BIO 121 or BIO 1210 ; BIO 115L, BIO 1150L , BIO 121L, or BIO 1210L ; CHM 121 or CHM 1210 ; and CHM 121L or CHM 1210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer"
+    },
+    {
+      "code": "AVS 3456",
+      "title": "Animal Behavior",
+      "units": "3",
+      "ge": null,
+      "coid": "438893",
+      "requirement": "Minor Required: 30 units",
+      "description": "The study of animal behavior including learning, cognition, behavioral physiology, biorhythms and social behavior. Emphasis will be placed on the behavior of domesticated species.",
+      "prerequisites": "AVS 1112 or AVS 112, AVS 1113 or AVS 113, AVS 1114L or AVS 114L, and AVS 1115L or AVS 115L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 4430W",
+      "title": "Biotechnology Applications in Animal Science",
+      "units": "3",
+      "ge": null,
+      "coid": "436242",
+      "requirement": "OR",
+      "description": "A study of the principles and practical applications of biotechnology in Animal Science. Discussion of the implications of genetic engineering, gene transfer, transgenic animals, embryo transfer and embryo manipulation for livestock improvement; present and future importance to the agriculture industry; human and veterinary medicine, ethical issues, patent law and strategies for future problem-solving. Appreciation of biotechniques with relevance to the Animal Sciences. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): AVS 4430LW .",
+      "prerequisites": "AVS 3305 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "BIO 1210",
+      "title": "Foundations of Biology: Energy, Matter, and Information",
+      "units": "3",
+      "ge": "GE 5B",
+      "coid": "435045",
+      "requirement": "and",
+      "description": "[GE 5B] Using the central lens of evolution, this course will examine the acquisition, utilization, and flow of energy and cycling of matter through the biological hierarchy. The flow of information across different organizational levels and timescales will also be explored. Corequisite(s): BIO 1210L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "BIO 1210L",
+      "title": "Foundations of Biology: Energy, Matter, and Information Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "434901",
+      "requirement": "and",
+      "description": "[GE 5C] Using hands-on activities, students will examine the flow of energy, the cycling of matter, and the flow of information through different timescales and organizational levels of life. Emphasis will be placed on the application of the practices of science. Corequisite(s): BIO 1210 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 1210",
+      "title": "General Chemistry I",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "434961",
+      "requirement": "and",
+      "description": "[GE 5A] Fundamental principles and concepts of chemistry, including atomic and molecular structure; nomenclature; stoichiometry; solution chemistry, including acid-base and redox chemistry; quantum theory; periodic properties; bonding theory; thermochemistry; gases; and intermolecular forces. Corequisite(s): CHM 1210L .",
+      "prerequisites": "SAT Math>=550; ACT Math>=23; ALEKS >=76; C or better in MAT 12, 105, 106, 112, 114, 115, 116, 120, 125, 130, 191, 214, 216, 224, MAT 1050 , MAT 1052 , MAT 1060 , MAT 1070 , MAT 1140 , MAT 1150 , MAT 1200 , MAT 1250 , MAT 1300 , MAT 1310 , MAT 1910 , MAT 2140 , MAT 2240 , MAT 2250 , STA 120, or STA 1200 ; or C- or better in CHM 121 and CHM 121L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 1210L",
+      "title": "General Chemistry Laboratory I",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "434962",
+      "requirement": "and",
+      "description": "[GE 5C] Laboratory experiments to illustrate and enhance lecture topics in CHM 1210 . Basic laboratory techniques and practices. Product fee required. Corequisite(s): CHM 1210 .",
+      "prerequisites": "SAT Math>=550; ACT Math>=23; ALEKS >=76; C or better in MAT 12, 105, 106, 112, 114, 115, 116, 120, 125, 130, 191, 214, 216, 224, MAT 1050 , MAT 1052 , MAT 1060 , MAT 1070 , MAT 1140 , MAT 1150 , MAT 1200 , MAT 1250 , MAT 1300 , MAT 1310 , MAT 1910 , MAT 2140 , MAT 2240 , MAT 2250 , STA 120, or STA 1200 ; or C- or better in CHM 121 and CHM 121L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MAT 1050",
+      "title": "College Algebra",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "436924",
+      "requirement": "and",
+      "description": "[GE 2] The theory and applications of real-valued functions, domain and range, compositions, inverses, transformations, equations and inequalities, and absolute value. Emphasis on polynomials, rational functions, power and root functions, piecewise functions, logarithms and exponential functions. Both symbolic and graphical representations of functions. Use of graphing devices to support reasoning about functions.",
+      "prerequisites": "Category I, Category II, ALEKS >=46, or C or better in a GE Sub-area 2/B4 course.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "AVS 1112",
+    "AVS 1114L",
+    "AVS 2101",
+    "AVS 2101L",
+    "AVS 3305",
+    "AVS 3350",
+    "AVS 3350L",
+    "AVS 3456",
+    "AVS 4430W"
+  ]
+}

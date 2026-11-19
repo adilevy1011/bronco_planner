@@ -1,0 +1,1386 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:37:58+00:00",
+  "id": "education",
+  "name": "Education",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6312",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Education Department Building 6 Room 211 | (909) 869-2300 | Department Website | Faculty Directory We empower transformative educators who advocate for justice and equity for all learners. The Department of Education at Cal Poly Pomona cultivates a polytechnic, socially just teaching culture rooted in collaborative, evidence-based practice. Faculty guide candidates through critical inquiry, pedagogical innovation, and reflective teaching grounded in partnerships with K-12 and community-based schools. The curriculum spans from preliminary to advanced credentials-such as single- and multiple-subject, special education, and bilingual authorizations-and culminates in M.A. programs emphasizing culturally responsive leadership. This integrated approach leverages strong faculty adoption of practices such as student-centered learning and the teacher-as-scholar approach, reinforcing academic excellence and equity. Students engage in immersive clinical practice and internships across public and private PK-12 settings, supported by the Clinical Practice Placement Services in the Credential Services Office. Cohort models and peer mentoring ensure shared learning and professional resilience. Additional resources include orientation sessions, dedicated advising, and robust support structures that guide candidates through credential milestones such as CalTPA and Single Subject Authorization. Field-based experiences and applied research projects foster agency, critical reflection, and leadership. Upon completion, graduates emerge as reflective, equity-minded, and classroom-ready educators committed to effecting positive transformations in diverse school commu",
+  "courses": [
+    {
+      "code": "EDU 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438278",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDU 5010",
+      "title": "Foundations of Teaching and Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "437274",
+      "description": "Examines foundational learning, human development, and motivation theories and their applications, classroom management, and assessment. Opportunities for applied professional decision-making, planning, and reflection related to teaching and learning in a variety of contexts including TK-12. Includes 10 hours of field experience.",
+      "prerequisites": "ECS ITEP subplan/option, LS ITEP subplan/option, junior standing, senior standing, or admitted into Multiple Subject, Single Subject, or Education Specialist Credential.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs",
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5020",
+      "title": "Foundations of Education in a Diverse Society",
+      "units": "3",
+      "ge": null,
+      "coid": "437228",
+      "description": "Examines foundations of schooling in the US with a focus on theoretical and historical approaches toward educational equity for diverse communities. Supports teacher candidates in developing culturally responsive teacher dispositions. Introduces sociolinguistic principles of effective pedagogies for English learners. May include up to 10 hours of field experience.",
+      "prerequisites": "ECS ITEP subplan/option, LS ITEP subplan/option, junior standing, senior standing, or admitted into Multiple Subject, Single Subject, or Education Specialist Credential.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs",
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5030",
+      "title": "Introduction to Professional Work in Schools",
+      "units": "2",
+      "ge": null,
+      "coid": "437642",
+      "description": "Introduction to professional work of teachers in an ethnically, linguistically, and economically diverse school setting. Observation and participation fieldwork provide teacher candidates with experiences for analysis and reflection. Foundational readings and class discussions support the development of culturally relevant teaching dispositions.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 4 units, with a maximum of 2 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDU 5100",
+      "title": "Introduction to Literacy Instruction",
+      "units": "3",
+      "ge": null,
+      "coid": "437279",
+      "description": "Theoretical models and pedagogical applications of literacy acquisition for native English speakers and English language learners. Emergent literacy, structure of language, phonemic awareness, phonics, fluency, vocabulary, comprehension, spelling and literacy assessment. 20 hours field experience.",
+      "prerequisites": "Junior or senior standing, or admitted into Multiple Subject, Single Subject, or Education Specialist Credential.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5105",
+      "title": "Language Arts, Second Language Acquisition, and Children’s Literature",
+      "units": "3",
+      "ge": null,
+      "coid": "437281",
+      "description": "Theoretical models and pedagogical applications of language arts, writing and second language acquisition for native English speakers and English language learners. Investigation of genres, authors, illustrators and diversity in children’s literature.",
+      "prerequisites": "Admitted to Multiple Subject or Education Specialist Credential; EDU 5010 or TED 406; EDU 5020 , or TED 405 and TED 407; and EDU 5100 or TED 443.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5110",
+      "title": "Theory and Practice in Mathematics Education",
+      "units": "3",
+      "ge": null,
+      "coid": "437220",
+      "description": "Principles and methodology of teaching mathematics in the elementary school including instructional design, material selection, and student assessment with an emphasis on problem solving. Fieldwork: May include a maximum 10 hours of field experience.",
+      "prerequisites": "Admitted to Multiple Subject Credential; EDU 5010 or TED 406; EDU 5020 , or TED 405 and TED 407; and EDU 5100 and TED 443.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5115",
+      "title": "Theory and Practice in Science and Health Education",
+      "units": "3",
+      "ge": null,
+      "coid": "437233",
+      "description": "Principles and methodology of teaching science and health in the TK-8 classroom including pedagogical strategies, curriculum, instruction, and assessment. The teacher candidates will develop lesson plans based on state-adopted academic content standards that include all students in learning science and health. May include a maximum 10 hours of field experience.",
+      "prerequisites": "Admitted to Multiple Subject Credential; EDU 5010 or TED 406; EDU 5020 , or TED 405 and TED 407; and EDU 5100 or TED 443.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5120",
+      "title": "Theory and Practice in Teaching Elementary Social Sciences",
+      "units": "3",
+      "ge": null,
+      "coid": "437370",
+      "description": "Examines principles and methodology of teaching, learning, and assessment of History and other Social Sciences in diverse elementary schools. Integrates multicultural and social justice education foundations into curriculum planning. Examines culturally relevant teaching principles for building reciprocal relations with diverse families and communities. May include a maximum of 10 hours of field experience.",
+      "prerequisites": "Admitted to Multiple Subject Credential; EDU 5010 or TED 406; EDU 5020 , or TED 405 and TED 407; and EDU 5100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5125",
+      "title": "Theory and Practice in Elementary Movement, Visual, Performing Arts Education",
+      "units": "3",
+      "ge": null,
+      "coid": "437863",
+      "description": "Examines principles of culturally responsive teaching of physical education, visual arts, music, and other performing arts in diverse elementary classrooms. Analyzes ways of integrating the arts and movement into core curricula. Provides introduction to art history at the elementary level. May include field experience.",
+      "prerequisites": "Admitted to Multiple Subject Credential.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5150",
+      "title": "Novice Teaching for Elementary Teachers",
+      "units": "3",
+      "ge": null,
+      "coid": "437849",
+      "description": "Limited supervised teaching in university approved classrooms. The prospective elementary teacher will experience initial teaching responsibilities at the novice level in culturally diverse public school settings. Field related topics are explored during seminar portion of course. A maximum of 50 hours of field experience required.",
+      "prerequisites": "Admitted to Multiple Subject Credential, EDU 5010 , EDU 5020 , EDU 5100 , and EDU 5302 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5160",
+      "title": "Multiple Subject Clinical Practice",
+      "units": "1-9",
+      "ge": null,
+      "coid": "437243",
+      "description": "Supervised teaching in university approved classroom. The prospective teacher will experience initial teaching responsibilities in culturally diverse public school settings. Multiple subject candidates connect theory to practice as they plan, teach and assess, reflect, and apply what they learn to promote learning environments based on equity, professional responsibilities, and Teacher Performance Expectations. Corequisite(s): EDU 5125 and EDU 5180 .",
+      "prerequisites": "Admitted to Multiple Subject Credential, admitted to Multiple Subject Clinical Practice, EDU 5105 or TED 444, EDU 5115 or TED 431, EDU 5120 or TED 451, EDU 5110 or TED 425, and EDU 5150 .",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "multiple-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5180",
+      "title": "Teaching Performance Assessment for Elementary Teachers",
+      "units": "3",
+      "ge": null,
+      "coid": "437273",
+      "description": "Multiple subject candidates connect theory to practice as they plan, teach, and assess, and apply what they learn to promote learning environments based on equity, professional responsibilities, and Teacher Performance Expectations. Candidates successfully complete the California Teaching Performance Assessment Cycle 1 and the Literacy Performance Assessment. Corequisite(s): EDU 5125 and EDU 5160 .",
+      "prerequisites": "Admitted to Multiple Subject Credential, admitted to Multiple Subject Clinical Practice, EDU 5105 , EDU 5115 , EDU 5120 , EDU 5110 and EDU 5150 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5190",
+      "title": "Seminar in Teacher Preparation Issues",
+      "units": "3",
+      "ge": null,
+      "coid": "437284",
+      "description": "Emphasis on analysis of selected topics in teacher preparation. May be taken up to four times, only with different topics, for a total credit of 12 units.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": ""
+    },
+    {
+      "code": "EDU 5200",
+      "title": "Secondary Reading and Writing in the Content Areas",
+      "units": "3",
+      "ge": null,
+      "coid": "437277",
+      "description": "For secondary level teachers from all content areas. Examination of the roles that reading and writing play in learning. Examine the cognitive and socio-cultural characteristics shared by the reading and writing processes. The course includes 20 hours of fieldwork related to course content.",
+      "prerequisites": "Junior standing, senior standing, or admitted into Single Subject Credential.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5205",
+      "title": "Secondary Curriculum and Methods",
+      "units": "3",
+      "ge": null,
+      "coid": "437241",
+      "description": "Principles and methodology of teaching in a content area in the secondary schools including instructional design, material selection, student assessment, and the development of state-adopted academic content standard based lesson plans. May include 10 hours of fieldwork.",
+      "prerequisites": "Admitted into Single Subject Credential; EDU 5010 or TED 406; and EDU 5020 , or TED 405 and TED 407.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5210",
+      "title": "Teaching Secondary English Learners",
+      "units": "3",
+      "ge": null,
+      "coid": "437864",
+      "description": "Application of principles and strategies for design of effective learning for secondary English learners. Development of interactive lessons to build students’ disciplinary literacies in content areas. Use of teaching standards and other resources to differentiate instruction and evaluate student progress.",
+      "prerequisites": "Admitted to Single Subject Credential; EDU 5010 or TED 406; EDU 5020 , or TED 406 and TED 407; and EDU 5200 or TED 432. Pre or Corequisite(s): EDU 5302 or EDS 403.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5215",
+      "title": "Models of Secondary Instruction",
+      "units": "3",
+      "ge": null,
+      "coid": "437225",
+      "description": "Course explores principles and methods of models of instruction for secondary classrooms that promote project- and inquiry-based learning, among others. The promotion of healthy living throughout the curriculum is also explored. Fieldwork: Includes up to 20 hours of fieldwork. 3 seminars.",
+      "prerequisites": "Admitted to Single Subject Credential; EDU 5010 or TED 406; EDU 5020 , or TED 405 and TED 407; and EDU 5200 or TED 432. Pre or Corequisite(s): EDU 5302 or EDS 403.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5220",
+      "title": "Building Relationships with Youth, Families, and Communities",
+      "units": "3",
+      "ge": null,
+      "coid": "437231",
+      "description": "Examines historical and contemporary approaches toward working with diverse youth, families, and communities. Analyzes principles for building respectful, reciprocal relations with youth and caregivers. Builds strategies for managing caring, productive classrooms, teaching about healthy lifestyles, and supporting youth experiencing crises. May include up to 20 hours of fieldwork. This is a required course for Cal Poly Pomona’s Single Subject credential program.",
+      "prerequisites": "Admitted to Single Subject Credential; and EDU 5020 , or TED 405 and TED 407.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5260",
+      "title": "Single Subject Clinical Practice",
+      "units": "1-8",
+      "ge": null,
+      "coid": "437240",
+      "description": "Supervised full day teaching in university-approved classroom. The prospective teacher will experience teaching responsibilities in culturally diverse public school settings. Corequisite(s): EDU 5280 .",
+      "prerequisites": "Admitted to Single Subject Credential, EDU 5205 or TED 434, EDU 5210 or TED 442, EDU 5215 or TED 446, and EDU 5200 or TED 432.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5262",
+      "title": "Clinical Practice Seminar for Single Subject Candidates",
+      "units": "1",
+      "ge": null,
+      "coid": "438957",
+      "description": "Seminar to support supervised teaching in university-approved culturally diverse public-school settings. Single subject candidates connect theory to practice as they plan, teach, and assess, and apply what they learn to promote learning environments based on equity, professional responsibilities, and Teacher Performance Expectations.",
+      "prerequisites": "Admission to Single Subject Credential Program, successful completion of Key Assessments, and approved application to Clinical Practice by required deadline.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units, with a maximum of 1 unit per semester.",
+      "when_offered": "",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5270",
+      "title": "Adapted Physical Education Clinical Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "439418",
+      "description": "Clinical practice in adapted physical education under the supervision of an assigned APE credentialed master teacher and University faculty supervisor. Includes experience in APE teaching responsibilities within the range of the APE service delivery system. Requires a minimum of 180 hours of APE clinical practice. Corequisite(s): KIN 5370 .",
+      "prerequisites": "Acceptance into the APE Added Authorization program; approved clinical practice application; post-bacc standing, graduate standing, or consent of the instructor; resolution of any outstanding Statement of Concern issues arising during APE coursework (if applicable); and the following KIN courses: 2460, 3130, 3130A, 3460, 3460A, 4330, 4330A, 5320, 5320AS, 5340, 5340AS, 5350, and 5350AS.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "adapted-physical-education-added-authorization"
+      ]
+    },
+    {
+      "code": "EDU 5280",
+      "title": "Teaching Performance Assessment for Secondary Teachers",
+      "units": "3",
+      "ge": null,
+      "coid": "437239",
+      "description": "Single subject candidates connect theory to practice as they apply and reflect on their teaching practice and professional behaviors based on classroom equity, professional responsibilities, and Teacher Performance Expectations. Candidates complete the Teaching Performance Assessment and develop a plan for continuing their growth on the California Standards for the Teaching Profession. Corequisite(s): EDU 5260 or EDU 5420 .",
+      "prerequisites": "Admitted to Single Subject Credential, EDU 5205 or TED 434, EDU 5210 or TED 442, EDU 5215 or TED 446, and EDU 5220 .",
+      "grading_basis": "Graded only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5302",
+      "title": "Educating Students with Disabilities in Diverse Settings",
+      "units": "3",
+      "ge": null,
+      "coid": "436378",
+      "description": "Students will learn characteristics of K-12 students with disabilities, students who are at risk, and students who are gifted with a focus on access, equity, and effective assessment and instruction. Includes federal and state IEP and legislative requirements. Includes field experience across a variety of special education settings.",
+      "prerequisites": "Junior standing, ECS ITEP subplan/option, LS ITEP subplan/option, admitted to Multiple Subject Credential, admitted to Education Specialist Credential, or admitted to Single Subject Credential.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "multiple-subject-credential",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs",
+        "single-subject-credential"
+      ]
+    },
+    {
+      "code": "EDU 5320",
+      "title": "Transition Planning Through Family and Professional Collaboration",
+      "units": "3",
+      "ge": null,
+      "coid": "437837",
+      "description": "Students will learn to cultivate collaborative partnerships with students, families, teachers, paraprofessionals, related service providers, and outside agencies to improve outcomes and transition experiences for students with disabilities. Methods will focus on student- and family-centered planning, self-determination, and effective practices to collaborate with diverse students with disabilities and their families. Corequisite(s): Admitted to Education Specialist Credential; and C or better in the following: EDU 5302 , EDU 5310, or EDU 5312; EDU 5010 ; and EDU 5020 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5322",
+      "title": "Special Education Law and the Individualized Education Program",
+      "units": "3",
+      "ge": null,
+      "coid": "437066",
+      "description": "Examine the evolution of laws, judicial decisions, and policies that impact the education of diverse students with disabilities. Case management responsibilities and individual education plan development will be introduced, discussed, and practiced. Engage in critical discussions of case law and ethics relating to special education programs, services, and procedures.",
+      "prerequisites": "Admitted to Education Specialist Credential.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5324",
+      "title": "Educational Assessment of Students with Disabilities",
+      "units": "3",
+      "ge": null,
+      "coid": "437067",
+      "description": "Students will apply formal, informal, norm- and criterion-referenced, standardized, and alternative assessments within a multitiered systems of support (MTSS) framework. Techniques for data-based decision-making, progress monitoring, and instructional planning for diverse learners, with an emphasis on culturally and linguistically diverse students will be introduced and practices. Includes field experience.",
+      "prerequisites": "ECS ITEP subplan/option, LS ITEP subplan/option, or admitted to Education Specialist Credential; and C or better in the following: EDU 5302 , EDU 5010 , and EDU 5020 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5326",
+      "title": "Creating and Supporting Universally Designed Learning Environments",
+      "units": "3",
+      "ge": null,
+      "coid": "439249",
+      "description": "Create and support universally designed curricular goals, materials, methods, and environments in k-12 settings. Introduction to the Universal Design for Learning (UDL) framework and the California Teacher Performance Assessment (CalTPA) for education specialists. Learn to adapt instruction with evidence-based and research-based strategies for diverse learners. Twenty (20) hours of included fieldwork. Candidates are advised to take this course their last semester of coursework prior to entering Clinical Practice.",
+      "prerequisites": "EDU 5010 , EDU 5020 , EDU 5302 , EDU 5100 , EDU 5324 , EDU 5332 , EDU 5340 , EDU 5342 , EDU 5336 , and admitted to Education Specialist Program and/or Credential/Master’s program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5332",
+      "title": "Positive Classroom and Behavioral Supports",
+      "units": "3",
+      "ge": null,
+      "coid": "437068",
+      "description": "Students will interpret and apply of the principles of behavior, evidence-based behavioral interventions, and culturally sustaining practices to create positive, supportive learning environments. Methods will emphasize understanding the communicative function of behaviors, functional behavioral assessment, and designing preventative and responsive behavior intervention plans. Relevant federal and state legislation and ethical considerations will be discussed. Includes field experience.",
+      "prerequisites": "Admitted to Education Specialist Credential; C or better in the following: EDU 5302 , EDU 5310, or EDU 5312; EDU 5010 ; and EDU 5020 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5334",
+      "title": "Multi-Tiered Assessment and Intervention in Literacy",
+      "units": "3",
+      "ge": null,
+      "coid": "437063",
+      "description": "Students will apply diagnostic techniques and strategies to remediate reading difficulties and dyslexia within multi-tiered systems of instruction using evidence-based research, strategies, and programs. Methods of non-biased assessment, data collection, and progress monitoring in reading intervention will be examined and applied. Includes 6 hours required field experience.",
+      "prerequisites": "Admitted to Education Specialist Credential, and EDU 5100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5336",
+      "title": "Mathematics Instruction and Intervention for Students with Disabilities",
+      "units": "3",
+      "ge": null,
+      "coid": "437069",
+      "description": "Student will apply instructional interventions and assessments in mathematics for learners with disabilities. Methods will emphasize access to standards, evidence-based instructional strategies, and curricular adaptations. Response to Intervention (RtI) in Mathematics and IEP development will be applied through practice-based experiences. Includes field experience.",
+      "prerequisites": "Admitted to Education Specialist Credential or Special Education Master’s; and EDU 5010 , EDU 5020 , and EDU 5302 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5340",
+      "title": "Instructional Methods for Students with Mild to Moderate Support Needs",
+      "units": "3",
+      "ge": null,
+      "coid": "437071",
+      "description": "Create standards-based curriculum and instructional units integrating curriculum across the K-12 content areas of English Language Arts/English Language Development, History Social/Science, Science, Physical Education and Visual and Performing Arts. Examine and critique instructional models. Apply evidence-based instructional and assessment strategies for diverse learners with mild to moderate support needs. Three (3) hours of fieldwork required.",
+      "prerequisites": "ECS ITEP subplan/option; LS ITEP subplan/option; MA in Education; or Preliminary Education Specialist Program Mild to Moderate Support Needs Credential, EDU 5010 , EDU 5020 , and EDU 5302 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5342",
+      "title": "Instructional Strategies for Students with Extensive Support Needs",
+      "units": "3",
+      "ge": null,
+      "coid": "437072",
+      "description": "Theory and application of evidence-based instructional practices, inclusive educational strategies, and curricular adaptations for students with extensive support needs (ESN) will be examined. Students will apply strategies to support social skills, complex communication needs, assistive technology, augmentative and alternative communication, specialized health care needs and positioning for students with extensive support needs and students with deaf-blindness. Includes 3 hours of field experience.",
+      "prerequisites": "ECS ITEP subplan/option, LS ITEP subplan/option, or admitted to Education Specialist Credential; and C or better in the following: EDU 5302 , EDU 5310, or EDU 5312; EDU 5010 ; and EDU 5020 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5345",
+      "title": "Clinical Practice for Preliminary Education Specialist Mild to Moderate Support Needs Credential",
+      "units": "1-8",
+      "ge": null,
+      "coid": "437073",
+      "description": "Supervised teaching in university-approved culturally diverse public school special education setting for students with mild to moderate support needs. Culminating experience that integrates the competencies for the Preliminary Education Specialist Credential in Mild to Moderate Support Needs. Includes seminar. Corequisite(s): EDU 5351 .",
+      "prerequisites": "Admitted to Education Specialist Credential and Clinical Practice.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5346",
+      "title": "Clinical Practice for Preliminary Education Specialist Mild to Moderate Support Needs Intern Credent",
+      "units": "1-8",
+      "ge": null,
+      "coid": "436722",
+      "description": "Supervised internship teaching in university-approved culturally diverse public school special education setting for students with mild to moderate support needs. Culminating experience that integrates the competencies for the Preliminary Education Specialist Credential in Mild to Moderate Support Needs. Includes seminar. Corequisite(s): EDU 5351 .",
+      "prerequisites": "Admitted to Education Specialist Credential, admission to the Intern Teaching program, admission to Clinical Practice.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5347",
+      "title": "Clinical Practice for Preliminary Education Specialist Extensive Support Needs Credential",
+      "units": "1-8",
+      "ge": null,
+      "coid": "437075",
+      "description": "Supervised teaching in university-approved culturally diverse public school special education setting for students with extensive support needs. Culminating experience that integrates the competencies for the Preliminary Education Specialist Credential in Extensive Support Needs. Includes seminar. Corequisite(s): EDU 5351 .",
+      "prerequisites": "Admitted to Education Specialist Credential and to Clinical Practice.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "preliminary-education-specialist-credential-extensive-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5348",
+      "title": "Internship Clinical Practice for Preliminary Education Specialist Extensive Support Needs Credential",
+      "units": "1-8",
+      "ge": null,
+      "coid": "436731",
+      "description": "Supervised teaching internship in university-approved culturally diverse public school special education setting for students with extensive support needs. Culminating experience that integrates the competencies for the Preliminary Education Specialist Credential in Extensive Support Needs. Includes seminar. Corequisite(s): EDU 5351 .",
+      "prerequisites": "Admitted to Education Specialist Credential.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5351",
+      "title": "Clinical Practice Seminar for Preliminary Education Specialist Candidates",
+      "units": "3",
+      "ge": null,
+      "coid": "438946",
+      "description": "Seminar to support Education Specialist Candidates during their clinical practice experience as they plan, teach, assess, reflect, and apply theory to practice while promoting universally designed learning environments based on equity, professional responsibilities, and the Teacher Performance Expectations (TPEs). Education Specialist candidates will successfully complete the Education Specialist Teacher Performance Assessment Literacy Cycle and develop a portfolio that demonstrates meeting the California Teacher Performance Expectations for Education Specialists. Required for the Preliminary Education Specialist Credential Authorization in Mild to Moderate (MMSN) Support Needs and/or Extensive Support Needs (ESN). Corequisite(s): EDU 5345 , EDU 5346 , EDU 5347 , EDU 5348 , or EDU 5421 .",
+      "prerequisites": "Admission to Education Specialist Credential Program, successful completion of Anchor Assessments in all program coursework, and approved application to Clinical Practice by required deadline. Interns must be in a full-time job setting that is eligible for the MMSN or ESN authorization. Classrooms within the TK-12 grades or transition programs serving students up to age 22 are eligible.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5354",
+      "title": "Advanced Study of Extensive Support Needs",
+      "units": "3",
+      "ge": null,
+      "coid": "439250",
+      "description": "Advanced study of students with extensive support needs (ESN), curriculum and instruction. Students will engage in critical analysis and evaluation of current research and educational practices.",
+      "prerequisites": "Admitted to Education Specialist Credential or Special Education Master’s.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EDU 5400",
+      "title": "Teaching and Learning in Multilingual Classrooms (Spanish/ Filipino)",
+      "units": "3",
+      "ge": null,
+      "coid": "437106",
+      "description": "Bilingual teacher candidates apply the foundations of bilingual education methods, and of first and second language development for multilingual students. Learn to design quality instruction for Spanish/Filipino bilingual classrooms. Critically assess culturally sustaining practices with students, families, and communities. Course partially fulfills the requirements for the Bilingual Authorization (BilA) in Spanish or Filipino for Multiple and Single Subject teacher candidates. (Section 1 - Spanish; Section 2 - Filipino). May include up to 20 hours of fieldwork. This is a required course for Cal Poly Pomona’s Education Department’s Bilingual Program for teacher candidates obtaining the Bilingual Authorizations in Spanish or Filipino.",
+      "prerequisites": "Admitted to Multiple Subject or Single Subject Credential Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "bilingual-authorization"
+      ]
+    },
+    {
+      "code": "EDU 5410",
+      "title": "Multiple Subject Clinical Practice Internship",
+      "units": "1-9",
+      "ge": null,
+      "coid": "437282",
+      "description": "Supervised teaching in university approved classroom. The prospective teacher will experience initial teaching responsibilities in culturally diverse public school settings. Multiple subject candidates connect theory to practice as they plan, teach and assess, reflect, and apply what they learn to promote learning environments based on equity, professional responsibilities, and Teacher Performance Expectations. Department consent required. Corequisite(s): EDU 5125 and EDU 5180 .",
+      "prerequisites": "Admitted to Multiple Subject Credential, admitted to Multiple Subject Clinical Practice; EDU 5010 or TED 406; EDU 5020 , or TED 405 and TED 407; EDU 5100 or TED 443; and EDU 5302 or EDS 403.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "intern-credential-program-36-47-units"
+      ]
+    },
+    {
+      "code": "EDU 5420",
+      "title": "Internship Single Subject Clinical Practice",
+      "units": "1-9",
+      "ge": null,
+      "coid": "437283",
+      "description": "Supervised full day teaching, as the teacher of record, in university-approved classroom. The prospective teacher will experience teaching responsibilities in culturally diverse public school settings. Department consent required. Corequisite(s): EDU 5280 .",
+      "prerequisites": "Admitted to Single Subject Credential, admitted to Single Subject Clinical Practice, EDU 5205 or TED 434, EDU 5210 or TED 442, EDU 5215 or TED 446, and EDU 5200 or TED 432.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "intern-credential-program-36-47-units"
+      ]
+    },
+    {
+      "code": "EDU 5421",
+      "title": "Extended Intern Supervision",
+      "units": "1-9",
+      "ge": null,
+      "coid": "439202",
+      "description": "Extended intern supervision to support supervised teaching in university-approved culturally diverse public school setting.",
+      "prerequisites": "Admission to the teacher intern program and consent of Credential Services Coordinator.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "intern-credential-program-36-47-units",
+        "preliminary-education-specialist-credential-extensive-support-needs",
+        "preliminary-education-specialist-credential-mild-to-moderate-support-needs"
+      ]
+    },
+    {
+      "code": "EDU 5450",
+      "title": "Language and Culture Inquiry in Multilingual Settings",
+      "units": "3",
+      "ge": null,
+      "coid": "437839",
+      "description": "Engagement in critical exploration of key historical, sociocultural, and linguistic issues in transformative education with a focus on Filipino- Latino- and Chinese- American communities in US schools. Analysis of policies, practices, and pedagogical strategies that foster equity, inclusivity, and academic success in multilingual settings. May include up to 20 hours of fieldwork.",
+      "prerequisites": "Must be admitted to one of the following: a) CPP’s Education Department’s Bilingual Program; b) an Education Department or Educational Leadership MA program; or c) upper division students in the Liberal Studies and ECS Bilingual Teacher pathway.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "EDU 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438279",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDU 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438280",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDU 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438281",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDU 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438282",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDU 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438283",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EDU 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438284",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "ECI 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438249",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECI 5500",
+      "title": "Expertise in Curriculum and Instruction",
+      "units": "3",
+      "ge": null,
+      "coid": "436914",
+      "description": "Examination of historical paradigms, theories, and issues that influence curriculum and instruction in K-12 settings. Curriculum policy and development on local, national, and international contexts. Proposed development of curricula across content areas contextualized within historical and progressive frameworks. May be taken up to three times, only with different topics, for a total credit of 9 units.",
+      "prerequisites": "Admissions to Masters Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ECI 5510",
+      "title": "Diversity and Cultural Perspectives",
+      "units": "3",
+      "ge": null,
+      "coid": "436915",
+      "description": "Examination of issues arising from global perspectives within the context of international, intra-national, and local diaspora. Generation of curricula and instructional programs that support diverse, cultural, and multi-lingual schools across the curriculum. 3 seminars.",
+      "prerequisites": "Admitted to the Master’s of Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ECI 5520",
+      "title": "Application of Knowledge to Instructional Models",
+      "units": "3",
+      "ge": null,
+      "coid": "436916",
+      "description": "Reflection on curricula as spaces for critical thought and inquiry informed by critical theory, race, pedagogy, and literacy. Design and application of curricula that address socio-historical, socio-cultural, and socio-political contexts of curriculum in schools today. 3 seminars. May be taken up to two times, only with different topics, for a total credit of 6 units.",
+      "prerequisites": "Admissions to Masters Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ECI 5530",
+      "title": "Leadership in Multicultural Communities of Learners",
+      "units": "3",
+      "ge": null,
+      "coid": "436917",
+      "description": "Inquiry into social, economic, cultural, linguistic, developmental, and other differences that marginalize learners in school policy and classroom practices within a global society. Development of school-, district-, and county-wide curricula that address the needs of diverse learners. 3 seminars. May be taken up to two times, only with different topics, for a total credit of 6 units.",
+      "prerequisites": "Admissions to Masters Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ECI 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438250",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ECI 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438251",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECI 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438252",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECI 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438253",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECI 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438254",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ECI 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438255",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "EMM 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438300",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EMM 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438301",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course. Corequisite(s): EMM 5990L .",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EMM 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438302",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EMM 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438303",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EMM 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438304",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EMM 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438305",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EMM 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438306",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "ERA 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438329",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ERA 5900",
+      "title": "Introduction to Graduate Studies",
+      "units": "3",
+      "ge": null,
+      "coid": "436918",
+      "description": "Overview of the program of studies; emphasis on critiquing research, findings, ethics of conducting and writing academic research in education. Research tools and requirements relating to the development of a research-based culminating project and the response to questions in the field. This course should be taken before or with any other course in the program. This course should be taken before or with any other course in the program.",
+      "prerequisites": "Admission to the MA Program or Teacher Credential Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ERA 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438330",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Admitted to MA Program, Multiple Subject, Single Subject, or Education Specialist Credential Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ERA 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438331",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Admitted to MA Program, Multiple Subject, Single Subject, or Education Specialist Credential Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ERA 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438332",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Admitted to MA Program, Multiple Subject, Single Subject, or Education Specialist Credential Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ERA 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438333",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ERA 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438334",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option"
+      ]
+    },
+    {
+      "code": "ERA 6930",
+      "title": "Evaluating, Understanding, and Using Research Methodology",
+      "units": "4",
+      "ge": null,
+      "coid": "436919",
+      "description": "Introduction to qualitative and quantitative research methodologies, including methods, research design, data collection, data analysis. Analyze and synthesize literature; use of APA writing style; creating and evaluating IRB proposals.",
+      "prerequisites": "Admission to the MA Program, Multiple Subject, Single Subject, or Education Specialist Credential Program; Program of Study on file; and SPE 5350 , SPE 5352 , SPE 5370 , ECI 5500 , ECI 5520 , ECI 5530 , EDL 5460 , EDL 5470 , EDL 5480 , EDL 5490 , and EDL 5500 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ERA 6950",
+      "title": "Master’s Degree Project",
+      "units": "1-6",
+      "ge": null,
+      "coid": "436920",
+      "description": "Independent research leading to the design, development and completion of a terminal project that demonstrates the skills and knowledge achieved in the graduate program.",
+      "prerequisites": "Open to graduate candidates with approval of Department Chair.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree.",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ERA 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "1-6",
+      "ge": null,
+      "coid": "437689",
+      "description": "Independent research leading to the design, implementation and completion of a research study that demonstrates the skills and knowledge achieved in the graduate program. Open to graduate candidates with approval of Department Chair.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ERA 6970",
+      "title": "Comprehensive Exam",
+      "units": "3",
+      "ge": null,
+      "coid": "437672",
+      "description": "Preparation for and completion of an assessment of the student’s ability to integrate the knowledge in the area of emphasis, show critical and independent thinking, and demonstrate mastery of the subject matter evidenced through independent thinking, appropriate organization, critical analysis, and accuracy of documentation. This is a culminating activity for the Master’s of Arts in Education.",
+      "prerequisites": "Admitted to Master’s in Education, graduate standing, and advancement to candidacy.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "ERA 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438335",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option"
+      ]
+    },
+    {
+      "code": "SPE 5350",
+      "title": "Professional Induction and Directed Inquiry",
+      "units": "3",
+      "ge": null,
+      "coid": "437612",
+      "description": "Knowledge and skills to facilitate the transition from teacher preparation to professional induction. Focus on teacher performance through inquiry and formative assessment of teaching practices and dispositions. Development of an Individual Induction Plan intended to expand the candidate’s expertise and skills including goals and activities completed throughout the clear program.",
+      "prerequisites": "Admitted to the MA in Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPE 5352",
+      "title": "Advanced Curriculum and Instruction for Students with Disabilities",
+      "units": "3",
+      "ge": null,
+      "coid": "439027",
+      "description": "Advanced study of theory and practice of curriculum and instruction for students with disabilities. Evaluation of current research and educational practices.",
+      "prerequisites": "Admitted to the Preliminary Education Specialist Credential or the MA in Education - Special Education Option.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "SPE 5356",
+      "title": "Comparative Special Education",
+      "units": "3",
+      "ge": null,
+      "coid": "436721",
+      "description": "Comparative study of U.S. special education structures with various special education schooling practices around the world. Exploration of global issues in disability, advocacy, law and regulations, and the implementation of special education services in Pre-K through secondary education classrooms.",
+      "prerequisites": "Admitted to the MA in Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "SPE 5358",
+      "title": "Diversity in Special Education",
+      "units": "3",
+      "ge": null,
+      "coid": "436723",
+      "description": "In-depth study of major issues, topics, and perspectives related to the intersectionality of race, cultural/linguistic, gender, religious, and sexual orientation diversity and disability. Cultural perspectives of disability as they relate to family involvement. History and current issues in the disproportionate representation of minority students in special education.",
+      "prerequisites": "Admitted to Master’s in Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "SPE 5360",
+      "title": "Advanced Seminar in Behavioral Supports",
+      "units": "3",
+      "ge": null,
+      "coid": "437579",
+      "description": "Application of principles of behavior, analysis of behavior, and evidence-based behavioral interventions and supports at an advanced level. Current best practices, ethical considerations, and culturally sustaining practices related to behavioral and mental health supports in the field of education will be examined.",
+      "prerequisites": "Admitted to the MA in Education - Special Education Option.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "SPE 5364",
+      "title": "Advanced Transition Planning Across the Lifespan",
+      "units": "3",
+      "ge": null,
+      "coid": "437817",
+      "description": "Research and application in the coordination of transition planning and collaborative interagency issues related to transition across the lifespan with a focus on person-centered planning.",
+      "prerequisites": "Admitted to the MA in Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "SPE 5366",
+      "title": "Assistive Technology in Special Education",
+      "units": "3",
+      "ge": null,
+      "coid": "437664",
+      "description": "Students will evaluate and apply principles and practices of assistive technology (AT) for students with disabilities. Current law and educational considerations will be articulated. Planning, assessment and implementation of AT hardware, software, augmentative/alternative communication, and universal design strategies will be described. Students will plan and integrate curriculum and inclusion strategies for AT. Must be admitted to the Education Specialist Credential Program.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "SPE 5368",
+      "title": "Dyslexia in the TK-12 Classroom",
+      "units": "3",
+      "ge": null,
+      "coid": "439413",
+      "description": "An overview of the critical components of literacy development, assessment, and intervention as they apply to students with dyslexia. Focusing on (a) the effects of dyslexia on learning to read and write, (b) evidence-based intervention methods to assist students in acquiring reading skills, and (c) methods to support students with dyslexia in accessing general education, grade-level learning, and addressing the historical development of the field, relevant laws, and policies.",
+      "prerequisites": "Admitted to education specialist, multiple subject, or single subject credential program or Education Master’s program in either Special Education or Curriculum and Instruction option; prior coursework on typical literacy development and evidence-based methods for reading instruction; and EDU 5100 , EDU 5200 , EDU 5334 , or an equivalent literacy development and methods course.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    },
+    {
+      "code": "SPE 5370",
+      "title": "Role of the Education Specialist in the 21st Century",
+      "units": "3",
+      "ge": null,
+      "coid": "437613",
+      "description": "Advanced study of the roles of education specialists in 21st century schools. Focus on reflection of professional development, instructional competence, and summative assessment of teaching practices and dispositions through the completion of the Individualized Induction Plan for the Clear Education Specialist Credential. Study of the further development of skills for problem-solving and advancing the issues of advocacy and social justice in special education.",
+      "prerequisites": "Admitted to the MA in Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "education-m-a-curriculum-and-instruction-subplan-option",
+        "education-m-a-special-education-subplan-option"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "education-m-a-curriculum-and-instruction-subplan-option",
+      "name": "Education, M.A. - Curriculum and Instruction Subplan/Option"
+    },
+    {
+      "id": "education-m-a-special-education-subplan-option",
+      "name": "Education, M.A. - Special Education Subplan/Option"
+    },
+    {
+      "id": "adapted-physical-education-added-authorization",
+      "name": "Adapted Physical Education Added Authorization"
+    },
+    {
+      "id": "agriculture-specialist-credential",
+      "name": "Agriculture Specialist Credential"
+    },
+    {
+      "id": "bilingual-authorization",
+      "name": "Bilingual Authorization"
+    },
+    {
+      "id": "intern-credential-program-36-47-units",
+      "name": "Intern Credential Program: 36-47 units"
+    },
+    {
+      "id": "multiple-subject-credential",
+      "name": "Multiple Subject Credential"
+    },
+    {
+      "id": "preliminary-education-specialist-credential-extensive-support-needs",
+      "name": "Preliminary Education Specialist Credential, Extensive Support Needs"
+    },
+    {
+      "id": "preliminary-education-specialist-credential-mild-to-moderate-support-needs",
+      "name": "Preliminary Education Specialist Credential, Mild to Moderate Support Needs"
+    },
+    {
+      "id": "single-subject-credential",
+      "name": "Single Subject Credential"
+    }
+  ]
+}

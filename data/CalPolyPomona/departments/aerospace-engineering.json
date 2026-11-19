@@ -1,0 +1,1444 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:39:50+00:00",
+  "id": "aerospace-engineering",
+  "name": "Aerospace Engineering",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6316",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Aerospace Engineering Department Building 17 Room 2132 | (909) 869-2470 | Department Website | Faculty Directory The mission of the Aerospace Engineering Program is to provide education through hands-on application of theory to produce workforce-ready graduates for a diverse society. Graduates contribute immediately, effectively, and ethically to the development of aerospace products and possess the educational foundations for career growth in industry and academia, with innovation and leadership. The department’s vision is to be a leader in producing nationally recognized aerospace engineers who contribute to national defense, space exploration, commercial aerospace, and academia through a learn-do-become educational model. The department upholds Cal Poly Pomona’s polytechnic identity through a rigorous curriculum integrating aerodynamics, propulsion, structures, flight mechanics, controls, and systems engineering. Faculty engage students through applied learning rooted in strong industry connections and the use of professional tools such as MATLAB, SolidWorks, NASTRAN, and Fluent. Access to specialized aerospace laboratories, simulation environments, and research-focused activities reinforces a culture of technical excellence, innovation, and ethical responsibility. Students benefit from hands-on labs beginning in the first year, advancing to complex capstone projects in Aeronautics or Astronautics. Engagement in professional organizations, undergraduate research, internships, and field testing of aerospace systems provides practical experience and networking opportunities. These experiences prepare graduates to enter the aerospace workforce",
+  "courses": [
+    {
+      "code": "ARO 1011L",
+      "title": "Introduction to Aeronautics and Air Propulsion Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436385",
+      "description": "History of fixed- and rotary-wing aircraft and aircraft propulsion development. Contributions of aerospace engineering to society, ethical factors, standards and expectations in aerospace engineering. Units and dimensions and dimensionless coefficients. Forces, pressures, generation of lift, drag and aerodynamic moments. Design characteristics and performance of current aircraft and aircraft piston and turbine propulsion systems. Aircraft controls and piloting techniques. Aeroelasticity concepts. Aerospace structural materials. Aircraft manufacturing methods. Radio-controlled aircraft project. Wind tunnel test projects and model scaling. Jet engine test project. Corequisite(s): MAT 114 or MAT 1140 .",
+      "prerequisites": "ARO Majors only.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 1021L",
+      "title": "Introduction to Astronautics and Rocket Propulsion Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436392",
+      "description": "History of missile, rocket, spacecraft and rocket propulsion development. The role of the aerospace engineer in industry, government, and the university. The impact of political considerations on the space program. Design and mission characteristics of current launch vehicles, spacecraft and propulsion. Propulsion system thrust and performance. Launch performance, boost and reentry trajectories, and orbits. Orbital simulation methods. Launch windows and rendezvous. Spacecraft mission design and configuration. Spacecraft guidance and control techniques. Booster design. Solid-propelled engine and rocket flight test projects. Compressed-air thrust project. Corequisite(s): MAT 114 or MAT 1140 .",
+      "prerequisites": "ARO Majors only.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438060",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 2011L",
+      "title": "Fundamentals of Systems Engineering and Design Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436393",
+      "description": "History, purpose and science of systems engineering. The system life cycle and systems thinking. Needs and requirements analysis. Risk and opportunity management. Consideration of ethical, social, economic contemporary issues and environmental factors on system design constraints. Ethics codes in aerospace industry. System decomposition, design, trade study and down selection processes. Model based systems engineering methods. Conceptual and preliminary aircraft and space vehicle concept design and sizing methods. Aircraft constraint diagram conceptual design project using wind and water tunnels testing and test results. Program execution, tracking and control. Interface control, documentation and configuration management. Principles of technical writing. Team leadership principles. Team based system design project and presentations.",
+      "prerequisites": "ARO Major; C or better in ARO 1011L , or ARO 101L and ARO 103L; and C or better in PHY 1510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 2021L",
+      "title": "Introduction to Aerospace Computational Methods Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436394",
+      "description": "An introduction to computer science, programming, and visualization for students in the Aerospace Engineering program, with an emphasis in MATLAB. Computational techniques required to solve aerospace related problems including simple algorithms for solving engineering problems, data structures and plotting, the use of root-finding methods, and introduction to aerospace related software.",
+      "prerequisites": "ARO Major; C or better in MAT 1150 ; and C or better in PHY 1510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 2041",
+      "title": "Engineering Statics",
+      "units": "3",
+      "ge": null,
+      "coid": "436395",
+      "description": "Cross Listed as: CE 2041 Two & three-dimensional equilibrium of particles & rigid bodies. Properties of areas including centroids, centers of gravity, & moments of inertia. Distributed loads. Analysis of 2D & 3D trusses, frames & machines. Static equilibrium & statically indeterminate systems. Principles of friction. Simplified load distributions on aircraft and rockets. Theory and application of principles on aircraft and rocket structures.",
+      "prerequisites": "C- or better in MAT 1150 , MAT 115, or MAT 130; C or better in PHY 1510 or PHY 131; and C of better in PHY 1510L or PHY 131L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 2150",
+      "title": "Vector Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "436397",
+      "description": "Cross Listed as: ME 2150 Rectilinear and curvilinear motion of particles. Kinematics & kinetics. Planar motion of rigid bodies in an inertial reference frame using Cartesian, normal-tangential and polar coordinate systems. Newton’s laws of motion. Work and energy including kinetic and potential energy; Linear and angular impulse and momentum. Direct and oblique central impact. Mass moments of inertia. Fixed-axis rotation and general plane motion of rigid bodies. External loads, inertia forces, load factors & V-n diagrams on aircraft. Theory and applications applied to aircraft and rocket structures.",
+      "prerequisites": "C- or better in ME 2141 or ME 214, or C or better in ARO 2041 or CE 2041 ; and C or better in MAT 1150 , MAT 1150C, or MAT 116.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 2311",
+      "title": "Elements of Avionics",
+      "units": "2",
+      "ge": null,
+      "coid": "436398",
+      "description": "Introduction to theories describing a wide array of topics and provides the language and understanding necessary for communicating across the interdisciplinary engineering teams of today. Topics include electrical principles, DC and AC circuit analysis, sensing, data acquisition, and control using analog and digital circuits and microcontrollers. Corequisite(s): ARO 2311L .",
+      "prerequisites": "ARO Major; C or better in PHY 133 or PHY 1520 ; and C or better in MAT 216, MAT 224, or MAT 2240 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "ARO 2311L",
+      "title": "Elements of Avionics Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436399",
+      "description": "Hands-on practices related to electrical principles, DC and AC circuit analysis, sensing, data acquisition, and control using analog and digital circuits and microcontrollers. Corequisite(s): ARO 2311 .",
+      "prerequisites": "ARO Major; C or better in PHY 133 or PHY 1520 ; and C or better in MAT 216, MAT 224, or MAT 2240 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 2900",
+      "title": "Aerospace Project Experience",
+      "units": "1",
+      "ge": null,
+      "coid": "483809",
+      "description": "Participation in an aerospace engineering project using experimental and/or computational approaches. Project results presented in a final, formal group report. Project to be arranged by students with an appropriate Aerospace Engineering faculty member who is the project supervisor.",
+      "prerequisites": "ARO majors, and freshman or sophomore standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department."
+    },
+    {
+      "code": "ARO 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438061",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438062",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438063",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 3011",
+      "title": "Fluid Dynamics and Low-Speed Aerodynamics",
+      "units": "4",
+      "ge": null,
+      "coid": "436400",
+      "description": "Pressure distribution in a fluid. Control volume and differential approaches to fluid flow analysis. Development and applications of Navier-Stokes equations. Potential flow theory. Dimensional analysis and similarity. Viscous flow in ducts. Biot-Savart law. Panel methods. Thin airfoil theory. Lifting-line theory. Induced drag. Numerical aerodynamics of airfoils and wings. Boundary-Layer theory. Skin friction drag. Propeller theories. Working knowledge of a high-level computer language is required. Corequisite(s): ARO 3261 .",
+      "prerequisites": "ARO Major; C or better in ARO 2021L ; C or better in MAT 2240 , MAT 224, or MAT 216; C or better in ARO 2150 or ME 215; and C or better in ARO 3180 or MAT 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 3031L",
+      "title": "Model Based Systems Engineering and Knowledge Modeling",
+      "units": "1",
+      "ge": null,
+      "coid": "442743",
+      "description": "Introduction to model-based systems engineering using a three-dimensional orthogonal (3DO) tensor framework. Knowledge modeling concepts including ontologies, semantic triples, and the Ontology Web Language (OWL). Application of the 3DO framework to operational, functional, and physical architectures for aerospace systems and program management. Emphasis on how knowledge modeling improves requirements definition, communication, and digital engineering integration.",
+      "prerequisites": "ARO 2011L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 3090",
+      "title": "Orbital Mechanics",
+      "units": "3",
+      "ge": null,
+      "coid": "435845",
+      "description": "Orbital mechanics for space mission and trajectory design. Topics include the two-body problem, conic sections, orbits in 3-dimensions, ground track of satellite orbits, orbital maneuvers, orbital transfers, relative motion and rendezvous, interplanetary transfers, and gravity assists mission.",
+      "prerequisites": "ARO Major; C or better in ARO 1021L , or ARO 102L and ARO 203L; and C or better in ARO 2150 or ME 215.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 3111",
+      "title": "Gas Dynamics and High-Speed Aerodynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "436401",
+      "description": "Governing equations of fluid dynamics for compressible flow. Normal shock waves. Oblique shock waves. Expansion waves. Quasi-one-dimensional flow. The velocity potential equation. Compressibility correction rules for subsonic flows. Conical flow. Transonic flow. Airfoils and wings in supersonic flight. Wave drag. Design considerations for high-speed aircraft.",
+      "prerequisites": "ARO Major and C or better in ARO 3011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 3120",
+      "title": "Aircraft Jet Propulsion",
+      "units": "3",
+      "ge": null,
+      "coid": "435876",
+      "description": "Ideal cycle analysis of ramjet, turbojet, turbofan and turboprop. Afterburning. Cycle analysis with losses. Nonrotating components: diffusers, nozzles and combustors. Rotating components: compressors, fans and turbines. Fanno and Rayleigh flows. Component matching and engine performance.",
+      "prerequisites": "ARO major and C or better in ARO 3111 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 3180",
+      "title": "Advanced Engineering Mathematics",
+      "units": "2",
+      "ge": null,
+      "coid": "435846",
+      "description": "Vector differential calculus. Vector integral calculus. Integral theorems. Complex functions. Complex integration. Complex Taylor and Laurent series. Residue integration. Conformal mappings. Complex analysis and potential theory. Aerospace applications.",
+      "prerequisites": "ARO Major, and C or better in MAT 215 or MAT 2140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 3191",
+      "title": "Space Environment",
+      "units": "3",
+      "ge": null,
+      "coid": "436402",
+      "description": "The space environment and its impact on spacecraft operations. Non-uniform gravitational fields, aerodynamic drag effects including aerobraking, solar heating and pressure, radiation, electrical issues, orbital debris. Considerations for special orbits. On-board disturbances. Spacecraft thermal control, life support systems. Near planet environments. The transition from orbital to aerodynamic motion.",
+      "prerequisites": "ARO Major, and C or better in ARO 309 or ARO 3090 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 3220",
+      "title": "Aerospace Feedback Control Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435909",
+      "description": "Mathematical models of systems. Laplace transformations. Feedback control systems: characteristics, performance, stability. Root locus method. Frequency response methods. Stability in the frequency domain. Time domain analysis. Design and compensation of aerospace feedback control systems. Corequisite(s): ARO 3220L .",
+      "prerequisites": "ARO Major; C or better in MAT 2240 , MAT 224, or MAT 216; and C or better in ARO 3180 or MAT 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 3220L",
+      "title": "Aerospace Feedback Control Systems Laboratory",
+      "units": "2",
+      "ge": null,
+      "coid": "435912",
+      "description": "Laboratory course integrating feedback control principles with avionics instrumentation and implementation. Students conduct experiments in modeling, analysis, and control of dynamic systems, emphasizing system response, stability, and performance in both time and frequency domains. Practical applications include electrical circuits, sensors, data acquisition, and microcontrollers used for measurement and control of aerospace systems. The course bridges control theory with avionics hardware and software practices essential for modern aerospace system development and testing. Corequisite(s): ARO 3220 .",
+      "prerequisites": "ARO major, C or better in MAT 2240 , and C or better in ARO 3180 or MAT 3180 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 3261",
+      "title": "Aerospace Structural Mechanics I",
+      "units": "3",
+      "ge": null,
+      "coid": "436403",
+      "description": "Fundamental concepts of stress and strain including Hooke’s Law. Axial and shear stress. Stress-strain diagrams. Stress concentrations. Torsional stress of round, non-round, and thin-walled sections. Shear and bending moment diagrams. Elastic bending stresses in beams. Bending about non-principal axes. Deflection of beams using singularity functions. Shear stress, shear flow and shear center in solid shapes and thin-walled members. Transformations of stress & strain, principal stresses and Mohr’s circle. Failure theories, including interaction equations. Strain gage relations. Membrane stresses in thin-walled pressure vessels. Limit and ultimate loads, factors of safety, and margin of safety. Mechanical properties of aerospace materials. Stability of columns. Plastic bending & torsion. Introduction to strain energy and to Castigliano’s Theorem.",
+      "prerequisites": "ARO Major; and C or better in ARO 2041 , ME 214, or CE 2041 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 3271",
+      "title": "Aerospace Structural Mechanics II",
+      "units": "3",
+      "ge": null,
+      "coid": "436404",
+      "description": "Shear, torsion and bending of thin-walled open and closed sections including single & multi-cell beams. Stability of flat & curved plates and cylinders. Crippling. Effective width of thin sheet. Euler Johnson Allowable. Fatigue under cyclic & fluctuating stresses. The endurance limit. Miner’s rule. Introduction to Fracture Mechanics. Aerospace Fasteners. Analysis of 2D fastener patterns & of welded connections. Static & fatigue analysis of preloaded bolted joints. Fatigue of welded joints. Analysis of shear-resistant beams. Diagonal tension of flat-webbed beams.",
+      "prerequisites": "ARO Major; and C or better in ARO 3261 , or ARO 326 and ARO 327.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 3281",
+      "title": "Aerospace Structural Analysis and Design",
+      "units": "3",
+      "ge": null,
+      "coid": "436405",
+      "description": "Simplified aircraft and rocket design loads and structural idealization. Classical hand-analysis techniques for stress analysis of aircraft fuselage, wing, and floor structures. Idealization and analysis of typical structural details.",
+      "prerequisites": "ARO Major, and C or better in ARO 329 or ARO 3271 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 3570L",
+      "title": "Aerospace Structures Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435925",
+      "description": "Experimental evaluation of materials & structures. Tension, compression, torsion, bending, shearing and combined loading. Evaluation of predictions versus test results. Test measurement techniques including use of strain gages. Photoelastic methods. Technical communication through engineering report writing. Structural fabrication methods and practice.",
+      "prerequisites": "ARO Major, and C or better in ARO 326 or ARO 3261 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438064",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 4011",
+      "title": "Thermodynamics and Heat Transfer",
+      "units": "4",
+      "ge": null,
+      "coid": "436406",
+      "description": "Thermodynamic properties and processes; equations of state; work and heat; the first law of thermodynamics; the second law of thermodynamics and entropy; Carnot cycle; and Brayton cycle. Conduction, convection and radiation heat transfer. Heat diffusion equation. 1-D, 2-D and 3-D conduction. Transient conduction. Finite difference methods in heat transfer. Heat, mass and momentum transfer by convection in external and internal flows. Radiation heat transfer analysis.",
+      "prerequisites": "ARO Major, and C or better in ARO 301 or ARO 3011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4020",
+      "title": "Numerical Methods",
+      "units": "3",
+      "ge": null,
+      "coid": "435878",
+      "description": "Knowledge of numerical methods for engineers. The theory of numerical methods and analysis covers topics of linear algebra, root finding methods, interpolation and approximation methods, integration and differentiation concepts, and solution of ordinary differential equations. Students practice skills in engineering analysis and problem solving, with a focus in MATLAB.",
+      "prerequisites": "ARO Major; and C or better in MAT 2240 , MAT 224, or MAT 216.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4050",
+      "title": "Aircraft Stability and Control",
+      "units": "3",
+      "ge": null,
+      "coid": "435916",
+      "description": "Static stability, stability derivatives. Airplane controls. Airplane equations of motion. Dynamic stability. Transfer functions. Airplane response and simulation. Flying qualities. Automatic control and autopilots.",
+      "prerequisites": "ARO major, ARO 3220L , C or better in ARO 3011 , and C or better in ARO 3220.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4060",
+      "title": "Vibrations and Dynamics of Aerospace Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435847",
+      "description": "Topics covered include: three-dimensional vector dynamics of aerospace systems; linear and angular momentum, Lagrangian dynamics, free and excited vibration of mechanical systems, vibration of systems with two or more degrees of freedom, vibration of continuous systems, and an introduction to random vibration.",
+      "prerequisites": "ARO Major, C or better in ARO 2150 or ME 215, and C or better in ARO 3180 or MAT 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4070",
+      "title": "Trajectory Design",
+      "units": "3",
+      "ge": null,
+      "coid": "435848",
+      "description": "Trajectory design and optimization. Methods covered can be applied to various aerospace systems but primarily centered around space mission design. Explores simulation of trajectory in complex dynamical systems using numerical techniques. The process of designing trajectories for mission requirements and optimization. Understand and use simple optimization methods to design trajectories for space missions.",
+      "prerequisites": "ARO Major, C or better in ARO 309 or ARO 3090 , and C or better in ARO 406 or ARO 4060 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4080",
+      "title": "Finite Element Analysis of Structures",
+      "units": "3",
+      "ge": null,
+      "coid": "435849",
+      "description": "Fundamentals of finite elements, including an introduction to the displacement method, development of simple computer codes to implement the method, analysis of simple one and two dimensional structural elements using hand solutions and using finite element software, and basics of structural idealization for finite element analysis in industry. Introduction to NASTRAN.",
+      "prerequisites": "ARO Major, and C or better in ARO 326 or ARO 3271 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4090",
+      "title": "Space Vehicle Dynamics and Control",
+      "units": "3",
+      "ge": null,
+      "coid": "435850",
+      "description": "Three dimensional rigid-body motion, quaternions, space vehicle motion, and spacecraft attitude dynamics. Topics of spacecraft attitude maneuvering such as de-spinning of satellites, bang-bang control, reaction wheels, control-moment gyros (CMGs), and thrusters. Some laboratory demonstrations and experiments with gyros and CMGs are included.",
+      "prerequisites": "ARO major, ARO 3220L , C or better in ARO 3090 , and C or better in ARO 3220 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4120",
+      "title": "Wing Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "435877",
+      "description": "Potential flow theory. Complex mappings; Kutta-Joukowski transformation. Chordwise pressure distributions; thin airfoil theory. Sectional force and moment coefficients. Symmetric and asymmetric spanwise loading; basic and additional lift effects. Twist. Wing force and moment coefficients. High lift devices.",
+      "prerequisites": "ARO Major, C or better in ARO 305 or ARO 3011 , and C or better in ARO 311 or ARO 3111 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4140",
+      "title": "Rocket Propulsion",
+      "units": "3",
+      "ge": null,
+      "coid": "435852",
+      "description": "Dual Listed as: ARO 5140 Topics include principles of rocket propulsion, combustion chemistry, liquid-fuel rocket engines, solid-fuel rocket engines, and electrical propulsion. Performance of rocket engines and optimization of single- and multi-stage rockets. Fanno and Rayleigh flows.",
+      "prerequisites": "ARO Major, and C or better in ARO 3111 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4160",
+      "title": "Principles of Turbomachinery",
+      "units": "3",
+      "ge": null,
+      "coid": "439566",
+      "description": "Dual Listed as: ARO 5160 Introduction to fundamentals of turbomachinery, momentum and energy equations, jet propulsion, Euler equation, incompressible and compressible flows, diffusers and nozzles, centrifugal compressors, multistage axial-flow compressors, multistage axial-flow turbines. Lectures/problem-solving.",
+      "prerequisites": "C or better in ARO 4011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4180",
+      "title": "Computational Fluid Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435899",
+      "description": "Classification of partial differential equations. Elements of finite-difference methods. Stability analysis. Algorithms for numerical solution of parabolic, elliptic and hyperbolic partial differential equations. Finite volume and finite element methods. Applications in fluid dynamics, gas dynamics and heat transfer. Working knowledge of a high-level computer language required. Corequisite(s): ARO 3111 or ARO 311.",
+      "prerequisites": "ARO Major, and C or better in ARO 301 or ARO 3011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4200",
+      "title": "Aerospace Program Management",
+      "units": "3",
+      "ge": null,
+      "coid": "435854",
+      "description": "Elements of management. Organization of corporations, engineering groups and government agencies. Utilization of marketing and internal research funds. Program management. Participative management. Managing technical personnel. Program Management Plan team project and presentations for Senior Design.",
+      "prerequisites": "ARO Major, and C or better in ARO 201L or ARO 2011L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4210",
+      "title": "Helicopter Aerodynamics and Performance",
+      "units": "3",
+      "ge": null,
+      "coid": "435935",
+      "description": "Dual Listed as: ARO 5210 The development of rotary-wing aircraft and the helicopter. Review of blade element/momentum theory; hovering and vertical flight theory; autorotation; performance in forward flight.",
+      "prerequisites": "ARO Major, C or better in ARO 405 or ARO 4050 , and C or better in ARO 404 or ARO 3111 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4220",
+      "title": "Robust Control of Nonlinear Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435901",
+      "description": "Dual Listed as: ARO 5220 Review of classical controls. Introduction to robust and nonlinear control. Nonlinear systems. Nonlinear control, describing functions, and feedback linearization. Uncertainty in plant dynamics, loop shaping, robust control, and Lyapunov stability. Application to aerospace vehicles.",
+      "prerequisites": "ARO Major, C or better in ARO 322 or ARO 3220 , and C or better in ARO 322L or ARO 3220L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4260",
+      "title": "Surface Transportation and Power Generation Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435942",
+      "description": "Aerospace fundamentals of high-speed surface systems. Station to station concepts. Air cushion and tubeflight systems. Airload determination. Drag reduction. Propulsion systems and braking. Guideway considerations, stability and control.",
+      "prerequisites": "ARO Majors, and C or better in ARO 305 or ARO 3011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4270",
+      "title": "Structural Dynamics and Aeroelasticity",
+      "units": "3",
+      "ge": null,
+      "coid": "435861",
+      "description": "An introduction to structural dynamics, static aeroelasticity, aeroelastic flutter, structural damping, and aeroacoustics.",
+      "prerequisites": "ARO Major, C or better in ARO 327 or ARO 3261 , and C or better in ARO 2150 or ME 215.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4280",
+      "title": "Hypersonic Aerodynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "439502",
+      "description": "Dual Listed as: ARO 5280 Two- and three-dimensional flow fields. Hypersonic small disturbance and Newtonian impact theories and application. Boundary layer interaction with the inviscid flow field. Real gas phenomena. Blunt body and conical flow fields; minimum drag bodies; aerodynamic analysis of complete configurations.",
+      "prerequisites": "C or better in ARO 3111 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "ARO 4330",
+      "title": "Digital Flight Control Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435902",
+      "description": "Dual Listed as: ARO 5330 Discrete time systems, difference equations, Z-transform theory, sampled data systems, mathematical modeling of sampled data systems, data reconstruction, analysis of discrete systems, transient and steady-state specifications, state estimation, controllability, observability, design of digital control systems, PID controllers, phase-lead and phase-lag designs, application to flight control systems.",
+      "prerequisites": "ARO Major, C or better in ARO 322 or ARO 3220 , and C or better in ARO 322L or ARO 3220L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4351L",
+      "title": "Wind Tunnel Testing Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436407",
+      "description": "Selected experiments in fluid dynamics and heat transfer in aerospace engineering. Pressure, temperature and loads measurements. Test plan formulation. Test section calibration and selected experiments in a Subsonic Wind Tunnel, using a computer-based data acquisition system. Test section calibration and selected experiments in high-speed aerodynamics in a Supersonic Wind Tunnel, using a computer-based data acquisition system. Teamwork. Laboratory report writing. Corequisite(s): ARO 3111 , or ARO 305 and ARO 404.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4360",
+      "title": "Mechanics of Composite Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "435865",
+      "description": "An introduction to mechanics of composite materials, with a focus on fiber-reinforced composites. Micromechanics and macromechanics of a lamina, macromechanics of a laminate including classical lamination theory, strength of lamina, laminate and constituents, analysis and test procedures, special cases, limitations and emergent research will all be covered. Introduction to interlaminar stresses, fatigue and fracture mechanics, and bending, buckling, and vibration of plates. Hand analysis procedures and development of computer codes for analysis.",
+      "prerequisites": "ARO Major, and C or better in ARO 329 or ARO 3271 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4430",
+      "title": "Aircraft System Identification",
+      "units": "3",
+      "ge": null,
+      "coid": "435904",
+      "description": "Dual Listed as: ARO 5430 Review of flight dynamics. Introduction to aircraft system identification in time- and frequency-domain. Aircraft mathematical model. Estimation theory. Regression methods and least squares. Maximum likelihood methods. Flight data collection. Data processing and analysis. Application of MATLAB and CIFER software for system identification",
+      "prerequisites": "ARO Major, and C or better in ARO 405 or ARO 4050 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4450",
+      "title": "Optimal Control and Estimation",
+      "units": "3",
+      "ge": null,
+      "coid": "435905",
+      "description": "Dual Listed as: ARO 5450 Introduction to optimal control, linear quadratic regulator (LQR), algebraic Riccati equation, design of multi-input/multi-output controllers, advance control techniques and advanced control structures, output feedback, state estimation, observers, Kalman filters, linear quadratic Gaussian (LQG) control, application to flight control systems.",
+      "prerequisites": "ARO Major, C or better in ARO 322 or ARO 3220 , and C or better in ARO 322L or ARO 3220L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4460",
+      "title": "Orbit Determination and Estimation",
+      "units": "3",
+      "ge": null,
+      "coid": "435868",
+      "description": "Dual Listed as: ARO 5460 A brief review of the two-body dynamics and space environment; fundamentals of probability and statistics; introduction to orbit problem. Fundamentals of orbit determination techniques: the least squares solution, the minimum variance estimate, maximum likelihood and Bayesian estimation, batch and sequential estimation, and the Gauss-Markov process. Observation techniques and models.",
+      "prerequisites": "ARO Major, C or better in MAT 318 or ARO 3180 , and C or better in ARO 309 or ARO 3090 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4510",
+      "title": "Model-Based Systems Architecture",
+      "units": "3",
+      "ge": null,
+      "coid": "435939",
+      "description": "Describe various architecture frameworks (Primarily DODAF). Understanding customer needs by building discrete-event operational models. Using operational models to elicit system external and human interfaces. Deriving system states and modes. Developing re-useable functional system architectures and deriving performance requirements. Defining physical system architectures that implement functions and meet performance requirements. Design Analysis Cycles. Trade study definition relative to architecture models. Driving safety assessment from operational, functional, and physical system models.",
+      "prerequisites": "ARO Majors, and C or better in ARO 201L or ARO 2011L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ARO 4520",
+      "title": "Optimization-Based Aircraft Flight Control Design",
+      "units": "3",
+      "ge": null,
+      "coid": "438902",
+      "description": "Dual Listed as: ARO 5520 Discussion of theory and simulation, an introduction to optimization-based aircraft flight control design. Topics include review of frequency response, review of classical, multi-loop and optimal control schematics and methods, design requirements/specifications in time- and frequency-domains, sources of design requirements, simulation requirements, linear vs. nonlinear control, multi-objective design optimization, sensitivity and robustness analysis, design-tradeoffs, case studies, and application to the UAV flight control.",
+      "prerequisites": "C or better in ARO 4050 or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 4711L",
+      "title": "Space Launch Vehicle Design Laboratory I",
+      "units": "2",
+      "ge": null,
+      "coid": "436408",
+      "description": "Space launch vehicle design philosophy and history. System and subsystem conceptual design. Mission planning, trajectory injection requirements. Rocket equation and staging. Gravity, drag, and propulsion losses. Trajectory simulation, trade studies and optimization. Interior layout, mass properties. Ground and flight loads. Pressurized structures, stress analysis. Stability, navigation, control. Structure flexibility, slosh. Manufacturing, launch pad services, cost estimating. Team design, proposal writing. Oral and written presentation skills. Corequisite(s): ARO 414 or ARO 4140 .",
+      "prerequisites": "ARO Major, C or better in ARO 201L and ARO 2011L , C or better in ARO 329 or ARO 3271 , C or better in ARO 4090 , and C or better in ARO 401 or ARO 4011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4721L",
+      "title": "Space Launch Vehicle Design Laboratory II",
+      "units": "2",
+      "ge": null,
+      "coid": "436409",
+      "description": "Space launch vehicle design refinement. System and subsystem preliminary design. Mission planning, trajectory optimization. Trade studies. Operations, refined cost estimating. Team design. Proposal writing. Group oral and written presentations judged by industry experts.",
+      "prerequisites": "ARO Major; C or better in ARO 4711L , or ARO 471L and ARO 472L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4731",
+      "title": "Space Launch Vehicle Design",
+      "units": "4",
+      "ge": null,
+      "coid": "439501",
+      "description": "Space launch vehicle design philosophy and history. System and subsystem conceptual design. Mission planning, trajectory injection requirements. Rocket equation and staging. Gravity, drag, and propulsion losses. Trajectory simulation, trade studies and optimization. Interior layout, mass properties. Ground and flight loads. Pressurized structures, stress analysis. Stability, control, structure flexibility, slosh. Manufacturing, launch pad services, cost estimating. Team design, proposal writing.",
+      "prerequisites": "C or better in ARO 4811L or ARO 4911L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "ARO 4811L",
+      "title": "Space Vehicle Design Laboratory I",
+      "units": "2",
+      "ge": null,
+      "coid": "436410",
+      "description": "Space vehicle design philosophy and history. System and subsystem conceptual design. Mission planning. Trajectories, trade studies and optimization. Structures, interior layout, mass properties. Propulsion, power, thermal analysis, command and data handling, telecommunications. Navigation, stability, control. Testing, cost estimating. Team design, proposal writing. Oral and written presentation skills. Corequisite(s): ARO 414 or ARO 4140 .",
+      "prerequisites": "ARO Major, C or better in ARO 201L or ARO 2011L , C or better in ARO 329 or ARO 3271 , C or better in ARO 4090 , and C or better in ARO 401 or ARO 4011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4821L",
+      "title": "Space Vehicle Design Laboratory II",
+      "units": "2",
+      "ge": null,
+      "coid": "436411",
+      "description": "Space vehicle design refinement. System and subsystem preliminary design. Mission planning, trajectory optimization. Trade studies. Operations, refined cost estimating. Team design. Proposal writing. Group oral and written presentations judged by industry experts.",
+      "prerequisites": "ARO Major; C or better in ARO 4811L , or ARO 481L and ARO 482L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4900",
+      "title": "Project-Based Learning in Aerospace Engineering",
+      "units": "1",
+      "ge": null,
+      "coid": "483810",
+      "description": "Participation in an aerospace engineering project using experimental or computational approaches including a literature review. Project results presented in a final, formal group report. Project to be arranged by students with an appropriate Aerospace Engineering faculty member who is the project supervisor.",
+      "prerequisites": "ARO major, and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "ARO 4911L",
+      "title": "Air Vehicle Design Laboratory I",
+      "units": "2",
+      "ge": null,
+      "coid": "436412",
+      "description": "Air vehicle design philosophy and history. System and subsystem conceptual design. Vehicle sizing, constraint diagrams. Payload, cargo, passenger accommodation. Range, weight estimation. Wing, fuselage, tail design. Powerplant selection. Estimation of drag and lift. High-lift systems. Takeoff and landing performance. Flight envelope, V-n diagram. Manufacturing and test. Cost estimation. Team design, job searching, proposal writing. Oral and written presentation skills. Corequisite(s): ARO 312 or ARO 3120 .",
+      "prerequisites": "ARO Major, C or better in ARO 201L or ARO 2011L , C or better in ARO 329 or ARO 3271 , C or better in ARO 401 or ARO 4011 , and C or better in ARO 405 or ARO 4050 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4921L",
+      "title": "Air Vehicle Design Laboratory II",
+      "units": "2",
+      "ge": null,
+      "coid": "436413",
+      "description": "Air vehicle design refinement. System and subsystem preliminary design. Mission planning, trajectory optimization. Trade studies. Refined cost estimating. Team design. Proposal writing. Group oral and written presentation presentations judged by industry experts.",
+      "prerequisites": "C or better in ARO 4911L , or ARO 491L and ARO 492L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-b-s",
+        "aerospace-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ARO 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438065",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438066",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438067",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438068",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 5020",
+      "title": "Numerical Methods",
+      "units": "3",
+      "ge": null,
+      "coid": "442735",
+      "description": "Provides advanced knowledge of numerical methods for engineers. The theory of numerical methods and analysis covers topics of linear algebra, root finding methods, interpolation and approximation methods, integration concepts, and solution of ordinary differential equations. Students practice skills in engineering analysis and problem solving.",
+      "prerequisites": "MS Aerospace Engineering major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5060",
+      "title": "Aircraft Structures",
+      "units": "3",
+      "ge": null,
+      "coid": "435926",
+      "description": "Aircraft design loads & structural configuration. Aircraft weight & balance. Stress analysis techniques for aircraft fuselage, wing, & other components. Important details in structural design. Introduction to fatigue, damage tolerance & fail-safe design. Certification of Aerospace Structures.",
+      "prerequisites": "MS ARO Major; and Undergraduate coursework in engineering mechanics, statics as well as dynamics and strength of materials Equivalent to those required in an ABET accredited program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5080",
+      "title": "Finite Element Analysis of Structures",
+      "units": "3",
+      "ge": null,
+      "coid": "435927",
+      "description": "Finite element analysis of structures, including an introduction to the displacement method, development of simple computer codes to implement the method, analysis of simple structural elements using hand solutions and using finite element software, and basics of structural idealization for finite element analysis in industry.",
+      "prerequisites": "MS ARO Major; and ARO 327, ARO 3271 , or undergraduate courses in structural mechanics.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5090",
+      "title": "Astronautics",
+      "units": "3",
+      "ge": null,
+      "coid": "435937",
+      "description": "Orbital mechanics for space mission and trajectory design. Topics include the two-body problem, conic sections, orbits in 3-dimensions, ground track of satellite orbits, orbital maneuvers, orbital transfers, relative motion and rendezvous, interplanetary transfers, and gravity assists mission.",
+      "prerequisites": "MS ARO Majors; and C or better in ME 215, ARO 2150 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5100",
+      "title": "Airbreathing Propulsion System",
+      "units": "3",
+      "ge": null,
+      "coid": "435919",
+      "description": "Thermodynamic cycle analysis of ideal and real engines. Design and performance of inlets, combustors and nozzles. Analysis of compressors and turbines. Engine component matching and prediction of performance. Overall propulsion system performance.",
+      "prerequisites": "MS ARO Majors, and upper division undergraduate courses in thermodynamics and compressible fluid mechanics Equivalent to those required in an ABET accredited program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5140",
+      "title": "Rocket Propulsion",
+      "units": "3",
+      "ge": null,
+      "coid": "435870",
+      "description": "Dual Listed as: ARO 4140 Principles of rocket propulsion. Combustion chemistry. Liquid-fuel rocket engines. Solid-fuel rocket engines. Electrical propulsion.",
+      "prerequisites": "MS ARO Major; and ARO 311, ARO 3111 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5150",
+      "title": "Missile Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435945",
+      "description": "Formulate conceptual tactical missile designs using system engineering principals. Apply theoretical knowledge of aerodynamics, propulsion, structures, guidance and control, aerodynamic heating, and stability and control to synthesize a tactical missile design to specified physical and performance requirements. Analyze the trade space and constraints to provide optimal design configurations. Formulate a tactical missile design that optimizes design constraints and satisfies physical and performance requirements.",
+      "prerequisites": "MS ARO Major, ARO 3011 or ARO 305; ARO 3111 or ARO 311; and ARO 405, ARO 4050 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5160",
+      "title": "Principles of Turbomachinery",
+      "units": "3",
+      "ge": null,
+      "coid": "442733",
+      "description": "Dual Listed as: ARO 4160 Introduction to fundamentals of turbomachinery, momentum and energy equations, jet propulsion, Euler equation, incompressible and compressible flows, diffusers and nozzles, centrifugal compressors, multistage axial-flow compressors, multistage axial-flow turbines. Lectures/problem-solving.",
+      "prerequisites": "C or better in ARO 4011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "ARO 5180",
+      "title": "Computational Fluid Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435936",
+      "description": "Classification of partial differential equations. Elements of finite-difference methods. Stability analysis. Algorithms for numerical solution of parabolic, elliptic and hyperbolic partial differential equations. Finite volume and finite element methods. Applications in fluid dynamics, gas dynamics and heat transfer. Working knowledge of a high-level computer language required.",
+      "prerequisites": "MS ARO Major, C or better in ARO 3011 ,and C or better in ARO 3111 or undergraduate course in low speed aerodynamics.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5210",
+      "title": "Helicopter Aerodynamics and Performance",
+      "units": "3",
+      "ge": null,
+      "coid": "437880",
+      "description": "Dual Listed as: ARO 4210 The development of rotary-wing aircraft and the helicopter. Review of blade element/momentum theory; hovering and vertical flight theory; autorotation; performance in forward flight.",
+      "prerequisites": "MS ARO Major, ARO 305 or ARO 3011 , ARO 404 or ARO 3111 , and ARO 405 or ARO 4050 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5220",
+      "title": "Robust Control of Nonlinear Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435873",
+      "description": "Dual Listed as: ARO 4220 Review of classical controls. Introduction to robust and nonlinear control. Nonlinear systems. Nonlinear control, describing functions, and feedback linearization. Uncertainty in plant dynamics, loop shaping, robust control, and Lyapunov stability. Application to aerospace vehicles.",
+      "prerequisites": "MS ARO Major; and C or better in ARO 322, ARO 3220 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5230",
+      "title": "Structural Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435928",
+      "description": "Structural dynamics of elastic bodies. Longitudinal, transverse and torsional vibrations of structural elements. Vibrations of plates and shells. Approximate methods in dynamics of structures. Unsteady aerodynamics. Finite element modeling of structural dynamics problems.",
+      "prerequisites": "MS ARO Major; and Undergraduate courses in structural analysis, dynamics, and vibrations.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5240",
+      "title": "Linear Systems and Control",
+      "units": "3",
+      "ge": null,
+      "coid": "442742",
+      "description": "State variable representation of linear systems and its relationship to the frequency domain representation using transfer functions and the Laplace transform. Overview of applied linear algebra and transformations. Finite and infinite-dimensional spaces. Abstract vector spaces and their properties. Jordan form and Fredholm alternative. Linearization of nonlinear systems. State transition matrix and solution of the state equation, stability, controllability, observability, state feedback, and state observers. Filters, filter performance and filter design.",
+      "prerequisites": "MS Aerospace Engineering major, ARO 3180 , and ARO 3220 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5280",
+      "title": "Hypersonic Aerodynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435929",
+      "description": "Two- and three-dimensional flow fields. Hypersonic small disturbance and Newtonian impact theories and application. Boundary layer interaction with the inviscid flow field. Real gas phenomena. Blunt body and conical flow fields; minimum drag bodies; aerodynamic analysis of complete configurations.",
+      "prerequisites": "MS ARO Majors and an upper-division course in supersonic aerodynamics.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5330",
+      "title": "Digital Flight Control Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435874",
+      "description": "Dual Listed as: ARO 4330 Discrete time systems, difference equations, Z-transform theory, sampled data systems, mathematical modeling of sampled data systems, data reconstruction, analysis of discrete systems, transient and steady-state specifications, state estimation, controllability, observability, design of digital control systems, PID controllers, phase-lead and phase-lag designs, application to flight control systems.",
+      "prerequisites": "MS ARO Major; and C or better in ARO 322, ARO 3220 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5360",
+      "title": "Mechanics of Composite Materials and Structures",
+      "units": "3",
+      "ge": null,
+      "coid": "439401",
+      "description": "Mechanics of composite materials, with a focus on practical analysis methods and design of laminated composite and sandwich structures. Characterization of the macromechanics behavior of the lamina, and estimation of lamina properties and strengths using a micromechanics approach. Evaluation of composite laminate behavior using Classical Lamination Theory. Lamina and laminate strength, failure criteria and margins of safety. An introduction to Interlaminar stresses, fatigue & fracture mechanics, and bending, buckling, and vibration of plates. Design, testing and repair of composite structures including fabrication and defect detection. Assumptions, limitations and emergent research.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5430",
+      "title": "Aircraft System Identification",
+      "units": "3",
+      "ge": null,
+      "coid": "435875",
+      "description": "Dual Listed as: ARO 4430 Review of flight dynamics. Introduction to aircraft system identification in time- and frequency-domain. Aircraft mathematical model. Estimation theory. Regression methods and least squares. Maximum likelihood methods. Flight data collection. Data processing and analysis. Application of MATLAB and other software for system identification.",
+      "prerequisites": "MS ARO Major; and ARO 405, ARO 4050 , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5450",
+      "title": "Optimal Control and Estimation",
+      "units": "3",
+      "ge": null,
+      "coid": "435871",
+      "description": "Dual Listed as: ARO 4450 Introduction to optimal control, linear quadratic regulator (LQR), algebraic Riccati equation, design of multi-input/multi-output controllers, advance control techniques and advanced control structures, output feedback, state estimation, observers, Kalman filters, linear quadratic Gaussian (LQG) control, application to flight control systems.",
+      "prerequisites": "MS ARO Major; and ARO 322, ARO 3220 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5460",
+      "title": "Orbit Determination and Estimation",
+      "units": "3",
+      "ge": null,
+      "coid": "435872",
+      "description": "Dual Listed as: ARO 4460 A brief review of the two-body dynamics and space environment; fundamentals of probability and statistics; introduction to orbit problem. Fundamentals of orbit determination techniques: the least squares solution, the minimum variance estimate, maximum likelihood and Bayesian estimation, batch and sequential estimation, and the Gauss-Markov process. Observation techniques and models.",
+      "prerequisites": "MS ARO Major; and ARO 309, ARO 3090 , ARO 509, or ARO 5090 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5520",
+      "title": "Optimization-Based Aircraft Flight Control Design",
+      "units": "3",
+      "ge": null,
+      "coid": "438903",
+      "description": "Dual Listed as: ARO 4520 Discussion of theory and simulation, an introduction to optimization-based aircraft flight control design. Topics include review of frequency response, review of classical, multi-loop and optimal control schematics and methods, design requirements/specifications in time- and frequency-domains, sources of design requirements, simulation requirements, linear vs. nonlinear control, multi-objective design optimization, sensitivity and robustness analysis, design-tradeoffs, case studies, and application to the UAV flight control.",
+      "prerequisites": "C or better in ARO 4050 or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 5770",
+      "title": "Aerodynamics of Wings and Bodies",
+      "units": "3",
+      "ge": null,
+      "coid": "435920",
+      "description": "Review of pertinent fluid mechanics and potential flow theory. Perturbation theory. Thin airfoil theory. Unsteady airfoil theory. Slender body theory. 3-D wing theory, steady and unsteady. Supersonic drag and area rule. Transonic aerodynamics and area rule.",
+      "prerequisites": "MS ARO Majors and an upper-division course in subsonic and supersonic aerodynamics.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5780",
+      "title": "Aircraft Stability",
+      "units": "3",
+      "ge": null,
+      "coid": "435924",
+      "description": "General equations of unsteady motion. Stability derivatives. Stability of uncontrolled motion; longitudinal, lateral. Response of the vehicle to actuation of the controls. Flight in turbulent air. Automatic stability and control. Specialization to missiles. Simulation. Inertial cross-coupling. Automatic landing and takeoff. Transfer functions.",
+      "prerequisites": "MS ARO Majors and Aircraft undergraduate courses in classical controls and flight dynamics.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5810",
+      "title": "Spacecraft Design",
+      "units": "3",
+      "ge": null,
+      "coid": "436414",
+      "description": "Space vehicle design philosophy and history. Mission planning, including orbital mechanics, trajectory analysis, trade studies and effects on vehicle design and launch vehicle. Conceptual design practices, including mass allocation, structures, interior layout. Systems analysis of propulsion, power, thermal control, data handling, telecommunications, navigation, stability, and control. Cost estimation practices. Requirements review, proposal preparation and writing. Oral and written presentation skills.",
+      "prerequisites": "MS ARO Major; and undergraduate or graduate courses in Rocket Propulsion, Aerospace Structures, Orbital Mechanics, and Dynamics and Control.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5910",
+      "title": "Aircraft Design",
+      "units": "3",
+      "ge": null,
+      "coid": "436415",
+      "description": "Air vehicle design philosophy, including mission planning and conceptual design. Constraint diagrams for vehicle sizing and propulsion system selection. Preliminary layout of wing, tail, fuselage. Detailed weight breakdown, loads, V-n diagram, and structural design. Takeoff, flight, landing performance, and flight envelope. Stability and control, flying qualities. Economics of mission operations and maintenance. Oral and written presentation skills.",
+      "prerequisites": "MS ARO Majors; and undergraduate or graduate courses in Aerodynamics, Aircraft Propulsion, Aircraft Structures, and Aircraft Stability and Control.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5950",
+      "title": "Boundary Layer Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "435930",
+      "description": "Treatment of Newtonian and non-Newtonian fluids in the laminar and turbulent regimes. Positive and negative pressure gradients. Development of the thermal boundary layer. Some exact and inexact solutions. Wedge flow.",
+      "prerequisites": "MS ARO Major, and ARO 3011 or ARO 301.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438069",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438070",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438071",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438072",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438073",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ARO 6950",
+      "title": "Master’s Degree Project",
+      "units": "2",
+      "ge": null,
+      "coid": "442734",
+      "description": "Continuation of work on Master’s Degree Project after completion of ARO 6910. At course conclusion, student must present the project in acceptable written and oral form to a faculty committee within Department. Project proposal, plan, and schedule must be approved by faculty advisor. Regular meetings and discussions with faculty advisor continue until completion of project. Credit is assigned upon acceptance of the project by the defense committee.",
+      "prerequisites": "Graduate standing, advancement to Candidacy, completion of all relevant coursework, and an approved project topic by the faculty advisor.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 6970",
+      "title": "Comprehensive Examination",
+      "units": "0",
+      "ge": null,
+      "coid": "442794",
+      "description": "Comprehensive examination to satisfy the culminating experience requirement of the Master of Science in Aerospace Engineering (MSAE) degree. May enroll after completing the required course work. May be taken up to two times.",
+      "prerequisites": "MS Aerospace Engineering major and consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "aerospace-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ARO 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438074",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "aerospace-engineering-b-s",
+      "name": "Aerospace Engineering, B.S."
+    },
+    {
+      "id": "aerospace-engineering-m-s",
+      "name": "Aerospace Engineering, M.S."
+    },
+    {
+      "id": "aerospace-engineering-b-s-roadmap-4-year-125-units",
+      "name": "Aerospace Engineering, B.S.: Roadmap 4-year (125 units)"
+    }
+  ]
+}

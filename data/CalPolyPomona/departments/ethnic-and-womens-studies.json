@@ -1,0 +1,1244 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:52:12+00:00",
+  "id": "ethnic-and-womens-studies",
+  "name": "Ethnic And Womens Studies",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6313",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Ethnic and Women’s Studies Department Building 94 Room 363 | (909) 869-3593 | Department Website | Faculty Directory As a diverse learning community, we are committed to a comparative and expansive examination of race, ethnicity, gender and sexuality and the ways they are constituted and transformed over time. We prepare students to manage, nurture, advocate for, and shape an open democratic society where diversity is valued and social justice principles are embodied. The Department of Ethnic & Women’s Studies (EWS) empowers students to understand and analyze the complex intersections of identities through an interdisciplinary lens encompassing history, culture, and contemporary social issues. With curricular pathways including African American Studies, Asian Pacific Islander Studies, Chicana/o Latina/o Studies, Native American Studies, and Gender & Sexuality Studies, EWS cultivates a scholarly culture rooted in social justice and critical consciousness. Faculty actively engage students with community-based research and service-learning, integrating theory with practice in meaningful and transformative ways. Students in EWS benefit from immersive experiences via service-learning courses, internships, and a senior capstone project that emphasizes community engagement. Programs like the NATIVE Pipeline provide mentorship and support for Native American students, linking K-12 outreach with university-level success. The Gender, Ethnicity, and Multicultural Student (GEMS) Club and the Diversity Ambassador Program, along with campus cultural centers, host workshops, cultural events, and advocacy campaigns that enhance civic leadership and academic i",
+  "courses": [
+    {
+      "code": "EWS 1020",
+      "title": "Engaged Education: Integrating Knowledge, Learning and Success",
+      "units": "3",
+      "ge": null,
+      "coid": "437727",
+      "description": "Cross Listed as: LS 1020, IGE 1020 An introduction to the nature, meanings and purposes of higher education. Emphasis will be on the development of intellectual, social and personal skills to critically examine and integrate knowledge and practice for civic and professional engagement in a diverse, complex society. Develop strategies and attitudes to maximize academic and personal success, learn about campus resources and how to use them, think about career possibilities and build positive relationships with peers, faculty, and staff.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 1051",
+      "title": "Ethnic Communities, Places, and Urban Planning",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439127",
+      "description": "[GE 6] Cross Listed as: URP 1051 The relationship between ethnic communities (specifically, Native Americans, African Americans, Asian Americans, and Latina and/or Latino Americans) and place in the United States. (African American includes Black Americans. Also, Latina and Latino American includes the Chicana/Chicano, Chicanx, and Latinx communities.) Interdisciplinary theories and practices of ethnic studies and place. Intersectional themes include one or more of the following: place-based policies, systemic racism, racial segregation, gentrification, immigration, community activism, environmental and economic justice, immigration, and lesbian, gay, bisexual, transgender and queer (LGBTQ) rights.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 1090",
+      "title": "Race and Ethnicity in Fashion",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439299",
+      "description": "[GE 6] Cross Listed as: AMM 1090 Fashion and race in the context of social, cultural, and environmental influences in the US. A focus is placed on members of historically racialized groups in the US including Native American, African American, Asian American, and/or Latino American communities who are active producers and consumers of apparel. Apparel and textiles will be critically examined with attention to racial formation discourses as they relate to ethnicity, race, nation, class, culture, social movements, environmental-health disparities, and policy. This course is administered as a flipped course that consists of lectures, readings, discussions, a group project, and presentations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 1250",
+      "title": "Race, Ethnicity, and the American Consumer",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439121",
+      "description": "[GE 6] Cross Listed as: AMM 1250 Examine how race and ethnicity has been constructed in the US, and the impact of racial stigma and discrimination in the retail marketplace as it relates to consumer behavior. Consumer processes and motives will be investigated with reference to the intersection of race and ethnicity with other demographic and behavioral characteristics - with a focus on African Americans, Native Americans, Asian Americans, and Latina and Latino Americans. Topics will include social constructs of race, racism in the consumer market, marketplace discrimination, consumer inequality, stereotyping, sustainability, and consumer rights. Lecture/discussion, case studies, analysis of datasets, and a student project related to race and consumerism in America.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 1401",
+      "title": "Introduction to Ethnic Studies",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439104",
+      "description": "[GE 6] Introduction to foundational theories and concepts in Ethnic Studies that examine how social institutions have historically shaped race relations and social processes producing racial, class, social, and gender inequalities and stratifications. Particular attention is given to the historical presence and contributions of Native Americans, African Americans, Asian Americans, and Latina and Latino Americans in the United States.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "multicultural-leadership-studies-interdisciplinary-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "EWS 1450",
+      "title": "Introduction to Gender and Sexuality Studies",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435072",
+      "description": "[GE 4A] Introduction to the exploration of gendered and sexual identities in the U.S. and within a global context. Introduces basic concepts and perspectives in gendered and sexual lives both historically and contemporaneously by placing gender, sexuality, race, ethnicity, class, and dis/ability at the center of analysis. Attention will be given to activism and resistance to gendered and sexual inequalities, and the various ways individuals and groups have worked to create transformative change.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "gender-and-sexuality-studies-minor",
+        "multicultural-leadership-studies-interdisciplinary-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "EWS 1460",
+      "title": "Introduction to Disability, Ethnicity, and Gender",
+      "units": "3",
+      "ge": null,
+      "coid": "439251",
+      "description": "Surveys the various ways disability as an identity is constructed, perceived, and embraced in U.S. and global contexts. Using an interdisciplinary perspective based in Critical Disability Studies, Ethnic Studies, particularly decoloniality, and Gender and Sexuality Studies, students will learn social, medical, cultural, educational, and political framings of disability. The productions of systemic oppression as well as the resistance and disability pride movements that have facilitated social change in the disability community.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "EWS 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438352",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2011",
+      "title": "African American Historical Experience",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439105",
+      "description": "[GE 6] A historical overview of the experiences of African Americans in the United States. Grounded in ethnic studies, we study key historical moments in the formation of the United States, covering political, economic, social movements and geographical shifts and continuities. Covers African American roots in Africa and America. Topics include their racial and labor experiences, education, gender roles and family formations, migration and urban settlements, political movements, citizenship, contributions in the arts, literature, and sports, and their community and identity formations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "EWS 2015",
+      "title": "The Great American Historical Paradox: African and American",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439383",
+      "description": "[GE 6] Cross Listed as: HST 2015 Examines the historical experience and contributions of African Americans from African origins to present. Spans pre-15th century Western African societies, the development of the Atlantic World and slavery, emancipation, industrialization, migration, and the struggles for racial equality. Engages several Ethnic Studies analytical lenses, including racialization, intersectionality, white supremacy, “colorblindness,” neoliberalism, decolonization and self-determination, to track changing constructions of race over time and their implications for the African American lived experience.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2021",
+      "title": "Latina and Latino American Historical Experience",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439106",
+      "description": "[GE 6] A historical overview of the experiences of Latina and Latino Americans in the United States. Grounded in ethnic studies, we study key historical moments in the formation of the United States, covering political, economic, social and geographical shifts and continuities. Covers Latina and Latino roots in the Americas. Topics include the conquest and colonization of the Americas (such as the U.S.-Mexico War), education, their racial and labor experiences, gender roles and family formations, migration and urban settlements, political movements, citizenship, contributions in the arts, literature, and sports, and their community and identity formations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "EWS 2031",
+      "title": "Native American Historical Experience",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439107",
+      "description": "[GE 6] A historical overview of the experiences of Native American tribal groups in the United States. Grounded in ethnic studies, we study key historical moments in the formation of the United States, covering political, economic, social and geographical shifts and continuities. Covers Native American roots in North America. Topics include the pre-History and pre-Colonization of North America, contact and early history, separation, colonization and conflict, coercive assimilation, nation/state distorted identities, New Deal Era, reservation systems, boarding schools, relocation programs, racial and cultural identity experiences, sovereign principles, gender roles and family formations, self-determination, cultural persistence, political movements, citizenship, contributions in the arts, literature, and sports.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "EWS 2041",
+      "title": "Asian American Historical Experience",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439108",
+      "description": "[GE 6] A historical discussion of various Asian American historical experiences. Through an interdisciplinary and comparative approach, race, ethnicity, gender, colonialism, nationalism will be placed at the center of analysis. Western and imperialist expansion and domination in Asia, Asian immigration pattern, labor, family, community, and social life of Asian immigrants and their descendants in American society will be addressed.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "asian-pacific-islander-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "EWS 2050",
+      "title": "Race, Ethnicity and Food Justice",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439120",
+      "description": "[GE 6] Cross Listed as: AG 2050 Examination of racialization and erasure of the histories of Native Americans, African Americans, Asian Americans, and/or Latina and Latino Americans communities in the US with regard to food and agriculture. A foundational understanding of the history of oppression of minorities and policies that have kept these groups marginalized within the Agriculture industry will be investigated. Current food justice movements that aim to solve long withstanding and historical problems within society will also be studied.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "EWS 2080",
+      "title": "Introduction to Race and Ethnic Politics",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439125",
+      "description": "[GE 6] Cross Listed as: PLS 2080 Minority communities, citizenship, political values, attitudes, behaviors, and policy issues and representation in the United States. Emphasis on the experience of Native Americans, African Americans, Asian Americans, and/or Latina and Latino Americans, along with the overall immigrant experience in the US.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2180",
+      "title": "Ethnic Studies of Food, Nutrition, and Health Disparities",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439124",
+      "description": "[GE 6] Cross Listed as: NTR 2180 Interdisciplinary study of Native American, African American, Asian American, and/or Latina and Latino American communities and food, nutrition, and health inequities in the United States. Foundational theoretical concepts of ethnic studies and nutrition such as racism, colonialism, immigration, eurocentrism, social determinants of health, food and health disparities, acculturation, and health equity are examined.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "EWS 2185",
+      "title": "Realities and Representations of La Frontera/The Border",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439382",
+      "description": "[GE 6] Cross Listed as: ENG 2185 Examination of the historical, social, rhetorical, and political construction of borders and the realities and representations of and within borders from a multicultural and transnational perspective within the framework of globalization. While society has been led to believe that borders predominantly exist for the sake of demarcating boundaries between geographical spaces, there are multiple other borders to consider daily that serve as barriers to safety, financial stability, and access. Seeking to build a foundation of understanding of ethnic studies as we live near the US-Mexico border, which is not only a place of contention for Mexican migrants, but for other Latino/a migrants as well. Doing so also examining the realities of immigration, US imperialism from an intersectional perspective, labor, such as racialized and exploitable workers, border policing and violence in today’s political climate, and relationships between borders and identity, ethnic diversity, language, and art that disrupts the creation of borders.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "EWS 2200",
+      "title": "Sound, Rhythm, and Race",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439384",
+      "description": "[GE 6] Cross Listed as: LS 2200 Foregrounds ethnic studies and interdisciplinary studies of performance (such as music, dance, theater, film/video, and ritual) in the identification and critique of coloniality as it is articulated through race, ethnicity, gender, sexuality, nationality, class and caste, consumerism, temporality, and ideology. Highlights local voices from Native American, African American, Asian American, and Latina and Latino American Studies and tie them to global issues, events, movements, and voices. Case studies in the course are drawn from scholarly archives, mainstream media, popular culture, and current events, as well as from counter-hegemonic performance practices, historiography, and subcultures.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2210",
+      "title": "Race and Ethnicity on Stage and Screen",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439126",
+      "description": "[GE 6] Cross Listed as: TH 2210 Examines the experiences of Native Americans, African Americans, Asian American, and/or Latina and Latino Americans in the United States on stage and screen. Emphasizes narratives of lived experience, history, social struggle, and intersectional identities as a framework to explore how Theatre and Film may be forms of resistance and protest, work toward social and racial justice, anti-racism, and group affirmation. Analyze, critique and discuss the context, aesthetics and styles of theatre and filmed performances. Topics will include history, immigrant experiences and immigration policy, gender, sexuality, settler-colonialism, cultural appropriation, language, self-determination and empowerment.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "EWS 2230",
+      "title": "Infinite Blackness",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439385",
+      "description": "[GE 6] Cross Listed as: LS 2230 Centers the infinite complexity of Blackness through an intersectional, global, and hyperlocal approach to African American Studies. Studies cultures, power relations, and geographies all over the world, with a hyperlocal focus on contemporary and historical Los Angeles and California. Centering African American Studies, draws on the disciplines of Ethnic Studies, anthropology, and contemporary art toward multifaceted study of movements and practices across Native American, African American, Asian American, and Latino/a communities to create a shared community of scholarly inquiry. Covers urgent current topics including racial capitalism, critical race theory, disability justice, reproductive justice, environmental racism, global climate crisis, policing and surveillance, and reparations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2238",
+      "title": "Racialized Language, Power, and Identities",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439381",
+      "description": "[GE 6] Cross Listed as: COM 2238 Explores the role of language and communication in articulating, maintaining, and subverting historically shaped race relations and social processes which produce racial, class, social, and gender inequalities and stratifications. Drawing from Ethnic Studies, Communication Studies, and Applied Linguistics, to provide the tools to develop a theoretical vocabulary for discussing how race, racism, social identities of certain racialized groups, ethnocentrism, eurocentrism, and white supremacy are manifested in dominant language ideologies in the U.S. which in turn invalidate the ways Native Americans, African Americans, Asian Americans, and/or Latina and Latino Americans speak and communicate. Looks at the multiple ways in which our racial, ethnic, age, gender, and class identities intersect, and how they are reflected and reconstituted through communicative practices. Emphasizes the ways in which cultural backgrounds and social identities affect how we interpret the world, and the ways in which socio-historical relationships of inequality in the US shape communicative practices and racialized identities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "EWS 2250",
+      "title": "The Japanese American Experience and the California Landscape",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439123",
+      "description": "[GE 6] Cross Listed as: LA 2250 Investigates the intersection of ethnic studies and landscape architecture by exploring the relationship between the Asian American community and place in the United States. Through the lens of the Japanese American experience in California since the late 19th century, this course will examine topics that include immigration patterns, socio-economic and political factors shaping US immigration policies, racism and its connection to labor and employment practices with focus on landscape and agriculture, World War II internment, post-war era ethnic resilience, the role of environmental influences in individual well-being, and evaluation of cultural identity in the Asian American community. Field trips are required.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer"
+    },
+    {
+      "code": "EWS 2332",
+      "title": "Literature and the African American Experience",
+      "units": "3",
+      "ge": "GE 3B or 6",
+      "coid": "439295",
+      "description": "[GE 3B or 6] Cross Listed as: ENG 2332 Uses an Ethnic Studies framework to look at African American literature within historical, cultural, social, political, and economic conditions in order to better understand contemporary racial politics, structural racism, and strategies of resistance. Topics may include the relationship between Neo-Slave Narratives and the Civil Rights Movement, the Black Arts Movement and the Black Power movement in the 1970s, or Afrofuturism and post-racial discourse in the present.",
+      "prerequisites": "Completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2600",
+      "title": "Digital Culture, Race, and Ethnicity",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439122",
+      "description": "[GE 6] Cross Listed as: IGE 2600 Explores racial formations in a U.S. context and how race has shaped aspects of American digital culture; issues of ethnic identities and racial inequalities in digital media; how race and ethnicity are embodied in and shaped by digital technologies; how digital media serves to complicate, change, erase, and/or recreate ethnic and racial boundaries; possibilities for alternative identities, communities, and cultures that digital technology offers; digital literacy and Gen Z activism.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2800S",
+      "title": "Service Learning and Community Engagement Service Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "437732",
+      "description": "Participatory action experience, familiarizing students with service learning through civic engagement. As a community-based learn-by-doing class, placement is in a community agency or school site approved by instructor. Opportunity to participate in a service learning experience with structured opportunities to learn, develop and reflect through active participation and thoughtfully organized community involvement.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 2900",
+      "title": "Multicultural Leadership",
+      "units": "3",
+      "ge": null,
+      "coid": "437113",
+      "description": "Preparation for effective leaders in a multicultural world. Introduce the nature of leadership from a U.S. and global multicultural perspective. The implications that multicultural settings have for leadership, specifically the impact that cultural values, beliefs and worldviews have on leadership definitions, leadership styles, and communication. Application of theory and practice through simulation activities, campus projects, case studies and dialogue.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "multicultural-leadership-studies-interdisciplinary-minor"
+      ]
+    },
+    {
+      "code": "EWS 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438353",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438354",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438355",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 3010",
+      "title": "Ethnic Identity",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "437729",
+      "description": "[GE 3C] Using a humanities approach, examine changes and continuities of American identities from an ethnic studies perspective. A comparative and multidisciplinary analysis of identity formation processes in the United States. Topics include immigration history, Western imperialism and colonialism, racial discrimination, laws and policies in the U.S., minority groups’ ethnic resilience and resistance against assimilation, social and political changes, the arrival and settlement of new immigrants, and the historical and contemporary transnational communities and cultures.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: May be taken up to two times, only with different topics, for a total credit of 6 units.",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "multicultural-leadership-studies-interdisciplinary-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 3275",
+      "title": "Asian American Politics",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439386",
+      "description": "[GE 6] Cross Listed as: PLS 3275 Provides an interdisciplinary overview of Asian American politics to learn about how and why different Asian American communities have been politically engaged throughout history and across different policy issues. Addresses the relationship between the racialization of Asian Americans and their political engagement. Topics covered include labor, immigration, citizenship, education, environmental justice, and civil rights. In addition to analyzing the different types of political engagement and activism of the different communities that define Asian America, the intersections of identities and coalition-building within the broader panethnic Asian American community and across other racialized groups are also examined. Critically analysis of course materials to expand upon understandings of Asian Americans and challenge dominant tropes and norms of political participation and leadership.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 3300",
+      "title": "Ethnicity and Families",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437731",
+      "description": "[GE 4C] Examine the unique social and cultural aspects of family structures from the perspective of American ethnic groups. Using an interdisciplinary framework, explore the historical and contemporary formations of American ethnic families shaped within social, cultural and environmental contexts. Topics include the effects of immigration processes and policies on families, non-traditional families, demographic characteristics, cultural retentions and transmissions, inter/intra ethnic and inter-generational issues, and the impacts of ethnicity and family structures on educational attainment.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 3313",
+      "title": "Latina/o Sociology",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439128",
+      "description": "[GE 6] Cross Listed as: SOC 3313 Latina/o Sociology is the systematic inquiry into the social lives of Latina and Latino Americans in the U.S. This course examines the ways in which Latina and Latino American communities have developed and the social, political, and economic structures that have influenced them. The course analyzes the ways in which hierarchical power relations and resistance to domination by Latina and Latino Americans have shaped their life chances across time and space in the U.S. and along the U.S.-Mexico border region.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 3315",
+      "title": "Asian American Sociology",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439387",
+      "description": "[GE 6] Cross Listed as: SOC 3315 Who are Asian Americans, and how have they shaped the social, economic, political, and cultural landscape of the United States? How are the lives of Asian American immigrants and their children shaped by race, gender, class, sexuality, region, legal status, and more? Examine the role of American militarism and colonialism on Asian immigration and racialization, as well as the neighborhood, community, school, and workplace experiences of Asian Americans, both historically and in the present day.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "EWS 3450",
+      "title": "Labor, Race and Gender Studies",
+      "units": "3",
+      "ge": null,
+      "coid": "437110",
+      "description": "Critical thinking about the intersections between race, ethnicity, gender and labor in the United States. Exploration of the meaning of labor and occupational opportunities/constraints for racialized groups and women. Examines labor and employment related to historically marginalized group’s economic mobility or lack there of, social prestige and political power.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 3500",
+      "title": "Immigration, Race and Gender Studies",
+      "units": "3",
+      "ge": null,
+      "coid": "437111",
+      "description": "A historical and social science approach to race, ethnicity, gender and immigration. Topics include immigration patterns, concepts and theories in immigration studies, socio-economic and political factors causing global migration and shaping US immigration policies. Particular attention is given to ethnic resilience, racism, the agency of immigrant communities and family networks as well as key concepts such as sojourners vs settlers, citizenship, colonialism, transnationalism, and Diaspora culture and community. Explores the strategies immigrants engage in to secure rights.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 3600",
+      "title": "Cultures of Childhood",
+      "units": "3",
+      "ge": null,
+      "coid": "437112",
+      "description": "Identifies how different cultures/ethnic groups conceptualize childhood and how they construct the culture, cultural artifacts and practices for children. It identifies theories and examines early childhood development and practices within diverse families and communities. Explore the development and demonstration of culturally competent communication and the promotion of social justice for young children and their families.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 3700",
+      "title": "Race, Gender and the Law/Public Policies",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437728",
+      "description": "[GE 4C] Social science analysis of race, gender and the law/public policies. Explores the ways ideas and discourses about race and gender shape how laws and public policy are debated, adopted and implemented. Examines a range of topics including reproductive freedom, tribal sovereignty, civil rights law, domestic violence, welfare policy, immigration, and other issues of race and gender justice. How social relations impact and are impacted by policy processes and laws. Critical race and feminist legal studies will help dissect the intertwined relations between race, gender and law.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 3750",
+      "title": "Gender, Ethnicity, and Film",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "437748",
+      "description": "[GE 3C] Humanities approach to the representation of gender, race, ethnicity, and sexuality in film. Examination of visual style, imaging, narrative structure, and ideologies in constituting, subverting and reinventing social identities. Explores the power of film to reflect and refract the intersecting ideologies of race, ethnicity, gender, and sexuality, and to analyze how these identities impact the experiences of individuals and groups in our society.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 3800",
+      "title": "Women in Global Perspective",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437730",
+      "description": "[GE 4C] A social science approach to examine the global inequality of women arising from globalization. Explore the gendered social constructions, global gendered division of labor, violence, human rights, and global economic and public policies. Explore women’s responses to globalization through cultural expressions and their involvement in local and global women’s movements.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 3850",
+      "title": "Education and Social Change",
+      "units": "3",
+      "ge": null,
+      "coid": "437114",
+      "description": "Comparative theoretical and empirical overview of historically marginalized student educational issues in the United States, with special emphasis on analyzing the effects of race, gender, class, sexuality, and immigrant status on historically marginalized student’s educational attainment and achievements. An examination of how historical, social, political, and economic forces impact their educational experience. Pays specific attention to the active roles that students, parents, and communities have in educational advocacy and social change.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "multicultural-leadership-studies-interdisciplinary-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 3900",
+      "title": "U.S. Women of Color",
+      "units": "3",
+      "ge": null,
+      "coid": "436381",
+      "description": "Explores the history, activism and theorizing of U.S. Women of Color about the complex politics of race, class, ethnicity, gender, sexuality, and other categories of power. Ranging from theoretical to first-person narrative, the readings in this course will explore issues of identity, representation, resistance, theory in the flesh, womanism, socio-economic policy and political rights as they impact women of color in the U.S. including African American, Chicana/o and Latina/o, Asian Pacific Islander, Native American, and Arab-American women. Examine the intersectional analysis of race, ethnicity, sexuality, and gender. May be taken up to two times, only with different topics, for a total credit of 6 units.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 3950",
+      "title": "Methods in Gender and Ethnic Studies",
+      "units": "3",
+      "ge": null,
+      "coid": "437109",
+      "description": "Introduction to critical research methods in Ethnic and Gender Studies. Focus on understanding and engaging social science methods that include ethnography, oral history, interviews, testimonials, discourse analysis, archival, participatory action research, community-based, and interdisciplinary research. Explore various theoretical and methodological approaches through which knowledge about racialized/gendered subjects and structures has been constructed, institutionalized, and challenged. Development of a research proposal in preparation for the Capstone Senior Project.",
+      "prerequisites": "GEMs Majors; Junior or Senior Standing; Core Courses.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438356",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 4010",
+      "title": "Contemporary African American Studies",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437708",
+      "description": "[GE 4C] Critical and interdisciplinary analysis of contemporary African American communities by synthesizing perspectives from the social sciences and humanities. Topics include economic status, education, gender, identity, prisons, migration, citizenship, law and public policy, communities, religion/spirituality, health, politics, pan-ethnic identities, social justice movements, environmental justice, self-determination, popular culture and media representations.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4020",
+      "title": "Contemporary Chicana/o and Latina/o Studies",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437740",
+      "description": "[GE 4C] Critical and interdisciplinary analysis of contemporary Chicana/o and Latina/o communities by synthesizing perspectives from the social sciences and humanities. Topics include economic status, education, gender, identity, prisons, immigration, citizenship, law and public policy, communities, religion/spirituality, health, politics, pan-ethnic identities, social justice movements, environmental justice, self-determination, popular culture and media representations.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4030",
+      "title": "Contemporary Native American Studies",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437743",
+      "description": "[GE 4C] Critical and interdisciplinary analysis of contemporary Native American communities by synthesizing perspectives from the social sciences and humanities. Topics include economic status, education, gender, identity, prisons, federal and state policies, tribal governance, systems of oppression, reservations, communities, religion/spirituality, health, politics, activism and social justice movements, environmental justice, self-determination, popular culture, art, and media representations.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4040",
+      "title": "Contemporary Asian Pacific Islander American Studies",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437741",
+      "description": "[GE 4C] Explores contemporary Asian Pacific Islander American issues including US immigration policies, Asian migration movements, divers ethnic traditions within Asian America, employment, education, family, ethnic resilience, inter-ethnic and intra-Asian relationship, pan-Asian identity, social justice, race relationship and media representations of Asians and Asian Americans examined from perspectives of history, sociology, cultural/ ethnic and gender studies.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "asian-pacific-islander-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4070",
+      "title": "Diverse Gender and Sexual Identities",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437884",
+      "description": "[GE 4C] Survey the various ways that gender and sexuality are constructed, policed, and resisted in the United States. An interdisciplinary perspective will analyze the relationships to other forms of identity including race, class, and citizenship. Sociological, ethnographic and historical discourse to frame our analysis and utilize media, art, literature, and the social sciences to capture the complex ways that genders and sexualities function. Surveys the various ways that gender and sexuality are constructed, policed, and resisted in the United States.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4100",
+      "title": "Art, Community, and Social Change",
+      "units": "3",
+      "ge": null,
+      "coid": "437120",
+      "description": "Through the examination of the visual and performing artistic expressions of ethnic groups Will identify relationships between ethnic identity, contemporary artistic expression and the impact towards social change. Using a temporal and cultural context this course will examine the role of cultural expressions of struggle for social change by communities through the expression of art in domestic and global settings.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4110",
+      "title": "Diversity, Education and Applied Arts",
+      "units": "3",
+      "ge": null,
+      "coid": "437121",
+      "description": "Experiential explorations of the visual and performing arts. Focuses on arts integration into pre-K through 8 curriculum. Emphasis on the links between race/ethnicity, gender, culture and arts production. Explore diversity, identity and power through comparisons of forms, symbols, and meanings of visual and performing art produced by groups or individuals of various cultures, genders and ethnicities. Course for GEMS Pre-Credential option. Course for GEMS Pre-Credential option.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4200",
+      "title": "Critical Theories in Gender and Ethnic Studies",
+      "units": "3",
+      "ge": null,
+      "coid": "437122",
+      "description": "Explores the relationships between knowledge and power. A critical theoretical examination of interlocking systems of inequality based on race, class, gender and sexuality. Examine the production of group inequality and power via legal, economic, educational, and research structures/institutions. Theoretical frameworks include Critical Race theories, post-colonialism, Marxism, and feminism.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4250",
+      "title": "Gender, Power, and Emerging Technologies",
+      "units": "2",
+      "ge": "GE 4C",
+      "coid": "437742",
+      "description": "[GE 4C] Examination of the interrelationship between identity, power and technological competency while addressing the acceleration of technological innovation and dissemination. Using perspectives from ethnic, gender, and sexuality studies, history, sociology, cultural studies, and political activism, students will explore connections between access and mastery of technology with power and changing societal patterns. Analysis of the emerging technologies that continually restructure the local and global conditions of human experience by changing societal patterns. Corequisite(s): EWS 4250L .",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "multicultural-leadership-studies-interdisciplinary-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 4250L",
+      "title": "Gender, Power, and Emerging Technologies Laboratory",
+      "units": "1",
+      "ge": "GE 4C",
+      "coid": "439291",
+      "description": "[GE 4C] Examination of the interrelationship between identity, power and technological competency while addressing the acceleration of technological innovation and dissemination. Using perspectives from ethnic, gender, and sexuality studies, history, sociology, cultural studies, and political activism, students will explore connections between access and mastery of technology with power and changing societal patterns. Analysis of the emerging technologies that continually restructure the local and global conditions of human experience by changing societal patterns. Corequisite(s): EWS 4250 .",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "multicultural-leadership-studies-interdisciplinary-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 4310",
+      "title": "Ethnicity, Gender and Religion/Spirituality",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437733",
+      "description": "[GE 4C] Explores religious experiences of selected ethnic and gender groups from an interdisciplinary and social science approach. The course examines the role played by religious traditions and spiritual beliefs in indigenous cultural life, migration, ethnic networking, family, social conflicts, social change and cultural/ethnic identity. Explore roles played by women in religious and spiritual activities, address inter- and intra-ethnic group similarities and differences in religious and spiritual traditions and practices.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "multicultural-leadership-studies-interdisciplinary-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4400",
+      "title": "Feminist and Queer Theories",
+      "units": "3",
+      "ge": null,
+      "coid": "437115",
+      "description": "Explores the historical formations of advanced feminist and queer theories. Outlinea the shifting meanings of ‘feminism’ and ‘queer’ over time, by exploring how feminist and queer theorists resist gendered and sexual inequalities. Explores the way race, class, and citizenship inform feminist and queer theories. Explores tensions and growth within the emerging fields of feminist and queer studies.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "gender-and-sexuality-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4430",
+      "title": "Women, Health, and Body Politics",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "437734",
+      "description": "[GE 3C or 4C] Using history, sociology, anthropology, popular culture, and literature, examine the centrality of health issues to women’s political movements. Investigate concrete contemporary threats to health posed by one’s gender, racial, sexual, and economic status and the ways that public health problems are barometers of injustice.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4450",
+      "title": "Multiethnic Heritage of California",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437736",
+      "description": "[GE 4C] Explores the multiethnic heritage of California with a particular focus on African, Asian, Native American, Chicana/o and Latina/o, and European American groups. The course offers a historical, sociological, and comparative analysis of colonization, migration, immigration and their impact on diversity in California. Explores the multiethnic contributions of these various groups on the development and growth of California. An intersectional lens on gender, race, ethnicity, and class in examining California’s growth and development.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 4500",
+      "title": "Multiracial and Hybrid Identities",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "437737",
+      "description": "[GE 3C or 4C] An interdisciplinary exploration of the development, meaning, and sociopolitical implications of hybridity and ‘mestizaje’ in constructing racial, ethnic and gendered identities in the U.S. within a broader global context. The status and experience of hybrid people, e.g. biracial/multi-racial is examined through a synthesis of anthropology, arts, history, literature, sociology, ethnic and gender studies, and cultural studies.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4510",
+      "title": "Diaspora Studies",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "437738",
+      "description": "[GE 3C or 4C] Exploration of Diasporas culture, community and identity in minority or selected cultural groups in the United States. Examines Diasporas from the perspectives of humanities and social sciences. Addresses the impact of Diaspora history and culture on identity formation. Analyzes the significance of Diaspora identity and culture as a lens to understand American society and its linkage to the globe. From an interdisciplinary approach, critiques conceptions of identity formation based on nation-state and emphasizes multiple identities most Americans possess.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4520",
+      "title": "Ethnicity, Race, and Sexuality",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437739",
+      "description": "[GE 4C] An interdisciplinary exploration of the critical intersections between race, ethnicity, nation, and sexuality. Examines the ways in which power functions in the production of ideas, policy, and attitudes about sexual groups.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4550",
+      "title": "Cross-Cultural Field Experience",
+      "units": "3",
+      "ge": null,
+      "coid": "436694",
+      "description": "An international or domestic destination - i.e. alternative spring break or study abroad. Focus on the region’s history, cultural, and/or national identity, performance/visual arts, and contemporary social issues, especially issues related to gender, ethnicity, race, education, diversity, geo-politics, and globalization. Explores historical, cultural, and social connections between the region and the U.S.. Before the trip, students are required to attend at least five two-hour mandatory orientation sessions related to the international destination and on social etiquette and cultural sensitivity when travelling abroad. The field experience will include an average of six hours of learning activities per day. Students are expected to deliver oral presentations on their experience/research after the trip. Participants must meet financial obligations of the course.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 4610W",
+      "title": "Capstone Senior Project",
+      "units": "3",
+      "ge": null,
+      "coid": "437117",
+      "description": "An undergraduate culminating capstone project that reflects upon, integrates, and applies what students have learned in their degree program. As the second part of the Senior Capstone Project, complete a senior project - senior thesis or an internship - under faculty supervision. A symposium presentation along with rigorous writing with revisions in the form of a research paper are required. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "GEMs major; senior standing; and EWS 3950 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4750",
+      "title": "Communities and Culture",
+      "units": "3",
+      "ge": null,
+      "coid": "437118",
+      "description": "Explores social and cultural issues impacting local communities. Communities of color have always had an investment in self-representation shaping their image for public consumption, and for building and strengthening community as a catatylst for social change. Topics include demographics shifts, ethnic tensions, multi-ethnic coalitions, urban poverty, immigration, environmental inequality, and sustainability, and how these issues intersect with community organizing and civic engagement. Explore community resistance in and through environmental justice, food justice, prison abolition, immigrant rights, popular culture, music, literature and theater.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 4750S",
+      "title": "Communities and Culture Service Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "437706",
+      "description": "Explores social and cultural issues impacting local communities. Communities of color have always had an investment in self-representation ? shaping their image for public consumption, and for building and strengthening community as a catatylst for social change. Topics include demographics shifts, ethnic tensions, multi-ethnic coalitions, urban poverty, immigration, environmental inequality, and sustainability, and how these issues intersect with community organizing and civic engagement. Explore community resistance in and through environmental justice, food justice, prison abolition, immigrant rights, popular culture, music, literature and theater.",
+      "prerequisites": "Junior or Senior Standing; and EWS 140, EWS 145, or EWS 1450 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "EWS 4850",
+      "title": "Social Movements and Resistance",
+      "units": "3",
+      "ge": null,
+      "coid": "437123",
+      "description": "An overview of social movements at the local, national, and/or global contexts. Assesses foundational resistance and social movement theories that frame how historically marginalized groups resist political, social, and economic inequality. Surveys the effectiveness and limitations of organizing strategies that social movements employ. How race, class, gender, sexuality, and citizenship inform the various movements studied.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units",
+        "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EWS 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438357",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "african-american-studies-minor",
+        "asian-pacific-islander-american-studies-minor",
+        "chicana-o-and-latina-o-studies-minor",
+        "gender-and-sexuality-studies-minor",
+        "native-american-studies-minor"
+      ]
+    },
+    {
+      "code": "EWS 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438358",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438359",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option",
+      "name": "Gender, Ethnicity, and Multicultural Studies, B.A. - GEMS Subplan/Option"
+    },
+    {
+      "id": "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option",
+      "name": "Gender, Ethnicity, and Multicultural Studies, B.A. - Pre-Credential Subplan/Option"
+    },
+    {
+      "id": "african-american-studies-minor",
+      "name": "African American Studies Minor"
+    },
+    {
+      "id": "asian-pacific-islander-american-studies-minor",
+      "name": "Asian/Pacific Islander American Studies Minor"
+    },
+    {
+      "id": "chicana-o-and-latina-o-studies-minor",
+      "name": "Chicana/o and Latina/o Studies Minor"
+    },
+    {
+      "id": "gender-and-sexuality-studies-minor",
+      "name": "Gender and Sexuality Studies Minor"
+    },
+    {
+      "id": "multicultural-leadership-studies-interdisciplinary-minor",
+      "name": "Multicultural Leadership Studies Interdisciplinary Minor"
+    },
+    {
+      "id": "native-american-studies-minor",
+      "name": "Native American Studies Minor"
+    },
+    {
+      "id": "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-4-year-120-units",
+      "name": "Gender, Ethnicity, and Multicultural Studies, B.A. - GEMS Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+      "name": "Gender, Ethnicity, and Multicultural Studies, B.A. - Pre-Credential Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "gender-ethnicity-and-multicultural-studies-b-a-gems-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Gender, Ethnicity, and Multicultural Studies, B.A. - GEMS Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "gender-ethnicity-and-multicultural-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Gender, Ethnicity, and Multicultural Studies, B.A. - Pre-Credential Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

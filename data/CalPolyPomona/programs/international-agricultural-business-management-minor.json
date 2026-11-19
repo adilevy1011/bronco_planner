@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:07:57+00:00",
+  "id": "international-agricultural-business-management-minor",
+  "name": "International Agricultural Business Management Minor",
+  "title_on_page": "University Catalog",
+  "department": "Agribusiness And Food Industry Management And Agricultural Science",
+  "department_id": "agribusiness-and-food-industry-management-and-agricultural-science",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24129",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6301",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog International Agricultural Business Management Minor: 18 units Offered by: Don B. Huntley College of Agriculture Agribusiness & Food Industry Management and Agricultural Science Department Minor Required | Minor Electives | Program Website Minor Required: 12 units AG 1010 - Agriculture & The Modern World (3) or AG 1110 - Agriculture: The Foundation of Civilizations (3) [GE 3B] AG 2010 - Global Resources for Food (3) [GE 4A] ABM 3300 - International Food and Agribusiness Marketing (3) ABM 4500 - Agricultural Water Resource Management (3) Minor Electives: 6 units Additionally, students can take 6 units (3 units must be upper-division) either: Two ABM courses or Two internationally-oriented College of Business courses or One of each Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 12 units",
+      "courses": [
+        "AG 1010"
+      ],
+      "raw_text": "Minor Required: 12 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "AG 1110",
+        "AG 2010",
+        "ABM 3300",
+        "ABM 4500"
+      ],
+      "raw_text": "or"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AG 1010",
+      "title": "Agriculture & The Modern World",
+      "units": "3",
+      "ge": null,
+      "coid": "435024",
+      "requirement": "Minor Required: 12 units",
+      "description": "Introduction to the history of modern agriculture, including its integration in social, economic and political institutions, its biological systems, the causes and impact of world hunger, and the implications of future changes and innovations in the production of food and fiber. Emphasis on critical analysis of agriculture within the United States and California, both from a historical perspective as well as the present situation and current issues. Open to all majors. Required of all College of Agriculture majors. Open to all majors. Required of all College of Agriculture majors.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 1110",
+      "title": "Agriculture: The Foundation of Civilizations",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "439103",
+      "requirement": "or",
+      "description": "[GE 3B] Introduction to the genesis and evolution of agriculture as the foundation of civilizations throughout history. Analyzing agriculture within the context of the development and evolution of various civilizations over time. Emphasis on critical analysis of the historical development of agriculture in various parts of the world including the United States using documentary and literature collections. Open to all majors. Required of all College of Agriculture majors.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer"
+    },
+    {
+      "code": "AG 2010",
+      "title": "Global Resources for Food",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435020",
+      "requirement": "or",
+      "description": "[GE 4A] Examine the resource base for agricultural production on various continents, and whether there is potential for increasing food supplies. The role of agriculture in economic development will be addressed.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 3300",
+      "title": "International Food and Agribusiness Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "435982",
+      "requirement": "or",
+      "description": "Marketing of food, fiber, and horticulture products in foreign markets. Overview of international marketing, including: political, social, cultural and legal environments. Foreign market entry opportunities for American agribusiness products and services; planning and managing market entry strategies and products. Special emphasis on selecting export markets, procedures for establishing markets, promotions, financing, insuring, logistics, tariffs, customs, regulations and other matters related to food and fiber products. Global logistics, distribution and pricing. Marketing concepts applied in foreign markets including: planning, promotion, sales and negotiations. Management practices and problems of firms involved in exporting and importing textiles and garments, livestock, fruits, vegetables, grains and other processed food and fiber products.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ABM 4500",
+      "title": "Agricultural Water Resource Management",
+      "units": "3",
+      "ge": null,
+      "coid": "435988",
+      "requirement": "or",
+      "description": "Water resource management applied to current issues. Water delivery systems in the United States and California, survey of water rights, water pollution, water conservation, food and agricultural system water use, and efficient water management. Includes water problems in developing nations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "ABM 3300",
+    "ABM 4500",
+    "AG 1010",
+    "AG 1110",
+    "AG 2010"
+  ]
+}

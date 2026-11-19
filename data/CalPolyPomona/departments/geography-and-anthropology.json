@@ -1,0 +1,1834 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:52:52+00:00",
+  "id": "geography-and-anthropology",
+  "name": "Geography And Anthropology",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6333",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Geography and Anthropology Department Building 5 Room 140 | (909) 869-3568 | Department Website | Faculty Directory The mission of the Department of Geography and Anthropology is to advance knowledge, learning, and individual skills in the related disciplines of anthropology and geography. The Department and constituent programs fully support the emphases of the university on: applied, technical preparation along with broad, theoretical education; inter-disciplinary approaches; hands-on, learn-by-doing pedagogy in keeping with the curriculum; internationalization of the curriculum; multiculturalism in and out of the classroom, and student- and learning-oriented teaching. The Department of Geography and Anthropology offers students a deep and holistic understanding of human cultures, environments, and their intersections through the disciplines of anthropology and geography. Anthropology students explore humanity across time and space, grounded in four-field training-sociocultural, biological, linguistic, and archaeological-while geography students examine spatial systems and the relationships between society and environment. Both majors emphasize hands-on, field-based learning and interdisciplinary inquiry, preparing students to analyze and address complex global and local challenges. Faculty support a culture of applied scholarship and community engagement, encouraging students to critically investigate inequality, sustainability, and cultural resilience. Students benefit from field schools in archaeology, collaborative research in medical and environmental anthropology, and lab-based training in GIS, cartography, and remote sensing. The depa",
+  "courses": [
+    {
+      "code": "ANT 1010",
+      "title": "Introduction to Biological Anthropology",
+      "units": "3",
+      "ge": "GE 5B",
+      "coid": "435021",
+      "description": "[GE 5B] Human biology and behavior. The evolution of the human species as an adaptive biological process. Human ecology in evolutionary perspective. Human growth, development, and diversity. The evolution and behavior of non-human primates. 3 hours lecture/discussion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-minor",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ANT 1020",
+      "title": "Introduction to Cultural Anthropology",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434968",
+      "description": "[GE 4A] The nature of culture and cultural phenomena; comparative social, economic and political organization; religion and value systems of non-literate and folk peoples; cultural and psychological processes in the development of personality; expressive aspects of culture; applied anthropology. Anthropological uses for understanding complex contemporary societies. 3 hours lecture/discussion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-minor",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ANT 1030",
+      "title": "Introduction to Archaeology and World Prehistory",
+      "units": "3",
+      "ge": null,
+      "coid": "435991",
+      "description": "Basic methods of archaeological reconstruction and interpretation. Survey of human cultural and technological development from the first appearance of humans to the beginning of urban lifeways and the formation of world civilizations. 3 hours lecture/problem-solving.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-minor",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ANT 1040",
+      "title": "Introduction to Linguistic Anthropology",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "435016",
+      "description": "[GE 3B] Origins and development of oral and written language; speech anatomy, language and the brain. Overview of the structure of language, relationships between language and culture, literature and other communicative forms. Variation in language; history and classification of the world’s languages. Critical use of language (reading and writing). 4 hours lecture/problem-solving.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-minor",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 1120",
+      "title": "World Cultures via the Internet",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434973",
+      "description": "[GE 3B] Introduction to anthropology and world cultures. Guided exploration of the peoples of the world through the medium of the Internet. Web sites demonstrating key anthropological principles. Culture theory, history, diversity and integration; cultural structure and function, cultural relativity; environmental adaptation.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ANT 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438037",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 2010",
+      "title": "Human Nature/Human Affairs: A Biocultural Perspective",
+      "units": "3",
+      "ge": null,
+      "coid": "435017",
+      "description": "Integrated bio-evolutionary/cultural-historical exploration of the ‘nature’ of the human animal. Human biological (primate) and cultural heritage. Modern human issues including racism, sexism, overpopulation, hunger, international intolerance, and environmental degradation examined in the context of human bio-cultural history. 3 hours lecture/discussion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438038",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438039",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438040",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3050",
+      "title": "Archaeoastronomy",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "437759",
+      "description": "[GE 5D] Cross Listed as: AST 3050 Ancient and modern astronomical concepts. Explore the themes of early science and empiricism emphasizing ancient cultures and their concepts of astronomy, cosmology, and time. Technological tools used by ancient societies to obtain and record astronomical data and knowledge will be studied. Examples will be drawn from ancient world cultures such as the Maya, the Aztec, Ancient Greece, Ancient China and others. An introduction to modern astronomical instrumentation and astrophysical insights will provide context for understanding the achievements and limitations of ancient scientists.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3220",
+      "title": "North American Archaeology",
+      "units": "3",
+      "ge": null,
+      "coid": "435992",
+      "description": "Survey of prehistoric cultural development in North America by synthesizing data recovered through excavations with the ethnographic record. Emphasizes interdisciplinary application to archaeological interpretation and importance of critical thinking in archaeological method and theory. Extensive student presentations and research.",
+      "prerequisites": "ANT 1030 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3250",
+      "title": "California Archaeology",
+      "units": "3",
+      "ge": null,
+      "coid": "435993",
+      "description": "Survey of prehistoric and early historic cultural development in California by synthesizing data recovered through excavations with the ethnographic record. Emphasizes interdisciplinary application to archaeological interpretation and importance of critical thinking in archaeological method and theory. Extensive student presentations and research.",
+      "prerequisites": "ANT 1030 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3270",
+      "title": "The Ancient and Contemporary Maya",
+      "units": "3",
+      "ge": null,
+      "coid": "435994",
+      "description": "Regional archaeology, ethnohistory, and ethnography of Southeastern Mesoamerica, a region comprised of the Southeastern portion of modern Mexico, Guatemala, Honduras, Belize and El Salvador. Focus on the ancient Maya people, their origins, writing, cities, and political, economic and cultural accomplishments from about 2000 BCE until the present.",
+      "prerequisites": "ANT 1030 and GE Area 4A/D1/4B/D2; or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3400",
+      "title": "Comparative Primatology",
+      "units": "2",
+      "ge": null,
+      "coid": "436310",
+      "description": "Multimedia exploration of the Primates, Bio-social traits, distribution, range of variation, and evolutionary background of prosimians, New World monkeys, Old world monkeys, apes, and humans. Humans in a comparative primate perspective. 2 hours lecture/discussion. Corequisite(s): ANT 3400L .",
+      "prerequisites": "ANT 1010 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3400L",
+      "title": "Comparative Primatology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437424",
+      "description": "Multimedia exploration of the Primates, Bio-social traits, distribution, range of variation, and evolutionary background of prosimians, New World monkeys, Old world monkeys, apes, and humans. Humans in a comparative primate perspective. 3 hours laboratory. Corequisite(s): ANT 3400 .",
+      "prerequisites": "ANT 1010 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3450",
+      "title": "Human Evolution and Diversity",
+      "units": "2",
+      "ge": null,
+      "coid": "436311",
+      "description": "Origins, evolution, and differentiation of the human species. Critical examination of the varying theories concerning the fossil record of human evolution and the origins and development of the modern major racial groups. Analysis of modern biological date relevant to these theories. 2 hours lecture/discussion. Corequisite(s): ANT 3450L .",
+      "prerequisites": "Junior or Senior Standing; and ANT 1010 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3450L",
+      "title": "Human Evolution and Diversity Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437409",
+      "description": "Origins, evolution, and differentiation of the human species. Critical examination of the varying theories concerning the fossil record of human evolution and the origins and development of the modern major racial groups. Analysis of modern biological date relevant to these theories. Corequisite(s): ANT 3450 .",
+      "prerequisites": "ANT 1010 or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3500",
+      "title": "Environment, Technology and Culture",
+      "units": "3",
+      "ge": "GE 4C or 5D",
+      "coid": "434974",
+      "description": "[GE 4C or 5D] Student focused investigation of the interrelationships between a society’s subsistence and economic systems, level of socio-cultural development, and the natural and social environment inhabited. Tools and techniques utilized by particular societies in their exploitation of their surroundings.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3520",
+      "title": "Anthropology of Globalization and Development",
+      "units": "3",
+      "ge": null,
+      "coid": "436203",
+      "description": "Applied anthropology; socio-cultural change and the phenomena of ‘modernization’ and globalization throughout the non-Western world. Emphasis on processes and institutional adaptations relating to evolving economic, social, and political activities in a variety of cultures. Spread of Western science and technology as drivers of development. Dynamic nature of culture and cultural sub-systems as viewed from a developmental perspective. This course is primarily designed for Anthropology majors in the General Anthropology option. It is also part of the Science, Technology and Society curriculum. All others are also welcome. This course is primarily designed for Anthropology majors in the General Anthropology option. It is also part of the Science, Technology and Society curriculum. All others are also welcome.",
+      "prerequisites": "ANT 1020 , Lower Division GE Area D, or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3530",
+      "title": "Language and Culture",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "434975",
+      "description": "[GE 3C] Seminar on human communication in sociocultural context. Topics explored include nonverbal communication, dialects and social variation in speech communities; pidgins and creoles, multilingualism, language planning, language and socialization of children, ethnographic semantics, social interaction and communicative ritual, inter-cultural communication.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3570",
+      "title": "Culture, Health, and Healing",
+      "units": "3",
+      "ge": null,
+      "coid": "435996",
+      "description": "An overview of methods and topics in medical anthropology, an interdisciplinary field that explores how culture shapes our experiences of health, illness, and systems of healing through holistic and cross-cultural study. Approaches include interpretative, critical medical anthropology, and biocultural perspectives. Topics covered include biomedicine; political economy of health; biopolitics; structural violence; care; dismantling race-based medicine; global health; anthropology for public health.",
+      "prerequisites": "ANT 1010 , ANT 1020 , or ANT 1120 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3580",
+      "title": "Social Anthropology",
+      "units": "3",
+      "ge": null,
+      "coid": "435997",
+      "description": "A comparative, functional approach to social organization and social structure in various societies; culture, society, and personality; family, kinship, and marriage; social role and social rank; law and politics; religious systems; social change. 3 hours lecture/discussion.",
+      "prerequisites": "ANT 1020 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3600",
+      "title": "Magic, Shamanism, and Religion",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "434976",
+      "description": "[GE 3C or 4C] Cross-cultural comparison of religion through time, and in societies of varying complexity. Anthropological theories of origin, syncretism, and interrelation of religion with other components of culture. Religion as a response to human intellectual and emotional needs.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3700",
+      "title": "Visual Anthropology",
+      "units": "2",
+      "ge": null,
+      "coid": "436312",
+      "description": "Visual Anthropology is the field that is concerned with the documentation of culture, social institutions, and everyday human behavior through film. The use of video, audio, internet, and other media in anthropological research, in the communication of ideas and information to the public, and as repositories of knowledge. Ethnographic and other documentary approaches in multi-media. 2 hours lecture/discussion. Corequisite(s): ANT 3700L .",
+      "prerequisites": "GE Area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3700L",
+      "title": "Visual Anthropology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437423",
+      "description": "Visual Anthropology is the field that is concerned with the documentation of culture, social institutions, and everyday human behavior through film. The use of video, audio, internet, and other media in anthropological research, in the communication of ideas and information to the public, and as repositories of knowledge. Ethnographic and other documentary approaches in multi-media. 1 hour laboratory Corequisite(s): ANT 3700 .",
+      "prerequisites": "GE Area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3790",
+      "title": "Culture Areas of the World",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434977",
+      "description": "[GE 4C] Ethnographic and ethno-historical survey of selected cultural areas depending on available faculty specialization. Analysis of contemporary as well as traditional societies through ethnographic documents and first-hand field data. ANT 3790 Culture area topics currently taught: Africa; East Asia; Meso-America; Middle East; Pacific Islands. May be taught in future: Europe; South Asia. Course may be used to fulfill Anthropology Major Elective Support and Anthropology Minor Upper Division. May be taken up to two times for a total credit of 6 units. ANT 3790 Culture area topics currently taught: Africa; East Asia; Meso-America; Middle East; Pacific Islands. May be taught in future: Europe; South Asia. Course may be used to fulfill Anthropology Major Elective Support and Anthropology Minor Upper Division.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3940",
+      "title": "Field Archaeology",
+      "units": "2",
+      "ge": null,
+      "coid": "436313",
+      "description": "Introduction to the strategy and techniques of archaeological excavation. Site surveying and mapping; sampling techniques; recording; photography. Excavation of actual archaeological site. May be taken up to three times for a total credit of 6 units. Corequisite(s): ANT 3940L .",
+      "prerequisites": "ANT 1030 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3940L",
+      "title": "Field Archaeology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437420",
+      "description": "Introduction to the strategy and techniques of archaeological excavation. Site surveying and mapping; sampling techniques; recording; photography. Excavation of actual archaeological site. 3 hours laboratory. May be taken up to three times for a total credit of 3 units. Corequisite(s): ANT 3940 .",
+      "prerequisites": "ANT 1030 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 3950",
+      "title": "Methods in Archaeology",
+      "units": "2",
+      "ge": null,
+      "coid": "436314",
+      "description": "Training in archaeological identification and analysis of prehistoric and historic cultural materials, including faunal remains, chipped stone, groundstone, ceramics, beads, and charcoal. Methods of analysis include processing of artifacts, artifact and faunal identification, data entry, and preliminary data processing. Corequisite(s): ANT 3950L .",
+      "prerequisites": "ANT 1030 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-archaeology-subplan-option"
+      ]
+    },
+    {
+      "code": "ANT 3950L",
+      "title": "Methods in Archaeology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437421",
+      "description": "Training in archaeological identification and analysis of prehistoric and historic cultural materials, including faunal remains, chipped stone, groundstone, ceramics, beads, and charcoal. Methods of analysis include processing of artifacts, artifact and faunal identification, data entry, and preliminary data processing. 3 hours laboratory. Corequisite(s): ANT 3950 .",
+      "prerequisites": "ANT 1030 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-archaeology-subplan-option"
+      ]
+    },
+    {
+      "code": "ANT 3970",
+      "title": "Cultural Resource Management",
+      "units": "3",
+      "ge": null,
+      "coid": "435998",
+      "description": "Philosophical and practical aspects of cultural resource management. History and current status of laws and procedures affecting the protection, evaluation, and management of prehistoric, historic, ethnographic, and other cultural resources, with particular emphasis on California. 3 hours lecture/discussion.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438041",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 4050",
+      "title": "Anthropology of Gender",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "435023",
+      "description": "[GE 3C or 4C] Interdisciplinary cross-cultural examination of gender. Includes anthropology of men and women; role and status; culture and personality; expression and behavior; past and future trends in relationships. Student research and presentations.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 4100",
+      "title": "Human Skeletal Biology and Osteology",
+      "units": "3",
+      "ge": null,
+      "coid": "439064",
+      "description": "Introduction to skeletal biology and skeletal anatomy. Overview of the anatomical structures, features, and functional morphology of the human skeleton. Practical (hands-on) evaluation of complete and fragmentary human skeleton in archaeological and medicolegal contexts and human skeletal variation is emphasized.",
+      "prerequisites": "ANT 1010 , BIO 1060 , BIO 1220 , KIN 2020 , KIN 3030 , or AVS 3350 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option"
+      ]
+    },
+    {
+      "code": "ANT 4150",
+      "title": "Bioarchaeology",
+      "units": "3",
+      "ge": null,
+      "coid": "439312",
+      "description": "Survey of bioarchaeology and mortuary archaeology. Overview mortuary practices and daily life from Neolithic to present day as understood from bioarchaeological remains. Variation and diversity in human experiences of age, gender, sexuality, disability, race, ethnicity, class, and religion across the life course emphasized.",
+      "prerequisites": "ANT 1010 or GE Area 5B/B2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "ANT 4180",
+      "title": "Business Anthropology",
+      "units": "3",
+      "ge": null,
+      "coid": "435999",
+      "description": "Application of organizational anthropology and research methods to understand business practices. Topics include theories of organizational anthropology, fieldwork in business settings, cultural studies of consumers and markets, organizational culture, and human resource management.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 4300W",
+      "title": "Archaeological Method and Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "436001",
+      "description": "Introduction to problem formulation and methods of analysis in archaeology, both qualitative and quantitative. Review of theoretical trends in archaeology, from a current and historic perspective. Development and implementation of research designs and sampling strategies. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "ANT 1030 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 4610",
+      "title": "Senior Capstone",
+      "units": "3",
+      "ge": null,
+      "coid": "436272",
+      "description": "Guided capstone experience with discussion meetings. Discussion of problems or issues graduates may encounter in their chosen fields of employment. Summary portfolio and written report required.",
+      "prerequisites": "ANT major and Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 4750",
+      "title": "The Aztec: Art, Religion and Society",
+      "units": "3",
+      "ge": null,
+      "coid": "436003",
+      "description": "A detailed look at the Aztec civilization of Post classic (1250-1521) Central Mexico, through and analysis of art, primary documents, and archaeological sources. Discussion of theoretical themes such as social organization, gender roles, political economy, empire, warfare and religion. Student research and presentations.",
+      "prerequisites": "Lower Div GE area A; or ANT 1030 or ANT 3790 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 4800",
+      "title": "History of Anthropological Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "436004",
+      "description": "Chronological investigation of major schools of thought within anthropology. Evolution of analytical processes and research methodology in each of the disciplines’ quadrants. Primary figures in anthropology, their lives and work, their impact on developments in the discipline. 3 hours seminar/discussion.",
+      "prerequisites": "ANT 1020 or instructor consent; and Junior or Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 4900",
+      "title": "Methods in Anthropology",
+      "units": "2",
+      "ge": null,
+      "coid": "436315",
+      "description": "Theory and techniques of ethnographic inquiry. Participant observation, directive and open interviewing, integration and interpretation of anthropological information. On-line ethnographic data retrieval. Interactive world wide web-based research. Emphasis on field and computer methodologies. Corequisite(s): ANT 4900L .",
+      "prerequisites": "ANT 1020 or ANT 1120 , GE Area 4A/D1/4B/D2 or Instructor consent; and Upper Division standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 4900L",
+      "title": "Methods in Anthropology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437422",
+      "description": "Theory and techniques of ethnographic inquiry. Participant observation, directive and open interviewing, integration and interpretation of anthropological information. On-line ethnographic data retrieval. Interactive world wide web-based research. Emphasis on field and computer methodologies. 3 hours lecture/discussion. Corequisite(s): ANT 4900 .",
+      "prerequisites": "ANT 1020 or ANT 1120 ; Upper Division standing; and GE Area 4A/D1/4B/D2 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 4910",
+      "title": "Forensic Anthropology",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "434978",
+      "description": "[GE 5D] Theory and techniques of forensic science. Instruction in human anatomy, osteology, and dentition; tools of anthropometry, facial reconstruction. Visiting experts in field applications (autopsies, crime scene analysis, criminal profiling, mortuary practices). Analysis in paleodemography, epidemiology.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+        "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+        "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "ANT 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438042",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "anthropology-b-s-applied-anthropology-subplan-option",
+        "anthropology-b-s-archaeology-subplan-option",
+        "anthropology-b-s-general-anthropology-subplan-option"
+      ]
+    },
+    {
+      "code": "ANT 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438043",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438044",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 1000",
+      "title": "World: People, Places, and Processes",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434979",
+      "description": "[GE 4A] The world’s major regions and the ways people live in them. Includes the regions’ physical and cultural characteristics, their similarities and differences, levels of development, geopolitics, and population dynamics. Emphasis on current major issues and their geographic contexts and impacts.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 1010",
+      "title": "Physical Geography",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "438823",
+      "description": "[GE 5A] Basic principles of physical geography. Significance of earth-related distribution patterns with reference to their effect on human activities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-minor",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 1010L",
+      "title": "Physical Geography Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "438825",
+      "description": "[GE 5C] Basic principles of physical geography. Significance of earth-related distribution patterns with reference to their effect on human activities. Pre or Corequisite(s): GEO 1010 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-minor",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GEO 1020",
+      "title": "Human Geography",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434980",
+      "description": "[GE 4A] Basic principles of cultural geography. Significance of people-related distribution patterns with reference to their effect on human activities. 3 hours lecture/discussion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-minor",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438392",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 2400",
+      "title": "Geographic Information Systems",
+      "units": "2",
+      "ge": null,
+      "coid": "436011",
+      "description": "Presents geographic concepts in the framework of geographic information systems (GIS). Basic understanding of the theoretical basis of GIS and spatial data. Basic techniques for the computer processing of geographical systems analysis and modeling. Understanding of questions that GIS can answer. Corequisite(s): GEO 2400L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-minor",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 2400L",
+      "title": "Geographic Information Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437425",
+      "description": "Presents geographic concepts in the framework of geographic information systems (GIS). Basic understanding of the theoretical basis of GIS and spatial data. Basic techniques for the computer processing of geographical systems analysis and modeling. Understanding of questions that GIS can answer. 3 hours laboratory. Corequisite(s): GEO 2400 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-minor",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438393",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438394",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438395",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3030",
+      "title": "Climatology",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "437765",
+      "description": "[GE 5D] Introduction to the fundamental concepts and theories in climatology. Methods of inquiry, including qualitative, quantitative, and computer based modeling and simulation methods. Explore climate variation through time and space and the reciprocal impact of climate and society. 3 hours lecture/problem-solving.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3050",
+      "title": "Global Environmental Systems",
+      "units": "2",
+      "ge": null,
+      "coid": "436012",
+      "description": "Advanced concepts and theories in physical geography. Methods of inquiry, including qualitative, quantitative, and computer based modeling and simulation methods. The focus is on the geomorphological and hydrological processes on physical landform changes through time and space; and the interactions among physical environment processes and human activities. Corequisite(s): GEO 3050L .",
+      "prerequisites": "GEO 1010 or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3050L",
+      "title": "Global Environmental Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437426",
+      "description": "Advanced concepts and theories in physical geography. Methods of inquiry, including qualitative, quantitative, and computer based modeling and simulation methods. The focus is on the geomorphological and hydrological processes on physical landform changes through time and space; and the interactions among physical environment processes and human activities. Corequisite(s): GEO 3050 .",
+      "prerequisites": "GEO 1010 or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3070",
+      "title": "Climate Change: Science and Action",
+      "units": "2",
+      "ge": null,
+      "coid": "436013",
+      "description": "In depth investigation of the science of global warming and humankind’s impact on the Earth’s climate system. Corequisite(s): GEO 3070L .",
+      "prerequisites": "One course in GE Area B, GEO 1010 , GEO 1010L , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3070L",
+      "title": "Climate Change: Science and Action Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437427",
+      "description": "In depth investigation of the science of global warming and humankind’s impact on the Earth’s climate system. Corequisite(s): GEO 3070 .",
+      "prerequisites": "One course in GE Area B, GEO 1010 , GEO 1010L , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3080",
+      "title": "Biogeography",
+      "units": "2",
+      "ge": null,
+      "coid": "436014",
+      "description": "The geography of organisms, biotic communities and ecosystems. Investigation of ecosystem types, their components, locations, and geographic scope. Particular emphasis on spatial and temporal principles governing the geographic patterns of current and past terrestrial plant and animal species and communities. 2 hours lecture/discussion. Corequisite(s): GEO 3080L .",
+      "prerequisites": "GEO 1010 and GEO 1010L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3080L",
+      "title": "Biogeography Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437428",
+      "description": "Laboratory component for learning about the geography of organisms, biotic communities and ecosystems. Investigation of ecosystem types, their components, locations, and geographic scope. Particular emphasis on spatial and temporal principles governing the geographic patterns of current and past terrestrial plant and animal species and communities. 3 hours laboratory. Corequisite(s): GEO 3080 .",
+      "prerequisites": "GEO 1010 and GEO 1010L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3090",
+      "title": "Introduction to Field Geography",
+      "units": "2",
+      "ge": null,
+      "coid": "436015",
+      "description": "Introduction to the methods and techniques for collecting spatial and environmental data for physical geography and ecological studies. Corequisite(s): GEO 3090L .",
+      "prerequisites": "GEO 1010 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3090L",
+      "title": "Introduction to Field Geography Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437429",
+      "description": "Introduction to the methods and techniques for collecting spatial and environmental data for physical geography and ecological studies. Corequisite(s): GEO 3090 .",
+      "prerequisites": "GEO 1010 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3100",
+      "title": "Cultural Geography",
+      "units": "3",
+      "ge": null,
+      "coid": "436016",
+      "description": "An intermediate examination of the breadth, depth and methods of cultural geography through an examination of three themes: human-environment relationships; landscape; and place. The three themes are explored through the scholarship of selected distinguished cultural geographers. 3 hours lecture/discussion.",
+      "prerequisites": "GEO 1000 , GEO 1020 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3120",
+      "title": "Economic Geography",
+      "units": "3",
+      "ge": null,
+      "coid": "436017",
+      "description": "Introduction to the substance and issues of economic geography. Topics addressed include the distribution and control of resources, the diversity of political/economic systems and the international exchange of labor and goods.",
+      "prerequisites": "Lower Division GE area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3130",
+      "title": "Legal and Political Geography",
+      "units": "3",
+      "ge": null,
+      "coid": "436018",
+      "description": "Spatial aspects of political systems and units. Spatial consequences of environmental and geographic phenomena as influenced by legal and political power will be the focus of attention. Territorial configurations and disputes at all levels, on all continents. 3 hours lecture/problem-solving.",
+      "prerequisites": "GE area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3150",
+      "title": "Urban Geography",
+      "units": "3",
+      "ge": null,
+      "coid": "436019",
+      "description": "Analysis and presentation on the problems in the origin and evolution of cities. Includes size, functions, distribution patterns, supporting and tributary areas, and roles within the whole political, social and economic structure of a region; includes suburbs and problems of metropolitan areas.",
+      "prerequisites": "GE area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3220",
+      "title": "GIS Programing",
+      "units": "2",
+      "ge": null,
+      "coid": "437430",
+      "description": "Fundamental concepts in programing languages used in GIS. Focus on GIS script writing for frequently occurring tasks in customization and application development within a GIS system. Corequisite(s): GEO 3220L .",
+      "prerequisites": "GEO 2400 and GEO 2400L , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3220L",
+      "title": "GIS Programing Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437431",
+      "description": "Fundamental concepts in programing languages used in GIS. Focus on GIS script writing for frequently occurring tasks in customization and application development within a GIS system. Corequisite(s): GEO 3220 .",
+      "prerequisites": "GEO 2400 and GEO 2400L , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3300",
+      "title": "Environmental Geography",
+      "units": "2",
+      "ge": null,
+      "coid": "436020",
+      "description": "Explores geographic issues of natural resource availability, environmental consequences of patterns of population distribution, and pollution diffusing. Analysis of spatial patterns of human/environment impacts at regional and local scales. 2 hours lecture/discussion. Corequisite(s): GEO 3300L .",
+      "prerequisites": "GEO 1010 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3300L",
+      "title": "Environmental Geography Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437432",
+      "description": "Explores geographic issues of natural resource availability, environmental consequences of patterns of population distribution, and pollution diffusing. Analysis of spatial patterns of human/environment impacts at regional and local scales. Corequisite(s): GEO 3300 .",
+      "prerequisites": "GEO 1010 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 3500",
+      "title": "United States and Canada: People, Environment, and Sustainability",
+      "units": "3",
+      "ge": null,
+      "coid": "436300",
+      "description": "Analysis and presentations of topics and problems in the physical, cultural and regional patterns of the United States and Canada.",
+      "prerequisites": "GE Area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GEO 3510",
+      "title": "Geography of California",
+      "units": "3",
+      "ge": "GE 4C or 5D",
+      "coid": "434981",
+      "description": "[GE 4C or 5D] Location, description, and interplay of California’s human and natural resources. The influence of physical features upon the economic activities and sequence of occupation of California. Particular attention to the relationship of current social and environmental problems to their geographical roots.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-minor",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GEO 3520",
+      "title": "Latin America: People, Environment, and Sustainability",
+      "units": "3",
+      "ge": null,
+      "coid": "436021",
+      "description": "Examination of Latin America in cultural, economic, environmental, and political terms, especially in relation to the United States. Addresses the physical and cultural geography of Latin America - a dynamic region - in the overarching theme of globalization.",
+      "prerequisites": "GE Area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GEO 3570",
+      "title": "Asia: People, Environment, and Sustainability",
+      "units": "3",
+      "ge": null,
+      "coid": "436022",
+      "description": "Studies of physical, cultural, and political environmental patterns and trends in non-Russian Asia, including East Asia, South Asia, Southeast Asia, and Southwestern Asia. Emphasis on geographic characteristics in these regions and their connections to the rest of the world in the context of historical and current events and interests.",
+      "prerequisites": "GE Area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GEO 3580",
+      "title": "Africa: People, Environment, and Sustainability",
+      "units": "3",
+      "ge": null,
+      "coid": "436023",
+      "description": "Physical, cultural and regional patterns of the nations of Africa. Emphasis within regions on development patterns of the new countries in Africa. 3 hours lecture/discussion.",
+      "prerequisites": "GE Area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GEO 3590",
+      "title": "Europe: People, Environment, and Sustainability",
+      "units": "3",
+      "ge": null,
+      "coid": "436024",
+      "description": "Analysis and presentations of issues in the natural environment and the cultural landscape of Europe. Major current trends in social, cultural, economic, and political developments in Western and Eastern Europe; relationship between historical and geographical regional diversity.",
+      "prerequisites": "GE Area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GEO 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438396",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4050W",
+      "title": "Geodemographics with Geographic Information Systems",
+      "units": "2",
+      "ge": null,
+      "coid": "436025",
+      "description": "Application of Geographic Information Systems (GIS) techniques for the analysis of spatial and locational patterns of human population, population characteristics and population change. Housing, migration and commuting patterns. Market analysis and site location decision support. Neighborhood segregation and transitions. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): GEO 4050LW .",
+      "prerequisites": "GEO 2400 , GEO 2400L , and junior or senior standing, or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 4090",
+      "title": "Applied Cultural Geography",
+      "units": "3",
+      "ge": null,
+      "coid": "436205",
+      "description": "Guidance and critiquing of student work in the analysis and evaluation of geographical characteristics of the natural environment and its human use. Includes field mapping, systematic and random sampling of spatial phenomena, and environmental impact reporting.",
+      "prerequisites": "GEO 1020 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 4100",
+      "title": "Remote Sensing of the Environment",
+      "units": "2",
+      "ge": null,
+      "coid": "436026",
+      "description": "Principles and techniques of remote sensing using remotely sensed data to examine physical and cultural geographic scenes. Remote sensing applications in urban planning, agriculture, ecosystem management, atmosphere and earth sciences, and geographic information systems. Corequisite(s): GEO 4100L .",
+      "prerequisites": "GEO 2400 and GEO 2400L or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 4100L",
+      "title": "Remote Sensing of the Environment Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437434",
+      "description": "Principles and techniques of remote sensing using remotely sensed data to examine physical and cultural geographic scenes. Remote sensing applications in urban planning, agriculture, ecosystem management, atmosphere and earth sciences, and geographic information systems. Corequisite(s): GEO 4100 .",
+      "prerequisites": "GEO 2400 and GEO 2400L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 4130",
+      "title": "Environmental Law",
+      "units": "3",
+      "ge": null,
+      "coid": "436027",
+      "description": "Assessment and evaluation of the interplay between the American system of law and the natural system of the environment. Case studies of specific legal issues relating to resources including air, water and land pollution laws and their application and practice.",
+      "prerequisites": "GEO 1010 , GEO 1020 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4150",
+      "title": "Environmental Hazards and Society",
+      "units": "3",
+      "ge": null,
+      "coid": "436028",
+      "description": "Geographic context of Natural Hazards, Disasters, and Emergency Management and Policy. Planning for disasters, emergencies, and hazards before crises occur. Theories and practices of emergency management, including comprehensive EMS and all-hazards approach. Specific applications based upon recent and historic disasters.",
+      "prerequisites": "GEO 1010 , GEO 1020 , or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GEO 4400",
+      "title": "Advanced GIS",
+      "units": "2",
+      "ge": null,
+      "coid": "436030",
+      "description": "Technical issues of geographic information systems. Topics include: data structures, database models, error estimation, and product generation. 3 hours lecture/problem-solving. Corequisite(s): GEO 4400L .",
+      "prerequisites": "GEO 2400 and GEO 2400L or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 4400L",
+      "title": "Advanced GIS Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437435",
+      "description": "Technical issues of geographic information systems. Topics include: data structures, database models, error estimation, and product generation. 3 hours laboratory. Corequisite(s): GEO 4400 .",
+      "prerequisites": "GEO 2400 and GEO 2400L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 4410",
+      "title": "Internship in Geo-technology and Environmental Applications",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437436",
+      "description": "On the job training in the field of geo-technology, environmental analysis, and other applications that enhance skills and real world experience associated with the geography degree. Department guidelines must be followed and internships must be approved in advance by the internship coordinator. A report is required at the conclusion of the internship. Maximum 3 units.",
+      "prerequisites": "Geography major, Junior or Senior standing and Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Maximum 3 units.",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4430W",
+      "title": "Geospatial Data Analysis",
+      "units": "2",
+      "ge": null,
+      "coid": "437437",
+      "description": "Quantitative analysis methods for research in the spatial sciences. Characteristics of geographic data (attributes of objects and fields in geographic space). Probability, hypothesis testing and confidence intervals. Summary, descriptive and exploratory statistics for geographic data. Regression modeling. Spatial autocorrelation and spatial regression methods. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): GEO 4430LW .",
+      "prerequisites": "GEO 2400 , GEO 2400L , and junior or senior standing; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 4450",
+      "title": "Environmental Modeling with GIS",
+      "units": "2",
+      "ge": null,
+      "coid": "436038",
+      "description": "Environmental modeling within the geospatial framework. Theoretical foundations and technical approaches to model development with GIS. Issues and applications associated with environmental models. 2 hours lecture/problem-solving. Corequisite(s): GEO 4450L .",
+      "prerequisites": "GEO 2400 and GEO 2400L or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 4450L",
+      "title": "Environmental Modeling with GIS Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437439",
+      "description": "Environmental modeling within the geospatial framework. Theoretical foundations and technical approaches to model development with GIS. Issues and applications associated with environmental models. 3 hours laboratory. Corequisite(s): GEO 4450 .",
+      "prerequisites": "GEO 2400 and GEO 2400L or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 4610",
+      "title": "Senior Project/Capstone 1",
+      "units": "3",
+      "ge": null,
+      "coid": "436273",
+      "description": "Exploration of research framework and research methods in geography. Individual or group investigation, research, studies, or surveys of selected problems.",
+      "prerequisites": "Geography major and Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geography-b-s-environmental-studies-subplan-option",
+        "geography-b-s-geospatial-analysis-subplan-option",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+        "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GEO 4620",
+      "title": "Senior Project/Capstone 2",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437650",
+      "description": "Group investigation, research, studies, or surveys of selected problems. May be taken up to three times for a total credit up to 9 units.",
+      "prerequisites": "B or better in GEO 4610 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438397",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438398",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438399",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "anthropology-b-s-applied-anthropology-subplan-option",
+      "name": "Anthropology, B.S. - Applied Anthropology Subplan/Option"
+    },
+    {
+      "id": "anthropology-b-s-archaeology-subplan-option",
+      "name": "Anthropology, B.S. - Archaeology Subplan/Option"
+    },
+    {
+      "id": "anthropology-b-s-general-anthropology-subplan-option",
+      "name": "Anthropology, B.S. - General Anthropology Subplan/Option"
+    },
+    {
+      "id": "geography-b-s-environmental-studies-subplan-option",
+      "name": "Geography, B.S. - Environmental Studies Subplan/Option"
+    },
+    {
+      "id": "geography-b-s-geospatial-analysis-subplan-option",
+      "name": "Geography, B.S. - Geospatial Analysis Subplan/Option"
+    },
+    {
+      "id": "anthropology-minor",
+      "name": "Anthropology Minor"
+    },
+    {
+      "id": "geography-minor",
+      "name": "Geography Minor"
+    },
+    {
+      "id": "anthropology-b-s-applied-anthropology-subplan-option-roadmap-4-year-120-units",
+      "name": "Anthropology, B.S. - Applied Anthropology Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "anthropology-b-s-archaeology-subplan-option-roadmap-4-year-120-units",
+      "name": "Anthropology, B.S. - Archaeology Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "anthropology-b-s-general-anthropology-subplan-option-roadmap-4-year-120-units",
+      "name": "Anthropology, B.S. - General Anthropology Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "geography-b-s-environmental-studies-subplan-option-roadmap-4-year-120-units",
+      "name": "Geography, B.S. - Environmental Studies Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "geography-b-s-geospatial-analysis-subplan-option-roadmap-4-year-120-units",
+      "name": "Geography, B.S. - Geospatial Analysis Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "anthropology-b-s-applied-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Anthropology, B.S. - Applied Anthropology Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "anthropology-b-s-archaeology-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Anthropology, B.S. - Archaeology Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "anthropology-b-s-general-anthropology-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Anthropology, B.S. - General Anthropology Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "geography-b-s-environmental-studies-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Geography, B.S. - Environmental Studies Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "geography-b-s-geospatial-analysis-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Geography, B.S. - Geospatial Analysis Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

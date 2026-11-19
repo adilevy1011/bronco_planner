@@ -1,0 +1,309 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:49+00:00",
+  "id": "digital-supply-chain-management-m-s",
+  "name": "Digital Supply Chain Management, M.S.",
+  "title_on_page": "University Catalog",
+  "department": "Technology And Operations Management",
+  "department_id": "technology-and-operations-management",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24345",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6310",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Digital Supply Chain Management, M.S.: 32 units Offered jointly by: College of Business Administration - Technology and Operations Management Department and College of Professional and Global Education Major Required | Major Electives | Culminating Experience | Program Website Major Required: 25 units GBA 5140 - Statistics Essentials for Business Analytics (3) GBA 6210 - Data Mining for Business Analytics (3) GBA 6420 - Optimization Methods for Business Analytics (3) TOM 6010 - Supply Chain Management Fundamentals (3) TOM 6030 - Enterprise Resource Planning (3) TOM 6090 - Global Logistics and Transportation (3) TOM 6320 - Production Strategies in Supply Chain Management (3) TOM 6340 - Purchasing Management and Strategic Sourcing (3) TOM 6880 - Negotiation and Persuasion in Supply Chains (1) Major Electives: 6 units TOM 5300 - Introduction to Artificial Intelligence Technologies in Business (3) TOM 6200 - Contemporary Supply Chain Technology Seminar (1) TOM 6250 - Strategic Supply Chain Management (2) TOM 6300 - Artificial Intelligence Frontier and Future Business (3) TOM 6410 - Lean and Six Sigma (2) TOM 6500 - Artificial Intelligence Studio and Business Implementations (3) TOM 6870 - Team Dynamics in Supply Chain Management (1) Culminating Experience: 1 unit TOM 6970 - Comprehensive Examination (1) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California St",
+  "requirements": [
+    {
+      "name": "Major Required: 25 units",
+      "courses": [
+        "GBA 5140",
+        "GBA 6210",
+        "GBA 6420",
+        "TOM 6010",
+        "TOM 6030",
+        "TOM 6090",
+        "TOM 6320",
+        "TOM 6340",
+        "TOM 6880"
+      ],
+      "raw_text": "Major Required: 25 units"
+    },
+    {
+      "name": "Major Electives: 6 units",
+      "courses": [
+        "TOM 5300",
+        "TOM 6200",
+        "TOM 6250",
+        "TOM 6300",
+        "TOM 6410",
+        "TOM 6500",
+        "TOM 6870"
+      ],
+      "raw_text": "Major Electives: 6 units"
+    },
+    {
+      "name": "Culminating Experience: 1 unit",
+      "courses": [
+        "TOM 6970"
+      ],
+      "raw_text": "Culminating Experience: 1 unit"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "GBA 5140",
+      "title": "Statistics Essentials for Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "434609",
+      "requirement": "Major Required: 25 units",
+      "description": "Cross Listed as: EMT 5140 Applications of managerial statistics for business decisions. Data collection, confidence interval estimation of mean and proportion, one and two-population hypothesis testing of mean and proportion, one-way and two-way Chi-square testing, simple linear regression, multiple linear regression, and Analysis of Variance. Use of computers.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GBA 6210",
+      "title": "Data Mining for Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "439130",
+      "requirement": "Major Required: 25 units",
+      "description": "Knowledge, experiences, and programming skills of applying predictive analytics in business contexts with hands-on exercises and projects. Model significant and meaningful patterns embedded in historical data using data mining techniques, evaluate performance of machine learning models, and deploy the models for prediction.",
+      "prerequisites": "GBA 5140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GBA 6420",
+      "title": "Optimization Methods for Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "439135",
+      "requirement": "Major Required: 25 units",
+      "description": "Understand how complex business problems can be modeled, analyzed, and solved in an optimal manner. Develop spreadsheet models for making complex business decisions, as well as interpret the results of such models. Optimization models including various mathematical programming models and decision making under risk and uncertainty.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 6010",
+      "title": "Supply Chain Management Fundamentals",
+      "units": "3",
+      "ge": null,
+      "coid": "439046",
+      "requirement": "Major Required: 25 units",
+      "description": "Foundation of advanced operations and supply chain management, introduce trends in supply chain technologies, and cultivate leadership skills. Topics include: Process analysis; Inventory management; Quality management; Project management; Supply chain coordination; Key Performance Indicator (KPI) tree/Return on Invested Capital (ROIC) tree; Contemporary supply chain technology trend.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 6030",
+      "title": "Enterprise Resource Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "439048",
+      "requirement": "Major Required: 25 units",
+      "description": "Provides students with an introduction to the concepts, theories, and procedures associated with enterprise resource planning (ERP) and customer relationship management (CRM). ERP integrates the functions of business to provide managers more useful, relevant information for decision making. CRM creates a customer-centric focused enterprise tools with the integration of ERP. Helps students see how ERP and CRM can make the organization more effective and efficient both internally and externally.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 6090",
+      "title": "Global Logistics and Transportation",
+      "units": "3",
+      "ge": null,
+      "coid": "439049",
+      "requirement": "Major Required: 25 units",
+      "description": "Provides both operational and strategic perspectives of global logistics and transportation management, which not only reduces the cost of distributing goods and services worldwide, but also create value for companies and eventually creates unique competitive advantages. Topics include transportation, inventory and warehouse management, customer service, and logistics information flows. The course instruction includes lectures, business cases, and hand-on learning with software.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department, Fall, Spring"
+    },
+    {
+      "code": "TOM 6320",
+      "title": "Production Strategies in Supply Chain Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439047",
+      "requirement": "Major Required: 25 units",
+      "description": "Manufacturing Planning and Control (MPC) across the supply chain and incorporates information technology in MPC. Topics include demand forecasting and management, capacity planning, sales and operations planning, master production scheduling, and material requirement planning, production control and scheduling, and shop floor control.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 6340",
+      "title": "Purchasing Management and Strategic Sourcing",
+      "units": "3",
+      "ge": null,
+      "coid": "439050",
+      "requirement": "Major Required: 25 units",
+      "description": "Provides students with an understanding of the impacts that purchasing and supply management have on the success and profitability of firms in today’s business environment. Topics include supply strategy, supply organization, supply processes and technology, make-or-buy, quality, quantity and inventory, delivery, price, cost management, supplier selection, supplier evaluation, supplier relationships, global supply management, legal and ethics, and other supply responsibilities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department, Fall, Spring"
+    },
+    {
+      "code": "TOM 6880",
+      "title": "Negotiation and Persuasion in Supply Chains",
+      "units": "1",
+      "ge": null,
+      "coid": "439055",
+      "requirement": "Major Required: 25 units",
+      "description": "Negotiation is the art and science of securing agreements between two or more interdependent parties. Managers need not only technical and analytical skills to develop optimal solutions to problems, but also negotiation and persuasion skills to ensure that these solutions are accepted and to secure the necessary resources for implementation. Covers negotiation theory and strategies that are used in a variety of settings, and focuses on the real-life applications and practice of effective negotiation in supply chains.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 5300",
+      "title": "Introduction to Artificial Intelligence Technologies in Business",
+      "units": "3",
+      "ge": null,
+      "coid": "439450",
+      "requirement": "Major Electives: 6 units",
+      "description": "Introductory concepts aims to build the knowledge foundation of the artificial intelligence (AI) technologies and their applications in business operations and processes. Covers the following topics: the definition of AI, the current developments of AI systems/platforms, how AI technologies transform business operations and processes across different industries, the limitations, issues, policies, and governance of AI, the job opportunities and the future of AI.",
+      "prerequisites": "Computer proficiency.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer"
+    },
+    {
+      "code": "TOM 6200",
+      "title": "Contemporary Supply Chain Technology Seminar",
+      "units": "1",
+      "ge": null,
+      "coid": "439052",
+      "requirement": "Major Electives: 6 units",
+      "description": "Surveys the current technological trends in Supply Chain Management (SCM). The covered subjects may include contemporary supply chain technology areas such as blockchain, Robotic Process Automation (RPA), Internet of Things (IoT), Artificial Intelligence (AI), worker environment technology, warehouse technology, logistics technology, VR/MVR technologies, and etc.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 6250",
+      "title": "Strategic Supply Chain Management",
+      "units": "2",
+      "ge": null,
+      "coid": "439053",
+      "requirement": "Major Electives: 6 units",
+      "description": "Establishes a bird’s-eye view of modern global supply chains. Students learn to examine and solve cross-functional and/or cross organizational supply chain problems, which typically involve high level coordination and complicated tradeoffs. Contemporary supply chain related topics are introduced, such as supply chain finance, contracts, coordination, risk management, and network design.",
+      "prerequisites": "TOM 6340 and TOM 6090 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 6300",
+      "title": "Artificial Intelligence Frontier and Future Business",
+      "units": "3",
+      "ge": null,
+      "coid": "439451",
+      "requirement": "Major Electives: 6 units",
+      "description": "Explores the cutting-edge technologies and future implications of artificial intelligence (AI) across diverse business domains including all end-to-end supply chain processes. Students will gain fundamental knowledge of generative AI and its underpinning technologies like neural networks, attention mechanisms, and transformers. Provides hands-on experience in applying large language models (LLMs) such as ChatGPT to streamline business operations, enhance productivity, and extract insights. Students will learn prompt engineering to optimize ChatGPT or other LLM tools’ outputs for business processes. Emerging trends in AI will be analyzed to identify new opportunities and challenges for integrating AI into corporate strategies. Additionally, topics covered include crucial considerations surrounding AI ethics, safety, and regulations in business contexts.",
+      "prerequisites": "Microcomputer proficiency.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer"
+    },
+    {
+      "code": "TOM 6410",
+      "title": "Lean and Six Sigma",
+      "units": "2",
+      "ge": null,
+      "coid": "439051",
+      "requirement": "Major Electives: 6 units",
+      "description": "Aims to build knowledge foundation of quality and quality management and prepare students for related certificates. Topics include: Concepts of Lean and Six Sigma; DMAIC (Define, Measure, Analyze, Improve, Control) framework; Customer focus, supplier focus, and process focus of quality management; Statistical process control; Process improvement.",
+      "prerequisites": "GBA 5140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 6500",
+      "title": "Artificial Intelligence Studio and Business Implementations",
+      "units": "3",
+      "ge": null,
+      "coid": "439452",
+      "requirement": "Major Electives: 6 units",
+      "description": "Explores the integration of artificial intelligence (AI) technologies into the business landscape. Delves into AI-driven entrepreneurial ventures, ethical considerations, and hands-on implementation of AI-powered business applications. Harnesses AI for innovative business solutions through practical projects and case studies.",
+      "prerequisites": "TOM 5300 or TOM 6300 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer"
+    },
+    {
+      "code": "TOM 6870",
+      "title": "Team Dynamics in Supply Chain Management",
+      "units": "1",
+      "ge": null,
+      "coid": "439054",
+      "requirement": "Major Electives: 6 units",
+      "description": "Surveys the basics in team science under the context of supply chain management, covering topics such as creating teams and managing teams from various supply chain functions, managing conflicts from the view of value creation and supply chain integration.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 6970",
+      "title": "Comprehensive Examination",
+      "units": "1",
+      "ge": null,
+      "coid": "439056",
+      "requirement": "Culminating Experience: 1 unit",
+      "description": "An examination on the subject areas of the candidate’s coursework listed on the degree program. Pre or Corequisite(s): TOM 6090 , TOM 6340 , TOM 6030 , and TOM 6320 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department, Fall, Spring, Summer"
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "TOM 5300",
+    "TOM 6010",
+    "TOM 6030",
+    "TOM 6090",
+    "TOM 6200",
+    "TOM 6250",
+    "TOM 6300",
+    "TOM 6320",
+    "TOM 6340",
+    "TOM 6410",
+    "TOM 6500",
+    "TOM 6870",
+    "TOM 6880",
+    "TOM 6970"
+  ]
+}

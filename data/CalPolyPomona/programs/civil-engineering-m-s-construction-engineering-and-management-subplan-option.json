@@ -1,0 +1,418 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:10:55+00:00",
+  "id": "civil-engineering-m-s-construction-engineering-and-management-subplan-option",
+  "name": "Civil Engineering, M.S. - Construction Engineering and Management Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Civil Engineering",
+  "department_id": "civil-engineering",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24184",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6318",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Civil Engineering, M.S. - Construction Engineering and Management Subplan/Option: 30 units Offered by: College of Engineering Civil Engineering Department Major Required | Subplan/Option Required | Subplan/Option Electives | Culminating Experience | Program Website Major Required: 3 units CE 5020 - Applied Probability Concepts (3) Subplan/Option Required: 15 units CE 5111 - Construction Productivity (3) CE 5121 - Construction Financial Management (3) CE 5131 - Construction Risk Management (3) CE 5141 - Advanced Construction Project Management (3) CE 5191 - Construction Project Delivery Methods (3) Subplan/Option Electives: 6-12 units Select a sufficient number of courses so that the total units for the degree is at least 30 . Choose up to 3 units of approved 4000-level courses. CE 4120 - Construction Scheduling (2) and CE 4120L - Construction Scheduling Laboratory (1) CE 4130 - Construction Contracts (3) CE 4140 - Construction Project Management and Accounting (3) CE 4151 - Project Life Cycle and Sustainability (3) CE 4171 - Virtual Design Construction and Management - BIM (2) and CE 4171L - Virtual Design Construction and Management - BIM Laboratory (1) CE 5151 - Total Quality Management (3) CE 5161 - Underground Construction and Trenchless Technology (3) CE 5171 - Temporary Construction Structures (3) CE 5181 - Construction Leadership and Ethics (3) CE 5310 - GIS Applications in Civil Engineering (3) CE 5451 - Pavement Design and Construction (3) CE 5491 - Street Maintenance, Rehabilitation and Management (3) CE 5990 - Special Topics for Graduate Students (1-3) Culminating Experience: 0-6 units CE 6950 - Master’s Project (3) or CE 6960 - Mas",
+  "requirements": [
+    {
+      "name": "Major Required: 3 units",
+      "courses": [
+        "CE 5020"
+      ],
+      "raw_text": "Major Required: 3 units"
+    },
+    {
+      "name": "Subplan/Option Required: 15 units",
+      "courses": [
+        "CE 5111",
+        "CE 5121",
+        "CE 5131",
+        "CE 5141",
+        "CE 5191"
+      ],
+      "raw_text": "Subplan/Option Required: 15 units"
+    },
+    {
+      "name": "Subplan/Option Electives: 6-12 units",
+      "courses": [
+        "CE 4120"
+      ],
+      "raw_text": "Subplan/Option Electives: 6-12 units"
+    },
+    {
+      "name": "and",
+      "courses": [
+        "CE 4120L",
+        "CE 4130",
+        "CE 4140",
+        "CE 4151",
+        "CE 4171",
+        "CE 4171L",
+        "CE 5151",
+        "CE 5161",
+        "CE 5171",
+        "CE 5181",
+        "CE 5310",
+        "CE 5451",
+        "CE 5491",
+        "CE 5990"
+      ],
+      "raw_text": "and"
+    },
+    {
+      "name": "Culminating Experience: 0-6 units",
+      "courses": [
+        "CE 6950"
+      ],
+      "raw_text": "Culminating Experience: 0-6 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "CE 6960",
+        "CE 6970"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CE 5020",
+      "title": "Applied Probability Concepts",
+      "units": "3",
+      "ge": null,
+      "coid": "435746",
+      "requirement": "Major Required: 3 units",
+      "description": "Statistical and probabilistic methods to better describe and understand variability and uncertainty in civil engineering problems.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5111",
+      "title": "Construction Productivity",
+      "units": "3",
+      "ge": null,
+      "coid": "437802",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "Fundamental concepts of project management and practices. Definition of Construction Productivity and study how to measure construction productivity and how it relates to other organizational functions. Lean construction and influential factors (i.e. human factors) related to productivity.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5121",
+      "title": "Construction Financial Management",
+      "units": "3",
+      "ge": null,
+      "coid": "437803",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "Fundamental theories and applied methods for financial management of construction companies. Construction accounting, cash flow analysis, financial planning and management, and risk analysis.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5131",
+      "title": "Construction Risk Management",
+      "units": "3",
+      "ge": null,
+      "coid": "437804",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "Dual Listed as: CE 4131 Basic principles of construction risk management, as it relates to project budget, schedule, and managing job site safety risk. Introduction to qualitative and quantitative methods of assessing risks, with discussion on how to mitigate them.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5141",
+      "title": "Advanced Construction Project Management",
+      "units": "3",
+      "ge": null,
+      "coid": "437893",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "Overviews of various project management tasks for construction project. Learning the use of various commercially-available project management software systems for a real-life problem given on each assignment. On-line collaboration, value engineering, and document management systems, cost estimating systems, scheduling systems, and 4D CAD visualization systems. Project-based lecture.",
+      "prerequisites": "Graduate Standing and Undergraduate course in project management or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5191",
+      "title": "Construction Project Delivery Methods",
+      "units": "3",
+      "ge": null,
+      "coid": "437808",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "Dual Listed as: CE 4191 Introduction and analysis of different project delivery methods used for the construction of various types of projects, including the baseline traditional design-bid-build method and alternative project delivery methods (such design-build, construction manager at risk, public-private partnerships, and integrated project delivery). The course addresses the risks entailed in various forms of project delivery methods, as well as describes the contractor evaluation techniques and contract types.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 4120",
+      "title": "Construction Scheduling",
+      "units": "2",
+      "ge": null,
+      "coid": "435713",
+      "requirement": "Subplan/Option Electives: 6-12 units",
+      "description": "Fundamentals of methods and procedures used in planning and scheduling construction projects, trade sequencing, recourses allocations, leveling and cost curves, utilization of both manual computer network systems. Corequisite(s): CE 4120L .",
+      "prerequisites": "ETC 305, ETC 304, or CE 3140 ; and BSCE, BSCET, BSCEM, or MSCE Major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 4120L",
+      "title": "Construction Scheduling Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "438910",
+      "requirement": "and",
+      "description": "Fundamentals of methods and procedures used in planning and scheduling construction projects, trade sequencing, recourses allocations, leveling and cost curves, utilization of both manual computer network systems. Corequisite(s): CE 4120 .",
+      "prerequisites": "ETC 305, ETC 304, or CE 3140 ; and BSCE, BSCET, BSCEM, or MSCE Major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "F, Sp"
+    },
+    {
+      "code": "CE 4130",
+      "title": "Construction Contracts",
+      "units": "3",
+      "ge": null,
+      "coid": "435714",
+      "requirement": "and",
+      "description": "The basic principles and detailed review of design drawings and contract documents, including plans, specifications and agreements involved in the construction of facilities.",
+      "prerequisites": "ETC 305, ETC 304, or CE 3140 ; and BSCE, BSCET, BSCEM, or MSCE Major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 4140",
+      "title": "Construction Project Management and Accounting",
+      "units": "3",
+      "ge": null,
+      "coid": "435715",
+      "requirement": "and",
+      "description": "The basic theory and techniques of project management and the general organizational structure of a contracting firm. Project engineer role in managing the legal, financial, budget, and personnel aspects of a construction project.",
+      "prerequisites": "ETC 305, ETC 304, or CE 3140 ; and BSCE, BSCET, BSCEM, or MSCE Major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 4151",
+      "title": "Project Life Cycle and Sustainability",
+      "units": "3",
+      "ge": null,
+      "coid": "439328",
+      "requirement": "and",
+      "description": "Investigations into green building construction practices and sustainability including use of novel or recycled materials, energy management and efficiency, water use/re-use, and indoor air quality. Life Cycle Assessment (LCA) of civil/construction projects.",
+      "prerequisites": "CE 3101 or CE 3101L , senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "CE 4171",
+      "title": "Virtual Design Construction and Management - BIM",
+      "units": "2",
+      "ge": null,
+      "coid": "436640",
+      "requirement": "and",
+      "description": "Fundamental principles of Building Information Modeling (BIM) as it applies to construction activities such as: 1) Construction sequence studies, 2) Clash detection between different disciplines, 3) Automated cost estimating by extracting material data from a 3-D BIM model. Corequisite(s): CE 4171L .",
+      "prerequisites": "ETC 304, ETC 305, CE 3140 , CE 3501L , or CE 305L; and BSCE, BSCET, BSCEM, or MSCE Major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 4171L",
+      "title": "Virtual Design Construction and Management - BIM Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436641",
+      "requirement": "and",
+      "description": "Fundamental principles of Building Information Modeling (BIM) as it applies to construction activities such as: 1) Construction sequence studies, 2) Clash detection between different disciplines, 3) Automated cost estimating by extracting material data from a 3-D BIM model. Corequisite(s): CE 4171 .",
+      "prerequisites": "ETC 304, ETC 305, CE 3140 , CE 3501L , or CE 305L; and BSCE, BSCET, BSCEM, or MSCE Major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5151",
+      "title": "Total Quality Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439420",
+      "requirement": "and",
+      "description": "TFocuses on the essence, principles, and practices of total quality management (TQM) in the construction industry. Ideas and topics covered are: process focus; customer satisfaction; inspection policies; economics of quality; and quality function deployment (QFD).",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring (odd years)"
+    },
+    {
+      "code": "CE 5161",
+      "title": "Underground Construction and Trenchless Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "437805",
+      "requirement": "and",
+      "description": "Learning methods that can be applied to make deteriorating underground pipeline infrastructures more sustainable. Theory and practice of underground construction methods including trenchless construction. Types of equipment, roles of site personnel, engineering design, contractual issues, and safety.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5171",
+      "title": "Temporary Construction Structures",
+      "units": "3",
+      "ge": null,
+      "coid": "437806",
+      "requirement": "and",
+      "description": "The basic design and construction of temporary structures with applications to concrete vertical and horizontal formwork; shoring, scaffolding, foundation underpinning, temporary bridges/retaining walls, design of cofferdams, diaphragm/slurry walls, and construction dewatering. Construction safety associated with temporary structures is emphasized.",
+      "prerequisites": "Graduate Standing and Undergraduate course in estimating or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5181",
+      "title": "Construction Leadership and Ethics",
+      "units": "3",
+      "ge": null,
+      "coid": "437807",
+      "requirement": "and",
+      "description": "Individual, organizational and process/structure leadership in project setting. Four-step leadership transformational model for project leaders. Project leadership tools and applications to motivation, conflict management, team building and delegation of risk.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5310",
+      "title": "GIS Applications in Civil Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435948",
+      "requirement": "and",
+      "description": "Introduction to fundamental concepts and techniques of geographic information systems (GIS). GIS applications in transportation, environmental assessment, water resources management, geoenvironmental analyses and other areas in civil engineering.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5451",
+      "title": "Pavement Design and Construction",
+      "units": "3",
+      "ge": null,
+      "coid": "437813",
+      "requirement": "and",
+      "description": "Cross Listed as: CE 4451 Fundamental principles of structural pavement design and common design methods: AASHTO, Caltrans, Asphalt Institute and Portland Cement Association. Typical highway construction practices and activities. Laboratory testing of highway materials and quality assurance during construction are also discussed.",
+      "prerequisites": "Graduate Standing, undergraduate course in geotechnical engineering, and engineering materials or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5491",
+      "title": "Street Maintenance, Rehabilitation and Management",
+      "units": "3",
+      "ge": null,
+      "coid": "437894",
+      "requirement": "and",
+      "description": "Fundamental principles of pavement management and life cycle. Pavement condition surveys and non-destructive testing are also discussed. In addition, students are introduced to typical street maintenance strategies including preservation and recycling.",
+      "prerequisites": "Graduate Standing, undergraduate course in geotechnical engineering, and engineering materials or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438119",
+      "requirement": "and",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing and Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6950",
+      "title": "Master’s Project",
+      "units": "3",
+      "ge": null,
+      "coid": "436165",
+      "requirement": "Culminating Experience: 0-6 units",
+      "description": "Individual and independent work based on the project proposal, plan and schedule approved by the Project Committee members and Graduate Program Coordinator. Regular meetings and discussions with advisor.",
+      "prerequisites": "Graduate Standing, good academic standing, advancement to candidacy, and completion of approved project proposal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6960",
+      "title": "Master’s Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "436166",
+      "requirement": "or",
+      "description": "Individual and independent research work based on the thesis proposal, plan and schedule approved the Project Committee members and Graduate Program Coordinator. Regular meetings and discussions with advisor.",
+      "prerequisites": "Graduate Standing; good academic standing; advancement to candidacy; completion of approved project proposal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6970",
+      "title": "Comprehensive Examination",
+      "units": "0",
+      "ge": null,
+      "coid": "436167",
+      "requirement": "or",
+      "description": "Comprehensive examination to satisfy the culminating experience requirement of the Master of Science in Civil Engineering (MSCE) degree. May enroll after completing the required course work, and it may be taken up to two times.",
+      "prerequisites": "Graduate Standing, consent of instructor, and good standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "CE 4120",
+    "CE 4120L",
+    "CE 4130",
+    "CE 4140",
+    "CE 4151",
+    "CE 4171",
+    "CE 4171L"
+  ]
+}

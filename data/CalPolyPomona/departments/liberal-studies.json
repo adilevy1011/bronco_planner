@@ -1,0 +1,797 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:39:19+00:00",
+  "id": "liberal-studies",
+  "name": "Liberal Studies",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6314",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Liberal Studies Department Building 94 Room 203 | (909) 869-3567 | Department Website | Faculty Directory To prepare our students to become active citizens and capable professionals who impact their communities, workplaces, and society, contributing to a more inclusive and just world. The Liberal Studies department cultivates interdisciplinary, civic-minded learners through its undergraduate program and unique Interdisciplinary General Education (IGE) pathway. In the State of California, Liberal Studies is the undergraduate major that provides subject matter competence for entering a multiple subjects teaching credential program and an interdisciplinary degree that can be partially designed for other careers. Guided by Cal Poly Pomona’s polytechnic ethos, students explore four program themes-social justice, sustainability, creativity, and wellness-while developing workplace skills such as critical thinking, communication, collaboration, and adaptability. The program provides a foundation for careers in K-9 teaching, education, public services, environmental stewardship, and health, as well as those preparing for graduate study. Courses blend liberal arts, design-thinking, citizen science, and service learning, offering engaging Signature Polytechnic Experiences(PolyX). The IGE pathway delivers an innovative learning-community model that satisfies up to 18 units of University GE through discussion-based, active-learning courses. It emphasizes intellectual versatility and professional readiness through integrated exploration of humanities, social sciences, and arts. The IGE curriculum fosters effective communication, critical thinking, informati",
+  "courses": [
+    {
+      "code": "IGE 1020",
+      "title": "Engaged Education: Integrating Knowledge, Learning and Success",
+      "units": "3",
+      "ge": null,
+      "coid": "435032",
+      "description": "Cross Listed as: EWS 1020, LS 1020 The First Year Experience course is an introduction to the nature, meanings, and purposes of higher education. Emphasis will be on the development of intellectual and personal skills to critically examine and integrate knowledge, theory, and practice and the development of intellectual, social, and civic engagement for a diverse, complex society. Students will develop strategies and attitudes to maximize academic and personal success, learn about campus resources and how to use them, think about career possibilities and build positive relationships with peers, faculty, and staff.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 1100",
+      "title": "Who Am I?: Understanding Ourselves, Our Communities, and Our Worlds",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "435030",
+      "description": "[GE 3B] Explores critical questions about interdisciplinarity, learning, the aims of higher education, and the university experience; the nature of human knowledge and the development of human consciousness and community in various regions of the world. Topics will include: myth, symbol, performance, and ceremony; the power of art; prehistory and patterns of living; identities and cultures; cosmologies and cosmogonies; the nature of tragedy; and philosophers and thinkers of the ancient world. Inquiries are grounded in prehistory and the ancient period up to c. 600 C.E. Activity fee may be required. IGE 1100 when taken in sequence with IGE 1200 fulfills GE Sub-area 1A/A2. IGE 1100 taken alone will receive GE Sub-area 3B/C2 credit only.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 1200",
+      "title": "Faith, Passion, and Power: The Saga of the Ancient and Medieval Worlds",
+      "units": "3",
+      "ge": "GE 1A or 3B",
+      "coid": "437709",
+      "description": "[GE 1A or 3B] Explores multiple meanings of the course themes of authority and faith in our own lives and through literary, visual, and spatial materials representing a variety of world cultures and faith traditions. Topics include: visions of hell and redemption; politics, social order, and institutions; constructions of the sacred and secular selves; private lives and public spaces; cultural exchange across time and space; and mysticism. The readings span the years from roughly 600 B.C.E. to 1600 C.E. in different world cultures. Activity fee may be required.",
+      "prerequisites": "Category II and IGE 1100 ; ENG 1103 ; or ENG 1101 . ( ENG 1103 or ENG 1101 may be taken concurrently).",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "global-humanities-minor"
+      ]
+    },
+    {
+      "code": "IGE 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438459",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 2100",
+      "title": "Empires, States, and Peoples: Cultural Contact and Exchange",
+      "units": "3",
+      "ge": "GE 3A or 3B",
+      "coid": "435031",
+      "description": "[GE 3A or 3B] Explores empires, states, and peoples throughout time from different parts of the world, placing emphasis on literary, visual and material culture. Through analysis of historical, literary, and artistic sources, the course explores how the practices and interactions of empires configured contexts in which peoples acted and thought, created connections across time and space, and shaped production, communication, diplomacy, trade, commerce, and cultures. Examines themes including: the nature of sovereignty; the polities of empires vs. nation-states; nomads and migrations; patterns of rise and fall, center and periphery; and representations and ideological projections of empire. Activity fee may be required. Activity fee may be required.",
+      "prerequisites": "IGE 1100 or IGE 1200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 2150",
+      "title": "A Sustainable Tomorrow: From Industrialization to Ethical Environmentalism (3) [GE 3B or 4A]",
+      "units": "N/A",
+      "ge": "AmInst-A",
+      "coid": "439109",
+      "description": "[GE 3B or 4A] [AmInst-A] Explores industrialization and technology, science, and environmentalism in relation to human purpose in 19th, 20th, and 21st U.S. history and across various cultures. Topics include: processes of industrialization in 19th-century US history; gender, class, and race in science and technology in US history; scientific revolutions; constructions of science as a way of knowing, including ethnoscience; Native American struggles for land and life; environmentalism (environmental epistemology, justice, ethics, sustainability, and aesthetics); local, national, and global citizenship and justice. Inquiries are grounded in nineteenth-, twentieth-, and twenty-first-century U.S. and global history. 1st course of second IGE year. 4A/D1 and 3B/C2 at the completion of the second IGE year. Optional service fee for scheduled group activities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "global-humanities-minor"
+      ]
+    },
+    {
+      "code": "IGE 2200",
+      "title": "Encountering Difference: Culture and Power",
+      "units": "3",
+      "ge": "GE 3A or 3B",
+      "coid": "435033",
+      "description": "[GE 3A or 3B] Explores self and other, constructions and representations of ‘otherness’, and the negotiation of difference through philosophy, literature, art, and media. The course further explores the themes of both cultural collision and cultural exchange introduced in IGE 2100. Topics related to these themes will include colonial encounters; interpretations of the discourse of East vs. West, Old World/New World encounters; crossing borders; structures of power and domination, and notions of resistance, reform and revolution. Inquiries are grounded in both the modern world and the colonial period.",
+      "prerequisites": "IGE 121, IGE 122, or IGE 2100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 2250",
+      "title": "The Stranger: Encountering Difference and Creating Coexistence (3) [GE 3B or 4A]",
+      "units": "N/A",
+      "ge": "AmInst-A",
+      "coid": "439110",
+      "description": "[GE 3B or 4A] [AmInst-A] Explores notions of self and other, historical and current constructions and representations of ‘otherness’, and the negotiation of difference through philosophy, literature, art, media, and cultural geography in the US and global contexts. The course further explores the themes of cultural collision and cultural exchange in the US introduced in IGE 2100. Topics within these themes will include constructions and intersections of race, class, and gender; colonial encounters; critical interpretations of the discourse of “East vs. West”; crossing borders; co-existence; sustainability and environmental justice; structures of power and domination; and notions of resistance, reform and revolution. Inquiries are grounded in both the colonial period and the modern world. Second course of second IGE year.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "global-humanities-minor"
+      ]
+    },
+    {
+      "code": "IGE 2300",
+      "title": "Ways of Doing: Culture, Society, and the Sciences (3) [GE 4A]",
+      "units": "N/A",
+      "ge": "AmInst-A",
+      "coid": "435034",
+      "description": "[GE 4A] [AmInst-A] Explores science, technology, and human purpose in 19th and 20th U.S. history and across various cultures. Investigates scientific revolutions, constructions of science as a way of knowing; ethical frameworks; and gender, class, and race in science and technology in U.S. history of the Industrial Age and the modern world.",
+      "prerequisites": "IGE 1100 or IGE 1200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 2350",
+      "title": "Rival Empires: Representation and Resistance",
+      "units": "3",
+      "ge": "GE 3A",
+      "coid": "439111",
+      "description": "[GE 3A] Explores various empires, states, and peoples throughout time from different parts of the world with emphasis on literary, visual and material culture. Through analysis of literary and artistic works, the course explores how practices and interactions of ancient, medieval, early modern, and modern empires have configured contexts in which peoples acted and thought, and developed connections across time and space that shaped production, communication, diplomacy, trade, commerce, and cultures. Explores patterns of the ‘rise and fall’ of empires; center and periphery; nomads, and migrations; continuity and change in the transformation of societies and cultures; the nature of sovereignty and polity of empires vs. nation-states; and representations and ideological constructions of empire. Activity fee may be required.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "global-humanities-minor"
+      ]
+    },
+    {
+      "code": "IGE 2400",
+      "title": "Ways of Living: Local, Global, and Universal Challenges (3) [GE 4A]",
+      "units": "N/A",
+      "ge": "AmInst-A",
+      "coid": "435025",
+      "description": "[GE 4A] [AmInst-A] Explores environmental epistemology, ethics, and aesthetics; Industrial Era developments in the US and US environmentalism; communities and cultures engaging in sustainable practices, Native American struggles for land and life, U.S. wilderness philosophy and developing-world critiques; urban environmentalism; environmental justice; local and global thinking and doing; and local, national, and global citizenship and justice. Inquiries are grounded in 19 th -, 20 th -, and 21 st -century U.S. and global history.",
+      "prerequisites": "IGE 121, IGE 122, or IGE 2300 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 2600",
+      "title": "Digital Culture, Race, and Ethnicity",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439114",
+      "description": "[GE 6] Cross Listed as: EWS 2600 Explores racial formations in a U.S. context and how race has shaped aspects of American digital culture; issues of ethnic identities and racial inequalities in digital media; how race and ethnicity are embodied in and shaped by digital technologies; how digital media serves to complicate, change, erase, and/or recreate ethnic and racial boundaries; possibilities for alternative identities, communities, and cultures that digital technology offers; digital literacy and Gen Z activism.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "global-humanities-minor"
+      ]
+    },
+    {
+      "code": "IGE 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438460",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438461",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438462",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 3100",
+      "title": "Interdisciplinary Perspectives: Capstone Seminar",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "435035",
+      "description": "[GE 3C or 4C] Explores theories of interdisciplinarity; histories of knowledge; and interrelatedness of the college curriculum through the research and presentation of an interdisciplinary capstone project, which synthesizes and extends themes from the IGE experience in the humanities, arts, and social sciences, and may connect to students’ individual majors.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "global-humanities-minor"
+      ]
+    },
+    {
+      "code": "IGE 3200",
+      "title": "Mad Scientists and Aliens: Science and Technology in Popular Culture",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "435038",
+      "description": "[GE 3C] Explores ways in which science and technology are represented in literature, film, and other cultural artifacts. Examines these representations primarily from the perspectives of history, philosophy, gender, race, and culture. Examines where ideas about science and technology arise both currently and historically, and ways in which both science and technology are cultural and social constructs.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 3300",
+      "title": "Demons, the Undead, and the Monstrous Other",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "435036",
+      "description": "[GE 3C] Explores personifications of evil through time and in diverse cultures; constructions of the monstrous ‘other’ in art and in religious and political discourse; cross-cultural analysis of ghosts and the narratives of the undead; supernatural horror; the cultural use of demonic encounters; pseudoscientific discourse within cultural contexts; institutional and cultural use of binary oppositions of good vs. evil. Themes explored mainly through literature, film, and theoretical works.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "global-humanities-minor"
+      ]
+    },
+    {
+      "code": "IGE 3400",
+      "title": "Peoples and Cultures of Central Asia: Life along the Silk Road",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437710",
+      "description": "[GE 4C] Explores the culture and historical background of the peoples of Central Asia and their relation to neighboring regions of Eastern Europe, the Middle East, China, and India from the ancient to the modern periods. Themes include tribalism, nomadism, conquest and empire; and the study of the political, economic, and social organization as well as the religious beliefs of Turko-Mongol peoples along the Silk Road.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "global-humanities-minor"
+      ]
+    },
+    {
+      "code": "IGE 3500",
+      "title": "The Creative Process: Innovation and Transformation",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "437777",
+      "description": "[GE 3C or 4C] Explores interdisciplinary theories of human creativity and the creative process and practical tools for generating innovative ideas. Looks at principal research and theories on how creativity can make us more innovative whatever our chosen field. Encourages practical experience in generating and developing new ideas in group and individual settings through in-class exercises and outside assignments. Examines the lives of highly innovative thinkers in various fields to determine the individual traits and environmental conditions that stimulate ground-breaking work, as well as how to set up an environment conducive to your and others’ creativity.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 3600",
+      "title": "UFOs, Illuminati, and Other Conspiracy Theories",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "439030",
+      "description": "[GE 4C] Exploration of the meaning, attraction, proliferation, and potential dangers of conspiratorial thinking within historical context. Topics will include: conspiracy narratives as expressions of anxieties about the relationship between the individual and the state; cross-cultural examinations of conspiracy narratives; and the historical, social, and cultural discourse around conspiracy theories about UFOs and Area 51, the JFK assassination, 9/11, the moon landing, the sphericity of the earth, and the Illuminati, among others.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 3700",
+      "title": "Apocalypse! The End of the World Across Time and Cultures",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "451035",
+      "description": "[GE 3C] A cross-cultural investigation of end-of-the-world narratives as depicted in art, literature, film, music, video games, comic books, and other media. Focus is on representations of apocalyptic and environmental destruction, interpreting the meanings of various disasters as well as personal and global annihilation (e.g., epidemics, nuclear catastrophe). Examine how these narratives function as thought experiments, reflecting contemporary concerns through imagined catastrophic futures, and exploring themes such as powerlessness, resilience, and societal collapse. Analyze apocalyptic traditions and beliefs about the End, including figures such as the Antichrist or False Prophet, messianic expectations, cycles of destruction, and millenarian ideologies. Explore the influence of millennialism on cultural interpretation, contemporary millennial movements (such as the Millerites, Aum Shinrikyo, and LDS), and modern expressions of apocalyptic belief. Particular attention is paid to the adaptability of apocalyptic language and its capacity to frame historical events, mobilize populations, and inspire both acceptance and resistance. Analyze how apocalyptic scenarios divide humanity into categories of the saved and the condemned, and how these divisions inform views on war, genocide, famine, epidemics, and natural disasters. Ethical questions posed by these narratives are critically examined, including the sociopolitical origins and functions of apocalyptic discourse in public life.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "IGE 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438463",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438464",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438465",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IGE 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438466",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LS 1020",
+      "title": "Integrating Knowledge, Learning, and Engagement for Success",
+      "units": "3",
+      "ge": null,
+      "coid": "437766",
+      "description": "Cross Listed as: IGE 1020 , EWS 1020 Using an interdisciplinary approach, this First-Year-Experience course is an introduction to the nature, meaning and purposes of higher education. Emphasis will be on the development of intellectual, social and personal skills to critically examine and integrate knowledge for civic and professional engagement in a socially diverse, complex and global society. Develops strategies and attitudes to maximize academic and personal success, learn about and use campus resources, think about career possibilities, build positive relationships with peers, faculty, and staff and foster a leadership perspective in a community setting.",
+      "prerequisites": "Freshman standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LS 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438536",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LS 2011",
+      "title": "Introduction to Liberal Studies: History, Purposes, and Critique of the Liberal Arts and Sciences",
+      "units": "3",
+      "ge": null,
+      "coid": "437230",
+      "description": "Introduction to the history and purposes of a liberal arts education as the background to the major. Exploration of a course theme to practice and develop the major’s intellectual skills, such as critical thinking, writing, reading, and discussion, and liberal studies traits and dispositions, such as open-mindedness, multidisciplinary (across humanities, social science, and natural science disciplines) perspectives, civic-mindedness, empathy, and collaboration. The combination of these skills is the Liberal Studies Mindset students will develop in the remainder of the program. Special attention will be placed on critiquing the “traditional” structure, purposes, and outcomes of higher education and society to contemplate a more equitable and inclusive teaching and learning environment that reframes a liberal arts education for the complexity of 21st-century life.",
+      "prerequisites": "C or better in GE Area 1A/A2, ENG 1100 , IGE 1100 , or equivalent; cannot be taken concurrently with LS 3011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 2112",
+      "title": "Landscape, Place, and Power in California",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "451039",
+      "description": "[GE 4A] An interdisciplinary view on California’s biogeographical changes, enhancing students’ information literacy and civic responsibility. Using diverse sources-Native American oral histories, explorer accounts, 19th-century scientific writings, newspaper articles, and perspectives from ecology, conservation, and fire management-it explores how land and waterscapes have evolved from the deep past to today. Highlights on spatial and temporal principles behind the distribution of plant, animal, and human communities and examines connections between California’s natural environments and its historical power dynamics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LS 2200",
+      "title": "Sound, Rhythm, and Race",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439393",
+      "description": "[GE 6] Cross Listed as: EWS 2200 Foregrounds ethnic studies and interdisciplinary studies of performance (such as music, dance, theater, film/video, and ritual) in the identification and critique of coloniality as it is articulated through race, ethnicity, gender, sexuality, nationality, class and caste, consumerism, temporality, and ideology. Highlights local voices from Native American, African American, Asian American, and Latina and Latino American Studies and tie them to global issues, events, movements, and voices. Case studies in the course are drawn from scholarly archives, mainstream media, popular culture, and current events, as well as from counter-hegemonic performance practices, historiography, and subcultures.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "LS 2230",
+      "title": "Infinite Blackness",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439392",
+      "description": "[GE 6] Cross Listed as: EWS 2230 Centers the infinite complexity of Blackness through an intersectional, global, and hyperlocal approach to African American Studies. Studies cultures, power relations, and geographies all over the world, with a hyperlocal focus on contemporary and historical Los Angeles and California. Centering African American Studies, draws on the disciplines of Ethnic Studies, anthropology, and contemporary art toward multifaceted study of movements and practices across Native American, African American, Asian American, and Latino/a communities to create a shared community of scholarly inquiry. Covers urgent current topics including racial capitalism, critical race theory, disability justice, reproductive justice, environmental racism, global climate crisis, policing and surveillance, and reparations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "LS 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438537",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LS 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438538",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LS 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438539",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LS 3011",
+      "title": "Knowledge, Evidence, and Data in the Liberal Arts",
+      "units": "3",
+      "ge": null,
+      "coid": "437236",
+      "description": "Explores what constitutes knowledge and knowing to develop a critical and/or interdisciplinary perspective across the arts, humanities, natural sciences and social sciences. Focuses on the intersection of epistemological frameworks (ways of knowing), the research process, and different types of data and evidence that create knowledge. Lectures, discussion, and activities used to practice various interdisciplinary research skills and to implement data tools to examine, analyze, and propose solutions to community-based issues. Practice in interdisciplinary thinking by engaging with issues of misinformation and disinformation to develop critical thinking. Culmination involves a case study that demonstrates ability to engage in praxis (theory to action). Exploration of basic research and data/evidence interpretation approaches that revisits and deepens in later courses in the arts, humanities, social sciences, and natural sciences.",
+      "prerequisites": "C or better in GE Area 1A/A2. Cannot be taken concurrently with LS 2011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 3012S",
+      "title": "Language, Culture, and Education Service-Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "442804",
+      "description": "Utilizing thematic pedagogies and engaged student practices, this service-learning course provides a comprehensive, hands-on exploration of critical theories, methods, and pedagogical approaches in language and literacy development with an emphasis on K-8 education. Students will develop understanding of foundational theories of language and communication in shaping cognition, identity, culture, access and approaches to literacy instruction in (and beyond) our educational institutions. Drawing on critical interdisciplinary, intersectional research and educational practices, students will also examine and employ the fundamental components of human language, language acquisition, and literacy in order to design and assess culturally responsive lessons for students with different abilities and linguistically diverse student population.",
+      "prerequisites": "LS 1020 , LS 2011 , and LS 3011 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 3021",
+      "title": "Interdisciplinary Humanities",
+      "units": "3",
+      "ge": null,
+      "coid": "437242",
+      "description": "A focused experience on critical intersectional approaches to the history, concepts, issues, and methods of the humanities in global, local, and digital contexts. Focus on how the humanities provide enrichment and insight into human conditions and in building sustainable environments, ecologies, cultures, and societies. Examine and practice critical research approaches in the humanities that will be revisited and deepened in later courses, including Senior Capstone.",
+      "prerequisites": "LS 201 or LS 2011 , and LS 301 or LS 3011 ; or junior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 3031",
+      "title": "The Social Sciences and the Liberal Arts",
+      "units": "3",
+      "ge": null,
+      "coid": "437249",
+      "description": "A focused experience in the social sciences. Topics include foundational knowledge of social science disciplines including concepts and methods, and how knowledge production has been driven by the goal of understanding the complexity of human individuals, communities, and societies. The social sciences will themselves be analyzed as products of human society resulting in ethical dilemmas and misinformation. Practice basic research approaches (composing a literature review and proposing research methods) to analyze issues or problems in today’s local, national, or global societies. These research skills will be revisited and deepened in later courses, including Senior Capstone.",
+      "prerequisites": "LS 201 or LS 2011 , and LS 301 or LS 3011 ; or junior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 3041",
+      "title": "Science, Society, & You",
+      "units": "3",
+      "ge": null,
+      "coid": "437291",
+      "description": "An exploration of the historical and philosophical background of natural science disciplines using experiential and inquiry-based learning. Issues and approaches in the natural sciences are compared and contrasted with those in the social sciences and humanities. Special emphasis is placed on how science is viewed, understood, and used in contemporary life, including its unique role in addressing complex problems and issues such as climate change and the spread of infectious disease. Learn basic scientific research approaches (observational data collection) and how to present and explain scientific research findings. These research skills will be applied to and deepened in upper division courses, including Senior Capstone.",
+      "prerequisites": "LS 201 or LS 2011 , and LS 301 or LS 3011 ; or junior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 3042S",
+      "title": "Equity Issues in K-9 Environmental and Science Education Service Learning",
+      "units": "3",
+      "ge": null,
+      "coid": "439344",
+      "description": "Diversity, equity, and inclusion in diverse K-9 environmental and science education contexts, including classrooms, afterschool programs, and non-profit organizations like urban farms. Embracing CPP’s “Learn by Doing” philosophy, students have the opportunity to apply their knowledge in real-world education settings by designing and teaching lessons at local school gardens and farms. Structural biases in environmental and science education, with a special emphasis on the urban K-9 US context. Examination of the history of environmental and science education in schools considering students’ cultural, race, and gender/sexuality backgrounds. Critical analysis of contemporary curricula, frameworks, developing strategies to effectively create an equitable and inclusive classroom. Explore concepts, theories, and frameworks in critical environmental and science teaching, such as culturally relevant pedagogy, that will provide students with concrete tools to use in their future careers as educators.",
+      "prerequisites": "LS 2011 and LS 3011 .",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "science-education-minor",
+        "sustainability-education-minor",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438540",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LS 4011",
+      "title": "Liberal Studies Special Topics in Humanities, Social Science or Natural Sciences",
+      "units": "3",
+      "ge": null,
+      "coid": "437292",
+      "description": "Focus on interdisciplinary learning on topics in the humanities, social sciences or natural science. The course will use and expand on foundational disciplinary knowledge and approaches from previous courses through an in-depth study of a focal topic based on the disciplinary specialization of the instructor. The development of critical thinking and understanding the effects on humanity will be emphasized.",
+      "prerequisites": "Junior or senior standing; LS 201 or LS 2011 ; LS 301 or LS 3011 ; and two of these courses: LS 3021 , LS 3031 , or LS 3041 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 9 units applicable to a degree.",
+      "when_offered": "",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 4100",
+      "title": "Critical Data Literacy",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "451042",
+      "description": "[GE 4C] Examination of the following questions: What is Data? How do we collect and use data? Who decides the stories that data tells? What are the impacts and effects of data? Lectures, discussion, and hands-on activities to practice interdisciplinary research skills and examine the structures of power and oppression through critical data literacy. Engage in data analysis and critique to expand their understanding of data in social and historical contexts.",
+      "prerequisites": "Junior or senior standing. Completion of GE Areas 1 and 2 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "LS 4211",
+      "title": "Arts in Action",
+      "units": "3",
+      "ge": null,
+      "coid": "437296",
+      "description": "Utilizing critical thematic pedagogies and engaged student works, this course focuses on arts integration with other disciplines in the humanities, social sciences and natural sciences to develop an awareness and commitment to social justice through the arts. Students can expect to develop an understanding and appreciation of the interdisciplinary arts and to explore the critical role of the arts in education, community engagement, and in building sustainable environments, ecologies, cultures, and societies.",
+      "prerequisites": "LS 201 or LS 2011 , LS 301 or LS 3011 , LS 3021 , LS 3031 , LS 3041 , LS 401 or LS 4011 , and TH 423 or TH 4230 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "science-education-minor",
+        "sustainability-education-minor",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 4212",
+      "title": "Critical Performing Arts and Education",
+      "units": "3",
+      "ge": null,
+      "coid": "442774",
+      "description": "Examines performing arts (dance, movement, music, ritual, sound arts, storymaking, theater, and other time-based works), media arts (film, video), and their interdisciplinary integration with the humanities, social sciences, and natural sciences. Employs critical thematic pedagogies and engaged student work to apply artistic practice to questions of social justice. Emphasizes interdisciplinary performance, arts advocacy, education, community engagement, and the role of the arts in fostering sustainable environments, ecologies, cultures, and societies.",
+      "prerequisites": "LS 4211 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "sustainability-education-minor",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 4601S",
+      "title": "Liberal Studies Synthesis Interdisciplinary Perspective on Contemporary Public Education",
+      "units": "3",
+      "ge": null,
+      "coid": "437297",
+      "description": "Explores varied perspectives on public education to analyze its purpose and effectiveness on student outcomes and lives. Discuss major issues in public education, with a focus on inequality, social justice, and civic engagement, using knowledge in the humanities and social sciences, and natural science when appropriate. Develop a complex understanding of the relationship between schools and society through interdisciplinary thinking. Service-learning at department public school partner or community partner site is required.",
+      "prerequisites": "Senior standing, LS 201 or LS 2011 , LS 301 or LS 3011 , LS 3021 , LS 3031 , LS 3041 , LS 401 or LS 4011 , and LS 421 or LS 4211 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "science-education-minor",
+        "sustainability-education-minor",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 4611W",
+      "title": "Liberal Studies Senior Capstone",
+      "units": "3",
+      "ge": null,
+      "coid": "437298",
+      "description": "Engage in an interdisciplinary and inquiry-based research project with a focus on writing research findings for academic and practitioner audiences. Articulate the entire investigative process in writing, including the research methods used and research findings, demonstrate written communication skills related to disciplinary conventions and content, the use of credible sources, and the role of audience. Constructive feedback from peers and the instructor will be provided at three points during the process to improve and assess student written and oral communication skills, among other major skills. The Liberal Studies curricula prioritizes a commitment to social, ecological, and environmental justice, thus students are encouraged to draw on critical perspectives in the LS curricula prior to LS 4611W in formulating and conducting their projects and in the writing process. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "LS 2011 ; LS 3011 , LS 3021 , LS 3031 , LS 3041 , or LS 3042S ; LS 4011 ; LS4211; LS 4601S ; and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "liberal-studies-b-a-general-studies-subplan-option",
+        "liberal-studies-b-a-pre-credential-subplan-option",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+        "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+        "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "LS 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438541",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LS 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438542",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LS 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438543",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "liberal-studies-b-a-general-studies-subplan-option",
+      "name": "Liberal Studies, B.A. - General Studies Subplan/Option"
+    },
+    {
+      "id": "liberal-studies-b-a-pre-credential-subplan-option",
+      "name": "Liberal Studies, B.A. - Pre-Credential Subplan/Option"
+    },
+    {
+      "id": "global-humanities-minor",
+      "name": "Global Humanities Minor"
+    },
+    {
+      "id": "science-education-minor",
+      "name": "Science Education Minor"
+    },
+    {
+      "id": "sustainability-education-minor",
+      "name": "Sustainability Education Minor"
+    },
+    {
+      "id": "interdisciplinary-general-education",
+      "name": "Interdisciplinary General Education"
+    },
+    {
+      "id": "liberal-studies-b-a-general-studies-subplan-option-roadmap-4-year-120-units",
+      "name": "Liberal Studies, B.A. - General Studies Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "liberal-studies-b-a-pre-credential-subplan-option-roadmap-4-year-120-units",
+      "name": "Liberal Studies, B.A. - Pre-Credential Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "liberal-studies-b-a-general-studies-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Liberal Studies, B.A. - General Studies Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "liberal-studies-b-a-pre-credential-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Liberal Studies, B.A. - Pre-Credential Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:14:59+00:00",
+  "id": "german-studies-for-the-professions-certificate",
+  "name": "German Studies for the Professions Certificate",
+  "title_on_page": "University Catalog",
+  "department": "English And Modern Languages",
+  "department_id": "english-and-modern-languages",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24309",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6332",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog German Studies for the Professions Certificate: 15 units Offered by: College of Letters, Arts, and Social Sciences , English and Modern Languages Department Certificate Required | Certificate Electives Certificate Required: 12 units GER 2111 - Intermediate German I (3) [GE 3B] GER 2113 - Intermediate German Composition and Conversation (3) GER 2120 - Intermediate German Reading and Film (3) GER 2990 - Special Topics for Lower Division Students (1-3) or GER 3410 - German Civilization (3) or GER 4990 - Special Topics for Upper Division Students (1-3) Certificate Electives: 3 units Select one course not already taken as a part of required courses from the following list: AH 2302 - World Art: Renaissance through Modern Europe and the United States (3) [GE 3A] GEO 3590 - Europe: People, Environment, and Sustainability (3) GER 2990 - Special Topics for Lower Division Students (1-3) GER 3410 - German Civilization (3) GER 4990 - Special Topics for Upper Division Students (1-3) HST 3324 - European Revolutions, 1789-1914 (3) [GE 4C] HST 3326 - Europe in Crisis, 1900-1945 (3) HST 3327 - Postwar Europe, 1945-present (3) PLS 4430 - European Governments and Politics (3) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Certificate Required: 12 units",
+      "courses": [
+        "GER 2111",
+        "GER 2113",
+        "GER 2120",
+        "GER 2990"
+      ],
+      "raw_text": "Certificate Required: 12 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "GER 3410",
+        "GER 4990"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Certificate Electives: 3 units",
+      "courses": [
+        "AH 2302",
+        "GEO 3590",
+        "GER 2990",
+        "GER 3410",
+        "GER 4990",
+        "HST 3324",
+        "HST 3326",
+        "HST 3327",
+        "PLS 4430"
+      ],
+      "raw_text": "Certificate Electives: 3 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "GER 2111",
+      "title": "Intermediate German I",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434919",
+      "requirement": "Certificate Required: 12 units",
+      "description": "[GE 3B] Review of grammar; conversation; readings in original German.",
+      "prerequisites": "Instructor consent, FL 112, GER 1112 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GER 2113",
+      "title": "Intermediate German Composition and Conversation",
+      "units": "3",
+      "ge": null,
+      "coid": "435227",
+      "requirement": "Certificate Required: 12 units",
+      "description": "Understanding full length motion pictures and other texts in German; speaking at the low intermediate level. Some writing assignments.",
+      "prerequisites": "Instructor consent, FL 112, GER 1112 , or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GER 2120",
+      "title": "Intermediate German Reading and Film",
+      "units": "3",
+      "ge": null,
+      "coid": "435226",
+      "requirement": "Certificate Required: 12 units",
+      "description": "Development of reading proficiency and of understanding full length motion pictures in German; analysis and discussion of the printed and movie texts. Some translation.",
+      "prerequisites": "Instructor consent, FL 211, FL 212, FL 213, GER 2111 , or GER 2113 or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GER 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438401",
+      "requirement": "Certificate Required: 12 units",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GER 3410",
+      "title": "German Civilization",
+      "units": "3",
+      "ge": null,
+      "coid": "435228",
+      "requirement": "or",
+      "description": "Survey of German culture and social customs. Conducted in German.",
+      "prerequisites": "FL 211, FL 212, FL 213, GER 2111 , or GER 2113 or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GER 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438405",
+      "requirement": "or",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AH 2302",
+      "title": "World Art: Renaissance through Modern Europe and the United States",
+      "units": "3",
+      "ge": "GE 3A",
+      "coid": "435027",
+      "requirement": "Certificate Electives: 3 units",
+      "description": "[GE 3A] Comprehensive survey and analysis of the development of art in Western civilization from the Renaissance through the modern period in Europe and the United States (ca. 15th through 20th centuries).",
+      "prerequisites": "Completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GEO 3590",
+      "title": "Europe: People, Environment, and Sustainability",
+      "units": "3",
+      "ge": null,
+      "coid": "436024",
+      "requirement": "Certificate Electives: 3 units",
+      "description": "Analysis and presentations of issues in the natural environment and the cultural landscape of Europe. Major current trends in social, cultural, economic, and political developments in Western and Eastern Europe; relationship between historical and geographical regional diversity.",
+      "prerequisites": "GE Area A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 3324",
+      "title": "European Revolutions, 1789-1914",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "435075",
+      "requirement": "Certificate Electives: 3 units",
+      "description": "[GE 4C] Political, social, cultural history of Europe and the European world from the French Revolution until the First World War. Key themes include impact of French and Industrial Revolutions, and emergence of modern nationalism, imperialism, socialism, feminism, and anti-Semitism.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 3326",
+      "title": "Europe in Crisis, 1900-1945",
+      "units": "3",
+      "ge": null,
+      "coid": "437394",
+      "requirement": "Certificate Electives: 3 units",
+      "description": "Political, social, cultural, and economic history of Europe from the outbreak of the First World War to the end of the Second World War. Themes include the experiences of combat and the home front in both wars; gender and class anxieties in the aftermath of war and Revolution; the rise and fall of radical authoritarian movements such as Fascism and Nazism.",
+      "prerequisites": "Completion of GE Area A, and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 3327",
+      "title": "Postwar Europe, 1945-present",
+      "units": "3",
+      "ge": null,
+      "coid": "437395",
+      "requirement": "Certificate Electives: 3 units",
+      "description": "Political, social, cultural, and economic history of Europe from the end of World War II to the present. Themes include creation and collapse of the Cold War order, emergence of mass consumer society, decolonization and immigration, and future of Europe as united geopolitical identity.",
+      "prerequisites": "Completion of GE Area A, and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PLS 4430",
+      "title": "European Governments and Politics",
+      "units": "3",
+      "ge": null,
+      "coid": "435501",
+      "requirement": "Certificate Electives: 3 units",
+      "description": "Examines the political, economic, and social-cultural institutions and processes of European states and regional organizations. A comparative study of major states in the region is provided, alongside analysis of regional and contemporary challenges.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": []
+}

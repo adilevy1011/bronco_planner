@@ -1,0 +1,1106 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:35:52+00:00",
+  "id": "international-business-and-marketing",
+  "name": "International Business And Marketing",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6308",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog International Business and Marketing Department Building 164 Room 3064 | (909) 869-2436 | Department Website | Faculty Directory The mission of the International Business and Marketing Department is to prepare students for specialized careers in either international business or marketing management by using a distinctly polytechnic ‘learning by doing’ approach and offering focused sub‑specializations in each option enabling students to stand out. This preparation gives both undergraduate and graduate students practical learning experiences in international business and marketing management. In addition, the Department seeks to give non‑majors a solid foundation in the application of business principles to the marketing of goods and services in international and domestic markets. To achieve excellence, the Department’s faculty undertakes programs of basic research, applied scholarship, and instructional development; it also forges and maintains strong links with the business community, both local and global. The department promotes a global mindset, bridging theory and practice through project-based coursework in international marketing, consumer behavior analysis, professional selling, brand management, retail strategy, and logistics. Its culture is defined by active learning, technological integration, and intercultural competence. Faculty bring diverse academic and industry expertise, engaging students in applied research and service learning projects that address real-world business challenges-ranging from digital campaign design to cross-border strategy. Students benefit from immersive resources such as digital marketing labs, case competi",
+  "courses": [
+    {
+      "code": "IBM 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434853",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434854",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438447",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438448",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 3001",
+      "title": "Principles of Global Business",
+      "units": "3",
+      "ge": null,
+      "coid": "434759",
+      "description": "An introductory survey of important issues in global business. Topics covered include national differences in political, social, economic and financial systems; theories of international trade and investment, monetary systems, and foreign exchanges markets.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "international-business-minor",
+        "business-administration-b-s-international-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-international-business-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 3012",
+      "title": "Principles of Marketing Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434760",
+      "description": "Principles, concepts, and institutions involved in facilitating the exchange of goods and services. Analysis of the markets, the marketing environment, and the ‘marketing mix’ variables. Planning, implementation and control of marketing strategies to gain competitive advantage. Technology mediated. Technology mediated.",
+      "prerequisites": "Completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-marketing-management-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "business-administration-b-s-marketing-management-subplan-option-as-t-with-business-administration-2-0",
+        "international-business-minor",
+        "marketing-analytics-minor",
+        "marketing-management-minor",
+        "business-administration-b-s-international-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-international-business-subplan-option-roadmap-2-year-adt-60-units",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 3062",
+      "title": "Professional Selling",
+      "units": "3",
+      "ge": null,
+      "coid": "434761",
+      "description": "Focuses on the consultative selling process from a holistic perspective. Includes an emphasis on the role of relationship building with customers for long-term success and the co-creation of value. Examines the role of sales management in hiring, motivating, directing, and controlling the salesforce.",
+      "prerequisites": "C or better in IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-marketing-management-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 3072",
+      "title": "Promotional Strategies",
+      "units": "3",
+      "ge": null,
+      "coid": "434762",
+      "description": "Fundamentals of marketing communication. Promotional strategy development: advertising messages and media, personal selling, sales promotion, publicity, direct marketing, packaging, branding, and display. Promotional budgets. Development of promotion campaign strategies. Technology mediated instruction.",
+      "prerequisites": "Undergraduate standing; and C or better in IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-marketing-management-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "marketing-analytics-minor",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 3082",
+      "title": "Retail Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434766",
+      "description": "Overview of the retail system, examining supply chain, store management, omni-channels, customer experience, and leadership, as well as various forms of retail. Exploration of different retail careers, including those in the supply chain. Review and critique of some successful retail companies",
+      "prerequisites": "Undergraduate standing; and IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-analytics-minor",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 3101W",
+      "title": "International Business Career Success",
+      "units": "3",
+      "ge": null,
+      "coid": "439558",
+      "description": "Trains students to be career ready in the areas of international business through developing the most essential professional competencies demanded in the workplace for both for-profit and non-profit organizations. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing, and IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "business-administration-b-s-international-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-international-business-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 3102W",
+      "title": "Marketing Management Career Success",
+      "units": "3",
+      "ge": null,
+      "coid": "439557",
+      "description": "Trains students to be career ready in the areas of marketing management through developing the most essential professional competencies demanded in the workplace for both for-profit and non-profit organizations. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing, and IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "business-administration-b-s-marketing-management-subplan-option-as-t-with-business-administration-2-0",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 3162",
+      "title": "Marketing of Services",
+      "units": "3",
+      "ge": null,
+      "coid": "434756",
+      "description": "Focus on strategic and management issues unique to marketing service products. Application of marketing to a variety of industries including profit and non-profit organizations and/or agencies. Course may be technology mediated.",
+      "prerequisites": "Undergraduate standing; and IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 3202",
+      "title": "Market Analysis and Control",
+      "units": "3",
+      "ge": null,
+      "coid": "434763",
+      "description": "Market Identification and diagnosis. Market analysis based on available data; applications for planning and control. Extensive use of computer models, with emphasis on current microcomputer software application packages.",
+      "prerequisites": "C or better in IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "business-administration-b-s-marketing-management-subplan-option-as-t-with-business-administration-2-0",
+        "marketing-management-minor",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 3262",
+      "title": "Interactive Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434758",
+      "description": "Overview of all the tools in interactive marketing and its role in the marketing strategy to gain a competitive advantage. Exploration of all forms and uses by entrepreneurs, manufacturers, wholesalers, retailers, politicians, not-for-profit and service organizations. Course may be technology mediated.",
+      "prerequisites": "Undergraduate standing; and IBM 307, MKT 307, or IBM 3072 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 3282",
+      "title": "Social Media Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434764",
+      "description": "Current trends in the use of digital media and platforms and its use as a marketing tool to engage target customers. Use a variety of tools to analyze and assess results of social media strategies in a rapidly changing environment.",
+      "prerequisites": "IBM 307 or IBM 3072 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 3292",
+      "title": "Mobile Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434765",
+      "description": "Focus on the unique challenges of engaging customers on the go, using personal mobile devices. Issues concerning target customers perceptions, the promotion and use of apps and technological challenges involved in using miniaturized devices to deliver products and promotional messages",
+      "prerequisites": "IBM 307 or IBM 3072 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 3302",
+      "title": "Marketing Research",
+      "units": "3",
+      "ge": null,
+      "coid": "434767",
+      "description": "Marketing research methods to aid marketing decision making. Types of research designs exploratory, descriptive, and causal. Sampling, questionnaire development, and primary data collection methods. Primary data collection and analysis. Using software to analyze of primary and secondary data. Reporting results, preparing reports with results, and suggest actionable recommendations.",
+      "prerequisites": "TOM 302 or TOM 3020 ; and IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "business-administration-b-s-marketing-management-subplan-option-as-t-with-business-administration-2-0",
+        "marketing-analytics-minor",
+        "marketing-management-minor",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434855",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-analytics-minor"
+      ]
+    },
+    {
+      "code": "IBM 4022",
+      "title": "Brand Impression and Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434768",
+      "description": "Comparing and contrasting marketing strategies utilized to promote business brands as well as and personalized brands. Emphasis placed on the development and maintenance of brand impressions. Topics include brand image management, portfolio building strategies, positioning methods, on-line presence, electronic targeting, and controlling parameters.",
+      "prerequisites": "C or better in IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4032",
+      "title": "E-marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434769",
+      "description": "Overview of Internet marketing. The strategic use of Internet and digital tools and platforms for acquiring, retaining, and developing customers, conducting marketing research, branding, and enhancing the organization’s entire marketing mix performance. Technology mediated instruction.",
+      "prerequisites": "IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-analytics-minor",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4052",
+      "title": "Advertising Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434770",
+      "description": "Focus on the strategic aspects of Advertising. Content includes: the concept of brands, marketing communication tools, campaign strategy, creating customer loyalty, creating customer value, and campaign evaluation.",
+      "prerequisites": "IBM 307 or IBM 3072 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4072",
+      "title": "Qualitative Marketing Research",
+      "units": "3",
+      "ge": null,
+      "coid": "434771",
+      "description": "Introduction to the theory and practice of analyzing qualitative data. Orients around using analysis to spur creativity and imaginative theorizing about consumer behavior. Examines the role of qualitative exploratory research in defining the research problem and in developing an approach.",
+      "prerequisites": "IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-analytics-minor",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4092",
+      "title": "Advanced Marketing Research",
+      "units": "3",
+      "ge": null,
+      "coid": "434772",
+      "description": "Advanced marketing research for strategic decision-making. Analysis of internal data, consumer data, and cases for forecasting, segmentation, positioning, new product decisions, retail site, and promotions decisions. Fundamentals of gathering, transforming, and mining of big data for decision-making.",
+      "prerequisites": "IBM 3012 and TOM 3020 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-analytics-minor",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4102",
+      "title": "Marketing for Small Business Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "434773",
+      "description": "Developing marketing plans to establish sound product-market strategies and marketing mix. Special emphasis on executing a marketing plan with limited budget, using innovative resources and new avenues for funding such as crowd funding, social media, and mobile applications",
+      "prerequisites": "IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4112",
+      "title": "Consumer Behavior",
+      "units": "3",
+      "ge": null,
+      "coid": "434774",
+      "description": "The psychological, sociological, and cultural factors that influence consumption behavior and activities are covered. Provides a basic understanding of the use of social and mobile platforms and their impact on the consumer decision making process. Marketing strategies utilizing various behavioral concepts are discussed.",
+      "prerequisites": "PSY 201 or PSY 2201 ; Undergraduate standing; and IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-marketing-management-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "business-administration-b-s-marketing-management-subplan-option-as-t-with-business-administration-2-0",
+        "marketing-analytics-minor",
+        "marketing-management-minor",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 4121",
+      "title": "International Marketing Research",
+      "units": "3",
+      "ge": null,
+      "coid": "434775",
+      "description": "Development of the understanding of market research methodology to be used in both individual foreign markets and worldwide. Topics cover the international market environment, and the decision issues and problems faced by international marketers in planning and conducting their research on products, distribution and pricing. Coverage of the principles of qualitative, experimental, and survey research designs for global markets.",
+      "prerequisites": "IBM 301 or IBM 3012 ; and STA 120 or STA 1200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0"
+      ]
+    },
+    {
+      "code": "IBM 4141",
+      "title": "International Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434776",
+      "description": "Examines processes for maximizing global marketing opportunities through comprehensive environmental analyses. Applies the marketing mix to emerging trends, the varying cultural landscapes, and economic factors, with an emphasis on effective adaption of U.S. products and services for overseas markets.",
+      "prerequisites": "C or better in IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-marketing-management-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "international-business-minor",
+        "marketing-analytics-minor",
+        "marketing-management-minor",
+        "business-administration-b-s-international-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-international-business-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 4161",
+      "title": "International Exporting",
+      "units": "3",
+      "ge": null,
+      "coid": "434777",
+      "description": "The study of import and export management process and procedures. The course aims to provide an in depth understanding of the basic concepts of the exporting and importing discipline, discussing opportunities and challenges and provide guidelines to increase success.",
+      "prerequisites": "IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "marketing-management-minor",
+        "business-administration-b-s-international-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-international-business-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 4192",
+      "title": "Data Mining for Marketing Decisions",
+      "units": "3",
+      "ge": null,
+      "coid": "438981",
+      "description": "Survey of data mining for marketing decision-making. Analysis of abundant internal or external historic data for forecasting, market segmentation, product decisions, pricing decisions, channel selections, and promotions decisions, as well as social media mining and sentiment analysis. The course will equip students with both fundamental data mining theoretical knowledge to solve marketing problems/goals and practical hands-on data mining skills to execute to the techniques.",
+      "prerequisites": "IBM 3012 and TOM 3020 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-analytics-minor",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4202",
+      "title": "Marketing Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "438982",
+      "description": "Marketing analytics introduces the role of analytics and various analytical tools that are crucial to marketing professionals. It explains analytical techniques and its applications in business. Learning and applying these tools and techniques will help students gain insights in real world and enhance their business decision making.",
+      "prerequisites": "IBM 3012 and TOM 3020 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-analytics-minor",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4212",
+      "title": "Marketing Problems",
+      "units": "3",
+      "ge": null,
+      "coid": "434778",
+      "description": "Application of marketing theories to solve marketing problems emphasizing critical thinking and analytical skills in the business environment. The case study approach integrates knowledge from all main areas of marketing including product development, pricing, distribution and advertising planning.",
+      "prerequisites": "IBM 320 or IBM 3202 ; IBM 330, IBM 408, or IBM 3302 ; and IBM 411 or IBM 4112 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "business-administration-b-s-marketing-management-subplan-option-as-t-with-business-administration-2-0",
+        "marketing-analytics-minor",
+        "marketing-management-minor",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-marketing-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 4291",
+      "title": "International Logistics",
+      "units": "3",
+      "ge": null,
+      "coid": "434779",
+      "description": "Analysis of the global logistics operations. The topics include multinational logistics strategy, FTZ’s, classification of products, Incoterms, and different modes of transportation modes. Trade issues include documentation requirements, customs, administration, and security issues. International logistics issues will include intermediaries, customer service issues, transportation options and costs.",
+      "prerequisites": "IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "international-business-minor",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4312",
+      "title": "Marketing Channels",
+      "units": "3",
+      "ge": null,
+      "coid": "434780",
+      "description": "Management of marketing activities within the channels of distribution is examined. Strategic issues facing wholesalers and retailers as they build inter and intra relationships are covered. Case problems provide exposure to current issues faced by channel participants.",
+      "prerequisites": "IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4352",
+      "title": "Advanced Professional Selling",
+      "units": "3",
+      "ge": null,
+      "coid": "434781",
+      "description": "Development and analysis of the sales representative as a professional marketing tactician. Emphasis on applied and theoretical approaches to effectively manage sales interactions and the sales territory. Analysis of sales representatives in different industries.",
+      "prerequisites": "IBM 306, MKT 306, or IBM 3062 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4361",
+      "title": "International Business Agreements and Negotiation",
+      "units": "3",
+      "ge": null,
+      "coid": "434782",
+      "description": "Focuses on comprehensive examinations of the multiple dimensions of international business agreements that incorporates an integrated application of related business disciplines. Includes an emphasis on negotiation strategies and diplomacy to cultivate mutually beneficial strategic alliances that capitalize on marketing opportunities.",
+      "prerequisites": "IBM 414, MKT 414, or IBM 4141 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "international-business-minor",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4382",
+      "title": "Applied Sales Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "434783",
+      "description": "Development of effective oral and nonverbal communication skills for professional sales individuals who can effectively manage sales interactions, reduce conflict, and gain understanding and cooperation. Heavy emphasis on active listening, situation analysis, and understanding customer communication styles in professional sales.",
+      "prerequisites": "IBM 306 or IBM 3062 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4410",
+      "title": "Internship in Marketing and International Business",
+      "units": "1-3",
+      "ge": null,
+      "coid": "437663",
+      "description": "Faculty Supervised on the job educational experience in the real world international business and marketing environment. Allocation of unit credit is dependent upon the nature of the work done, the level of responsibility and the number of hours worked. Total Internship credit limited to 6 units.",
+      "prerequisites": "Undergraduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total Internship credit limited to 6 units.",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-marketing-management-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4432",
+      "title": "Advertising Media Analysis and Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "434784",
+      "description": "Principles and practices of advertising and media analysis and planning. Strengths and weaknesses of media alternatives, budgeting procedures, media class planning, buying interaction, and negotiation with media sales personnel. Technology facilitated.",
+      "prerequisites": "Undergraduate standing; IBM 307, MKT 307, or IBM 3072 ; and STA 120 or STA 1200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4801",
+      "title": "International Business Strategy",
+      "units": "3",
+      "ge": null,
+      "coid": "434785",
+      "description": "Integration of the knowledge and skills gained from previous courses such as international marketing, international finance, and international management strategy. Students learn how to develop, analyze, and implement a successful global business strategy. Sections of this course may be technology mediated. Corequisite(s): BUS 4950 .",
+      "prerequisites": "IBM 3001 and IBM 4141 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-international-business-subplan-option",
+        "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+        "business-administration-b-s-international-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-international-business-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "IBM 4912",
+      "title": "Marketing of Movies",
+      "units": "3",
+      "ge": null,
+      "coid": "434786",
+      "description": "An overview of the business of cinema. Product budgeting and planning, distribution strategies, target market analysis, research prior to, during, and after launch, promotional considerations, product placement and co-op challenges, advertising the product, international issues, the after-market including home, retail, and cable/satellite release. Major project involving a leading film studio. The course provides an overview of marketing issues in film industry. Topics include product planning and budgeting, target market analysis, distribution and promotion decisions of theatrical and after-market movie releases.",
+      "prerequisites": "Upper division standing; IBM 307 or IBM 3072 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4922",
+      "title": "Sports Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434787",
+      "description": "Introduction to the application of basic principles of marketing to the managed sport industry with emphasis on intercollegiate athletics, professional sport, and multisport club operations.",
+      "prerequisites": "Upper division standing; IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4932",
+      "title": "Event and Destination Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434757",
+      "description": "Addresses special events and destinations within the entertainment industry. Those events include single events, such as mega sporting events and musical concerts or standing destinations, such as amusement parks and historic locations.",
+      "prerequisites": "Upper division standing; IBM 307 or IBM 3072 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4952",
+      "title": "Marketing Research Practicum",
+      "units": "3",
+      "ge": null,
+      "coid": "434788",
+      "description": "Integration of all aspects of marketing and marketing research into comprehensive plans and courses of action across the whole spectrum of research process. Emphasis will be given to successful project management and written and oral communications with clients.",
+      "prerequisites": "TOM 3020 and IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-analytics-minor"
+      ]
+    },
+    {
+      "code": "IBM 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434856",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-marketing-management-subplan-option",
+        "marketing-analytics-minor",
+        "marketing-management-minor"
+      ]
+    },
+    {
+      "code": "IBM 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438449",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438450",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 5910",
+      "title": "Strategic Data Wrangling and Visualization",
+      "units": "3",
+      "ge": null,
+      "coid": "439461",
+      "description": "Cross Listed as: GBA 5910 The art and science of wrangling and visualizing data for storytelling in business; literate coding and reproducible research as part of communication preparation; presentation of complex data for the non-technical audience with a focus on strategic data visualization for various types of data.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6010",
+      "title": "Digital Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "439362",
+      "description": "Study of the Internet, its culture, and procedures from a marketing perspective. Integrated digital marketing strategy by combining web design, web analytics, search engine optimization, search engine marketing, online advertising, email marketing, social media, reputation management, and customer relationship management. Survey of concepts and tools. Analysis of current practice of client organization(s); planning and execution of digital marketing strategies.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6100",
+      "title": "Search Engine Marketing",
+      "units": "2",
+      "ge": null,
+      "coid": "439363",
+      "description": "Monitoring customer behaviors on firms’ websites and developing digital advertising strategies by establishing website performance measurements and measuring it, using popular search engine optimization and online advertising tools such as Google Analytics and SEMRush.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6150",
+      "title": "Database Marketing",
+      "units": "2",
+      "ge": null,
+      "coid": "439364",
+      "description": "Developing and executing strategies to support various digital marketing programs, using CRM as a backbone of ecommerce and direct marketing efforts; building and maintaining databases with the use popular user-friendly CRM tools (e.g., hubSpots/zoho) for database marketing.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6200",
+      "title": "Online Consumer Psychology and Behaviors",
+      "units": "3",
+      "ge": null,
+      "coid": "439365",
+      "description": "An overview of theories and findings in social psychology and consumer behavior with a focus on online behavior. Topics include motivation, cognition, emotion, memory, personality, and identity; customer decision making, including choice architecture and brand selection; online marketplace behavior; psychology of online/social media interface and group influence.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6250",
+      "title": "Social Media Marketing Strategy",
+      "units": "3",
+      "ge": null,
+      "coid": "439563",
+      "description": "Gain in-depth knowledge and skills needed to plan and execute social media marketing, including organic social media, advertising, influencer marketing, and social listening. Create engaging content, analyze performance metrics, and develop comprehensive social media marketing strategies.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6300",
+      "title": "Retailing in Digital Economy",
+      "units": "3",
+      "ge": null,
+      "coid": "439366",
+      "description": "An overview of retailing and e-commerce in the new digital economy; online retailing strategy and practice; multi-channel and omni-channel retailing; merchandise management; digital design and layout; consumer behavior, digital customer service, and interfacing with consumers; and the role of technology, social media, and digital marketing.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6400",
+      "title": "Current Issues in Digital Marketing",
+      "units": "1",
+      "ge": null,
+      "coid": "439367",
+      "description": "Study of latest trends, practices, and issues in digital marketing with the goal of anticipating and preparing for future disruptions in the digital economy and exploring adoption of the technology to companies in relation with existing portfolios of digital marketing programs.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6450",
+      "title": "Artificial Intelligence in Marketing",
+      "units": "2",
+      "ge": null,
+      "coid": "439564",
+      "description": "Introduction to AI and Machine learning in Marketing, involving various technologies such as Natural Language Processing, generative imagery, data visualization in such marketing areas as social media marketing, retailing, customer services, pricing, and marketing automation; Special emphasis will be given to data privacy and ethics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6500",
+      "title": "Customer Insights Methods and Survey Research",
+      "units": "3",
+      "ge": null,
+      "coid": "439368",
+      "description": "Survey of customer insights methods – both traditional and emerging techniques from big data, data science, machine learning, and AI – and primary data collection method with an emphasis on survey methods, including such topics as construct and measurement, reliability and validity, questionnaire design, sampling, data preparation, exploratory factor analysis, frequency distribution, test of hypothesis, ANOVA, ANCOVA, MANOVA, correlation, regression, and Structural equation modeling.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6510",
+      "title": "Foundations of Customer Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "439369",
+      "description": "Study of the foundations of econometrics approach to marketing data, with an emphasis on fostering a fundamental understanding of the properties of an estimator and associated assumptions, with topics ranging from estimation and statistical inference to topics derived because of violating the assumptions of regression models; modeling for limited dependent variables.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6520",
+      "title": "Market Forecasting",
+      "units": "2",
+      "ge": null,
+      "coid": "439370",
+      "description": "Forecasting of marketing variables such as customer equity, sales, marketing budget, and individual consumer demand for marketing mix decisions, with an emphasis on quantitative methods with time series and panel data and relevant techniques such as time series regression, exponential smoothing, and ARIMA models.",
+      "prerequisites": "IBM 6510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6530",
+      "title": "Marketing Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "439371",
+      "description": "Advanced data analytics for marketing professionals for segmentation, targeting, and marketing mix decisions; multivariate analysis methods such as discriminant and logit analysis, conjoint analysis, factor analysis, and SEM.",
+      "prerequisites": "IBM 6500 and IBM 6510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6540",
+      "title": "Applied Machine Learning in Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "439372",
+      "description": "Introduction to Data Science, Machine Learning, and Artificial Intelligence with a focus on techniques effective for solving marketing problems; organization of large datasets in an effective and structured way; identifying relationships among customer and marketing outcome variables to support marketing decisions.",
+      "prerequisites": "IBM 6510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6600",
+      "title": "Marketing Text Analytics with Large Language Models and Artificial Intelligence",
+      "units": "2",
+      "ge": null,
+      "coid": "439373",
+      "description": "Focus on gathering, processing, and analyzing small- and large-scale qualitative textual data from diverse sources such as customer emails, social media, review sites, and blogs. Integrate the use of advanced language models like OpenAI’s GPT for enhanced analysis of customer interactions with peers and firms. Generate insights and make strategic recommendations for digital marketing plans by leveraging cutting-edge AI tools for text analysis and sentiment understanding, enabling more informed and impactful marketing decisions.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6700",
+      "title": "Marketing Data Management",
+      "units": "2",
+      "ge": null,
+      "coid": "439565",
+      "description": "Explores the practical aspects of accessing, managing, and analyzing big CRM data. Use popular R programming and its ecosystems for big data management (e.g., Databricks), students will learn how to manage large databases on the Cloud. Emphasis is placed on leveraging big data technologies and tools to uncover actionable insights, enhance customer experiences, and optimize marketing strategies.",
+      "prerequisites": "IBM 5910 and IBM 6510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6800",
+      "title": "Data-Driven Digital Marketing Strategy I",
+      "units": "2",
+      "ge": null,
+      "coid": "439374",
+      "description": "The second of the three-semester culminating experience project sequence. Critical evaluation of the client firms’ current marketing practices, defining problems and research objectives, understanding the external environment, examining currently available theories and models for a possible solution to the problems, determining research methods to achieve research objectives, collection of data, and analysis of data. Emphasis will be given to the culminating experience project proposal defense and analysis of data to generate insights. Students will develop a research proposal in IBM 6200, start analyzing data in IBM 6800, and finish up the project in IBM 6950. To be equipped with sufficient methods prior to data analysis, students should take this course towards the end of the program. To be successful, students should have data in hand early in IBM 6800.",
+      "prerequisites": "GBA 6010 or IBM 6010 ; and IBM 6200 , IBM 6500 , and IBM 6510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    },
+    {
+      "code": "IBM 6950",
+      "title": "Data-Driven Digital Marketing Strategy II",
+      "units": "2",
+      "ge": null,
+      "coid": "439375",
+      "description": "The third and last course in the three-semester-long culminating experience project. Continuation from IBM 6800 with a particular emphasis on generating insights, making data-informed recommendations, and guiding clients for the execution of digital marketing strategies, utilizing all the knowledge learned about digital marketing, consumer psychology and behavior, e-commerce, and marketing science.",
+      "prerequisites": "IBM 6800 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "digital-marketing-m-s"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "business-administration-b-s-international-business-subplan-option",
+      "name": "Business Administration, B.S. - International Business Subplan/Option"
+    },
+    {
+      "id": "business-administration-b-s-marketing-management-subplan-option",
+      "name": "Business Administration, B.S. - Marketing Management Subplan/Option"
+    },
+    {
+      "id": "business-administration-b-s-international-business-subplan-option-as-t-with-business-administration-2-0",
+      "name": "Business Administration, B.S. - International Business Subplan/Option: AS-T with Business Administration 2.0"
+    },
+    {
+      "id": "business-administration-b-s-marketing-management-subplan-option-as-t-with-business-administration-2-0",
+      "name": "Business Administration, B.S. - Marketing Management Subplan/Option: AS-T with Business Administration 2.0"
+    },
+    {
+      "id": "digital-marketing-m-s",
+      "name": "Digital Marketing, M.S."
+    },
+    {
+      "id": "international-business-minor",
+      "name": "International Business Minor"
+    },
+    {
+      "id": "marketing-analytics-minor",
+      "name": "Marketing Analytics Minor"
+    },
+    {
+      "id": "marketing-management-minor",
+      "name": "Marketing Management Minor"
+    },
+    {
+      "id": "business-administration-b-s-international-business-subplan-option-roadmap-4-year-120-units",
+      "name": "Business Administration, B.S. - International Business Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "business-administration-b-s-marketing-management-subplan-option-roadmap-4-year-120-units",
+      "name": "Business Administration, B.S. - Marketing Management Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "business-administration-b-s-international-business-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Business Administration, B.S. - International Business Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "business-administration-b-s-marketing-management-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Business Administration, B.S. - Marketing Management Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

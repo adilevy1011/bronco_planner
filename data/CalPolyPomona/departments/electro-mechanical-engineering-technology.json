@@ -1,0 +1,1398 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:43:56+00:00",
+  "id": "electro-mechanical-engineering-technology",
+  "name": "Electro Mechanical Engineering Technology",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6320",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Electro-Mechanical Engineering Technology Department Building 17 Room 2643 | (909) 869-2530 | Department Website | Faculty Directory The Electromechanical Systems Engineering Technology program and the Electronic Systems Engineering Technology program at Cal Poly Pomona are designed to prepare a diverse student population for application‑oriented technical careers as professional members of the engineering team. Using fundamental engineering principles and theories coupled with technological advancements, students gain an excellent technical background that prepares them to contribute knowledge and innovation throughout their careers as members of engineering teams. Our graduates also develop personal skills in the areas of written and oral communication, ethical responsibilities, and respect for diversity, while understanding the significance of lifelong learning practices. The Electro‑Mechanical Engineering Technology department reflects Cal Poly Pomona’s polytechnic tradition by offering ABET-accredited Bachelor of Science degrees in Electronic Systems Engineering Technology and Electromechanical Systems Engineering Technology. With comprehensive curricula, extensive labs, and industry-facing projects, students learn to integrate electronics, controls, mechanics, and thermofluid systems-applying CAD, programming, instrumentation, robotics, and manufacturing within multidisciplinary teams. Faculty, many of whom bring real-world engineering and research experience, emphasize professional conduct, ethical decision-making, and diverse collaboration, preparing students to thrive as technical professionals in modern industries. Students gain hand",
+  "courses": [
+    {
+      "code": "ETE 1021",
+      "title": "Circuit Analysis I",
+      "units": "3",
+      "ge": null,
+      "coid": "436421",
+      "description": "Principles of electric circuit elements including resistance, capacitance and inductance; magnetism. Basic DC network analysis techniques and theorems. DC transients and transformers, Basic AC circuit analysis techniques and theorems, Phasor analysis in AC circuits. Theory, operation, and application of basic electrical measuring instruments. 3 hours lecture/problem-solving. Corequisite(s): ETE 1021L .",
+      "prerequisites": "ECET or ESET major; and MAT 1060 , MAT 1300 , or MAT 1310 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 1021L",
+      "title": "Circuit Analysis I Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436422",
+      "description": "Construct, measure voltage, current, and power in a series, parallel, and mixed DC and AC circuits. Data and error analysis of each laboratory experiment along with employment of different troubleshooting methods. Corequisite(s): ETE 1021 .",
+      "prerequisites": "ECET or ESET major; and MAT 1060 , MAT 1300 , or MAT 1310 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 1151",
+      "title": "C/C++ Programming",
+      "units": "3",
+      "ge": null,
+      "coid": "436423",
+      "description": "Introduction to structured programming using C/C++. Programming problems applicable to engineering technology. Control structures, Loops, Arrays, Pointers, Classes, Data structures, Data abstraction, Overloading, Templates, Files and Streams. 3 hours lecture/problem-solving. Corequisite(s): ETE 1151L .",
+      "prerequisites": "ESET, ETT, or EMSET major; and MAT 1060 , MAT 1300 , or MAT 1310 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 1151L",
+      "title": "C/C++ Programming Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436436",
+      "description": "Introduction to C/C++ Programming. Writing programs using control structures, loops, functions, arrays, pointers, classes and inheritance. Corequisite(s): ETE 1151 .",
+      "prerequisites": "ESET, ETT, or EMSET major; and MAT 1060 , MAT 1300 , or MAT 1310 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438336",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ETE 2011",
+      "title": "Electrical Networks",
+      "units": "3",
+      "ge": null,
+      "coid": "436424",
+      "description": "Introduction to DC and AC circuit theory and applications. Electrical circuit analysis and electrical measurement involving RC, RL, and RLC circuits. Characteristics and applications of passive filters. Introduction to AC circuit applications including transformers and Three Phase Power. Corequisite(s): ETE 2011L .",
+      "prerequisites": "EMSET major; MAT 1060 , MAT 1300 , or MAT 1310 ; PHY 1220 ; and PHY 1220L . (Not open to ESET major).",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2011L",
+      "title": "Electrical Networks Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436425",
+      "description": "Introduction to DC and AC circuit theory and applications. Electrical circuit analysis and electrical measurement involving RC, RL, and RLC circuits. Characteristics and applications of passive filters. Transformers and Three Phase Circuit Applications. Not open to ESET majors. Corequisite(s): ETE 2011 .",
+      "prerequisites": "EMSET major; MAT 1060 , MAT 1300 , or MAT 1310 ; PHY 1220 ; and PHY 1220L . (Not open to ESET major).",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2041",
+      "title": "Electronic Devices and Circuits",
+      "units": "3",
+      "ge": null,
+      "coid": "436426",
+      "description": "Characteristics and applications of solid-state diodes. Characteristics and biasing of BJT and FET devices in amplifier configurations, load lines, input/output impedance and mid-band gain calculations. Frequency dependent models for BJT and FET amplifiers. Corequisite(s): ETE 2041L .",
+      "prerequisites": "ECET or ESET major; MAT 1300 or MAT 130; and C- or better in ETE 1021 or ETE 103, and ETE 1021L or ETE 103L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2041L",
+      "title": "Electronic Devices and Circuits Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436435",
+      "description": "Construction, Measurement and Testing of circuits involving solid-state diodes and their applications. Construction, Measurement and Testing of circuits involving BJT and FET devices in amplifier configurations - biasing, load lines, input/output impedance and mid-band gain measurements. Testing and confirmation of frequency dependent models for BJT and FET amplifiers. Corequisite(s): ETE 2041 .",
+      "prerequisites": "ECET or ESET major; MAT 1300 or MAT 130; and C- or better in ETE 1021 or ETE 103, and ETE 1021L or ETE 103L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2101",
+      "title": "Circuit Analysis II",
+      "units": "3",
+      "ge": null,
+      "coid": "436427",
+      "description": "RLC Circuits, transfer functions, frequency response, Bode plots and filters. Advance analysis of circuits in the time and frequency domain employing Laplace Transforms methods. Ideal Op-Amps and applications. Second order passive and active circuits. Stability analysis. Computer Methods utilized. Corequisite(s): ETE 2101L .",
+      "prerequisites": "ECET or ESET major; MAT 1310 , MAT 132, or MAT 299; and C- or better in ETE 1021 or ETE 210, and ETE 1021L or ETE 210L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ETE 2101L",
+      "title": "Circuit Analysis II Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436428",
+      "description": "RLC Circuits, transfer functions, frequency response, Bode plots and filters. Advance analysis of circuits in the time and frequency domain employing Laplace Transforms methods. Ideal Op-Amps and applications. Second order passive and active circuits. Stability analysis. Computer Methods utilized. Corequisite(s): ETE 2101 .",
+      "prerequisites": "ECET or ESET major; MAT 1310 , MAT 132, or MAT 299; and C- or better in ETE 1021 or ETE 210, and ETE 1021L or ETE 210L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ETE 2301",
+      "title": "Digital Circuits",
+      "units": "3",
+      "ge": null,
+      "coid": "436429",
+      "description": "Number systems and conversions. Theory and practice of universal fundamental gates. Combinational logic, SOP and POS interconnections and conversions. Simplification theorems, applied design of MSI and LSI logic and programmable logic devices. Sequential logic, latches and flip-flops and their applications. State diagram/table. State machines (Mealy and Moore) design. State machine converter. State machine with and without control inputs. State reduction. Clocked sequential circuits, analysis and design. Analysis of timing diagrams, complex sequential logic circuits design. Algorithmic state machines. 3 hours lecture/problem-solving. Corequisite(s): ETE 2301L .",
+      "prerequisites": "ECET or ESET major; and C- or better in ETE 1021 or ETE 103, and ETE 1021L or ETE 103L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2301L",
+      "title": "Digital Circuits Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436430",
+      "description": "Number systems and conversions. Theory and practice of universal fundamental gates. Combinational logic, SOP and POS interconnections and conversions. Simplification theorems, applied design of MSI and LSI logic and programmable logic devices. Sequential logic, latches and flip-flops and their applications. State diagram/table. State machines (Mealy and Moore) design. State machine converter. State machine with and without control inputs. State reduction. Clocked sequential circuits, analysis and design. Analysis of timing diagrams, complex sequential logic circuits design. Algorithmic state machines. Corequisite(s): ETE 2301 .",
+      "prerequisites": "ECET or ESET major; and C- or better in ETE 1021 or ETE 103, and ETE 1021L or ETE 103L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2721",
+      "title": "Electronic CAD, Manufacturing and PCB Fabrication",
+      "units": "1",
+      "ge": null,
+      "coid": "436431",
+      "description": "Manufacturing and fabrication processes associated with electronic products. Electronic and Mechanical Computer Aided Design (CAD) associated with Printed Circuit Board (PCB) design and manufacturing techniques. Introduction to testing and Quality assurance (QA) processes used by the Electronics Manufacturing industry. Corequisite(s): ETE 2721L .",
+      "prerequisites": "ESET major; C- or better in ETE 2041 or ETE 204; ETE 2041L or ETE 204L; ETE 2301 or ETE 230; and ETE 2301L or ETE 230L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2721L",
+      "title": "Electronic CAD, Manufacturing and PCB Fabrication Laboratory",
+      "units": "2",
+      "ge": null,
+      "coid": "436432",
+      "description": "Manufacturing and fabrication processes associated with electronic products. Electronic and Mechanical Computer Aided Design (CAD) associated with Printed Circuit Board (PCB) design and manufacturing techniques. Introduction to testing and Quality assurance (QA) processes used by the Electronics Manufacturing industry. Corequisite(s): ETE 2721 .",
+      "prerequisites": "ESET major; C- or better in ETE 2041 or ETE 204, ETE 2041L or ETE 204L, ETE 2301 or ETE 230, and ETE 2301L or ETE 230L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2801",
+      "title": "Industrial Electronics and PLC’s",
+      "units": "3",
+      "ge": null,
+      "coid": "436433",
+      "description": "Modern industrial electronics and control devices - relays, contactors. PLCs and ladder diagram programming; Introduction to industrial control systems. DC and AC motors; three-phase power and its control, optoelectronic devices, SCRs, Triacs and other thyristor devices. Corequisite(s): ETE 2801L .",
+      "prerequisites": "ECET or ESET major, and C- or better in ETE 2041 or ETE 204, ETE 2041L or ETE 204L, ETE 2301 or ETE 230, and ETE 2301L or ETE 230L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2801L",
+      "title": "Industrial Electronics and PLC’s Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436434",
+      "description": "Modern industrial electronics and control devices - relays, contactors. PLCs and ladder diagram programming; Introduction to industrial control systems. DC and AC motors; three-phase power and its control, optoelectronic devices, SCRs, Triacs and other thyristor devices. Corequisite(s): ETE 2801 .",
+      "prerequisites": "ECET or ESET major, and C- or better in ETE 2041 or ETE 204, ETE 2041L , ETE 2301 or ETE 230, and ETE 2301L or ETE 230L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438337",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ETE 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438338",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ETE 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438339",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ETE 3101",
+      "title": "Circuit Analysis II",
+      "units": "3",
+      "ge": null,
+      "coid": "439266",
+      "description": "RLC (Resistor-Inductor-Capacitor) Circuits, transfer functions, frequency response, Bode plots and filters. Advance analysis of circuits in the time and frequency domain employing Laplace Transforms methods. Ideal Op-Amps and applications. Second order passive and active circuits. Stability analysis. Computer Methods utilized. Corequisite(s): ETE 3101L .",
+      "prerequisites": "ECET or ESET major; MAT 1310 , MAT 132, or MAT 299; and C- or better in ETE 1021 or ETE 210, and ETE 1021L or ETE 210L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 3101L",
+      "title": "Circuit Analysis II Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "439267",
+      "description": "RLC (Resistor-Inductor-Capacitor) Circuits, transfer functions, frequency response, Bode plots and filters. Advance analysis of circuits in the time and frequency domain employing Laplace Transforms methods. Ideal Op-Amps and applications. Second order passive and active circuits. Stability analysis. Computer Methods utilized. Corequisite(s): ETE 3101 .",
+      "prerequisites": "ECET or ESET major; MAT 1310 , MAT 132, or MAT 299; and C- or better in ETE 1021 or ETE 210, and ETE 1021L or ETE 210L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 3211",
+      "title": "Electronic Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "436437",
+      "description": "Introduction to semiconductor devices and circuits including diode, transistor, and active amplifiers. Study of electrical and electronic systems involving motors, oscillators, sensors, optoelectronic devices, and PLCs. 3 hours lectures/problem-solving. Corequisite(s): ETE 3211L .",
+      "prerequisites": "ETT or EMSET major; MAT 1300 or MAT 130; and C- or better in ETE 2011 or ETT 201, and ETE 2011L or ETT 201L. (Not open to ECET or ESET major).",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 3211L",
+      "title": "Electronic Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436438",
+      "description": "Introduction to semiconductor devices and circuits including diode, transistor, and active amplifiers. Study of electrical and electronic systems involving motors, oscillators, sensors, optoelectronic devices, and PLC. 1 three hour laboratory. Corequisite(s): ETE 3211 .",
+      "prerequisites": "ETT or EMSET major; MAT 1300 or MAT 130; and C- or better in ETE 2011 or ETT 201, and ETE 2011L or ETT 201L. (Not open to ECET or ESET major).",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 3351",
+      "title": "Electronic Communication Circuits and Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "436439",
+      "description": "Introduction to periodically gated, amplitude, single sideband, frequency and phase modulation circuits and systems involved in electronic communications systems including oscillators and multistage amplifiers. Introduction to digital modulation communication techniques. Corequisite(s): ETE 3351L .",
+      "prerequisites": "ECET or ESET major; MAT 1310 , MAT 132, or MAT 299; and C- or better in ETE 2041 or ETE 204, and ETE 2041L or ETE 204L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 3351L",
+      "title": "Electronic Communication Circuits and Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436440",
+      "description": "Introduction to periodically gated, amplitude, single sideband, frequency and phase modulation circuits and systems involved in electronic communications systems including oscillators and multistage amplifiers. Introduction to digital modulation communication techniques. Corequisite(s): ETE 3351 .",
+      "prerequisites": "ECET or ESET major; MAT 1310 , MAT 132, or MAT 299; and C- or better in ETE 2041 or ETE 204, and ETE 2041L or ETE 204L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 3441",
+      "title": "Microcontroller Applications",
+      "units": "3",
+      "ge": null,
+      "coid": "436441",
+      "description": "Analysis and advanced operations of a selected microcontroller. Memory and I/O interface. I/O Ports, SCI & SPI interface, Timer functions, and Interrupts. CPU Architecture, Instruction set, Assembly Language and C programming. Corequisite(s): ETE 3441L .",
+      "prerequisites": "ECET or ESET major; and C- or better in ETE 2301 or ETE 230, ETE 2301L or ETE 230L, ETE 1151 or ETT 215, and ETE 1151L or ETT 215L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 3441L",
+      "title": "Microcontroller Applications Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436442",
+      "description": "Applications of Microcontrollers associated with A/D Converters, Timers, SPI, and other I/O Devices. Writing programs using both Assembly Language and C-Language. Corequisite(s): ETE 3441 .",
+      "prerequisites": "ECET or ESET major; and C- or better in ETE 2301 or ETE 230, ETE 2301L or ETE 230L, ETE 1151 or ETT 215, and ETE 1151L or ETT 215L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 3501",
+      "title": "Feedback Control Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "436443",
+      "description": "Modeling of continuous systems in the time and frequency domains. Block diagrams and reduction of multiple subsystems. First and Second order system response. Transient and steady-state behavior of systems. Sensitivity. Stability. Routh-Hurwitz and Root Locus Techniques. Introduction to sampling techniques, zero-order hold circuits, Z-transforms and difference equations. Digital controllers and applications in feedback systems. Corequisite(s): ETE 3501L .",
+      "prerequisites": "ECET or ESET major; MAT 1310 , MAT 132, or MAT 299; and C- or better in ETE 3101 or ETE 310, ETE 3101L or ETE 310L, ETE 2801 or ETE 280, and ETE 2801L or ETE 280L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 3501L",
+      "title": "Feedback Control Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436444",
+      "description": "Modeling of continuous systems in the time and frequency domains. Block diagrams and reduction of multiple subsystems. First and Second order system response. Transient and steady-state behavior of systems. Sensitivity. Stability. Routh-Hurwitz and Root Locus Techniques. Introduction to sampling techniques, zero-order hold circuits, Z-transforms and difference equations. Digital controllers and applications in feedback systems. Corequisite(s): ETE 3501 .",
+      "prerequisites": "ECET or ESET major; MAT 1310 , MAT 132, or MAT 299; and C- or better in ETE 3101 or ETE 310, ETE 3101L or ETE 310L, ETE 2801 or ETE 280, and ETE 2801L or ETE 280L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438340",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ETE 4141",
+      "title": "Advanced Java Programming",
+      "units": "3",
+      "ge": null,
+      "coid": "436445",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4141L",
+      "title": "Advanced Java Programming Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436446",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4201",
+      "title": "Electronic Test Instrumentation and Data Acquisition Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "436447",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 4201L",
+      "title": "Electronic Test Instrumentation and Data Acquisition Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436448",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 4351",
+      "title": "Data Communication and Networking",
+      "units": "3",
+      "ge": null,
+      "coid": "436500",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 4351L",
+      "title": "Data Communication and Networking Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436453",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 4371",
+      "title": "RF and Microwave Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "436452",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4371L",
+      "title": "RF and Microwave Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436449",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4451",
+      "title": "Advanced Digital Design FPGA/Verilog HDL",
+      "units": "3",
+      "ge": null,
+      "coid": "436454",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4451L",
+      "title": "Advanced Digital Design Using FPGA/Verilog HDL Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436455",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4501",
+      "title": "Digital Signal Processing",
+      "units": "3",
+      "ge": null,
+      "coid": "436456",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4501L",
+      "title": "Digital Signal Processing Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436457",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4521",
+      "title": "Photonics-Optical Communication",
+      "units": "3",
+      "ge": null,
+      "coid": "436458",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4521L",
+      "title": "Photonics-Optical Communication Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436459",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4751",
+      "title": "Introduction to Robotics Control and Application",
+      "units": "3",
+      "ge": null,
+      "coid": "436460",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 4751L",
+      "title": "Introduction to Robotics Control and Applications Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436461",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETE 4801",
+      "title": "Introduction to Motion Control",
+      "units": "3",
+      "ge": null,
+      "coid": "436463",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4801L",
+      "title": "Introduction to Motion Control Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436464",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4851",
+      "title": "Introduction to Autonomous Vehicles",
+      "units": "3",
+      "ge": null,
+      "coid": "439305",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4851L",
+      "title": "Introduction to Autonomous Vehicles Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "439306",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4901",
+      "title": "Advanced Industrial Automation Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "436466",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4901L",
+      "title": "Advanced Industrial Automation Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436467",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438341",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETE 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438342",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "ETE 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438343",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "ETM 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438344",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "ETM 2101",
+      "title": "Applied Statics",
+      "units": "3",
+      "ge": null,
+      "coid": "436469",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 2111",
+      "title": "Applied Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "436471",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 2121",
+      "title": "Applied Mechanics for Electronic Systems Engineering Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "436472",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electronic-systems-engineering-technology-b-s",
+        "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 2171",
+      "title": "Material Science for Engineering Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "436501",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 2201",
+      "title": "Strength of Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "436473",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 2201L",
+      "title": "Strength of Materials Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436475",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438345",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "ETM 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438346",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "ETM 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438347",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "ETM 3061",
+      "title": "Applied Thermodynamics I",
+      "units": "3",
+      "ge": null,
+      "coid": "436477",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 3081",
+      "title": "Applied Heat Transfer",
+      "units": "3",
+      "ge": null,
+      "coid": "436479",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 3101",
+      "title": "Applied Fluid Mechanics I",
+      "units": "3",
+      "ge": null,
+      "coid": "436481",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 3121",
+      "title": "Applied Fluid Mechanics II",
+      "units": "3",
+      "ge": null,
+      "coid": "436482",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 3141L",
+      "title": "Thermal Fluids Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437887",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 3151",
+      "title": "Machine Elements",
+      "units": "3",
+      "ge": null,
+      "coid": "436485",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 3151L",
+      "title": "Machine Elements Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436487",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 3301",
+      "title": "Instrumentation and Control",
+      "units": "3",
+      "ge": null,
+      "coid": "436491",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 3301L",
+      "title": "Instrumentation and Control Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436489",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 3341",
+      "title": "Heating Ventilation and Air Conditioning I",
+      "units": "3",
+      "ge": null,
+      "coid": "436493",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s",
+        "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units"
+      ]
+    },
+    {
+      "code": "ETM 3351",
+      "title": "Heating Ventilation and Air Conditioning II",
+      "units": "3",
+      "ge": null,
+      "coid": "436495",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETM 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438348",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "ETM 4101",
+      "title": "Internal Combustion Engines",
+      "units": "3",
+      "ge": null,
+      "coid": "436496",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "ETM 4101L",
+      "title": "Internal Combustion Engines Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436497",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "ETM 4151",
+      "title": "Renewable Energy Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "436498",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETM 4191",
+      "title": "Applied Thermodynamics II",
+      "units": "3",
+      "ge": null,
+      "coid": "437586",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETM 4211",
+      "title": "Hydraulics",
+      "units": "3",
+      "ge": null,
+      "coid": "436499",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETM 4911",
+      "title": "Applied Finite Element Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "439303",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETM 4911L",
+      "title": "Applied Finite Element Analysis Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "439304",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETM 4921",
+      "title": "Turbomachinery",
+      "units": "3",
+      "ge": null,
+      "coid": "439310",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETM 4931",
+      "title": "Mechatronics",
+      "units": "3",
+      "ge": null,
+      "coid": "439287",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETM 4931L",
+      "title": "Mechatronics Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "439288",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETM 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438349",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    },
+    {
+      "code": "ETM 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438350",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "ETM 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438351",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": "",
+      "programs": [
+        "electromechanical-systems-engineering-technology-b-s"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "electromechanical-systems-engineering-technology-b-s",
+      "name": "Electromechanical Systems Engineering Technology, B.S."
+    },
+    {
+      "id": "electronic-systems-engineering-technology-b-s",
+      "name": "Electronic Systems Engineering Technology, B.S."
+    },
+    {
+      "id": "electromechanical-systems-engineering-technology-b-s-roadmap-4-year-122-units",
+      "name": "Electromechanical Systems Engineering Technology, B.S.: Roadmap 4-year (122 units)"
+    },
+    {
+      "id": "electronic-systems-engineering-technology-b-s-roadmap-4-year-122-units",
+      "name": "Electronic Systems Engineering Technology, B.S.: Roadmap 4-year (122 units)"
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:18:56+00:00",
+  "id": "kinesiology-m-s-physical-education-leadership-and-advocacy-subplan-option",
+  "name": "Kinesiology, M.S. - Physical Education Leadership and Advocacy Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Kinesiology And Health Promotion",
+  "department_id": "kinesiology-and-health-promotion",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=25125",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6345",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Kinesiology, M.S. - Physical Education Leadership and Advocacy Subplan/Option: 30 units Offered by: College of Science , Kinesiology and Health Promotion Department Major Required | Subplan/Option Required | Subplan/Option Electives | Culminating Experience | Program Website Major Required: 14 units KIN 5900 - Applied Inquiry and Research Design (3) KIN 5910 - Data Literacy, Analysis, and Synthesis (3) KIN 5920 - Critical Analysis of Research (2) KIN 5930 - Research Colloquium (1) (2 units required) KIN 5940 - Practicing Professional Competencies (2) IGNITE Experience: 2 units EDU 5280 - Teaching Performance Assessment for Secondary Teachers (3) KIN 4410 - Internship in Kinesiology (2) KIN 5370 - Adapted Physical Education Candidate Assessment (1) KIN 5940A - Practicing Pedagogical Competencies (1) KIN 6910 - Directed Research (1-3) KIN 6920 - Independent Research (1-3) Subplan/Option Required: 9 units KIN 5500 - Community-Engaged Practice (3) KIN 5530 - School- and Community-based Program Development and Implementation (3) KIN 5590 - Physical Education Leadership and Advocacy (3) Subplan/Option Electives: 5 units Please provide a list of courses that satisfy electives. Culminating Experience: 2 units KIN 6950 - Master’s Degree Project (1) (2 units required) or KIN 6960 - Master’s Degree Thesis (1-3) (2 units required) or KIN 6970 - Master’s Degree Comprehensive Exams (1) (2 units required) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new ",
+  "requirements": [
+    {
+      "name": "Major Required: 14 units",
+      "courses": [
+        "KIN 5900",
+        "KIN 5910",
+        "KIN 5920",
+        "KIN 5930",
+        "KIN 5940"
+      ],
+      "raw_text": "Major Required: 14 units"
+    },
+    {
+      "name": "IGNITE Experience: 2 units",
+      "courses": [
+        "EDU 5280",
+        "KIN 4410",
+        "KIN 5370",
+        "KIN 5940A",
+        "KIN 6910",
+        "KIN 6920"
+      ],
+      "raw_text": "IGNITE Experience: 2 units"
+    },
+    {
+      "name": "Subplan/Option Required: 9 units",
+      "courses": [
+        "KIN 5500",
+        "KIN 5530",
+        "KIN 5590"
+      ],
+      "raw_text": "Subplan/Option Required: 9 units"
+    },
+    {
+      "name": "Culminating Experience: 2 units",
+      "courses": [
+        "KIN 6950"
+      ],
+      "raw_text": "Culminating Experience: 2 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "KIN 6960",
+        "KIN 6970"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "KIN 5900",
+      "title": "Applied Inquiry and Research Design",
+      "units": "3",
+      "ge": null,
+      "coid": "437912",
+      "requirement": "Major Required: 14 units",
+      "description": "Introduction to Kinesiology and Health Promotion research through the critical examination of literature and application of key principles, culminating in the design and development of a research proposal. Topics include: theoretical and technical facets of planning and performing research, crafting research questions, research ethics and methodologies.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "KIN 5910",
+      "title": "Data Literacy, Analysis, and Synthesis",
+      "units": "3",
+      "ge": null,
+      "coid": "437295",
+      "requirement": "Major Required: 14 units",
+      "description": "Exploration of key data and analytical model concepts in Kinesiology and Health Promotion research, culminating in the design, development and implementation of a full research proposal. Topics include: applied research methods, statistical and qualitative analytical methods, analytical software, interpretation of results, data synthesis, and pilot evaluation.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "KIN 5920",
+      "title": "Critical Analysis of Research",
+      "units": "2",
+      "ge": null,
+      "coid": "439082",
+      "requirement": "Major Required: 14 units",
+      "description": "Critical evaluation of health and human movement literature to promote and broaden student understanding of research within our field. Emphasis is placed on developing an interdisciplinary understanding through an active-learning pedagogy approach.",
+      "prerequisites": "Graduate standing or consent of the instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 5930",
+      "title": "Research Colloquium",
+      "units": "1",
+      "ge": null,
+      "coid": "439087",
+      "requirement": "Major Required: 14 units",
+      "description": "Strategies used to disseminate health and human movement research to academic and non-academic audiences. Content includes research presentations and skill-based workshops. Emphasis is placed on developing an interdisciplinary understanding of the field through an active-learning pedagogy approach.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 2 units, with a maximum of 1 unit per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 5940",
+      "title": "Practicing Professional Competencies",
+      "units": "2",
+      "ge": null,
+      "coid": "439088",
+      "requirement": "Major Required: 14 units",
+      "description": "Provides students with the knowledge and skills needed to advance their career goals. Emphasis will be placed on developing the professional competencies required to be model, dynamic, and adaptable leaders in the Kinesiology and Health Promotion field.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EDU 5280",
+      "title": "Teaching Performance Assessment for Secondary Teachers",
+      "units": "3",
+      "ge": null,
+      "coid": "437239",
+      "requirement": "IGNITE Experience: 2 units",
+      "description": "Single subject candidates connect theory to practice as they apply and reflect on their teaching practice and professional behaviors based on classroom equity, professional responsibilities, and Teacher Performance Expectations. Candidates complete the Teaching Performance Assessment and develop a plan for continuing their growth on the California Standards for the Teaching Profession. Corequisite(s): EDU 5260 or EDU 5420 .",
+      "prerequisites": "Admitted to Single Subject Credential, EDU 5205 or TED 434, EDU 5210 or TED 442, EDU 5215 or TED 446, and EDU 5220 .",
+      "grading_basis": "Graded only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 4410",
+      "title": "Internship in Kinesiology",
+      "units": "2",
+      "ge": null,
+      "coid": "437276",
+      "requirement": "IGNITE Experience: 2 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 5370",
+      "title": "Adapted Physical Education Candidate Assessment",
+      "units": "1",
+      "ge": null,
+      "coid": "439406",
+      "requirement": "IGNITE Experience: 2 units",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 5940A",
+      "title": "Practicing Pedagogical Competencies",
+      "units": "1",
+      "ge": null,
+      "coid": "439437",
+      "requirement": "IGNITE Experience: 2 units",
+      "description": "Provides students an opportunity to participate in a supportive community of practice. Emphasis will be placed on developing the pedagogical competencies required to be model, inclusive, and adaptable educators in health and human movement. Corequisite(s): Employment as a KHP Graduate Teaching Associate.",
+      "prerequisites": "Graduate standing and KIN 5940 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units, with a maximum of 1 unit per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438502",
+      "requirement": "IGNITE Experience: 2 units",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438503",
+      "requirement": "IGNITE Experience: 2 units",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 5500",
+      "title": "Community-Engaged Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "439438",
+      "requirement": "Subplan/Option Required: 9 units",
+      "description": "Introduces principles of evidence-based community-engaged practice in health and human movement. Topics may include community engagement in research, community-based methods, and strategies for establishing and sustaining partnerships with community stakeholders.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 5530",
+      "title": "School- and Community-based Program Development and Implementation",
+      "units": "3",
+      "ge": null,
+      "coid": "435809",
+      "requirement": "Subplan/Option Required: 9 units",
+      "description": "The design of effective programs within school- and community-based settings. Topics cover the principles of program design and implementation, troubleshooting common challenges, and program evaluation.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 5590",
+      "title": "Physical Education Leadership and Advocacy",
+      "units": "3",
+      "ge": null,
+      "coid": "435811",
+      "requirement": "Subplan/Option Required: 9 units",
+      "description": "Knowledge and skills needed to become effective leaders in the field of physical education. Explore various leadership theories, principles, and practices to advocate for the needs of the field of physical education.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 6950",
+      "title": "Master’s Degree Project",
+      "units": "1",
+      "ge": null,
+      "coid": "435817",
+      "requirement": "Culminating Experience: 2 units",
+      "description": "The Kinesiology and Health Promotion project is the translation of empirical evidence to create and defend an applied artifact relevant to the chosen field of practice. The finished product evidences originality, critical and independent thinking, appropriate organization and format, and thorough documentation.",
+      "prerequisites": "KIN 5900 and KIN 5910 with an average grade of B or better, KIN 5920 , and KIN 5930 .",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 2 units applicable to a degree, with a maximum of 1 unit per semester",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "KIN 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "1-3",
+      "ge": null,
+      "coid": "435818",
+      "requirement": "or",
+      "description": "The Kinesiology and Health Promotion thesis is the written product and oral defense of a systematic study of a significant problem. The finished product evidences originality, critical and independent thinking, appropriate organization and format, and thorough documentation.",
+      "prerequisites": "KIN 5900 and KIN 5910 with a B grade or better, KIN 5920 , and KIN 5930 .",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 2 or 6 units applicable to a degree, with a maximum of 1 or 3 units per semester; dependent on curriculum year.",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 6970",
+      "title": "Master’s Degree Comprehensive Exams",
+      "units": "1",
+      "ge": null,
+      "coid": "439260",
+      "requirement": "or",
+      "description": "The Kinesiology and Health Promotion Comprehensive Exams are an assessment of the student’s ability to integrate the knowledge of the area, show critical and independent thinking, and demonstrate a mastery of the subject matter. The assessments consist of three elements: 1) critical analysis presentation; 2) written exams; and 3) oral defense.",
+      "prerequisites": "KIN 5910 , KIN 5920 , and KIN 5930 .",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 2 units applicable to a degree, with a maximum of 1 unit per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "KIN 4410"
+  ]
+}

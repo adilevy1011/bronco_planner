@@ -1,0 +1,861 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:36:58+00:00",
+  "id": "technology-and-operations-management",
+  "name": "Technology And Operations Management",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6310",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Technology and Operations Management Department Building 164 Room 2084 | (909) 869-2456 | Department Website | Faculty Directory The Technology and Operations Management Department aims to provide students with an education that will enable them to become successful managers in the business world of the 21st century. Through its curriculum, the department concentrates on helping students develop competencies in critical thinking, technical and business integration skills… Heavy emphasis is placed on the study of computer applications for assisting managers plan, analyze information, make decisions, and communicate. The department reflects Cal Poly Pomona’s polytechnic ethos by weaving technology, analytics, and operational strategy into its core. Students learn supply chain management, operations improvement, e-business, and process efficiency using collaborative projects, ERP systems, and data-driven decision-making tools. Faculty, engaged in applied research and industry consulting, infuse coursework with best practices from regional manufacturing, logistics, and tech sectors. There’s a strong emphasis on systems thinking, innovation, and responsiveness to global commerce demands. Students benefit from specialized labs featuring supply chain simulation software and e-business platforms, equipping them to navigate complex digital ecosystems. Real-world learning is further supported by the SCOT Lab, internship placements, and senior capstone experiences with companies across the U.S. Clubs like TOM and e-Business Associations host workshops, competitions, and speaker series. Career networks and corporate mentorships help students transition in",
+  "courses": [
+    {
+      "code": "EBZ 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434837",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EBZ 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434838",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EBZ 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438215",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EBZ 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438216",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EBZ 3010",
+      "title": "Business on the Web: from Basics to AI",
+      "units": "3",
+      "ge": null,
+      "coid": "434720",
+      "description": "Introduction to basic concepts and managerial considerations of electronic commerce to students. A comprehensive overview of varies connections between business management and technology. Exposure to e-commerce business models, e-commerce infrastructure, e-commerce strategies, e-commerce security, e-commerce applications, and modern e-commerce technologies, such as Structured Query Language (SQL) and generative Artificial Intelligence (generative AI).",
+      "prerequisites": "STA 1200 or STA 1202 , and completion of GE Area 1A or A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor",
+        "business-administration-b-s-e-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-e-business-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EBZ 3030",
+      "title": "Customer Relationship Management and Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "434722",
+      "description": "Management of customer relationship starting from acquisition, to development, retention, and win-back of customers. Applications under both Business-to-Business (5B/B2B) and Business-to-Consumer (5B/B2C) market settings, and CRM-Customer Relationship Management-implementation and evaluation with benchmarking and financial metrics. Based on the key CRM processes, including sales automation, marketing automation, and service automation. Understand customers by using CRM analytics tools.",
+      "prerequisites": "TOM 301 or TOM 3010 ; and CIS 310 or CIS 3100 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor",
+        "business-administration-b-s-e-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-e-business-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EBZ 3050",
+      "title": "Enterprise Resource Planning: From SAP HANA to AI",
+      "units": "3",
+      "ge": null,
+      "coid": "434721",
+      "description": "Explores the enterprise level integration of information flow and business process management. Learn the enterprise resource planning (ERP) using the state-of-the-art SAP HANA ERP that covers from financial and managerial accounting, procurement, sales and distribution, production, material requirements planning (MRP), inventory management, and SAP Build with GenAI-powered solutions.",
+      "prerequisites": "TOM 3010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor",
+        "business-administration-b-s-e-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-e-business-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "EBZ 3060",
+      "title": "Artificial Intelligence Technology Literacy and Future Business",
+      "units": "3",
+      "ge": null,
+      "coid": "439533",
+      "description": "Provide a foundational understanding of AI technology and its impact on future business practices. Explore the applications, challenges, and ethical considerations of AI, as well as its potential to transform various industries. Through a combination of lectures, case studies, and interactive activities, students will develop the necessary knowledge and skills to leverage AI technology in their future careers.",
+      "prerequisites": "EBZ 3010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0"
+      ]
+    },
+    {
+      "code": "EBZ 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434839",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EBZ 4410",
+      "title": "Internship in Electronic Business",
+      "units": "3",
+      "ge": null,
+      "coid": "434719",
+      "description": "Faculty supervised, on-the-job educational experience in electronic business involving collegiate-level learning experiences. Allocation of credit is dependent on the nature of the work done and the number of hours worked. May be taken up to two times for a total credit of 6 units.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0"
+      ]
+    },
+    {
+      "code": "EBZ 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434840",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EBZ 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438217",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "EBZ 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438218",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434861",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434862",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438783",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438784",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 3010",
+      "title": "Operations Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434810",
+      "description": "An overview of how businesses operate, especially under supply chain settings. Main topics includes business processes analysis, product and service quality management, waiting line (queue) management, inventory (material) management, project management, and supply chain management.",
+      "prerequisites": "STA 120, STA 1200 , or STA 1202 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor",
+        "business-administration-b-s-e-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-e-business-subplan-option-roadmap-2-year-adt-60-units",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "TOM 3020",
+      "title": "Statistical Foundations for Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "434650",
+      "description": "Applications of managerial statistics for business decisions. Data collection, confidence interval estimation of mean and proportion, one and two-population hypothesis testing of mean and proportion, one-way and two-way chi-square testing, simple linear regression, multiple linear regression, and analysis of variance. Use of computers.",
+      "prerequisites": "STA 120, STA 1200 , or STA 1202 ; and MAT 125 or MAT 1250 , MAT 114 and MAT 115, or MAT 1140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-e-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-e-business-subplan-option-roadmap-2-year-adt-60-units",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "TOM 3090",
+      "title": "Logistics Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434812",
+      "description": "An operations perspective of logistics management that emphasizes the financial impacts of logistics decisions on supply chain. Transportation Management, Supply Chain Location Strategy, Inventory Management, and Warehousing Management.",
+      "prerequisites": "TOM 301 or TOM 3010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor"
+      ]
+    },
+    {
+      "code": "TOM 3160",
+      "title": "Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "434813",
+      "description": "Overview of business analytics. Problem framing. Categorization of analytical methods and models. Descriptive analytics and data visualization. Predictive analytics including data mining and simulation. Prescriptive analytics including optimization. Decision analysis. Spreadsheet implementation.",
+      "prerequisites": "TOM 302 or TOM 3020 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "TOM 3200",
+      "title": "Management of Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "434814",
+      "description": "A conceptual foundation to manage technology and innovation in organizations. Topics include: innovations and disruptive technologies, product development, developing innovation strategy, and implementing innovation.",
+      "prerequisites": "TOM 301 or TOM 3010 , and MHR 301 or MHR 3010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor"
+      ]
+    },
+    {
+      "code": "TOM 3320",
+      "title": "Business Processes and Production Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "434815",
+      "description": "Manufacturing Planning and Control (MPC) across the supply chain, information technology in MPC, demand forecasting and management, capacity planning, sales and operations planning, master production scheduling, material requirement planning, production control and scheduling, and shop floor control.",
+      "prerequisites": "TOM 301 OR TOM 3010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "TOM 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434863",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 4010",
+      "title": "Quality Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434817",
+      "description": "Overview of quality philosophies. Six Sigma and Lean concepts. DMAIC (define, measure, analyze, improve, control) framework for Lean Six Sigma. Customer and supplier relations. Process analysis and capability. Basic quality tools. Lean and Kaizen approaches to continuous improvement. Measurement and reporting systems. Manufacturing and service applications.",
+      "prerequisites": "STA 120, STA 1200 , STA 1202 , STA 309, or STA 2260 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor"
+      ]
+    },
+    {
+      "code": "TOM 4250",
+      "title": "Supply Chain Network Design",
+      "units": "3",
+      "ge": null,
+      "coid": "434811",
+      "description": "Design of supply chain network at the operational and strategic levels; including; operational models, supply chain coordination and contracts, relationships among supply chain partners–equipment manufacturers, suppliers, manufacturers, logistics providers, distribution channels and customers.",
+      "prerequisites": "TOM 301 or TOM 3010.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor"
+      ]
+    },
+    {
+      "code": "TOM 4340",
+      "title": "Purchasing Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434816",
+      "description": "Explores the industrial purchasing cycle and focuses on the interrelationships of purchasing with other functional areas such as marketing, logistics, and production. Topics include material management, purchasing procedure, supplier evaluation, supplier selection, supplier relationship maintenance, make or buy decisions, price/cost analysis and negotiation strategy.",
+      "prerequisites": "TOM 301 or TOM 3010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor"
+      ]
+    },
+    {
+      "code": "TOM 4360",
+      "title": "Project Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434818",
+      "description": "Project life cycle, project initiation and charter, time and cost management, critical path method, project evaluation and review technique, resource allocation and leveling. Risk management, management of human resources, team dynamics, negotiation, conflict resolution, project organization, project monitoring and control, earned value analysis, procurement and quality management.",
+      "prerequisites": "TOM 301 or TOM 3010 ; and Undergraduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor"
+      ]
+    },
+    {
+      "code": "TOM 4410",
+      "title": "Internship in Technology and Operations Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434809",
+      "description": "Faculty supervised, on-the-job educational experience in a real world environment. Allocation of credit is dependent on the nature of work done and the number of hours worked. May be taken up to two times for a total credit of 6 units.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limit is 6 units.",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0"
+      ]
+    },
+    {
+      "code": "TOM 4530",
+      "title": "Service Operations Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434819",
+      "description": "Characteristics of service operations. Service strategy. Service system design, including facility location, facility design, and process flows. Service quality and process improvement. Managing service operations, including demand and capacity management, and waiting lines management. Service supply relationships. Globalization of services.",
+      "prerequisites": "TOM 301 or TOM 3010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor"
+      ]
+    },
+    {
+      "code": "TOM 4650",
+      "title": "Introduction to Blockchain",
+      "units": "3",
+      "ge": null,
+      "coid": "439086",
+      "description": "Fundamental concepts and techniques of blockchain technology. Introduction to cryptography and cryptocurrencies. Basics of network consensus and integrity. Understanding smart contracts. Decentralization, security, and ecosystem of bitcoin. Blockchain technologies for transparent, sustainable, and secure supply chains. Decentralized business models for different industries. Business cases in adoption of blockchain technology.",
+      "prerequisites": "TOM 3010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "operations-management-minor",
+        "supply-chain-logistics-minor"
+      ]
+    },
+    {
+      "code": "TOM 4950W",
+      "title": "Managing Global Supply Chain Disruptions",
+      "units": "3",
+      "ge": null,
+      "coid": "439561",
+      "description": "The holistic view of global supply chain management by connecting all supply chain/operations management function knowledge including procurement, production, logistics, sales and other business topics. Lectures and business simulation provides streamlined understandings on business operations and supply chain management under turbulent global environment. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing, and TOM 3010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "business-administration-b-s-e-business-subplan-option",
+        "business-administration-b-s-technology-and-operations-management-subplan-option",
+        "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+        "business-administration-b-s-e-business-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-4-year-120-units",
+        "business-administration-b-s-e-business-subplan-option-roadmap-2-year-adt-60-units",
+        "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "TOM 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434864",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438785",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438786",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 5300",
+      "title": "Introduction to Artificial Intelligence Technologies in Business",
+      "units": "3",
+      "ge": null,
+      "coid": "439450",
+      "description": "Introductory concepts aims to build the knowledge foundation of the artificial intelligence (AI) technologies and their applications in business operations and processes. Covers the following topics: the definition of AI, the current developments of AI systems/platforms, how AI technologies transform business operations and processes across different industries, the limitations, issues, policies, and governance of AI, the job opportunities and the future of AI.",
+      "prerequisites": "Computer proficiency.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6010",
+      "title": "Supply Chain Management Fundamentals",
+      "units": "3",
+      "ge": null,
+      "coid": "439046",
+      "description": "Foundation of advanced operations and supply chain management, introduce trends in supply chain technologies, and cultivate leadership skills. Topics include: Process analysis; Inventory management; Quality management; Project management; Supply chain coordination; Key Performance Indicator (KPI) tree/Return on Invested Capital (ROIC) tree; Contemporary supply chain technology trend.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6030",
+      "title": "Enterprise Resource Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "439048",
+      "description": "Provides students with an introduction to the concepts, theories, and procedures associated with enterprise resource planning (ERP) and customer relationship management (CRM). ERP integrates the functions of business to provide managers more useful, relevant information for decision making. CRM creates a customer-centric focused enterprise tools with the integration of ERP. Helps students see how ERP and CRM can make the organization more effective and efficient both internally and externally.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6090",
+      "title": "Global Logistics and Transportation",
+      "units": "3",
+      "ge": null,
+      "coid": "439049",
+      "description": "Provides both operational and strategic perspectives of global logistics and transportation management, which not only reduces the cost of distributing goods and services worldwide, but also create value for companies and eventually creates unique competitive advantages. Topics include transportation, inventory and warehouse management, customer service, and logistics information flows. The course instruction includes lectures, business cases, and hand-on learning with software.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department, Fall, Spring",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6200",
+      "title": "Contemporary Supply Chain Technology Seminar",
+      "units": "1",
+      "ge": null,
+      "coid": "439052",
+      "description": "Surveys the current technological trends in Supply Chain Management (SCM). The covered subjects may include contemporary supply chain technology areas such as blockchain, Robotic Process Automation (RPA), Internet of Things (IoT), Artificial Intelligence (AI), worker environment technology, warehouse technology, logistics technology, VR/MVR technologies, and etc.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6250",
+      "title": "Strategic Supply Chain Management",
+      "units": "2",
+      "ge": null,
+      "coid": "439053",
+      "description": "Establishes a bird’s-eye view of modern global supply chains. Students learn to examine and solve cross-functional and/or cross organizational supply chain problems, which typically involve high level coordination and complicated tradeoffs. Contemporary supply chain related topics are introduced, such as supply chain finance, contracts, coordination, risk management, and network design.",
+      "prerequisites": "TOM 6340 and TOM 6090 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6300",
+      "title": "Artificial Intelligence Frontier and Future Business",
+      "units": "3",
+      "ge": null,
+      "coid": "439451",
+      "description": "Explores the cutting-edge technologies and future implications of artificial intelligence (AI) across diverse business domains including all end-to-end supply chain processes. Students will gain fundamental knowledge of generative AI and its underpinning technologies like neural networks, attention mechanisms, and transformers. Provides hands-on experience in applying large language models (LLMs) such as ChatGPT to streamline business operations, enhance productivity, and extract insights. Students will learn prompt engineering to optimize ChatGPT or other LLM tools’ outputs for business processes. Emerging trends in AI will be analyzed to identify new opportunities and challenges for integrating AI into corporate strategies. Additionally, topics covered include crucial considerations surrounding AI ethics, safety, and regulations in business contexts.",
+      "prerequisites": "Microcomputer proficiency.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6320",
+      "title": "Production Strategies in Supply Chain Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439047",
+      "description": "Manufacturing Planning and Control (MPC) across the supply chain and incorporates information technology in MPC. Topics include demand forecasting and management, capacity planning, sales and operations planning, master production scheduling, and material requirement planning, production control and scheduling, and shop floor control.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6340",
+      "title": "Purchasing Management and Strategic Sourcing",
+      "units": "3",
+      "ge": null,
+      "coid": "439050",
+      "description": "Provides students with an understanding of the impacts that purchasing and supply management have on the success and profitability of firms in today’s business environment. Topics include supply strategy, supply organization, supply processes and technology, make-or-buy, quality, quantity and inventory, delivery, price, cost management, supplier selection, supplier evaluation, supplier relationships, global supply management, legal and ethics, and other supply responsibilities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department, Fall, Spring",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6410",
+      "title": "Lean and Six Sigma",
+      "units": "2",
+      "ge": null,
+      "coid": "439051",
+      "description": "Aims to build knowledge foundation of quality and quality management and prepare students for related certificates. Topics include: Concepts of Lean and Six Sigma; DMAIC (Define, Measure, Analyze, Improve, Control) framework; Customer focus, supplier focus, and process focus of quality management; Statistical process control; Process improvement.",
+      "prerequisites": "GBA 5140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6500",
+      "title": "Artificial Intelligence Studio and Business Implementations",
+      "units": "3",
+      "ge": null,
+      "coid": "439452",
+      "description": "Explores the integration of artificial intelligence (AI) technologies into the business landscape. Delves into AI-driven entrepreneurial ventures, ethical considerations, and hands-on implementation of AI-powered business applications. Harnesses AI for innovative business solutions through practical projects and case studies.",
+      "prerequisites": "TOM 5300 or TOM 6300 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6650",
+      "title": "Blockchains and Business Applications",
+      "units": "3",
+      "ge": null,
+      "coid": "439092",
+      "description": "Fundamental concepts and techniques of blockchain technologies. Introduction to cryptography and cryptocurrencies. Basics of distributed network consensus and integrity. Understanding smart contracts. What is the bitcoin blockchain? Decentralization, security, and ecosystem of bitcoin. Blockchain technology for transparent, sustainable, resilient, and secure business supply chains and business operations. Decentralized business models and design for different industries. Business successful cases in adoption of blockchains and decentralized networks. Computer programming in cryptography and blockchains.",
+      "prerequisites": "College algebra and programming foundation.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 6870",
+      "title": "Team Dynamics in Supply Chain Management",
+      "units": "1",
+      "ge": null,
+      "coid": "439054",
+      "description": "Surveys the basics in team science under the context of supply chain management, covering topics such as creating teams and managing teams from various supply chain functions, managing conflicts from the view of value creation and supply chain integration.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6880",
+      "title": "Negotiation and Persuasion in Supply Chains",
+      "units": "1",
+      "ge": null,
+      "coid": "439055",
+      "description": "Negotiation is the art and science of securing agreements between two or more interdependent parties. Managers need not only technical and analytical skills to develop optimal solutions to problems, but also negotiation and persuasion skills to ensure that these solutions are accepted and to secure the necessary resources for implementation. Covers negotiation theory and strategies that are used in a variety of settings, and focuses on the real-life applications and practice of effective negotiation in supply chains.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    },
+    {
+      "code": "TOM 6970",
+      "title": "Comprehensive Examination",
+      "units": "1",
+      "ge": null,
+      "coid": "439056",
+      "description": "An examination on the subject areas of the candidate’s coursework listed on the degree program. Pre or Corequisite(s): TOM 6090 , TOM 6340 , TOM 6030 , and TOM 6320 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department, Fall, Spring, Summer",
+      "programs": [
+        "digital-supply-chain-management-m-s"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "business-administration-b-s-e-business-subplan-option",
+      "name": "Business Administration, B.S. - E-Business Subplan/Option"
+    },
+    {
+      "id": "business-administration-b-s-technology-and-operations-management-subplan-option",
+      "name": "Business Administration, B.S. - Technology and Operations Management Subplan/Option"
+    },
+    {
+      "id": "business-administration-b-s-e-business-subplan-option-as-t-in-business-administration-2-0",
+      "name": "Business Administration, B.S. - E-Business Subplan/Option: AS-T in Business Administration 2.0"
+    },
+    {
+      "id": "business-administration-b-s-technology-and-operations-management-subplan-option-as-t-in-business-administration-2-0",
+      "name": "Business Administration, B.S. - Technology and Operations Management Subplan/Option: AS-T in Business Administration 2.0"
+    },
+    {
+      "id": "business-analytics-m-s",
+      "name": "Business Analytics, M.S."
+    },
+    {
+      "id": "digital-supply-chain-management-m-s",
+      "name": "Digital Supply Chain Management, M.S."
+    },
+    {
+      "id": "operations-management-minor",
+      "name": "Operations Management Minor"
+    },
+    {
+      "id": "supply-chain-logistics-minor",
+      "name": "Supply Chain/Logistics Minor"
+    },
+    {
+      "id": "business-administration-b-s-e-business-subplan-option-roadmap-4-year-120-units",
+      "name": "Business Administration, B.S. - E-Business Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-4-year-120-units",
+      "name": "Business Administration, B.S. - Technology and Operations Management Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "business-administration-b-s-e-business-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Business Administration, B.S. - E-Business Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "business-administration-b-s-technology-and-operations-management-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Business Administration, B.S. - Technology and Operations Management Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

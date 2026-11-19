@@ -1,0 +1,325 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:17:16+00:00",
+  "id": "dance-minor",
+  "name": "Dance Minor",
+  "title_on_page": "University Catalog",
+  "department": "Theatre And New Dance",
+  "department_id": "theatre-and-new-dance",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24255",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6339",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Dance Minor: 23 units Offered by: College of Letters, Arts, and Social Sciences , Theatre and New Dance Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 3 units DAN 2020 - World Dance and Cultures (3) [GE 3A] Minor Electives: 20 units Select from List of Technique Courses: 6 units DAN 2700A - Hip-Hop Dance Activity (2) DAN 2710A - Lyrical Jazz Dance Activity (2) DAN 2730A - Modern Contemporary Dance A Activity (2) DAN 2740A - Modern Contemporary Dance B Activity (2) DAN 2760A - Contemporary Ballet A Activity (2) DAN 2900A - Cultural Performance Series Activity (1) Select from List of Courses: 2 units DAN 2940A - Dance Production Activity (1) DAN 2950A - Site-Specific Performance Event Activity (1) DAN 2960A - New Dance Creative Projects/Community Engagement Activity (1) Select from List of Courses: 12 units DAN 3200 - Dance Improvisation (3) DAN 3400 - Dance Theatre (3) DAN 3600 - Performance Ensemble (2) and DAN 3600L - Performance Ensemble Laboratory (1) DAN 4300 - Choreography (2) and DAN 4300A - Choreography Activity (1) DAN 4460 - History of Dance and Its Artistic and Cultural Influences (3) [GE 3C] or DAN 4490 - Dance in Contemporary Culture (3) [GE 4C] Notes: Students enrolled in these program(s) may not declare this minor: Theatre, B.A. - Dance Theatre Subplan/Option: 120 units Students enrolled in these program(s) must meet with an advisor to ensure their minor coursework is distinct from their major coursework: Theatre, B.A. - Design and Technical Production Subplan/Option: 120 units Theatre, B.A. - General Theatre Subplan/Option: 120 units Theatre, B.A. - Theatre in Education and Community Engage",
+  "requirements": [
+    {
+      "name": "Minor Required: 3 units",
+      "courses": [
+        "DAN 2020"
+      ],
+      "raw_text": "Minor Required: 3 units"
+    },
+    {
+      "name": "Select from List of Technique Courses: 6 units",
+      "courses": [
+        "DAN 2700A",
+        "DAN 2710A",
+        "DAN 2730A",
+        "DAN 2740A",
+        "DAN 2760A",
+        "DAN 2900A"
+      ],
+      "raw_text": "Select from List of Technique Courses: 6 units"
+    },
+    {
+      "name": "Select from List of Courses: 2 units",
+      "courses": [
+        "DAN 2940A",
+        "DAN 2950A",
+        "DAN 2960A"
+      ],
+      "raw_text": "Select from List of Courses: 2 units"
+    },
+    {
+      "name": "Select from List of Courses: 12 units",
+      "courses": [
+        "DAN 3200",
+        "DAN 3400",
+        "DAN 3600"
+      ],
+      "raw_text": "Select from List of Courses: 12 units"
+    },
+    {
+      "name": "and",
+      "courses": [
+        "DAN 3600L",
+        "DAN 4300",
+        "DAN 4300A",
+        "DAN 4460"
+      ],
+      "raw_text": "and"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "DAN 4490"
+      ],
+      "raw_text": "or"
+    }
+  ],
+  "courses": [
+    {
+      "code": "DAN 2020",
+      "title": "World Dance and Cultures",
+      "units": "3",
+      "ge": "GE 3A",
+      "coid": "434969",
+      "requirement": "Minor Required: 3 units",
+      "description": "[GE 3A] Introduction to dance cultures of the world through movement experiences, lectures, videos of performances and cultures, reading and creative projects.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 2700A",
+      "title": "Hip-Hop Dance Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "435670",
+      "requirement": "Select from List of Technique Courses: 6 units",
+      "description": "Dance studio for the study and practice of Hip-Hop dance techniques and performance. May be taken unlimited times.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 2710A",
+      "title": "Lyrical Jazz Dance Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "435671",
+      "requirement": "Select from List of Technique Courses: 6 units",
+      "description": "Dance studio for the study and practice of lyrical jazz dance techniques and performance. May be taken unlimited times.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 2730A",
+      "title": "Modern Contemporary Dance A Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "435673",
+      "requirement": "Select from List of Technique Courses: 6 units",
+      "description": "Dance studio for the study and practice of modern contemporary dance techniques and performance. May be taken unlimited times.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 2740A",
+      "title": "Modern Contemporary Dance B Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "435674",
+      "requirement": "Select from List of Technique Courses: 6 units",
+      "description": "Dance studio for the study and practice of modern contemporary dance techniques and performance, focusing on the concepts of Laban Movement Fundamentals. May be taken unlimited times.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 2760A",
+      "title": "Contemporary Ballet A Activity",
+      "units": "2",
+      "ge": null,
+      "coid": "435675",
+      "requirement": "Select from List of Technique Courses: 6 units",
+      "description": "Dance studio for the study and practice of contemporary ballet techniques and performance. May be taken unlimited times.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 2900A",
+      "title": "Cultural Performance Series Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435678",
+      "requirement": "Select from List of Technique Courses: 6 units",
+      "description": "Dance studio for the study and practice of cultural dance forms, such as Ballroom, Belly Dance, Salsa, Swing, Tango and other forms. May be taken unlimited times.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 2940A",
+      "title": "Dance Production Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435679",
+      "requirement": "Select from List of Courses: 2 units",
+      "description": "Dance studio rehearsals, theatre technical rehearsals and performances for a dance concert production.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 2950A",
+      "title": "Site-Specific Performance Event Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435680",
+      "requirement": "Select from List of Courses: 2 units",
+      "description": "Dance studio rehearsals, site-specific technical rehearsals and performances for a site-specific production. May be repeated.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 2960A",
+      "title": "New Dance Creative Projects/Community Engagement Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "435681",
+      "requirement": "Select from List of Courses: 2 units",
+      "description": "Dance studio rehearsals as well as other processes for a creative project production and/or community engagement project. Dance and movement based projects that focus on community outreach, student/mentor relationships, internships and performing opportunities that engage local community groups.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 3200",
+      "title": "Dance Improvisation",
+      "units": "3",
+      "ge": null,
+      "coid": "435682",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Dance improvisational techniques used to develop resources for creative process, dance performance, movement awareness, creativity and compositional abilities. May be taken up to four times for a total credit of 12 units.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 3400",
+      "title": "Dance Theatre",
+      "units": "3",
+      "ge": null,
+      "coid": "437393",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Exploration of Dance Theatre, a creative process that utilizes choreographic and theatrical principles to integrate movement, text, performance practices and multimedia. Emphasis on concept creation and experimentation through the use of story, movement, improvisation and contemporary art approaches. May be taken up to three times for a total credit of 9 units.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 3600",
+      "title": "Performance Ensemble",
+      "units": "2",
+      "ge": null,
+      "coid": "435683",
+      "requirement": "Select from List of Courses: 12 units",
+      "description": "Application of dance techniques and creative process skills in the creation of choreographic works for performance at a variety of venues. Corequisite(s): DAN 360L or DAN 3600L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 3600L",
+      "title": "Performance Ensemble Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437705",
+      "requirement": "and",
+      "description": "Application of dance techniques and creative process skills in the creation of choreographic works for performance at a variety of venues. Corequisite(s): DAN 360 or DAN 3600 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 4300",
+      "title": "Choreography",
+      "units": "2",
+      "ge": null,
+      "coid": "435684",
+      "requirement": "and",
+      "description": "Study of the creative process of choreography and the art of making dances. Critical review of dance definitions and ideas, concepts of dance construction and communication and issues in art performance. Corequisite(s): DAN 4300A .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited limited to 6 units, with a maximum of 2 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 4300A",
+      "title": "Choreography Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "438953",
+      "requirement": "and",
+      "description": "Study of the creative process of choreography and the art of making dances. Critical review of dance definitions and ideas, concepts of dance construction and communication and issues in art performance. Corequisite(s): DAN 4300 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units, with a maximum of 1 unit per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 4460",
+      "title": "History of Dance and Its Artistic and Cultural Influences",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "434971",
+      "requirement": "and",
+      "description": "[GE 3C] Study of dance history and art history and how they influenced each other and reelected the culture and history of their time. Study of significant dance forms and performances, as well as fine art movements, artists and art work. Attention paid to their social, cultural and political context.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "DAN 4490",
+      "title": "Dance in Contemporary Culture",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434972",
+      "requirement": "or",
+      "description": "[GE 4C] Dance in contemporary culture takes a look at the historical, cultural and social references that dance makes in society and contemporary culture. This includes multicultural and festival trends, community arts, experimental or non-traditional theatre, dance and body culture, dance and the body politic, dance, race, and the objectified gaze, gender perspectives, multi-media experience and traditions emerging from pop culture, technology and other contemporary sources found in dance.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "DAN 2020",
+    "DAN 2700A",
+    "DAN 2710A",
+    "DAN 2730A",
+    "DAN 2740A",
+    "DAN 2760A",
+    "DAN 2900A",
+    "DAN 2940A",
+    "DAN 2950A",
+    "DAN 2960A",
+    "DAN 3200",
+    "DAN 3400",
+    "DAN 3600",
+    "DAN 3600L",
+    "DAN 4300",
+    "DAN 4300A",
+    "DAN 4460",
+    "DAN 4490"
+  ]
+}

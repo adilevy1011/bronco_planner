@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:10:13+00:00",
+  "id": "bilingual-authorization",
+  "name": "Bilingual Authorization",
+  "title_on_page": "University Catalog",
+  "department": "Education",
+  "department_id": "education",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24295",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6312",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Bilingual Authorization: 6 units https://www.cpp.edu/ceis/credential-program/credential-programs/bilingual-authorizations.shtml Offered by: College of Education and Integrative Studies, Education Department The Bilingual Authorization is an added authorization to a California teaching credential. A Bilingual Authorization allows teachers to teach in public schools’ bilingual programs, and so, develop students’ first and second languages in the subjects and grade levels authorized by their credentials. Teachers who have completed our Bilingual Program have an exceptional understanding of first and second language development and of culturally sustaining pedagogies. Bilingual teachers are in high demand in our region’s Dual Language Immersion programs. Many are also hired to teach, and provide expert support, to second language learners in the mainstream English programs. Our Bilingual Program is for Multiple Subject (Elementary) and Single Subject Credentials (all content-areas). We offer the Bilingual Authorization for Spanish, Mandarin, and Tagalog. We prepare Spanish bilingual teachers on-site at Cal Poly Pomona. Mandarin and Tagalog bilingual candidates take online courses in collaboration with CSU campuses through the CSU Asian Languages Bilingual Teacher Education Program (ALBTEP) Consortium. Our program has two pathways. The pre-credential pathway (for candidates who are concurrently earning a primary Multiple or Single Subject credential and a Bilingual Authorization), and the post-credential pathway (for teachers whose California credentials include English Learner Authorization). The application process and course of study for each pa",
+  "requirements": [
+    {
+      "name": "B. Coursework and Testing Requirements",
+      "courses": [
+        "EDU 5400"
+      ],
+      "raw_text": "B. Coursework and Testing Requirements"
+    }
+  ],
+  "courses": [
+    {
+      "code": "EDU 5400",
+      "title": "Teaching and Learning in Multilingual Classrooms (Spanish/ Filipino)",
+      "units": "3",
+      "ge": null,
+      "coid": "437106",
+      "requirement": "B. Coursework and Testing Requirements",
+      "description": "Bilingual teacher candidates apply the foundations of bilingual education methods, and of first and second language development for multilingual students. Learn to design quality instruction for Spanish/Filipino bilingual classrooms. Critically assess culturally sustaining practices with students, families, and communities. Course partially fulfills the requirements for the Bilingual Authorization (BilA) in Spanish or Filipino for Multiple and Single Subject teacher candidates. (Section 1 - Spanish; Section 2 - Filipino). May include up to 20 hours of fieldwork. This is a required course for Cal Poly Pomona’s Education Department’s Bilingual Program for teacher candidates obtaining the Bilingual Authorizations in Spanish or Filipino.",
+      "prerequisites": "Admitted to Multiple Subject or Single Subject Credential Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    }
+  ],
+  "department_course_codes": [
+    "EDU 5400"
+  ]
+}

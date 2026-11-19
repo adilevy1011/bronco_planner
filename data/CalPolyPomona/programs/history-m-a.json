@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:15:39+00:00",
+  "id": "history-m-a",
+  "name": "History, M.A.",
+  "title_on_page": "University Catalog",
+  "department": "History",
+  "department_id": "history",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24235",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6334",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog History, M.A.: 31 units Offered by: College of Letters, Arts, and Social Sciences , History Department Major Required | Major Electives | Culminating Experience | Program Website Major Required: 13 units HST 5540 - Readings in World History to 1500 (3) HST 5541 - Reading in World History from 1500 (3) HST 5544 - Advanced Digital Research Project in World History (1) or HST 5564 - Advanced Digital Research Project in United States History (1) HST 5560 - Readings in Early U.S. History (3) HST 5561 - Readings in Modern U.S. History (3) Major Electives: 15-17 units Graduate Level: - Choose at least 6 additional units of 5000- and 6000-level history courses, such as the following: HST 5501 - Advanced Graduate Methods (3) HST 5502 - Advanced Digital Research Project in History Methods (1) HST 5562 - Readings in California History (3) HST 5570 - Contemporary Historiography (3) HST 5571 - Digital Research Project in Historiography (1) Upper Division: - Choose 6 units of 3000- and 4000-level courses in History, Social Science, or Humanities Unrestricted: - Select a sufficient number of Upper Division or Graduate courses in History, Social Sciences, or Humanities so that the total units for the degree is 31. Culminating Experience: 1-3 units HST 6970 - Comprehensive Exam Preparation (1) or HST 6960 - Master’s Thesis (3) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 Ca",
+  "requirements": [
+    {
+      "name": "Major Required: 13 units",
+      "courses": [
+        "HST 5540",
+        "HST 5541",
+        "HST 5544"
+      ],
+      "raw_text": "Major Required: 13 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "HST 5564",
+        "HST 5560",
+        "HST 5561",
+        "HST 6960"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Graduate Level:",
+      "courses": [
+        "HST 5501",
+        "HST 5502",
+        "HST 5562",
+        "HST 5570",
+        "HST 5571"
+      ],
+      "raw_text": "Graduate Level:"
+    },
+    {
+      "name": "Culminating Experience: 1-3 units",
+      "courses": [
+        "HST 6970"
+      ],
+      "raw_text": "Culminating Experience: 1-3 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "HST 5540",
+      "title": "Readings in World History to 1500",
+      "units": "3",
+      "ge": null,
+      "coid": "435160",
+      "requirement": "Major Required: 13 units",
+      "description": "In-depth study and analysis of common themes, issues, and documents in world civilizations to 1500 CE.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 5541",
+      "title": "Reading in World History from 1500",
+      "units": "3",
+      "ge": null,
+      "coid": "435244",
+      "requirement": "Major Required: 13 units",
+      "description": "In-depth study and analysis of common themes, issues, and documents in world civilizations from 1500 to the present.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 5544",
+      "title": "Advanced Digital Research Project in World History",
+      "units": "1",
+      "ge": null,
+      "coid": "437903",
+      "requirement": "Major Required: 13 units",
+      "description": "Advanced research project in the world history using digital resources for research and presentation, under faculty supervision.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 5564",
+      "title": "Advanced Digital Research Project in United States History",
+      "units": "1",
+      "ge": null,
+      "coid": "437902",
+      "requirement": "or",
+      "description": "Advanced research project in United States history using digital resources for research and presentation, under faculty supervision.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 5560",
+      "title": "Readings in Early U.S. History",
+      "units": "3",
+      "ge": null,
+      "coid": "436746",
+      "requirement": "or",
+      "description": "In-depth graduate study and analysis of major themes, problems, and trends in U.S. history from Colonial times to the Civil War.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 5561",
+      "title": "Readings in Modern U.S. History",
+      "units": "3",
+      "ge": null,
+      "coid": "435245",
+      "requirement": "or",
+      "description": "In-depth graduate study and analysis of major subjects, themes, problems, and trends in U.S. history from 1877 to present.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 5501",
+      "title": "Advanced Graduate Methods",
+      "units": "3",
+      "ge": null,
+      "coid": "435159",
+      "requirement": "Graduate Level:",
+      "description": "Advanced historical research methods, including research in electronic databases and digital archives. Current historiographical approaches. Choosing a topic and the process of research, writing, annotating, and presenting the research.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 5502",
+      "title": "Advanced Digital Research Project in History Methods",
+      "units": "1",
+      "ge": null,
+      "coid": "437910",
+      "requirement": "Graduate Level:",
+      "description": "Advanced research project in the methods and theories of history using digital resources for research and presentation, under faculty supervision.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 5562",
+      "title": "Readings in California History",
+      "units": "3",
+      "ge": null,
+      "coid": "436713",
+      "requirement": "Graduate Level:",
+      "description": "Seminar in California history. Graduate level readings and analysis of major episodes and epochs of California history.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 5570",
+      "title": "Contemporary Historiography",
+      "units": "3",
+      "ge": null,
+      "coid": "435243",
+      "requirement": "Graduate Level:",
+      "description": "Close reading and analysis of recent trends in historiography, including social history, feminist and gender theory, cultural studies, post-colonial studies, post-structuralism, memory studies, transnational and entangled histories.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 5571",
+      "title": "Digital Research Project in Historiography",
+      "units": "1",
+      "ge": null,
+      "coid": "437911",
+      "requirement": "Graduate Level:",
+      "description": "Advanced research project in historiography using digital resources for research and/or presentation, under faculty supervision.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 6970",
+      "title": "Comprehensive Exam Preparation",
+      "units": "1",
+      "ge": null,
+      "coid": "436330",
+      "requirement": "Culminating Experience: 1-3 units",
+      "description": "Preparation for comprehensive exams. May be taken up to two times for a total credit of 2 units.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "HST 6960",
+      "title": "Master’s Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "436331",
+      "requirement": "or",
+      "description": "Research and writing the MA thesis under faculty supervision. Directed research.",
+      "prerequisites": "History graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": []
+}

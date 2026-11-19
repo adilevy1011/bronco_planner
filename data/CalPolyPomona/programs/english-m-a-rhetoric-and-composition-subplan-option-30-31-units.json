@@ -1,0 +1,364 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:14:39+00:00",
+  "id": "english-m-a-rhetoric-and-composition-subplan-option-30-31-units",
+  "name": "English, M.A. - Rhetoric and Composition Subplan/Option: 30-31 units",
+  "title_on_page": "University Catalog",
+  "department": "English And Modern Languages",
+  "department_id": "english-and-modern-languages",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24222",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6332",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog English, M.A. - Rhetoric and Composition Subplan/Option: 30-31 units Offered by: College of Letters, Arts, and Social Sciences , English and Modern Languages Department Major Required | Subplan/Option Required | Subplan/Option Electives | Culminating Experience | Notes | Program Website Major Required: 15 units ENG 5010 - Graduate Literary Research (3) or ENG 5100 - Rhetorical History and Methodology (3) or ENG 4230 - Teaching English to Speakers of Other Languages (3) ENG 5130 - Teaching Writing (3) ENG 5236 - Sociolinguistics (3) ENG 5368 - Multicultural Literatures in the U.S. (3) ENG 5400 - Professionalization Practicum (3) Subplan/Option Required: 9 units ENG 5110 - Theory and Practice of Modern Rhetoric (3) Rhetorical Approaches: 6 units Choose any two ENG 5131 - Pedagogies of Reading (3) ENG 5140 - Cultural Rhetorics (3) ENG 5141 - Feminist Rhetorics (3) ENG 5150 - Writing in the Disciplines (3) ENG 5151 - Rhetorical Dimensions of Literature (3) ENG 5152 - Digital Rhetoric and Literacy (3) ENG 5180 - Emerging Issues in Rhetoric and Composition (3) Subplan/Option Electives: 6 units Any combination of courses listed below will satisfy the required 6 units. Emphases are listed to provide guidance for helping students to choose courses of interest that best fit your career goals, but there is no requirement for choosing a specific emphasis for fulfilling these units. Literature Emphasis ENG 5010 - Graduate Literary Research (3) One literature course in the 5000, 5300, 5500, 5700, or 5800 series (3) TESOL Emphasis Choose two: ENG 4230 - Teaching English to Speakers of Other Languages (3) ENG 5231 - Grammar for TESOL (3) ENG 5232 - Teaching S",
+  "requirements": [
+    {
+      "name": "Major Required: 15 units",
+      "courses": [
+        "ENG 5010"
+      ],
+      "raw_text": "Major Required: 15 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "ENG 5100",
+        "ENG 4230",
+        "ENG 5130",
+        "ENG 5236",
+        "ENG 5368",
+        "ENG 5400",
+        "ENG 6970"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Subplan/Option Required: 9 units",
+      "courses": [
+        "ENG 5110"
+      ],
+      "raw_text": "Subplan/Option Required: 9 units"
+    },
+    {
+      "name": "Rhetorical Approaches: 6 units",
+      "courses": [
+        "ENG 5131",
+        "ENG 5140",
+        "ENG 5141",
+        "ENG 5150",
+        "ENG 5151",
+        "ENG 5152",
+        "ENG 5180"
+      ],
+      "raw_text": "Rhetorical Approaches: 6 units"
+    },
+    {
+      "name": "Literature Emphasis",
+      "courses": [
+        "ENG 5010"
+      ],
+      "raw_text": "Literature Emphasis"
+    },
+    {
+      "name": "TESOL Emphasis",
+      "courses": [
+        "ENG 4230",
+        "ENG 5231",
+        "ENG 5232",
+        "ENG 5235"
+      ],
+      "raw_text": "TESOL Emphasis"
+    },
+    {
+      "name": "Culminating Experience: 1-3 units",
+      "courses": [
+        "ENG 6960"
+      ],
+      "raw_text": "Culminating Experience: 1-3 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ENG 5010",
+      "title": "Graduate Literary Research",
+      "units": "3",
+      "ge": null,
+      "coid": "435339",
+      "requirement": "Major Required: 15 units",
+      "description": "Practical instruction in literary studies, including advanced skills in reading, writing, researching, theory, citing, formatting, editing, and presenting. How to enter the academic community and how such skills translate outside higher education.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5100",
+      "title": "Rhetorical History and Methodology",
+      "units": "3",
+      "ge": null,
+      "coid": "435275",
+      "requirement": "or",
+      "description": "History of rhetoric from pre-classical times through the eighteenth century; the interplay of theory and practice in this history.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 4230",
+      "title": "Teaching English to Speakers of Other Languages",
+      "units": "3",
+      "ge": null,
+      "coid": "436767",
+      "requirement": "or",
+      "description": "The study of teaching English in international language settings, including EFL methodology, cultural issues, necessary skill sets, practical issues, with classroom teaching opportunities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5130",
+      "title": "Teaching Writing",
+      "units": "3",
+      "ge": null,
+      "coid": "435279",
+      "requirement": "or",
+      "description": "Topics in pedagogical and theoretical perspectives. Methods for helping basic writing students to master writing and reading processes. Strategies for integrating recent research on composing into a course or curriculum in basic writing/first-year composition.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5236",
+      "title": "Sociolinguistics",
+      "units": "3",
+      "ge": null,
+      "coid": "438984",
+      "requirement": "or",
+      "description": "The investigation of relations between linguistic phenomena and social organization. Focus on central theoretical approaches to sociolinguistics developed over the last forty years. Topics covered, inter alia, multilingualism, language and social categories, critical sociolinguistics, and sociolinguistic methods in literary studies.",
+      "prerequisites": "Graduate standing or consent of instructor required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5368",
+      "title": "Multicultural Literatures in the U.S.",
+      "units": "3",
+      "ge": null,
+      "coid": "435346",
+      "requirement": "or",
+      "description": "Survey of selected authors and topics in African-American, Asian-American, Mexican-American and Native-American literatures. Emphasis on comparative analysis to highlight the literary, cultural, and sociopolitical implications of these works.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5400",
+      "title": "Professionalization Practicum",
+      "units": "3",
+      "ge": null,
+      "coid": "437620",
+      "requirement": "or",
+      "description": "Engage and participate in professional activities, i.e., symposia, internships, community projects under faculty direction.",
+      "prerequisites": "Graduate standing and consent of English Graduate Coordinator.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "ENG 5110",
+      "title": "Theory and Practice of Modern Rhetoric",
+      "units": "3",
+      "ge": null,
+      "coid": "435277",
+      "requirement": "Subplan/Option Required: 9 units",
+      "description": "Readings in rhetorical theory since the eighteenth century, with reference to its relevance in public written discourse and other relevant applications.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5131",
+      "title": "Pedagogies of Reading",
+      "units": "3",
+      "ge": null,
+      "coid": "435280",
+      "requirement": "Rhetorical Approaches: 6 units",
+      "description": "Developmental, historical and theoretical approaches to teaching reading. Designing integrated reading and writing assignments based on expository, persuasive, and literary texts.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5140",
+      "title": "Cultural Rhetorics",
+      "units": "3",
+      "ge": null,
+      "coid": "438993",
+      "requirement": "Rhetorical Approaches: 6 units",
+      "description": "Connections among rhetoric, literacy, language, and identity, including the rhetorical nature of embodiment and what identities, populations, backgrounds, and abilities are in/excluded from such discussions. Course focus may emphasize specific identity markers (such as working class, gender, African American, Latinx, dis/ability, sexuality) but will encourage students to explore intersections among complex identities.",
+      "prerequisites": "Graduate standing or consent of instructor required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5141",
+      "title": "Feminist Rhetorics",
+      "units": "3",
+      "ge": null,
+      "coid": "438994",
+      "requirement": "Rhetorical Approaches: 6 units",
+      "description": "Readings in the history of women rhetors and feminist rhetorical theories, with reference to feminist praxis and relevance to public discourse and pedagogy.",
+      "prerequisites": "Graduate standing or consent of instructor required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5150",
+      "title": "Writing in the Disciplines",
+      "units": "3",
+      "ge": null,
+      "coid": "435281",
+      "requirement": "Rhetorical Approaches: 6 units",
+      "description": "Theory of and research in Writing Across the Curriculum and Writing in the Disciplines and technical writing. Inquiry into writing practices in engineering, science, math, and business at Cal Poly. Application of principles of rhetorical and genre studies.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5151",
+      "title": "Rhetorical Dimensions of Literature",
+      "units": "3",
+      "ge": null,
+      "coid": "435276",
+      "requirement": "Rhetorical Approaches: 6 units",
+      "description": "Examination of converging theories and practices focused on the rhetorical nature of literature and literary study: emphasis on a coherent understanding of the relations between rhetorical and literary disciplines.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "ENG 5152",
+      "title": "Digital Rhetoric and Literacy",
+      "units": "3",
+      "ge": null,
+      "coid": "437844",
+      "requirement": "Rhetorical Approaches: 6 units",
+      "description": "Application of rhetorical principles to digital writing spaces facilitated by computer technology and the Internet. Teaching and writing in digital, multimodal environments.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5180",
+      "title": "Emerging Issues in Rhetoric and Composition",
+      "units": "3",
+      "ge": null,
+      "coid": "435278",
+      "requirement": "Rhetorical Approaches: 6 units",
+      "description": "Intensive study of a topic or figure of special interest to advanced students. May be repeated for credit with a different content.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 9 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5231",
+      "title": "Grammar for TESOL",
+      "units": "3",
+      "ge": null,
+      "coid": "435376",
+      "requirement": "TESOL Emphasis",
+      "description": "Survey of the grammatical features of English relevant to the teaching of English as a second or foreign language. Participants learn about the approaches to teaching grammar and develop instructional strategies for ESL classrooms.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5232",
+      "title": "Teaching Second Language Writing",
+      "units": "3",
+      "ge": null,
+      "coid": "435378",
+      "requirement": "TESOL Emphasis",
+      "description": "Topics in pedagogical and theoretical perspectives. Methods for helping nonnative-speaking students master the requirements of basic and academic writing in their second language (L2). Strategies for integrating recent research on second-language writing in classes on L2 writing skills.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall (odd years)"
+    },
+    {
+      "code": "ENG 5235",
+      "title": "Practicum in Teaching ESL",
+      "units": "3",
+      "ge": null,
+      "coid": "435379",
+      "requirement": "TESOL Emphasis",
+      "description": "Synthesizes TESL studies through practical applications across student levels and diverse populations. Includes curriculum analysis and design, textbook and material selection, professional development, TESOL methodology, classroom observations, materials preparation, supported teaching practice, second-language literacy projects, and assessment issues and techniques.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "435327",
+      "requirement": "Culminating Experience: 1-3 units",
+      "description": "An analytical study, using critical sources and/or theory, on a topic chosen by the student in consultation with the graduate coordinator in English. The student undertakes this study, under the direction of a thesis committee, as the culminating project of the graduate program. May be taken up to two times for a total credit of 6 units. *The enforcement of the Graduation Writing Assessment Requirement has been temporarily suspended per a Chancellor’s Office memorandum.",
+      "prerequisites": "English Graduate Coordinator Permission and GWT*.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 6970",
+      "title": "Comprehensive Examination",
+      "units": "1",
+      "ge": null,
+      "coid": "435328",
+      "requirement": "or",
+      "description": "An examination on areas of special concentration in English as determined by the student in consultation with the graduate coordinator in English and other graduate faculty. Failure to complete exam satisfactorily the second time will result in termination from the program. Maybe taken up to two times for a total credit of 2 units.",
+      "prerequisites": "English Graduate Coordinator Permission.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "ENG 4230"
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:08:23+00:00",
+  "id": "agriculture-m-s-nutrition-and-food-science-subplan-option",
+  "name": "Agriculture, M.S. - Nutrition and Food Science Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Nutrition And Food Science",
+  "department_id": "nutrition-and-food-science",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24120",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6302",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Agriculture, M.S. - Nutrition and Food Science Subplan/Option: 30 units Offered by: Don B. Huntley College of Agriculture , Nutrition and Food Science Department Major Required | Subplan/Option Required | Subplan/Option Electives | Culminating Experience | Notes | Program Website Major Required: 9 units AG 5100 - Introduction to Graduate Research in the Agricultural Sciences (3) AG 5200 - Research Design and Data Analysis for Agriculture (3) AG 5300 - Research Proposal (3) Subplan/Option Required: 5 units FST 6910 - Directed Research (1-3) (3 units required) or FST 6940 - Thesis Research (1-3) (3 units required) or NTR 6910 - Directed Research (1-3) (3 units required) or NTR 6940 - Thesis Research (1-3) (3 units required) NTR 6930 - Proposal Defense Presentation (2) Subplan/Option Electives: 14 units Any combination of courses listed below will satisfy the required 14 units. Emphases are listed to provide guidance for helping students to choose courses of interest that best fit your career goals, but there is no requirement for choosing a specific emphasis for fulfilling these units. Food Science Emphasis: 14 units Recommended: 5 units FST 5251 - Advanced Topics in Food Science and Technology (3) FST 5700 - Seminar in Food Science andTechnology (2) Other: 9 units FST/NTR 4XXX (3-9) FST/NTR 5XXX (3-9) Nutrition Emphasis: 14 units Recommended: 6 units NTR 5250 - A Life Course Approach to Nutrition Disease Prevention, and Treatment (3) NTR 5950 - Leadership and Entrepreneurship in Nutrition (3) Other: 8 units FST/NTR 4XXX (3-9) FST/NTR 5XXX (3-9) Culminating Experience: 2 units FST 6950 - Master’s Project Defense (2) or FST 6960 - Master’s Thesis",
+  "requirements": [
+    {
+      "name": "Major Required: 9 units",
+      "courses": [
+        "AG 5100",
+        "AG 5200",
+        "AG 5300"
+      ],
+      "raw_text": "Major Required: 9 units"
+    },
+    {
+      "name": "Subplan/Option Required: 5 units",
+      "courses": [
+        "FST 6910"
+      ],
+      "raw_text": "Subplan/Option Required: 5 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "FST 6940",
+        "NTR 6910",
+        "NTR 6940",
+        "NTR 6930",
+        "FST 6960",
+        "NTR 6950",
+        "NTR 6960"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Recommended: 5 units",
+      "courses": [
+        "FST 5251",
+        "FST 5700"
+      ],
+      "raw_text": "Recommended: 5 units"
+    },
+    {
+      "name": "Recommended: 6 units",
+      "courses": [
+        "NTR 5250",
+        "NTR 5950"
+      ],
+      "raw_text": "Recommended: 6 units"
+    },
+    {
+      "name": "Culminating Experience: 2 units",
+      "courses": [
+        "FST 6950"
+      ],
+      "raw_text": "Culminating Experience: 2 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AG 5100",
+      "title": "Introduction to Graduate Research in the Agricultural Sciences",
+      "units": "3",
+      "ge": null,
+      "coid": "436983",
+      "requirement": "Major Required: 9 units",
+      "description": "Principles, tools and techniques used in scientific research as applied to the agricultural sciences. Topics will include the development of literature reviews and annotated bibliographies, appropriate literature citation, online research methods and sources, the identification and definition of a research topic and its rationale. Readings, discussions, computer applications, and research.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 5200",
+      "title": "Research Design and Data Analysis for Agriculture",
+      "units": "3",
+      "ge": null,
+      "coid": "438938",
+      "requirement": "Major Required: 9 units",
+      "description": "Introduction and application of different statistic methods required for the graduate research such as regression, correlation, one and two-way ANOVA with post-hoc tests, Chi-square, and SAS. The basics of design of experiments, such as least factorial design of experiments, hypothesis testing, mean comparisons, regressions and multivariate statistical analysis.",
+      "prerequisites": "Graduate standing or consent of instructor.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AG 5300",
+      "title": "Research Proposal",
+      "units": "3",
+      "ge": null,
+      "coid": "437909",
+      "requirement": "Major Required: 9 units",
+      "description": "The format and content of research proposals and scientific communication culminating with the student’s Master’s thesis research proposal. The student will develop the justification and rationale for the research through a focused review, will develop hypotheses and experimental approaches for testing each hypothesis. Learn to communicate the scientific content of their thesis research to scientists and effectively communicate the same to lay audiences. This will be accomplished through written assignments and PowerPoint presentations.",
+      "prerequisites": "AG 500 or AG 5100 ; and thesis research project chosen.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "FST 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438384",
+      "requirement": "Subplan/Option Required: 5 units",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "FST 6940",
+      "title": "Thesis Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "439495",
+      "requirement": "or",
+      "description": "Dual Listed as: NTR 6940 Individual research in an area of specialization conducted as part of the preparation for writing a thesis under the direction of graduate faculty.",
+      "prerequisites": "Instructor consent required. Pre or Corequisite(s): NTR 6930 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 4 units.",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438641",
+      "requirement": "or",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 6940",
+      "title": "Thesis Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "435741",
+      "requirement": "or",
+      "description": "Individual research in an area of specialization conducted as part of the preparation for writing a thesis under the direction of graduate faculty.",
+      "prerequisites": "Instructor consent. Pre or Corequisite(s): NTR 6930 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Maximum of 4 units.",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 6930",
+      "title": "Proposal Defense Presentation",
+      "units": "2",
+      "ge": null,
+      "coid": "435740",
+      "requirement": "or",
+      "description": "A public oral presentation and discussion of a written proposed research plan for the master’s thesis. Required for Advancement to Candidacy. Unconditional standing required. Required for Advancement to Candidacy. Required for Advancement to Candidacy. Corequisite(s): AG 5300 .",
+      "prerequisites": "Graduate Advisor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FST 5251",
+      "title": "Advanced Topics in Food Science and Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "437831",
+      "requirement": "Recommended: 5 units",
+      "description": "Presentations by professionals on selected topics, specifically on current and emerging developments in food chemistry, food physics, toxicology, food engineering and processing technologies, food microbiology and safety, sensory evaluation, physicochemical and nutritive qualities of foods.",
+      "prerequisites": "Graduate Standing and Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": ""
+    },
+    {
+      "code": "FST 5700",
+      "title": "Seminar in Food Science andTechnology",
+      "units": "2",
+      "ge": null,
+      "coid": "435758",
+      "requirement": "Recommended: 5 units",
+      "description": "Study of selected topics in food science. Each seminar will be subtitled to describe its emphasis. Training through peer-reviewing process to become an author to publish their manuscripts in a mock scientific journal. May be taken up to two times, only with different topics, for a total credit of 4 units.",
+      "prerequisites": "Graduate standing and Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 5250",
+      "title": "A Life Course Approach to Nutrition Disease Prevention, and Treatment",
+      "units": "3",
+      "ge": null,
+      "coid": "439539",
+      "requirement": "Recommended: 6 units",
+      "description": "Discuss developmental physiology and cellular growth and differentiation from pre-conception to old age interact with the etiology and prevention of disease. Focus on a life-course approach to life-long influences on the development of disease and evidence-based treatment. Pathophysiology of selected medical problems throughout the lifecycle with specific attention to nutrition needs and treatment as part of evidence-based practice. Advanced clinical nutrition applications in acute and chronic diseases and review of the nutritionally relevant chronic diseases with aging. Oral presentation and discussion of the scientific literature related to the life cycle. Acute and chronic disease conditions throughout the lifecycle will be explored through lectures, case discussions, assigned readings, programmed learning guides, and class presentations. Topics include, but are not limited to: critical thinking, pediatric nutrition, clinical basis of disease processes, and medical, surgical, and diet therapies for acute and chronic disease in adults and pediatrics, enteral and parenteral nutrition, malnutrition and high-risk conditions including cardiovascular, pulmonary, renal and liver disease, critical care, HIV/AIDS, and oncology. Corequisite(s): Admission into the MS in Applied Nutrition program.",
+      "prerequisites": "NTR 4440 , NTR 5240 , or consent of instructor. A background or experience in biochemistry, nutrition, and metabolism is recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "NTR 5950",
+      "title": "Leadership and Entrepreneurship in Nutrition",
+      "units": "3",
+      "ge": null,
+      "coid": "439538",
+      "requirement": "Recommended: 6 units",
+      "description": "Explore the qualifications of leadership and entrepreneurship within the field of Nutrition. Will involve case study reviews and practical application to prepare students for leadership positions and possible development of nutrition-related businesses. Corequisite(s): Admission into the MS in Applied Nutrition program.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "FST 6950",
+      "title": "Master’s Project Defense",
+      "units": "2",
+      "ge": null,
+      "coid": "442806",
+      "requirement": "Culminating Experience: 2 units",
+      "description": "For Master’s Degree Project students. Develop and present a project in acceptable written and oral form based on the project proposal, plan, and schedule approved by the assigned advisor. Regular meetings and discussions with the advisor are required. Credit is assigned upon acceptance and approval of a completed project.",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "FST 6960",
+      "title": "Master’s Thesis Defense",
+      "units": "2",
+      "ge": null,
+      "coid": "439496",
+      "requirement": "or",
+      "description": "Dual Listed as: NTR 6960 Compilation of data culminating in the summarizing and reporting, in thesis form, of independent supervised research.",
+      "prerequisites": "Advancement to Candidacy required ( NTR 6930 ), graduate standing, and consent of instructor required. Pre or Corequisite(s): NTR 6940 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "NTR 6950",
+      "title": "Capstone Project - Presentation",
+      "units": "1-3",
+      "ge": null,
+      "coid": "442805",
+      "requirement": "or",
+      "description": "In coordination with faculty and/or internship sites, conduct independent research leading to the design, development and completion of a terminal project that demonstrates the skills and knowledge achieved in the graduate program.",
+      "prerequisites": "Completion of all courses during year one of program including successful completion of NTR 6945 and overall GPA of 3.0 or higher in graduate courses.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "NTR 6960",
+      "title": "Master’s Thesis Defense",
+      "units": "2",
+      "ge": null,
+      "coid": "435743",
+      "requirement": "or",
+      "description": "Compilation of data culminating in the summarizing and reporting, in thesis form, of independent supervised research. Advancement to Candidacy required ( NTR 6930 ).",
+      "prerequisites": "Graduate standing and Instructor consent. Pre or Corequisite(s): NTR 6940 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "FST 5251",
+    "FST 5700",
+    "FST 6910",
+    "FST 6940",
+    "FST 6950",
+    "FST 6960"
+  ]
+}

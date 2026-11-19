@@ -1,0 +1,577 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:15:23+00:00",
+  "id": "anthropology-b-s-archaeology-subplan-option",
+  "name": "Anthropology, B.S. - Archaeology Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Geography And Anthropology",
+  "department_id": "geography-and-anthropology",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24315",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6333",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Anthropology, B.S. - Archaeology Subplan/Option: 120 units Offered by: College of Letters, Arts, and Social Sciences , Geography and Anthropology Department Major Required | Subplan/Option Required | Unrestricted Electives | Notes | Graduation Requirements | Roadmap 4-year | Roadmap 2-year AS-T | Program Website Major Required: 33 units Introductory: 12 units ANT 1010 - Introduction to Biological Anthropology (3) [GE 5B] ANT 1020 - Introduction to Cultural Anthropology (3) [GE 4A] or ANT 1120 - World Cultures via the Internet (3) [GE 3B] ANT 1030 - Introduction to Archaeology and World Prehistory (3) ANT 1040 - Introduction to Linguistic Anthropology (3) [GE 3B] Archaeology Subfield: 3 units ANT 3220 - North American Archaeology (3) * or ANT 3250 - California Archaeology (3) * or ANT 3270 - The Ancient and Contemporary Maya (3) * or ANT 4150 - Bioarchaeology (3) * or ANT 4750 - The Aztec: Art, Religion and Society (3) * Biological Anthropology Subfield: 3 units ANT 3400 - Comparative Primatology (2) and ANT 3400L - Comparative Primatology Laboratory (1) OR ANT 3450 - Human Evolution and Diversity (2) * and ANT 3450L - Human Evolution and Diversity Laboratory (1) * OR ANT 4910 - Forensic Anthropology (3) [GE 5D] Cultural Anthropology Subfield: 3 units ANT 3500 - Environment, Technology and Culture (3) [GE 4C or 5D] * or ANT 3520 - Anthropology of Globalization and Development (3) or ANT 3600 - Magic, Shamanism, and Religion (3) [GE 3C or 4C] or ANT 3790 - Culture Areas of the World (3) [GE 4C] or ANT 4050 - Anthropology of Gender (3) [GE 3C or 4C] Linguistic Anthropology Subfield: 3 units ANT 3530 - Language and Culture (3) [GE 3C] Capstone and",
+  "requirements": [
+    {
+      "name": "Introductory: 12 units",
+      "courses": [
+        "ANT 1010",
+        "ANT 1020"
+      ],
+      "raw_text": "Introductory: 12 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "ANT 1120",
+        "ANT 1030",
+        "ANT 1040",
+        "ANT 3250",
+        "ANT 3270",
+        "ANT 4150",
+        "ANT 4750",
+        "ANT 3520",
+        "ANT 3600",
+        "ANT 3790",
+        "ANT 4050"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Archaeology Subfield: 3 units",
+      "courses": [
+        "ANT 3220"
+      ],
+      "raw_text": "Archaeology Subfield: 3 units"
+    },
+    {
+      "name": "Biological Anthropology Subfield: 3 units",
+      "courses": [
+        "ANT 3400"
+      ],
+      "raw_text": "Biological Anthropology Subfield: 3 units"
+    },
+    {
+      "name": "and",
+      "courses": [
+        "ANT 3400L",
+        "ANT 3450L",
+        "ANT 3940",
+        "ANT 3940L",
+        "ANT 3950",
+        "ANT 3950L",
+        "ANT 3970"
+      ],
+      "raw_text": "and"
+    },
+    {
+      "name": "OR",
+      "courses": [
+        "ANT 3450",
+        "ANT 4910"
+      ],
+      "raw_text": "OR"
+    },
+    {
+      "name": "Cultural Anthropology Subfield: 3 units",
+      "courses": [
+        "ANT 3500"
+      ],
+      "raw_text": "Cultural Anthropology Subfield: 3 units"
+    },
+    {
+      "name": "Linguistic Anthropology Subfield: 3 units",
+      "courses": [
+        "ANT 3530"
+      ],
+      "raw_text": "Linguistic Anthropology Subfield: 3 units"
+    },
+    {
+      "name": "Capstone and Mastery: 9 units",
+      "courses": [
+        "ANT 4300W",
+        "ANT 4610",
+        "ANT 4800"
+      ],
+      "raw_text": "Capstone and Mastery: 9 units"
+    },
+    {
+      "name": "Subplan/Option Required: 12 units",
+      "courses": [
+        "ANT 3220"
+      ],
+      "raw_text": "Subplan/Option Required: 12 units"
+    },
+    {
+      "name": "*",
+      "courses": [
+        "ANT 3250",
+        "ANT 3270",
+        "ANT 3450",
+        "ANT 4100",
+        "ANT 4150",
+        "ANT 4750",
+        "ANT 4910",
+        "ANT 4990"
+      ],
+      "raw_text": "*"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 3003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ANT 1010",
+      "title": "Introduction to Biological Anthropology",
+      "units": "3",
+      "ge": "GE 5B",
+      "coid": "435021",
+      "requirement": "Introductory: 12 units",
+      "description": "[GE 5B] Human biology and behavior. The evolution of the human species as an adaptive biological process. Human ecology in evolutionary perspective. Human growth, development, and diversity. The evolution and behavior of non-human primates. 3 hours lecture/discussion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 1020",
+      "title": "Introduction to Cultural Anthropology",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434968",
+      "requirement": "Introductory: 12 units",
+      "description": "[GE 4A] The nature of culture and cultural phenomena; comparative social, economic and political organization; religion and value systems of non-literate and folk peoples; cultural and psychological processes in the development of personality; expressive aspects of culture; applied anthropology. Anthropological uses for understanding complex contemporary societies. 3 hours lecture/discussion.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 1120",
+      "title": "World Cultures via the Internet",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "434973",
+      "requirement": "or",
+      "description": "[GE 3B] Introduction to anthropology and world cultures. Guided exploration of the peoples of the world through the medium of the Internet. Web sites demonstrating key anthropological principles. Culture theory, history, diversity and integration; cultural structure and function, cultural relativity; environmental adaptation.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 1030",
+      "title": "Introduction to Archaeology and World Prehistory",
+      "units": "3",
+      "ge": null,
+      "coid": "435991",
+      "requirement": "or",
+      "description": "Basic methods of archaeological reconstruction and interpretation. Survey of human cultural and technological development from the first appearance of humans to the beginning of urban lifeways and the formation of world civilizations. 3 hours lecture/problem-solving.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 1040",
+      "title": "Introduction to Linguistic Anthropology",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "435016",
+      "requirement": "or",
+      "description": "[GE 3B] Origins and development of oral and written language; speech anatomy, language and the brain. Overview of the structure of language, relationships between language and culture, literature and other communicative forms. Variation in language; history and classification of the world’s languages. Critical use of language (reading and writing). 4 hours lecture/problem-solving.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3220",
+      "title": "North American Archaeology",
+      "units": "3",
+      "ge": null,
+      "coid": "435992",
+      "requirement": "Archaeology Subfield: 3 units",
+      "description": "Survey of prehistoric cultural development in North America by synthesizing data recovered through excavations with the ethnographic record. Emphasizes interdisciplinary application to archaeological interpretation and importance of critical thinking in archaeological method and theory. Extensive student presentations and research.",
+      "prerequisites": "ANT 1030 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3250",
+      "title": "California Archaeology",
+      "units": "3",
+      "ge": null,
+      "coid": "435993",
+      "requirement": "or",
+      "description": "Survey of prehistoric and early historic cultural development in California by synthesizing data recovered through excavations with the ethnographic record. Emphasizes interdisciplinary application to archaeological interpretation and importance of critical thinking in archaeological method and theory. Extensive student presentations and research.",
+      "prerequisites": "ANT 1030 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3270",
+      "title": "The Ancient and Contemporary Maya",
+      "units": "3",
+      "ge": null,
+      "coid": "435994",
+      "requirement": "or",
+      "description": "Regional archaeology, ethnohistory, and ethnography of Southeastern Mesoamerica, a region comprised of the Southeastern portion of modern Mexico, Guatemala, Honduras, Belize and El Salvador. Focus on the ancient Maya people, their origins, writing, cities, and political, economic and cultural accomplishments from about 2000 BCE until the present.",
+      "prerequisites": "ANT 1030 and GE Area 4A/D1/4B/D2; or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 4150",
+      "title": "Bioarchaeology",
+      "units": "3",
+      "ge": null,
+      "coid": "439312",
+      "requirement": "or",
+      "description": "Survey of bioarchaeology and mortuary archaeology. Overview mortuary practices and daily life from Neolithic to present day as understood from bioarchaeological remains. Variation and diversity in human experiences of age, gender, sexuality, disability, race, ethnicity, class, and religion across the life course emphasized.",
+      "prerequisites": "ANT 1010 or GE Area 5B/B2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 4750",
+      "title": "The Aztec: Art, Religion and Society",
+      "units": "3",
+      "ge": null,
+      "coid": "436003",
+      "requirement": "or",
+      "description": "A detailed look at the Aztec civilization of Post classic (1250-1521) Central Mexico, through and analysis of art, primary documents, and archaeological sources. Discussion of theoretical themes such as social organization, gender roles, political economy, empire, warfare and religion. Student research and presentations.",
+      "prerequisites": "Lower Div GE area A; or ANT 1030 or ANT 3790 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3400",
+      "title": "Comparative Primatology",
+      "units": "2",
+      "ge": null,
+      "coid": "436310",
+      "requirement": "Biological Anthropology Subfield: 3 units",
+      "description": "Multimedia exploration of the Primates, Bio-social traits, distribution, range of variation, and evolutionary background of prosimians, New World monkeys, Old world monkeys, apes, and humans. Humans in a comparative primate perspective. 2 hours lecture/discussion. Corequisite(s): ANT 3400L .",
+      "prerequisites": "ANT 1010 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3400L",
+      "title": "Comparative Primatology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437424",
+      "requirement": "and",
+      "description": "Multimedia exploration of the Primates, Bio-social traits, distribution, range of variation, and evolutionary background of prosimians, New World monkeys, Old world monkeys, apes, and humans. Humans in a comparative primate perspective. 3 hours laboratory. Corequisite(s): ANT 3400 .",
+      "prerequisites": "ANT 1010 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3450",
+      "title": "Human Evolution and Diversity",
+      "units": "2",
+      "ge": null,
+      "coid": "436311",
+      "requirement": "OR",
+      "description": "Origins, evolution, and differentiation of the human species. Critical examination of the varying theories concerning the fossil record of human evolution and the origins and development of the modern major racial groups. Analysis of modern biological date relevant to these theories. 2 hours lecture/discussion. Corequisite(s): ANT 3450L .",
+      "prerequisites": "Junior or Senior Standing; and ANT 1010 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3450L",
+      "title": "Human Evolution and Diversity Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437409",
+      "requirement": "and",
+      "description": "Origins, evolution, and differentiation of the human species. Critical examination of the varying theories concerning the fossil record of human evolution and the origins and development of the modern major racial groups. Analysis of modern biological date relevant to these theories. Corequisite(s): ANT 3450 .",
+      "prerequisites": "ANT 1010 or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 4910",
+      "title": "Forensic Anthropology",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "434978",
+      "requirement": "OR",
+      "description": "[GE 5D] Theory and techniques of forensic science. Instruction in human anatomy, osteology, and dentition; tools of anthropometry, facial reconstruction. Visiting experts in field applications (autopsies, crime scene analysis, criminal profiling, mortuary practices). Analysis in paleodemography, epidemiology.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3500",
+      "title": "Environment, Technology and Culture",
+      "units": "3",
+      "ge": "GE 4C or 5D",
+      "coid": "434974",
+      "requirement": "Cultural Anthropology Subfield: 3 units",
+      "description": "[GE 4C or 5D] Student focused investigation of the interrelationships between a society’s subsistence and economic systems, level of socio-cultural development, and the natural and social environment inhabited. Tools and techniques utilized by particular societies in their exploitation of their surroundings.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3520",
+      "title": "Anthropology of Globalization and Development",
+      "units": "3",
+      "ge": null,
+      "coid": "436203",
+      "requirement": "or",
+      "description": "Applied anthropology; socio-cultural change and the phenomena of ‘modernization’ and globalization throughout the non-Western world. Emphasis on processes and institutional adaptations relating to evolving economic, social, and political activities in a variety of cultures. Spread of Western science and technology as drivers of development. Dynamic nature of culture and cultural sub-systems as viewed from a developmental perspective. This course is primarily designed for Anthropology majors in the General Anthropology option. It is also part of the Science, Technology and Society curriculum. All others are also welcome. This course is primarily designed for Anthropology majors in the General Anthropology option. It is also part of the Science, Technology and Society curriculum. All others are also welcome.",
+      "prerequisites": "ANT 1020 , Lower Division GE Area D, or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3600",
+      "title": "Magic, Shamanism, and Religion",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "434976",
+      "requirement": "or",
+      "description": "[GE 3C or 4C] Cross-cultural comparison of religion through time, and in societies of varying complexity. Anthropological theories of origin, syncretism, and interrelation of religion with other components of culture. Religion as a response to human intellectual and emotional needs.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3790",
+      "title": "Culture Areas of the World",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434977",
+      "requirement": "or",
+      "description": "[GE 4C] Ethnographic and ethno-historical survey of selected cultural areas depending on available faculty specialization. Analysis of contemporary as well as traditional societies through ethnographic documents and first-hand field data. ANT 3790 Culture area topics currently taught: Africa; East Asia; Meso-America; Middle East; Pacific Islands. May be taught in future: Europe; South Asia. Course may be used to fulfill Anthropology Major Elective Support and Anthropology Minor Upper Division. May be taken up to two times for a total credit of 6 units. ANT 3790 Culture area topics currently taught: Africa; East Asia; Meso-America; Middle East; Pacific Islands. May be taught in future: Europe; South Asia. Course may be used to fulfill Anthropology Major Elective Support and Anthropology Minor Upper Division.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 4050",
+      "title": "Anthropology of Gender",
+      "units": "3",
+      "ge": "GE 3C or 4C",
+      "coid": "435023",
+      "requirement": "or",
+      "description": "[GE 3C or 4C] Interdisciplinary cross-cultural examination of gender. Includes anthropology of men and women; role and status; culture and personality; expression and behavior; past and future trends in relationships. Student research and presentations.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3530",
+      "title": "Language and Culture",
+      "units": "3",
+      "ge": "GE 3C",
+      "coid": "434975",
+      "requirement": "Linguistic Anthropology Subfield: 3 units",
+      "description": "[GE 3C] Seminar on human communication in sociocultural context. Topics explored include nonverbal communication, dialects and social variation in speech communities; pidgins and creoles, multilingualism, language planning, language and socialization of children, ethnographic semantics, social interaction and communicative ritual, inter-cultural communication.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 4300W",
+      "title": "Archaeological Method and Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "436001",
+      "requirement": "Capstone and Mastery: 9 units",
+      "description": "Introduction to problem formulation and methods of analysis in archaeology, both qualitative and quantitative. Review of theoretical trends in archaeology, from a current and historic perspective. Development and implementation of research designs and sampling strategies. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "ANT 1030 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "ANT 4610",
+      "title": "Senior Capstone",
+      "units": "3",
+      "ge": null,
+      "coid": "436272",
+      "requirement": "Capstone and Mastery: 9 units",
+      "description": "Guided capstone experience with discussion meetings. Discussion of problems or issues graduates may encounter in their chosen fields of employment. Summary portfolio and written report required.",
+      "prerequisites": "ANT major and Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 4800",
+      "title": "History of Anthropological Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "436004",
+      "requirement": "Capstone and Mastery: 9 units",
+      "description": "Chronological investigation of major schools of thought within anthropology. Evolution of analytical processes and research methodology in each of the disciplines’ quadrants. Primary figures in anthropology, their lives and work, their impact on developments in the discipline. 3 hours seminar/discussion.",
+      "prerequisites": "ANT 1020 or instructor consent; and Junior or Senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3940",
+      "title": "Field Archaeology",
+      "units": "2",
+      "ge": null,
+      "coid": "436313",
+      "requirement": "and",
+      "description": "Introduction to the strategy and techniques of archaeological excavation. Site surveying and mapping; sampling techniques; recording; photography. Excavation of actual archaeological site. May be taken up to three times for a total credit of 6 units. Corequisite(s): ANT 3940L .",
+      "prerequisites": "ANT 1030 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3940L",
+      "title": "Field Archaeology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437420",
+      "requirement": "and",
+      "description": "Introduction to the strategy and techniques of archaeological excavation. Site surveying and mapping; sampling techniques; recording; photography. Excavation of actual archaeological site. 3 hours laboratory. May be taken up to three times for a total credit of 3 units. Corequisite(s): ANT 3940 .",
+      "prerequisites": "ANT 1030 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3950",
+      "title": "Methods in Archaeology",
+      "units": "2",
+      "ge": null,
+      "coid": "436314",
+      "requirement": "and",
+      "description": "Training in archaeological identification and analysis of prehistoric and historic cultural materials, including faunal remains, chipped stone, groundstone, ceramics, beads, and charcoal. Methods of analysis include processing of artifacts, artifact and faunal identification, data entry, and preliminary data processing. Corequisite(s): ANT 3950L .",
+      "prerequisites": "ANT 1030 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3950L",
+      "title": "Methods in Archaeology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437421",
+      "requirement": "and",
+      "description": "Training in archaeological identification and analysis of prehistoric and historic cultural materials, including faunal remains, chipped stone, groundstone, ceramics, beads, and charcoal. Methods of analysis include processing of artifacts, artifact and faunal identification, data entry, and preliminary data processing. 3 hours laboratory. Corequisite(s): ANT 3950 .",
+      "prerequisites": "ANT 1030 or Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 3970",
+      "title": "Cultural Resource Management",
+      "units": "3",
+      "ge": null,
+      "coid": "435998",
+      "requirement": "and",
+      "description": "Philosophical and practical aspects of cultural resource management. History and current status of laws and procedures affecting the protection, evaluation, and management of prehistoric, historic, ethnographic, and other cultural resources, with particular emphasis on California. 3 hours lecture/discussion.",
+      "prerequisites": "Junior or Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 4100",
+      "title": "Human Skeletal Biology and Osteology",
+      "units": "3",
+      "ge": null,
+      "coid": "439064",
+      "requirement": "*",
+      "description": "Introduction to skeletal biology and skeletal anatomy. Overview of the anatomical structures, features, and functional morphology of the human skeleton. Practical (hands-on) evaluation of complete and fragmentary human skeleton in archaeological and medicolegal contexts and human skeletal variation is emphasized.",
+      "prerequisites": "ANT 1010 , BIO 1060 , BIO 1220 , KIN 2020 , KIN 3030 , or AVS 3350 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ANT 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438042",
+      "requirement": "*",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 3003",
+      "title": "Cal Poly Pomona Undergraduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439397",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "ANT 1010",
+    "ANT 1020",
+    "ANT 1030",
+    "ANT 1040",
+    "ANT 1120",
+    "ANT 3220",
+    "ANT 3250",
+    "ANT 3270",
+    "ANT 3400",
+    "ANT 3400L",
+    "ANT 3450",
+    "ANT 3450L",
+    "ANT 3500",
+    "ANT 3520",
+    "ANT 3530",
+    "ANT 3600",
+    "ANT 3790",
+    "ANT 3940",
+    "ANT 3940L",
+    "ANT 3950",
+    "ANT 3950L",
+    "ANT 3970",
+    "ANT 4050",
+    "ANT 4100",
+    "ANT 4150",
+    "ANT 4300W",
+    "ANT 4610",
+    "ANT 4750",
+    "ANT 4800",
+    "ANT 4910",
+    "ANT 4990"
+  ]
+}

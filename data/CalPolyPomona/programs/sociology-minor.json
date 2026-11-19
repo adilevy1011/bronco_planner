@@ -1,0 +1,149 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:17:02+00:00",
+  "id": "sociology-minor",
+  "name": "Sociology Minor",
+  "title_on_page": "University Catalog",
+  "department": "Sociology",
+  "department_id": "sociology",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24249",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6353",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Sociology Minor: 24 units Offered by: College of Letters, Arts, and Social Sciences , Sociology Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 15 units SOC 2201 - Introduction to Sociology (3) [GE 4A] SOC 2205 - Research Methods in Sociology (3) or CRM 2205 - Research Methods in Criminology (3) or PSY 2204 - Research Methods in Psychology (3) SOC 3309 - Social Stratification and Inequality (3) SOC 3320 - Race and Ethnic Relations (3) or SOC 3328 - Gender and Sexuality (3) STA 1200 - Statistics with Applications (3) [GE 2] Minor Electives: 9 units 3000/4000-level CRM/SOC/SW Courses (9) Notes: Students enrolled in these programs may not declare this minor: Sociology, B.A. - General Sociology Subplan/Option: 120 units ; Sociology, B.A. - Social Work Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 15 units",
+      "courses": [
+        "SOC 2201",
+        "SOC 2205"
+      ],
+      "raw_text": "Minor Required: 15 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "CRM 2205",
+        "PSY 2204",
+        "SOC 3309",
+        "SOC 3320",
+        "SOC 3328",
+        "STA 1200"
+      ],
+      "raw_text": "or"
+    }
+  ],
+  "courses": [
+    {
+      "code": "SOC 2201",
+      "title": "Introduction to Sociology",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434882",
+      "requirement": "Minor Required: 15 units",
+      "description": "[GE 4A] Introduction to the study and practice of sociology. Key theories, ideas, concepts and principles. Theories, methods and key areas of study such as culture, socialization, globalization, gender/sexuality, race/ethnicity. Must be taken for a letter grade by Sociology majors.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 2205",
+      "title": "Research Methods in Sociology",
+      "units": "3",
+      "ge": null,
+      "coid": "437343",
+      "requirement": "Minor Required: 15 units",
+      "description": "Introduction and intermediate exposure to the following methods of sociological research: ethnography, interviews, discourse and content analysis, focus groups, and elementary statistical analysis and survey design.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CRM 2205",
+      "title": "Research Methods in Criminology",
+      "units": "3",
+      "ge": null,
+      "coid": "438963",
+      "requirement": "or",
+      "description": "Examines how research is conducted in criminology and criminal justice. Designed to highlight the research process, ethical issues, and different types of quantitative and qualitative research designs, data analysis, and the evaluation and reporting of research results in the field of criminology. The following methods of criminological research are explored: ethnography, ethnomethodology, conversation analysis, narrative analysis, comparative analyses, case studies, evaluation research, and elementary statistical analysis and survey design.",
+      "prerequisites": "SOC 201, SOC 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 2204",
+      "title": "Research Methods in Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "436965",
+      "requirement": "or",
+      "description": "Introduction and intermediate exposure to the methods, techniques, and data analysis used in carrying out research in psychology.",
+      "prerequisites": "Major or minor in PSY; PSY 2201 , PSY 201, or PSY 202; STA 1200 , STA 1202 , or STA 120; and GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 3309",
+      "title": "Social Stratification and Inequality",
+      "units": "3",
+      "ge": null,
+      "coid": "435103",
+      "requirement": "or",
+      "description": "Theories and research concerning social stratification; historical roots and contemporary manifestations of inequitable power relationships in the areas of class, race, gender and sexuality; concepts of mobility and legitimation",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 3320",
+      "title": "Race and Ethnic Relations",
+      "units": "3",
+      "ge": null,
+      "coid": "435118",
+      "requirement": "or",
+      "description": "Focuses on race and ethnic relations in the U.S. Examines historical and contemporary issues of racism and experiences of ethnic minorities in the U.S. Examines the future of race and ethnic relations and emphasizes current ethnic contacts, conflicts, and coalitions.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 3328",
+      "title": "Gender and Sexuality",
+      "units": "3",
+      "ge": null,
+      "coid": "435481",
+      "requirement": "or",
+      "description": "Interrogates how gender and sexuality exist as organizing principles of society in political, economic, cultural and familial contexts within selected western and non-western societies. A critical focus on the intersection of gender and sexuality across class, racial-ethnic groups, cultures, and regions.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "STA 1200",
+      "title": "Statistics with Applications",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "434999",
+      "requirement": "or",
+      "description": "[GE 2] Sample and population data; descriptive statistics, including numerical and graphical summarization of central tendency and spread; elementary probability, including events, basic probability rules, binomial and normal distributions; inferential statistics, including confidence intervals and hypothesis tests for one-population mean and proportion problems, simple linear regression and correlation",
+      "prerequisites": "Category I, Category II, ALEKS >=46, C or better in a GE Sub-area 2/B4 course, or C- or better or CR in MAT 1051 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "CRM 2205",
+    "SOC 2201",
+    "SOC 2205",
+    "SOC 3309",
+    "SOC 3320",
+    "SOC 3328"
+  ]
+}

@@ -1,0 +1,1064 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:48:18+00:00",
+  "id": "landscape-architecture",
+  "name": "Landscape Architecture",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6326",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Landscape Architecture Department Building 7 Room 225 | (909) 869-2673 | Department Website | Faculty Directory Our polytechnic, hands-on landscape architecture education empowers students with the knowledge, skills, and values to succeed in careers that shape the natural and built environments through design. We work with community partners on real-world solutions toward social, environmental, and climate justice in Southern California and beyond. The Department of Landscape Architecture offers nationally accredited undergraduate and graduate degrees (BSLA and MLA) rooted in a studio-based curriculum that integrates ecological literacy, technical skill, and design thinking. Students engage deeply with principles of sustainability, urban resilience, and social equity through coursework in site engineering, planting design, history, theory, and digital communication. Faculty are scholar-practitioners involved in research and community partnerships that address climate-responsive design and public space planning. The department fosters a creative, inclusive, and justice-oriented culture that challenges students to design for both environmental function and cultural meaning. Students participate in hands-on fieldwork across Southern California, design studios centered on real sites, and interdisciplinary collaborations with professionals. Studio culture is reinforced by critique, peer learning, and iterative design. Student involvement is strong in the American Society of Landscape Architects (ASLA) student chapter and Sigma Lambda Alpha honor society. Field trips, internships, and professional mentoring are integrated throughout the curriculum. ",
+  "courses": [
+    {
+      "code": "LA 1111L",
+      "title": "Design I: Figure-Ground Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "436710",
+      "description": "Fundamental concepts in design and their connection to the discipline of Landscape Architecture. Emphasis on creative investigation of space and form in relationship to the human scale. Investigations entail hands-on projects that engage students with the foundational discourse of Landscape Architecture.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 1121L",
+      "title": "Design II: Topographic Form Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "436711",
+      "description": "Fundamental concepts in design and their connection to the discipline of Landscape Architecture. Emphasis on technical and creative investigation of topographic form as a foundational element of landscape of design approached through an iterative process and driven by both digital and analog tools.",
+      "prerequisites": "LA 1111L or by Faculty Advisor approval.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 1581",
+      "title": "Graphic Communication I",
+      "units": "3",
+      "ge": null,
+      "coid": "437896",
+      "description": "Introduction to visual communication for environmental design. Addresses the basic theory and intent of visual communication as applied to environmental design. Focuses on the exploration of what designers draw, why, and how, and the concepts of notation, observation, diagramming, measuring, and communicating. Uses problem-based learning to critically evaluate audience, tools, venue, and mechanics of visual communication. Integration of manual and digital tools.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 1591",
+      "title": "Graphic Communication II",
+      "units": "3",
+      "ge": null,
+      "coid": "442770",
+      "description": "Exploration of visual communication methods in environmental design. Expands upon foundational concepts introduced in Graphic Communication I, with a focus on developing more advanced representational strategies and critical visual thinking. Emphasizes clarity, precision, and intention in drawing as a tool for design, analysis, iteration and presentation. Students will refine their skills in notation, observation, diagramming, and spatial representation, while integrating multiple media using manual and digital tools. Corequisite(s): BS Landscape Architecture major and LA 1121L ; or Landscape Architecture minor.",
+      "prerequisites": "LA 1581 or consent of the department.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring, As needed; see Academic Department"
+    },
+    {
+      "code": "LA 1771",
+      "title": "Reading and Representing the Landscape",
+      "units": "3",
+      "ge": null,
+      "coid": "437792",
+      "description": "Reading and Representing the Landscape explores and synthesizes methods to understand, value, interpret and represent the larger landscape around us as an ever-evolving set of biophysical and cultural relationships. Students will cultivate an awareness of our relationships to the natural world and its impact as an ecological and cultural construct in contemporary life and the implications for our society. Requires field trips to locations around Southern California.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438505",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 2111L",
+      "title": "Design III: Spatial Design Lab",
+      "units": "3",
+      "ge": null,
+      "coid": "436712",
+      "description": "Introduction to the practice and basic methods of forming and defining space in the built environment as an expansion of fundamental concepts of landscape architecture. Exploration of spatial design as it directly informs place making in shaping landscapes and public spaces at different scales. Emphasis will be placed upon the investigation of organizational strategy of landscape structure, elements and basic program. Requires field trips.",
+      "prerequisites": "C or better in LA 1121L ; LA 103, LA 103L, LA 252 and LA 252L; or Faculty Advisor approval.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 2121L",
+      "title": "Design IV: Ecology + Design Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437551",
+      "description": "Introduction to ecological design methodologies, strategies and technics as the basis for landscape design. Students will explore concepts of resiliency, adaptation, sustainability and regenerative design to create landscapes that improve sustainability performance and meet aesthetic and functional goals. Emphasis will be placed upon the investigation of plants, planting design and natural systems in a variety of project contexts. Requires field trips.",
+      "prerequisites": "LA 2111L and LA 2441 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 2250",
+      "title": "The Japanese American Experience and the California Landscape",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439115",
+      "description": "[GE 6] Cross Listed as: EWS 2250 Investigates the intersection of ethnic studies and landscape architecture by exploring the relationship between the Asian American community and place in the United States. Through the lens of the Japanese American experience in California since the late 19th century, this course will examine topics that include immigration patterns, socio-economic and political factors shaping US immigration policies, racism and its connection to labor and employment practices with focus on landscape and agriculture, World War II internment, post-war era ethnic resilience, the role of environmental influences in individual well-being, and evaluation of cultural identity in the Asian American community. Field trips are required. Field Trips are Required",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 2261",
+      "title": "History I: History of Landscape Design",
+      "units": "3",
+      "ge": "GE 3A",
+      "coid": "438867",
+      "description": "[GE 3A] An overview of historic developments of landscape architecture and environmental planning from prehistory to the industrial revolution. This course provides an overview of the human environment in its historical socio-cultural and biophysical context from ancient times to the industrial revolution and makes connections between the historical precedents and contemporary cultural form. Students will develop critical thinking in understanding how biophysical and socio-cultural factors influence human design of the environment, and how past cultural form influences current landscape architecture and environmental planning. In addition, students will develop skills in analysis of landscapes and environmental design of different historical periods, library research, and written communication of ideas.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 2271",
+      "title": "History II: Modern Landscapes",
+      "units": "3",
+      "ge": "GE 3A",
+      "coid": "438868",
+      "description": "[GE 3A] Historical developments in landscape and garden design in the 20 th &nbsp;& 21 st Century. Addresses the emergence of the landscape architecture profession, along with the historical, social, political, economic, and philosophical forces that influence contemporary practice and public places. Students will develop skills in analysis of landscapes, library research, and written communication of ideas.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 2441",
+      "title": "Plant Ecology and Design I",
+      "units": "3",
+      "ge": null,
+      "coid": "437516",
+      "description": "An introduction to plants, plant ecology and landscape architectural design issues. Special emphasis is placed upon plant communities and association of plants most appropriate to the Southern California region and the environmental factors that control these communities as related to planting design theory and application. Identification of native and adapted species; introduction to cultural, functional, and aesthetic criteria in the organization of design associations of plants. Requires field trips.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 2451",
+      "title": "Plant Ecology and Design II",
+      "units": "3",
+      "ge": null,
+      "coid": "437517",
+      "description": "The continuation and refinement of the study of plant ecology and design relevant to the profession of landscape architecture covered in LA 2441 . Special emphasis is placed upon the study and application of plant ecology and design in urban, novel and disturbed ecosystems. Introduction to the challenges encountered in urban ecosystems with a focus on sustainable and resource-efficient planting design. Identification of plant species adapted to urban conditions. Requires field trips.",
+      "prerequisites": "LA 2441 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 2771",
+      "title": "Environmental Design Theory",
+      "units": "3",
+      "ge": "GE 3B",
+      "coid": "438869",
+      "description": "[GE 3B] Theories influencing the design and understanding of inhabited places and landscapes. Provides critical perspectives for evaluating the built environment based on design theories, urbanism(s), aesthetics, evolutionary preferences, technological systems, and ecosystem frameworks. Fulfills General Education 3B/C2: Philosophy and Civilization requirements.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438506",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438507",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438508",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 3111L",
+      "title": "Design V: Landscape Systems Lab",
+      "units": "3",
+      "ge": null,
+      "coid": "437552",
+      "description": "The poetic application of landscape systems, natural and cultural, as the foundational framework for the design and management of public open space. Projects will apply numerous methods, tools and techniques to explore and express dynamic flows, filters, reservoirs, and sinks for both human and environmental systems across multiple physical and temporal scales. Specific project topics will be announced by the department each semester. Requires field trips.",
+      "prerequisites": "LA 2121L , LA 2451 and LA 3581 ; LA 203, LA 203L, LA 243, LA 243L, LA 342, and LA 342L; or Faculty Advisor approval.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 3121L",
+      "title": "Design VI: Applied Site Design Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437553",
+      "description": "Studio course focused on application of site engineering principles and approaches in response to conceptual, technical, programmatic and experiential design criteria. Projects will explore fundamental site relationships above, below, within, and away from a project site including landform and finished grading, grade change structures, water movement and management, geotechnical, circulation, planting, materials and other applied site design considerations. Specific project topics will be announced by the department each semester. Requires field trips. Corequisite(s): LA 3621 .",
+      "prerequisites": "LA 3111L and LA 3611 ; or Faculty Advisor approval.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 3581",
+      "title": "Geodesign Fundamentals for Environmental Designers",
+      "units": "3",
+      "ge": null,
+      "coid": "437554",
+      "description": "Study of fundamental knowledge, principles, processes, models, and skills of geodesign in the context of environmental design with a focus in landscape architecture. Application of geospatial thinking, geospatial data, geo-processing and other contents of contemporary Geographic Information Systems (GIS) to solve sustainable planning and design problems defined by a wide range of ecological, environmental and social conditions at different scales.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 3611",
+      "title": "Construction I: Site Engineering and Landscape Construction",
+      "units": "3",
+      "ge": null,
+      "coid": "437818",
+      "description": "Explores fundamental technical theories, concepts, methods and processes associated with engineering and constructing the built landscape. Emphasis is placed on site engineering, water management, tectonic structure and project construction workflow.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 3611L",
+      "title": "Construction I: Site Engineering and Landscape Construction Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "442771",
+      "description": "Examines and applies concepts of site engineering, water management, geotechnical structures, and construction methods through in-class activities and hands-on projects. Corequisite(s): LA 3611 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "LA 3621",
+      "title": "Construction II: Methods and Materials and Measuring",
+      "units": "3",
+      "ge": null,
+      "coid": "437384",
+      "description": "Landscape performance metrics, technical design processes, sustainability theories, and construction methods in the urban landscape. Professional responsibilities to ensure the health/safety/welfare of the public via technics of dimensional controls, engineering structures, and specifications. Emphasis on both the cultural and ecological performance metrics of built landscapes.",
+      "prerequisites": "LA 3611 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 3621L",
+      "title": "Construction II: Methods, Materials, and Measuring Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "442772",
+      "description": "Project-based application and case studies of landscape performance metrics, technical design processes, sustainability theories, and construction methods in the urban landscape. Professional responsibilities to ensure the health/safety/welfare of the public via technics of dimensional controls, engineering structures, and specifications. Corequisite(s): LA 3621 .",
+      "prerequisites": "LA 3611 and LA 3611L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "LA 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438509",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 4111L",
+      "title": "Design VII: Advanced Landscape Architecture Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437018",
+      "description": "Application of advanced methods in landscape architecture. Application of the current methods and research on the relationship between human mental and physical health, hybrid landscapes, and sustainability. Specific project topics will be announced by the department each semester.",
+      "prerequisites": "LA 3121L and LA 3621 ; or LA 303, LA 303L, LA 333, LA 333L, LA 342, and LA 342L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 4251",
+      "title": "Asian Gardens",
+      "units": "3",
+      "ge": null,
+      "coid": "436168",
+      "description": "Explores the history of gardens in Asia as expressions of culture, art, philosophy and nature with emphasis on regional history, philosophy, cosmology and cultural significance. Discussion of technical methods and organization of landscape space that structure experience in the garden will be emphasized. Requires field trips to local garden examples.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-m-l-a-48-72-units",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 4621L",
+      "title": "Design VIII: Landscape Architecture Capstone Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437534",
+      "description": "Capstone landscape architecture studio focused on a singular, topic-driven project that connects theoretical and practical landscape architecture methods to address the complex social, urban, environmental, economic, aesthetic and political/regulatory fabric encountered in cities. Projects will demonstrate mastery of landscape architecture project development from initial concept and analysis through detailed design development, documentation and presentation. Specific project topics will be announced by the department each semester. Requires field trips. BSLA students must earn a C (2.0) or better in LA 4621L to graduate.",
+      "prerequisites": "LA 4111L or LA 4811L ; or LA 303, LA 303L, LA 333, LA 333L, LA 342, and LA 342L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 4771",
+      "title": "Professional Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "437533",
+      "description": "The practice of landscape architecture, covering professional responsibilities and ethics, client and contractor relationships. Analysis and discussion of the structure and organization of the profession of landscape architecture, its history and future. Addresses legal and contractual aspects of practice, RFPs, regulatory requirements, construction and project management. Will also address job search skills. Requires visits to and case studies of professional firms and organizations in the Los Angeles region.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-m-l-a-48-72-units",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 4781",
+      "title": "Urban Green Infrastructure",
+      "units": "3",
+      "ge": null,
+      "coid": "437543",
+      "description": "Focus on the technical attributes of the design and deployment of green infrastructure to address numerous environmental issues in Southern California. Green Infrastructure is the integration of ecological and technical systems to enhance the resilience and sustainability of our communities - at the same time providing habitat and beauty. Projects explore connections between natural and technical resource flows in the landscape from a systems perspective. Introduces design practices such as Low Impact Development (LID) and Best Management Practices (BMPs) that can optimize the built environment to restore degraded ecosystem services.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-m-l-a-48-72-units",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 4782W",
+      "title": "Evolving Issues in Environmental Design",
+      "units": "3",
+      "ge": null,
+      "coid": "437532",
+      "description": "Focus on exploring new and emerging topics in environmental design and landscape architectural practice aimed at improving social, environmental and economic benefits; and/or advanced/experimental technology and design tools/practices. Topics will be announced by the department each semester. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: May be taken up to two times, only with different topics, for a total credit of 6 units.",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-m-l-a-48-72-units",
+        "landscape-architecture-minor",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 4811L",
+      "title": "Design VII: Advanced International Landscape Architecture Methods Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437557",
+      "description": "Advanced design studio course focused on application of advanced methods in landscape architecture from within an international context. This topically-based studio will apply the current methods and research on the relationship between human mental and physical health, hybrid landscapes, and sustainability. Students develop sustainable planning and design solutions within a context of critical dialogue about emerging environmental challenges, current sociocultural values, and other topics relevant to the specific international location.",
+      "prerequisites": "LA 3121L and LA 3621 ; or LA 303, LA 303L, LA 333, LA 333L, LA 342, and LA 342L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 4872",
+      "title": "History of International Landscapes",
+      "units": "3",
+      "ge": null,
+      "coid": "437904",
+      "description": "Historical developments in landscape management, landscape design, garden design, and the design of public space in a specific international context. Focus on the historical, social, political, economic, and philosophical forces that influenced the shape of cities and the continued influences contemporary public places. Focuses on both the historic and contemporary contributions of the international location. Emphasis on transportation systems, pedestrian accommodation, and open space structure.",
+      "prerequisites": "Study abroad student.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "LA 4873",
+      "title": "International Landscape Architecture Professional Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "437905",
+      "description": "Exploration of the scope and nature of professional practice of Landscape Architecture in international settings in contrast to practice in North America. Covers the practice of landscape architecture, professional responsibilities and ethics, client and contractor relationships. Analysis and discussion of the structure and organization of the profession of landscape architecture; its history and future. Addresses legal and contractual aspects of practice, Requests for proposals, regulatory requirements, construction and project management. Will also address job search skills. Case studies of professional firms and organizations in the European region.",
+      "prerequisites": "Study abroad student.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s"
+      ]
+    },
+    {
+      "code": "LA 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438510",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-m-l-a-48-72-units",
+        "landscape-architecture-minor"
+      ]
+    },
+    {
+      "code": "LA 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438511",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438512",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438513",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 5111L",
+      "title": "Design I Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437545",
+      "description": "Introduction to the discipline of landscape architecture and design foundations through immersive experiences in the landscape. This course will specifically challenge students to understand the relationships of the human to the landscape including the presence and reflection of the self and others in space. Issues of scale, dimension and design communication. Multiple methods will be engaged to reveal the potential and issues of space and site. Field trips will be required.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5121L",
+      "title": "Design II Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437558",
+      "description": "Introduces the practice of designing landscapes in the public realm. Challenges students to understand the role of the public and community in designing public space, along with aspects of social and environmental justice. Multiple methods of information collection, comparative study, landscape performance and design processes will be utilized to reveal and identify opportunities of context as the basis for landscape design decisions. Field trips will be required.",
+      "prerequisites": "LA 5111L and LA 5581 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5261",
+      "title": "Graduate Landscape History I",
+      "units": "3",
+      "ge": null,
+      "coid": "438847",
+      "description": "An overview of historic developments of landscape architecture and environmental planning from prehistory to the industrial revolution. This course provides an overview of the human environment in its historical socio-cultural and biophysical context from ancient times to the industrial revolution and makes connections between the historical precedents and contemporary cultural form. Students will develop critical thinking in understanding how biophysical and socio-cultural factors influence human design of the environment, and how past cultural form influences current landscape architecture and environmental planning. In addition students will develop skills in analysis of landscapes and environmental design of different historical periods, library research, and written communication of ideas.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5271",
+      "title": "Graduate History of Modern Landscapes",
+      "units": "3",
+      "ge": null,
+      "coid": "438848",
+      "description": "Historical developments in landscape and garden design in the 20 th &nbsp;& 21 st Century. Addresses the emergence of the landscape architecture profession, along with the historical, social, political, economic, and philosophical forces that influence contemporary practice and places.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5581",
+      "title": "Visual Communication for Design",
+      "units": "3",
+      "ge": null,
+      "coid": "437535",
+      "description": "Introduction to visual communication for landscape architecture. Addresses the theory and intent of visual communication as applied to environmental design. Focuses on the exploration of what designers draw, why, and how, and the concepts of notation, observation, diagramming, measuring, and communicating. Uses problem-based learning to critically evaluate audience, tools, venue, and mechanics of visual communication. Workflow and process for the integration of manual and digital tools.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5582",
+      "title": "Graduate Geodesign Fundamentals for Environmental Designers",
+      "units": "3",
+      "ge": null,
+      "coid": "438955",
+      "description": "Dual Listed as: LA 3581 Study of fundamental knowledge, principles, processes, models, and skills of geodesign in the context of environmental design with a focus in landscape architecture. Application of geospatial thinking, geospatial data, geo-processing and other contents of contemporary Geographic Information Systems (GIS) to solve sustainable planning and design problems defined by a wide range of ecological, environmental and social conditions at different scales.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5611",
+      "title": "Graduate Construction I: Site Engineering and Landscape Construction",
+      "units": "3",
+      "ge": null,
+      "coid": "438974",
+      "description": "Dual Listed as: LA 3611 Explores fundamental technical theories, concepts, methods and processes associated with engineering and constructing the built landscape. Emphasis is placed on site engineering, water management, tectonic structure and project construction workflow.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5621",
+      "title": "Graduate Construction II: Methods and Materials and Measuring",
+      "units": "3",
+      "ge": null,
+      "coid": "438975",
+      "description": "Dual Listed as: LA 3621 Landscape performance metrics, technical design processes, sustainability theories, and construction methods in the urban landscape. Professional responsibilities to ensure the health/safety/welfare of the public via technics of dimensional controls, engineering structures, and specifications. Emphasis on both the cultural and ecological performance metrics of built landscapes.",
+      "prerequisites": "B or better in LA 5611 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5771",
+      "title": "Landscape Awareness and Assessment",
+      "units": "3",
+      "ge": null,
+      "coid": "437559",
+      "description": "Establishing awareness and skills related to reading and interpreting the landscape around us: what is under, on and above the ground, and its implications for design. Introduction to and evaluation of methods of landscape documentation, inventory, analysis, and assessment tools and their connection to the design process. A series of field trips are required to provide opportunities to critically assess the California landscape as a product of human intervention, cultural expression and natural systems and resilience.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5772",
+      "title": "Landscape Architecture Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "438846",
+      "description": "Theories influencing the design and understanding of inhabited places and landscapes. Provides critical perspectives for evaluating the built environment based on design theories, urbanism(s), aesthetics, evolutionary preferences, technological systems, and ecosystem framework.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5782",
+      "title": "Landscape Architecture Teaching Practicum",
+      "units": "3",
+      "ge": null,
+      "coid": "437019",
+      "description": "Introduces students to design pedagogy and teaching methods, coupled with actual teaching experience and developmental feedback. Practicum students are involved in course planning and implementation of a BSLA course, as well as assessment of students and of the course throughout the semester. Practicum students perform a variety of instructional roles, including, at a minimum, the independent teaching of a subject within a course and regular classroom attendance for a semester. Practicum students prepare an assessment instrument for the course, assist with lecture preparation and assignment design, as well as work in class with students. May be taken up to three times for a total credit of 9 units.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5872",
+      "title": "Graduate History of International Landscapes",
+      "units": "3",
+      "ge": null,
+      "coid": "438980",
+      "description": "Dual Listed as: LA 4872 Historical developments in landscape management, landscape design, garden design, and the design of public space in a specific international context. Focus on the historical, social, political, economic, and philosophical forces that influenced the shape of cities and the continued influences contemporary public places. Focuses on both the historic and contemporary contributions of the international location. Emphasis on transportation systems, pedestrian accommodation, and open space structure.",
+      "prerequisites": "Graduate standing and participation in the Study Abroad program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5873",
+      "title": "Graduate International Landscape Architecture Professional Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "438976",
+      "description": "Dual Listed as: LA 4873 Exploration of the scope and nature of professional practice of Landscape Architecture in international settings in contrast to practice in North America. Covers the practice of landscape architecture, professional responsibilities and ethics, client and contractor relationships. Analysis and discussion of the structure and organization of the profession of landscape architecture; its history and future. Addresses legal and contractual aspects of practice, Requests for proposals, regulatory requirements, construction and project management. Will also address job search skills. Case studies of professional firms and organizations in the European region.",
+      "prerequisites": "Graduate standing and participating in the Study Abroad program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438514",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-b-s",
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438515",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438516",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 6071L",
+      "title": "Integrative Design and Planning Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437637",
+      "description": "Group project related to large scale regional planning and design. Adopts an integrative, issue-based approach to problem solving and documentation that is directed at identifying the problem, developing mapping tools to assist with problem-solving, and visual communication. Involves advanced application of geodesign technology, interaction with the public or other stakeholders, and other forms of primary data collection as required to solve the problem. Field trips are required. Corequisite(s): LA 6773 or Graduate Coordinator approval.",
+      "prerequisites": "LA 6121L , LA 6771 , and LA 6772 ; LA 604, LA 604L, LA 602, and LA 602L; or Graduate Coordinator approval. Pre or Corequisite(s):",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6081L",
+      "title": "Design and Planning Project Documentation Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437021",
+      "description": "Professional landscape architecture methods and practices for the preparation of written and graphic communication for the public, to clients, and allied disciplines related to reports documenting data collection and research, site analysis, design strategies and tactics, and recommendations related to a large-scale integrative design and planning project. Field trips may be required. Corequisite(s): LA 6773 or Graduate Coordinator approval.",
+      "prerequisites": "LA 6071L and LA 6941 ; or Graduate Coordinator approval.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6111L",
+      "title": "Design III: Design for Change Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437638",
+      "description": "Examination of issues and concerns underlying landscape analysis, planning and design coupled to design processes, methods, and application for dealing across scales and context. Use of contemporary information system technologies in collecting, managing, processing, analyzing, synthesizing, and presenting landscape data and information to support design and planning decision-making. Techniques for predictions of alterations in social and natural processes brought about by human use of the land and the application of such assessments to environmental management. Field trips are required.",
+      "prerequisites": "LA 5121L and LA 5582 ; or Graduate Coordinator approval.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6121L",
+      "title": "Design IV: Design of Complex Systems Laboratory",
+      "units": "3",
+      "ge": null,
+      "coid": "437022",
+      "description": "Advanced design studio that explores the integration of energy, food, water, land, air, habitat, fire, and other key landscape systems as core design requirements. Introduction to methods of regenerative and sustainable design practices to address ecological and human health. Site typologies under study may include but are not limited to the greenfields, greyfields, redfields, and brownfields. Field trips are required.",
+      "prerequisites": "LA 6111L or Graduate Coordinator approval.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6441",
+      "title": "Plants and Ecology",
+      "units": "3",
+      "ge": null,
+      "coid": "437684",
+      "description": "An introduction to plant ecology and design issues relevant to the profession of landscape architecture focused on urban ecosystems and plant communities most appropriate to Southern California. Identification of native and adapted species; introduction to cultural, functional, and aesthetic criteria in the organization of design associations of plants; and sustainable and resource-efficient planting design. Field trips are required.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6451",
+      "title": "Coupled Human and Natural Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "437023",
+      "description": "Studies the interface and reciprocal interactions that link human (e.g., economic, social) and natural (e.g., hydrologic, atmospheric, biological) systems. Addresses the complex nature of reciprocating interactions and feedback loops between humans and the environment. Application of tools to address and assess impacts of design decisions on coupled human and natural systems. Significant issues addressed such as climate change and urban resiliency. Field trips may be required.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6771",
+      "title": "Research Methods for Environmental Design",
+      "units": "3",
+      "ge": null,
+      "coid": "437622",
+      "description": "Introduction to the development and assessment of research questions, preparation and writing of literature reviews, matching of research questions to methods, strengths and weaknesses of methods, qualitative and quantitative data and their analysis, critique of existing research, and preparation of research reports for landscape architects. Also, addresses research accessibility, quality of research, venues for communication, and common standards of rigor.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6772",
+      "title": "Finding Problems: Design Proposal Preparation and Public Engagement",
+      "units": "3",
+      "ge": null,
+      "coid": "437906",
+      "description": "Methods to identify potential formal, informal, and unrecognized design opportunities, then craft a proposal targeting appropriate decision makers. Addresses different approaches to problem identification. Introduction to proposal writing in the larger context of professional and scholarly work, budgets, different types of contracts, and ways projects are advertised.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6773",
+      "title": "Advanced Design Methods Seminar",
+      "units": "3",
+      "ge": null,
+      "coid": "439356",
+      "description": "Examination of emerging knowledge, including new theory, advanced methods, and practice in landscape architecture pertinent to the projects in the LA6071L and LA6081L studios. Provide knowledge, experience, and technical skills to support the research, scholarly activities, public outreach, site observation, and measurement of design and planning solutions for these projects. Engage students in other academic and professional practices relevant to the evolving issues under investigation in the studio. Course findings and deliverables are developed to support the successful completion of the studio project. Corequisite(s): LA 6071L and LA 6941 (fall); LA 6081L , and LA 6951 or LA 6961 (spring); or consent of Graduate Coordinator.",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438517",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438518",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6941",
+      "title": "Thesis/Project Research",
+      "units": "3",
+      "ge": null,
+      "coid": "437660",
+      "description": "Research and development of thesis project or faculty-approved master’s project. Corequisite(s): LA 6773 or Graduate Coordinator approval.",
+      "prerequisites": "LA 6121L , LA 6771 , and LA 6772 ; LA 604, LA 604L, and LA 602L; or Graduate Coordinator approval.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6951",
+      "title": "Master’s Project",
+      "units": "3",
+      "ge": null,
+      "coid": "437661",
+      "description": "Development of a terminal creative or research project designed to demonstrate skills and knowledge achieved in the graduate program. Project focus and site will be selected by the student in consultation with Master’s Project Advisor. Development of the Master’s project is conducted under the supervision of a Master’s Project Committee. Student selects Committee members, conducts original design research, and produce a report within a landscape-related theoretical framework. Corequisite(s): LA 6773 or Graduate Coordinator approval.",
+      "prerequisites": "LA 6941 or Graduate Coordinator approval.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "landscape-architecture-m-l-a-48-72-units"
+      ]
+    },
+    {
+      "code": "LA 6961",
+      "title": "Master’s Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "437662",
+      "description": "Development of a terminal thesis designed to demonstrate skills and knowledge achieved in the graduate program. Thesis subject and methods will be selected by the student in consultation with Master’s Thesis Advisor. Development of the Master’s Thesis is conducted under the supervision of a Master’s Thesis Committee. Student selects Committee members, conducts original quantitative and/or qualitative research, and produce a report within a landscape-related theoretical framework. Corequisite(s): LA 6773 or Graduate Coordinator approval.",
+      "prerequisites": "B or better in LA 6941 or Graduate Coordinator approval.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "LA 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438519",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "landscape-architecture-b-s",
+      "name": "Landscape Architecture, B.S."
+    },
+    {
+      "id": "landscape-architecture-m-l-a-48-72-units",
+      "name": "Landscape Architecture, M.L.A.: 48-72 units"
+    },
+    {
+      "id": "landscape-architecture-minor",
+      "name": "Landscape Architecture Minor"
+    },
+    {
+      "id": "landscape-architecture-b-s-roadmap-4-year-120-units",
+      "name": "Landscape Architecture, B.S.: Roadmap 4-year (120 units)"
+    }
+  ]
+}

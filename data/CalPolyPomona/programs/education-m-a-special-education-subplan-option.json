@@ -1,0 +1,354 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:10:08+00:00",
+  "id": "education-m-a-special-education-subplan-option",
+  "name": "Education, M.A. - Special Education Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Education",
+  "department_id": "education",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24167",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6312",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Education, M.A. - Special Education Subplan/Option: 31 units Offered by: College of Education and Integrative Studies , Education Department Major Required | Subplan/Option Required | Subplan/Option Electives | Culminating Experience | Program Website Major Required: 10 units ECI 5510 - Diversity and Cultural Perspectives (3) or SPE 5358 - Diversity in Special Education (3) ERA 5900 - Introduction to Graduate Studies (3) ERA 6930 - Evaluating, Understanding, and Using Research Methodology (4) Subplan/Option Required: 6 units SPE 5366 - Assistive Technology in Special Education (3) SPE 5370 - Role of the Education Specialist in the 21st Century (3) Subplan/Option Electives: 12 units Candidates who completed their preliminary credential at CPP may apply 3 credential courses (9 units) to this area. Choose a minimum of 12 units. ECI 5500 - Expertise in Curriculum and Instruction (3) ECI 5520 - Application of Knowledge to Instructional Models (3) ECI 5530 - Leadership in Multicultural Communities of Learners (3) ECI 5990 - Special Topics for Graduate Students (1-3) SPE 5352 - Advanced Curriculum and Instruction for Students with Disabilities (3) SPE 5356 - Comparative Special Education (3) SPE 5360 - Advanced Seminar in Behavioral Supports (3) SPE 5364 - Advanced Transition Planning Across the Lifespan (3) SPE 5368 - Dyslexia in the TK-12 Classroom (3) ERA 5990 - Special Topics for Graduate Students (1-3) Culminating Experience: 3 units ERA 6950 - Master’s Degree Project (1-6) (3 units required) or ERA 6960 - Master’s Degree Thesis (1-6) (3 units required) or ERA 6970 - Comprehensive Exam (3) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly ",
+  "requirements": [
+    {
+      "name": "Major Required: 10 units",
+      "courses": [
+        "ECI 5510"
+      ],
+      "raw_text": "Major Required: 10 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "SPE 5358",
+        "ERA 5900",
+        "ERA 6930",
+        "ERA 6960",
+        "ERA 6970"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Subplan/Option Required: 6 units",
+      "courses": [
+        "SPE 5366",
+        "SPE 5370"
+      ],
+      "raw_text": "Subplan/Option Required: 6 units"
+    },
+    {
+      "name": "Subplan/Option Electives: 12 units",
+      "courses": [
+        "ECI 5500",
+        "ECI 5520",
+        "ECI 5530",
+        "ECI 5990",
+        "SPE 5352",
+        "SPE 5356",
+        "SPE 5360",
+        "SPE 5364",
+        "SPE 5368",
+        "ERA 5990"
+      ],
+      "raw_text": "Subplan/Option Electives: 12 units"
+    },
+    {
+      "name": "Culminating Experience: 3 units",
+      "courses": [
+        "ERA 6950"
+      ],
+      "raw_text": "Culminating Experience: 3 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ECI 5510",
+      "title": "Diversity and Cultural Perspectives",
+      "units": "3",
+      "ge": null,
+      "coid": "436915",
+      "requirement": "Major Required: 10 units",
+      "description": "Examination of issues arising from global perspectives within the context of international, intra-national, and local diaspora. Generation of curricula and instructional programs that support diverse, cultural, and multi-lingual schools across the curriculum. 3 seminars.",
+      "prerequisites": "Admitted to the Master’s of Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": ""
+    },
+    {
+      "code": "SPE 5358",
+      "title": "Diversity in Special Education",
+      "units": "3",
+      "ge": null,
+      "coid": "436723",
+      "requirement": "or",
+      "description": "In-depth study of major issues, topics, and perspectives related to the intersectionality of race, cultural/linguistic, gender, religious, and sexual orientation diversity and disability. Cultural perspectives of disability as they relate to family involvement. History and current issues in the disproportionate representation of minority students in special education.",
+      "prerequisites": "Admitted to Master’s in Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ERA 5900",
+      "title": "Introduction to Graduate Studies",
+      "units": "3",
+      "ge": null,
+      "coid": "436918",
+      "requirement": "or",
+      "description": "Overview of the program of studies; emphasis on critiquing research, findings, ethics of conducting and writing academic research in education. Research tools and requirements relating to the development of a research-based culminating project and the response to questions in the field. This course should be taken before or with any other course in the program. This course should be taken before or with any other course in the program.",
+      "prerequisites": "Admission to the MA Program or Teacher Credential Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ERA 6930",
+      "title": "Evaluating, Understanding, and Using Research Methodology",
+      "units": "4",
+      "ge": null,
+      "coid": "436919",
+      "requirement": "or",
+      "description": "Introduction to qualitative and quantitative research methodologies, including methods, research design, data collection, data analysis. Analyze and synthesize literature; use of APA writing style; creating and evaluating IRB proposals.",
+      "prerequisites": "Admission to the MA Program, Multiple Subject, Single Subject, or Education Specialist Credential Program; Program of Study on file; and SPE 5350 , SPE 5352 , SPE 5370 , ECI 5500 , ECI 5520 , ECI 5530 , EDL 5460 , EDL 5470 , EDL 5480 , EDL 5490 , and EDL 5500 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPE 5366",
+      "title": "Assistive Technology in Special Education",
+      "units": "3",
+      "ge": null,
+      "coid": "437664",
+      "requirement": "Subplan/Option Required: 6 units",
+      "description": "Students will evaluate and apply principles and practices of assistive technology (AT) for students with disabilities. Current law and educational considerations will be articulated. Planning, assessment and implementation of AT hardware, software, augmentative/alternative communication, and universal design strategies will be described. Students will plan and integrate curriculum and inclusion strategies for AT. Must be admitted to the Education Specialist Credential Program.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPE 5370",
+      "title": "Role of the Education Specialist in the 21st Century",
+      "units": "3",
+      "ge": null,
+      "coid": "437613",
+      "requirement": "Subplan/Option Required: 6 units",
+      "description": "Advanced study of the roles of education specialists in 21st century schools. Focus on reflection of professional development, instructional competence, and summative assessment of teaching practices and dispositions through the completion of the Individualized Induction Plan for the Clear Education Specialist Credential. Study of the further development of skills for problem-solving and advancing the issues of advocacy and social justice in special education.",
+      "prerequisites": "Admitted to the MA in Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ECI 5500",
+      "title": "Expertise in Curriculum and Instruction",
+      "units": "3",
+      "ge": null,
+      "coid": "436914",
+      "requirement": "Subplan/Option Electives: 12 units",
+      "description": "Examination of historical paradigms, theories, and issues that influence curriculum and instruction in K-12 settings. Curriculum policy and development on local, national, and international contexts. Proposed development of curricula across content areas contextualized within historical and progressive frameworks. May be taken up to three times, only with different topics, for a total credit of 9 units.",
+      "prerequisites": "Admissions to Masters Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": ""
+    },
+    {
+      "code": "ECI 5520",
+      "title": "Application of Knowledge to Instructional Models",
+      "units": "3",
+      "ge": null,
+      "coid": "436916",
+      "requirement": "Subplan/Option Electives: 12 units",
+      "description": "Reflection on curricula as spaces for critical thought and inquiry informed by critical theory, race, pedagogy, and literacy. Design and application of curricula that address socio-historical, socio-cultural, and socio-political contexts of curriculum in schools today. 3 seminars. May be taken up to two times, only with different topics, for a total credit of 6 units.",
+      "prerequisites": "Admissions to Masters Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": ""
+    },
+    {
+      "code": "ECI 5530",
+      "title": "Leadership in Multicultural Communities of Learners",
+      "units": "3",
+      "ge": null,
+      "coid": "436917",
+      "requirement": "Subplan/Option Electives: 12 units",
+      "description": "Inquiry into social, economic, cultural, linguistic, developmental, and other differences that marginalize learners in school policy and classroom practices within a global society. Development of school-, district-, and county-wide curricula that address the needs of diverse learners. 3 seminars. May be taken up to two times, only with different topics, for a total credit of 6 units.",
+      "prerequisites": "Admissions to Masters Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": ""
+    },
+    {
+      "code": "ECI 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438250",
+      "requirement": "Subplan/Option Electives: 12 units",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SPE 5352",
+      "title": "Advanced Curriculum and Instruction for Students with Disabilities",
+      "units": "3",
+      "ge": null,
+      "coid": "439027",
+      "requirement": "Subplan/Option Electives: 12 units",
+      "description": "Advanced study of theory and practice of curriculum and instruction for students with disabilities. Evaluation of current research and educational practices.",
+      "prerequisites": "Admitted to the Preliminary Education Specialist Credential or the MA in Education - Special Education Option.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "SPE 5356",
+      "title": "Comparative Special Education",
+      "units": "3",
+      "ge": null,
+      "coid": "436721",
+      "requirement": "Subplan/Option Electives: 12 units",
+      "description": "Comparative study of U.S. special education structures with various special education schooling practices around the world. Exploration of global issues in disability, advocacy, law and regulations, and the implementation of special education services in Pre-K through secondary education classrooms.",
+      "prerequisites": "Admitted to the MA in Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPE 5360",
+      "title": "Advanced Seminar in Behavioral Supports",
+      "units": "3",
+      "ge": null,
+      "coid": "437579",
+      "requirement": "Subplan/Option Electives: 12 units",
+      "description": "Application of principles of behavior, analysis of behavior, and evidence-based behavioral interventions and supports at an advanced level. Current best practices, ethical considerations, and culturally sustaining practices related to behavioral and mental health supports in the field of education will be examined.",
+      "prerequisites": "Admitted to the MA in Education - Special Education Option.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "SPE 5364",
+      "title": "Advanced Transition Planning Across the Lifespan",
+      "units": "3",
+      "ge": null,
+      "coid": "437817",
+      "requirement": "Subplan/Option Electives: 12 units",
+      "description": "Research and application in the coordination of transition planning and collaborative interagency issues related to transition across the lifespan with a focus on person-centered planning.",
+      "prerequisites": "Admitted to the MA in Education.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SPE 5368",
+      "title": "Dyslexia in the TK-12 Classroom",
+      "units": "3",
+      "ge": null,
+      "coid": "439413",
+      "requirement": "Subplan/Option Electives: 12 units",
+      "description": "An overview of the critical components of literacy development, assessment, and intervention as they apply to students with dyslexia. Focusing on (a) the effects of dyslexia on learning to read and write, (b) evidence-based intervention methods to assist students in acquiring reading skills, and (c) methods to support students with dyslexia in accessing general education, grade-level learning, and addressing the historical development of the field, relevant laws, and policies.",
+      "prerequisites": "Admitted to education specialist, multiple subject, or single subject credential program or Education Master’s program in either Special Education or Curriculum and Instruction option; prior coursework on typical literacy development and evidence-based methods for reading instruction; and EDU 5100 , EDU 5200 , EDU 5334 , or an equivalent literacy development and methods course.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "ERA 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438330",
+      "requirement": "Subplan/Option Electives: 12 units",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Admitted to MA Program, Multiple Subject, Single Subject, or Education Specialist Credential Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ERA 6950",
+      "title": "Master’s Degree Project",
+      "units": "1-6",
+      "ge": null,
+      "coid": "436920",
+      "requirement": "Culminating Experience: 3 units",
+      "description": "Independent research leading to the design, development and completion of a terminal project that demonstrates the skills and knowledge achieved in the graduate program.",
+      "prerequisites": "Open to graduate candidates with approval of Department Chair.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree.",
+      "when_offered": ""
+    },
+    {
+      "code": "ERA 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "1-6",
+      "ge": null,
+      "coid": "437689",
+      "requirement": "or",
+      "description": "Independent research leading to the design, implementation and completion of a research study that demonstrates the skills and knowledge achieved in the graduate program. Open to graduate candidates with approval of Department Chair.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ERA 6970",
+      "title": "Comprehensive Exam",
+      "units": "3",
+      "ge": null,
+      "coid": "437672",
+      "requirement": "or",
+      "description": "Preparation for and completion of an assessment of the student’s ability to integrate the knowledge in the area of emphasis, show critical and independent thinking, and demonstrate mastery of the subject matter evidenced through independent thinking, appropriate organization, critical analysis, and accuracy of documentation. This is a culminating activity for the Master’s of Arts in Education.",
+      "prerequisites": "Admitted to Master’s in Education, graduate standing, and advancement to candidacy.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "ECI 5500",
+    "ECI 5510",
+    "ECI 5520",
+    "ECI 5530",
+    "ECI 5990",
+    "ERA 5900",
+    "ERA 5990",
+    "ERA 6930",
+    "ERA 6950",
+    "ERA 6960",
+    "ERA 6970",
+    "SPE 5352",
+    "SPE 5356",
+    "SPE 5358",
+    "SPE 5360",
+    "SPE 5364",
+    "SPE 5366",
+    "SPE 5368",
+    "SPE 5370"
+  ]
+}

@@ -1,0 +1,1439 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:45:37+00:00",
+  "id": "mechanical-engineering",
+  "name": "Mechanical Engineering",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6322",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Mechanical Engineering Department Building 17 Room 2353 | (909) 869-2575 | Department Website | Faculty Directory Our mission is to provide a well-rounded, quality education based on fundamental and applied knowledge in mathematics, basic sciences, and mechanical engineering, enabling graduates of the program to become highly effective contributors and innovative leaders in industry and academia. The Mechanical Engineering Department offers an ABET‑accredited Bachelor of Science degree grounded in Cal Poly Pomona’s “learn by doing” philosophy. Students gain foundational knowledge in mechanics, thermofluids, instrumentation, energy systems, and control theory, then apply theory through hands‑on labs, design projects, and technical electives. The curriculum is designed to foster ethical decision‑making, environmental awareness, communication skills, and lifelong learning-preparing graduates to adapt and excel as engineers in a rapidly changing world. Moreover, faculty maintain active engagement in professional engineering societies, ensuring that coursework remains current and industry‑relevant. Students engage with cutting‑edge equipment and software-exploring energy systems, fluid machinery, and materials testing-while hands‑on labs reinforce technical competence. The senior capstone project culminates their design-based training, fostering teamwork and problem-solving under realistic conditions. Co-curricular involvement flourishes through ASME, SAE, ASHRAE, and honors society Pi Tau Sigma, offering professional networking, technical events, and competitions. Together with structured advising, internship support, and strong industry connectio",
+  "courses": [
+    {
+      "code": "ME 1001L",
+      "title": "Engineering Graphics and Visualization Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436547",
+      "description": "Engineering graphics & visualization for product design & manufacturing. Drafting methods & techniques including multiview orthographic projection, isometrics and pictorials, sections & auxiliary views, dimensioning and tolerancing. Drafting and sketching using instruments and CAD.",
+      "prerequisites": "ME major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 1101",
+      "title": "Computer-Aided Computations",
+      "units": "1",
+      "ge": null,
+      "coid": "436548",
+      "description": "Problems involving basic computational methods including elementary concepts of computer programming. Proficiency will be gained in writing computer programs to solve engineering problems. Assignments include the use of the computer facilities. Assignments include the use of the computer facilities. Corequisite(s): ME 1101L .",
+      "prerequisites": "C or better in MAT 114, MAT 1140 , or MAT 1140C.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 1101L",
+      "title": "Computer-Aided Computations Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437495",
+      "description": "Problems involving basic computational methods including elementary concepts of computer programming. Proficiency will be gained in writing computer programs to solve engineering problems. Assignments include the use of the computer facilities. Corequisite(s): ME 1101 .",
+      "prerequisites": "C or better in MAT 114, MAT 1140 , or MAT 1140C.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438566",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 2141",
+      "title": "Vector Statics",
+      "units": "3",
+      "ge": null,
+      "coid": "436551",
+      "description": "Two and three dimensional equilibrium of particles and rigid bodies including frames, machines and trusses employing vector algebra. Principles of friction, centroids and centers of gravity, mass and area moments of inertia. Shear and moment diagrams for beams.",
+      "prerequisites": "ME major; C or better in MAT 1140 or MAT 114; and C- or better in the following: PHY 1510 or PHY 131, and PHY 1510L or PHY 131L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 2150",
+      "title": "Vector Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "436552",
+      "description": "Cross Listed as: ARO 2150 Vector mathematics of absolute and relative motion of particles and the planar motion of rigid bodies in an inertial reference frame using Cartesian, Normal and Tangential and Polar Coordinate Systems; Newton’s laws of motion, work-energy, linear and angular impulse momentum, direct and oblique central impact.",
+      "prerequisites": "C- or better in ME 2141 or ME 214, or C or better in ARO 2041 or CE 2041 ; and C or better in MAT 1150 , MAT 1150C, or MAT 116.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 2191",
+      "title": "Mechanics of Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "436553",
+      "description": "Strength and elastic deflection of engineering materials due to loads applied axially, in torsion, in bending, and in shear. Normal Stress-Strain diagrams, Shear Stress-Strain Diagrams, Generalized Hookâ€™s Law, Mohrâ€™s Circle; deflection and slope of beams by double integration, stresses on oblique planes, statically indeterminate members under axial, torsional and bending loads; combined stresses and principal stresses.",
+      "prerequisites": "ME major, and C- or better in ME 2141 or ME 214.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 2331",
+      "title": "Introduction to Design",
+      "units": "2",
+      "ge": null,
+      "coid": "436554",
+      "description": "Introduction to engineering design. Design process. Defining design problems and requirements. Concept design and evaluation. Product development and evaluation. Design and creativity methodologies. Simple and compound machines. Machine elements and mechanical systems. Multi-disciplinary nature of design. Communication, teamwork, and professional responsibilities.",
+      "prerequisites": "ME major and C- or better in the following: ME 1001L , or MFE 126 and MFE 126L; and ME 2141 or ME 214.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "ME 2331L",
+      "title": "Introduction to Design Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437497",
+      "description": "Project-based lab focusing on hands-on independent and team design projects. Systematic approach to engineering design: concept generation, prototyping, and testing. Emphasizing multidisciplinary engineering, technical communication, and creative problem-solving.",
+      "prerequisites": "ME major and C- or better in the following: ME 1001L , or MFE 126 and MFE 126L; and ME 2141 or ME 214.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 2401",
+      "title": "Circuit Analysis For Mechanical Engineers",
+      "units": "2",
+      "ge": null,
+      "coid": "451021",
+      "description": "Analysis of electrical components and circuits. Ohmâ€™s law, Kirchoffâ€™s Laws, ThÃ©venin and Norton Theorems, diode characteristics. Properties of 1st order low-pass and high-pass filters. Time-domain analysis of 2nd order circuits. Corequisite(s): ME 2401L .",
+      "prerequisites": "ME major and C- or better in PHY 1520 , PHY 1520L , and MAT 2240 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 2401L",
+      "title": "Circuit Analysis For Mechanical Engineers Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "451022",
+      "description": "Hands-on practices related to electrical components and circuits analysis, Ohmâ€™s law, Kirchoffâ€™s Laws, properties of 1st order low-pass and high-pass filters. Laboratory measurement of electrical quantities such as voltage and current. Multimeter, oscilloscope, and function generator operation in conjunction with virtual electronics analysis environment. Corequisite(s): ME 2401 .",
+      "prerequisites": "ME major and C- or better in PHY 1520 , PHY 1520L , and MAT 2240 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438567",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438568",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438569",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 3011",
+      "title": "Thermodynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "436555",
+      "description": "Thermodynamic properties and processes; equations of state; tables and charts of thermodynamic properties; work and heat, the first law of thermodynamics and first law properties; the second law of thermodynamics and entropy; gas power cycles.",
+      "prerequisites": "C- or better in the following: ARO 2041 , CE 2041 , ME 2141 , or ME 214.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 3070",
+      "title": "Alternative Energy Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435194",
+      "description": "Analysis and synthesis of energy systems, their interconnectedness and impact on the environment and society. Topics include solar, geothermal, wind, biomass, hydro and ocean resources, electrochemical energy systems, conversion, storage, and distribution.",
+      "prerequisites": "C- or better in CHE 3021 , ME 3011 , or ME 301.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 3111",
+      "title": "Fluid Mechanics",
+      "units": "3",
+      "ge": null,
+      "coid": "436556",
+      "description": "Analysis and problems dealing with properties and behavior of fluids at rest and in motion. Fundamental concepts; fluid statics; transport theorem; flow of incompressible frictionless fluid; laminar and turbulent flow of real fluids in closed conduits; impulse and momentum applied to fluids; Similarity and dimensional analysis; steady closed conduit flow in series, parallel and branching pipes; pump/pipe networks; pump characteristics.",
+      "prerequisites": "Mechanical Engineering major, C or better in MAT 2140 or MAT 214, and C- or better in ME 2150 or ME 215.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 3121",
+      "title": "Intermediate Thermal-Fluids Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "436557",
+      "description": "Thermo/fluids measurements; Vapor and combined power cycles; Refrigeration cycles; Thermodynamic property relations; Mixtures of ideal and real gases; Psychrometric chart; Combustion; Boundary layers, drag and lift; Compressible flow.",
+      "prerequisites": "C- or better in the following: ME 3011 , or ME 301; and ME 3111 , or ME 312.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 3131L",
+      "title": "Thermal-Fluids Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436558",
+      "description": "Measurement of viscosity of fluids, centrifugal pump and/or fan performance, turbine performance, pressure drop in pipe systems, flow rate meters, jet momentum, air velocity distribution in ducts, air conditioning and refrigeration systems, dimensional analysis, oxygen bomb calorimetry, steam power cycle, and heat exchanger. Proficiency will be gained in the calibration and use of laboratory equipment, design of basic fluid mechanics and thermodynamics experiments, the acquisition, processing, and analysis of data by manual and automated methods, and report writing. Corequisite(s): ME 3121 or ME 312.",
+      "prerequisites": "C- or better in GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 3150",
+      "title": "Engineering Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "435197",
+      "description": "A study of the relationship among structure, processing and properties of engineering materials; strengthening mechanisms for ferrous and non-ferrous metals and the application of such materials in engineering situations; phase diagrams and their relevance to the structure, processing and properties of metallic alloys; mechanical behavior of polymers, ceramics and composites and their applications in engineering practice; corrosion and degradation of materials; introduction to nanomaterials.",
+      "prerequisites": "CHM 1150 , CHM 1210 , or CHM 121; and C- or better in ME 2191 or ME 218.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 3190",
+      "title": "Stress Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "435198",
+      "description": "Thin and thick-walled pressurized cylinders, rotating rings, thermal stress, press and shrink fits, curved beams, contact stresses. Deflections of beams by singularity functions and superposition, strain energy, Castiglianoâ€™s theorem, statically indeterminate problems, buckling, experimental stress analysis, and other special topics. Failure theories, stress concentration, steady and repeated loading. Fatigue and endurance strength. Corequisite(s): ME 3150 and ME 3501L .",
+      "prerequisites": "Mechanical Engineering major and C- or better in the following: ME 2191 or ME 219, and ME 2331L or ME 233L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 3250",
+      "title": "Machine Design",
+      "units": "3",
+      "ge": null,
+      "coid": "435597",
+      "description": "Design and application of machine components such as shaft, threaded fasteners, springs, brakes, clutches, gears, flexible machine elements, and bearings. Lubrication of machine elements. Design techniques and design methodology of a machine. Project management. Corequisite(s): ME 3250L .",
+      "prerequisites": "ME major; MFE 2010 or MFE 201; MFE 2010L or MFE 201L; and C- or better in the following: ME 2150 or ME 215, and ME 3190 or ME 319.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 3250L",
+      "title": "Machine Design Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436210",
+      "description": "Design and application of machine components such as brakes, clutches, gears, flexible machine elements, and bearings. Lubrication of machine elements. Design techniques and design of a simple machine. Corequisite(s): ME 3250 .",
+      "prerequisites": "MFE 2010 or MFE 201; MFE 2010L or MFE 201L; and C- or better in the following: ME 2150 or ME 215, and ME 3190 or ME 319.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 3401",
+      "title": "Synthesis of Mechanical Engineering Problems",
+      "units": "2",
+      "ge": null,
+      "coid": "436559",
+      "description": "Analysis and synthesis of steady-state and transient-state mechanical engineering problems. Topics include: ordinary differential equations, Laplace Transform, Fourier series, partial differential equations, and probability and statistics (uncertainty analysis, random sampling, hypothesis testing).",
+      "prerequisites": "C- or better in MAT 2240 , MAT 216, or MAT 224; and ME major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 3501L",
+      "title": "Mechanics, Behavior and Selection of Materials Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436560",
+      "description": "Standard physical tests of engineering materials including torsion, tension, compression and bending. Experimental stress analysis using strain gages. Examination of the effects of cold working, annealing, and heat treatment on the mechanical properties of materials. Experiments involving galvanic corrosion and behavior of polymers and ceramics under load. Experiments on creep of polymers and metals. Material selection for prescribed applications. Corequisite(s): ME 3150 or ME 315.",
+      "prerequisites": "C- or better in GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438570",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 4050",
+      "title": "Acoustics and Noise Control",
+      "units": "3",
+      "ge": null,
+      "coid": "435599",
+      "description": "Wave equation, fundamental acoustic parameters (Lp , Lw , LI ), noise criteria and regulations, noise source, noise measurement, noise absorption and transmission, room acoustics, noise suppression by absorption, isolation and resonators. Case studies in noise control and reduction.",
+      "prerequisites": "C- or better in ME 3111 or ME 311, ME 4351 or ME 435, and ME 4351L or ME 435L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4060",
+      "title": "Finite Element Analysis",
+      "units": "2",
+      "ge": null,
+      "coid": "435601",
+      "description": "Analysis and synthesis of steady-state and transient engineering problems associated with stiffness and influence coefficients, shape functions, element stiffness, coordinate transformations, and assembling of stiffness matrix. Solution to give deflections and forces, or analogous parameters for heat transfer and fluid flows. Apply a widely-used finite element computer program (NASTRAN) to structure design, heat transfer and/or fluid flow. Corequisite(s): ME 4060A .",
+      "prerequisites": "C- or better in ME 3401 or ME 340, and ME 3190 or ME 319.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 4060A",
+      "title": "Finite Element Analysis Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "436211",
+      "description": "Analysis and synthesis of steady-state and transient engineering problems associated with stiffness and influence coefficients, shape functions, element stiffness, coordinate transformations, and assembling of stiffness matrix. Solution to give deflections and forces, or analogous parameters for heat transfer and fluid flows. Apply a widely-used finite element computer program (NASTRAN) to structure design, heat transfer and/or fluid flow. Corequisite(s): ME 4060 .",
+      "prerequisites": "C- or better in the following: ME 3401 or ME 340, and ME 3190 or ME 319.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 4070",
+      "title": "Solar Thermal Engineering",
+      "units": "2",
+      "ge": null,
+      "coid": "436202",
+      "description": "Solar radiation distribution and measurement; methods of solar energy collection; thermal analysis of flat plate solar collectors; experimental testing and efficiency determination; solar energy economics; transient and long-term system performance; photovoltaics (PV); computer modeling for solar and water heating applications. Corequisite(s): ME 4070L .",
+      "prerequisites": "C- or better in ME 4150 or ME 415.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4070L",
+      "title": "Solar Thermal Engineering Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436223",
+      "description": "Solar radiation distribution and measurement; methods of solar energy collection; thermal analysis of flat plate solar collectors; experimental testing and efficiency determination; solar energy economics; transient and long-term system performance; photovoltaics (PV); computer modeling for solar and water heating applications. Corequisite(s): ME 4070 .",
+      "prerequisites": "C- or better in ME 4150 or ME 415.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4080",
+      "title": "Nuclear Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435602",
+      "description": "Nuclear power plant design, operation and safety, reactor vessel internal and core components, nuclear physics, neutron reactions, fission and moderation; reactor physics and reactor kinetics.",
+      "prerequisites": "C or better in MAT 2240 , MAT 216, or MAT 224; and C- or better in the following: PHY 1520 or PHY 133; and ME 3011 or ME 301.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4110",
+      "title": "Heat Power",
+      "units": "2",
+      "ge": null,
+      "coid": "435603",
+      "description": "Application of the principles of thermodynamics to actual power plant cycles. Rankine cycle and its variations; boiler and steam turbine heat balance and efficiency; steam plant auxiliaries; plant heat balance and efficiency; gas turbine and combined cycles. Corequisite(s): ME 4110L .",
+      "prerequisites": "C- or better in ME 3121 , or ME 302 and ME 311.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4110L",
+      "title": "Heat Power Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436212",
+      "description": "Application of the principles of thermodynamics to actual power plant cycles. Rankine cycle and its variations; boiler and steam turbine heat balance and efficiency; steam plant auxiliaries; plant heat balance and efficiency; gas turbine and combined cycles. Corequisite(s): ME 4110 .",
+      "prerequisites": "C- or better in ME 3121 , or ME 302 and ME 311.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4120",
+      "title": "Internal Combustion Engines",
+      "units": "2",
+      "ge": null,
+      "coid": "435604",
+      "description": "The development of analytical and experimental techniques to estimate the performance of internal combustion engines. Discussion includes ideal and actual cycles, combustion, carburetion, fuel injection, ignition, supercharging, cooling, and fuels as applied to spark ignition and compression ignition engines. Corequisite(s): ME 4120L .",
+      "prerequisites": "C- or better in ME 3121 or ME 302.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4120L",
+      "title": "Internal Combustion Engines Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436213",
+      "description": "The development of analytical and experimental techniques to estimate the performance of internal combustion engines. Discussion includes ideal and actual cycles, combustion, carburetion, fuel injection, ignition, supercharging, cooling, and fuels as applied to spark ignition and compression ignition engines. Corequisite(s): ME 4120 .",
+      "prerequisites": "C- or better in ME 3121 or ME 302.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4131",
+      "title": "Mechanical Vibrations",
+      "units": "3",
+      "ge": null,
+      "coid": "436561",
+      "description": "Rotating unbalance, vibration isolation, vibration measuring instruments, vibration of multiple degree of freedom systems, normal modes analysis, flexibility and stiffness coefficients, transfer matrices, computational methods, the finite element method and continuous systems. Additional special topics selected by the instructor.",
+      "prerequisites": "C- or better in ME 3401 or ME 340, and C- or better in ME 2150.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4150",
+      "title": "Heat Transfer",
+      "units": "3",
+      "ge": null,
+      "coid": "435605",
+      "description": "Basic principles of conduction, convection, and radiation heat transfer. One-dimensional and multi-dimensional conduction, steady and unsteady state. Theoretical and empirical relations for free and forced convection in external surface flows and in internal flows. Basic laws of radiation heat transfer, radiation properties of surfaces and radiant energy exchange among simple surfaces. Corequisite(s): ME 3121 .",
+      "prerequisites": "C- or better in the following: MAT 2240 , MAT 216, or MAT 224; ME 3011 or ME 301; and ME 3111 or ME 311.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 4160",
+      "title": "Intermediate Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435606",
+      "description": "Three-dimensional particle dynamics and rigid body kinematics, motion relative to rotating reference frames, moments and products of inertia, momentum and energy principles, rotating shafts, gyroscopic motion, free tumbling motion, virtual work, Hamilton’s principle, Lagrange dynamics.",
+      "prerequisites": "C or better in MAT 2240 , MAT 216, or MAT 224; and C- or better in ME 2150 or ME 215.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4180",
+      "title": "Air Conditioning",
+      "units": "2",
+      "ge": null,
+      "coid": "435607",
+      "description": "Thermodynamic processes in buildings, thermal review of psychrometrics; building psychometric processes; comfort and air quality; building air distribution systems; principles of refrigeration; refrigeration equipment; heating equipment; air conditioning system types; contemporary topics on building energy efficiency and green building design and simulation. Corequisite(s): ME 4180L .",
+      "prerequisites": "C- or better in the following: ME 3121 , or ME 302 and ME 312; and ME 4150 or ME 415.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4180L",
+      "title": "Air Conditioning Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436214",
+      "description": "Thermodynamic processes in buildings, thermal Review of psychrometrics; building psychometric processes; comfort and air quality; building air distribution systems; principles of refrigeration; refrigeration equipment; heating equipment; air conditioning system types; Contemporary topics on building energy efficiency and green building design and simulation; Use of industry standard software TRACE 3D Plus to complete team course design projects. Corequisite(s): ME 4180 .",
+      "prerequisites": "C- or better in the following: ME 3121 , or ME 302 and ME 312; and ME 4150 or ME 415.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4210",
+      "title": "Dynamics of Machinery",
+      "units": "3",
+      "ge": null,
+      "coid": "435608",
+      "description": "Type synthesis and number synthesis. Path, function and motion generation mechanisms. Quick return, dwell and straight line mechanisms. Intermittent motion. Graphical synthesis of linkage mechanisms. 4-bar and six-bar mechanisms. Position, velocity and acceleration analysis of mechanisms by graphical, analytical and computer techniques. Instant center. Mechanical advantage. Determination of static and dynamic forces on linkages. CAM design and analysis. Compliant mechanisms. Balancing of rotating masses. Critical speeds of shafts. Analysis of gyroscopic action with applications.",
+      "prerequisites": "C- or better in ME 2150 or ME 215.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4230",
+      "title": "Mechanics of Composite Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "436247",
+      "description": "An introduction to composite materials; relationship between the properties of the constituents and those of composite materials; empirical equations used to determine the strength and stiffness properties of Fiber Reinforced Composites (FRCs); mechanics of orthotropic materials, analysis of fiber reinforced composite lamina, lamination theory and its application in Fiber Reinforced Composites; hygrothermal effects; design methodology and design for stiffness and strength, use of carpet plots and simplified design methods.",
+      "prerequisites": "C- or better in ME 3150 or ME 315; C- or better in ME 3190 or ME 319; and C or better in MAT 2240 , MAT 216, or MAT 224.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4251",
+      "title": "Advanced Machine Design and Analysis",
+      "units": "2",
+      "ge": null,
+      "coid": "436248",
+      "description": "The role and usage of analysis in design, engineering judgment of students in the idealization and modelling of real machine components and structures. Evaluation of machine structures quickly and efficiently, using both classical hand analysis and finite element analysis methods. Corequisite(s): ME 4251L .",
+      "prerequisites": "C- or better in the following: ME 3250 or ME 325, and ME 3250L or ME 325L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4251L",
+      "title": "Advanced Machine Design and Analysis Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436562",
+      "description": "The role and usage of analysis in design, seeking to hone the engineering judgment of students in the idealization and modelling of real machine components and structures, such that students will be able to evaluate machine structures quickly and efficiently, using both classical hand analysis and finite element analysis methods and comparing their results. Corequisite(s): ME 4251 .",
+      "prerequisites": "C- or better in the following: ME 3250 or ME 325, and ME 3250L or ME 325L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4271",
+      "title": "Thermal Systems Design",
+      "units": "3",
+      "ge": null,
+      "coid": "436563",
+      "description": "Preliminary design and preparation of specifications for procurement of thermal fluid mechanical equipment to meet performance requirements. Projects",
+      "prerequisites": "C- or better in the following: ME 3121 or ME 312, and ME 4150 or ME 415.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 4330",
+      "title": "Engineering Computational Methods",
+      "units": "3",
+      "ge": null,
+      "coid": "435609",
+      "description": "Numerical techniques applied to engineering problems including solving systems of linear equations, finding roots of non-linear equations, numerical integration and differentiation, numerical solution of ordinary and partial differential equations, and curve fitting.",
+      "prerequisites": "C or better in MAT 2240 , MAT 216, or MAT 224; and C- or better in ME 1101 and ME 1101L , or ME 232.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4351",
+      "title": "Mechanical Measurements",
+      "units": "2",
+      "ge": null,
+      "coid": "438961",
+      "description": "Analysis of the generalized measurement system with application of sensing, signal conditioning and data acquisition to problems of engineering measurements. Uncertainty Analysis, First- and Second-order system models, Transfer functions, Time- and Frequency-domain Analysis, Bode Diagrams, Dynamic Signals, Filters, Sensors. Corequisite(s): ME 4351L .",
+      "prerequisites": "ME major and C- or better in ME 2401 , ME 2401L , ME 3131L , and ME 3401 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 4351L",
+      "title": "Mechanical Measurements Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "438962",
+      "description": "Analysis of the generalized measurement system with application of sensing, signal conditioning and data acquisition to problems of engineering measurements. Uncertainty Analysis, First- and Second-order system models, Transfer functions, Time- and Frequency-domain Analysis, Bode Diagrams, Dynamic Signals, Filters, Sensors. Corequisite(s): ME 4351 .",
+      "prerequisites": "ME major and C- or better in ME 2401 , ME 2401L , ME 3131L , and ME 3401 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 4391",
+      "title": "Control of Mechanical Systems",
+      "units": "2",
+      "ge": null,
+      "coid": "436564",
+      "description": "Feedback control system design and analysis. Stability criteria, root locus plots, transfer functions, introduction to feedback control and microprocessor applications. Frequency response, Bode Plots, frequency domain stability design. Concepts of PID controller tuning. Programming of control systems using microprocessors. Corequisite(s): ME 4391L .",
+      "prerequisites": "C- or better in ME 4351 and ME 4351L or ME 435 and ME 435L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 4391L",
+      "title": "Control of Mechanical Systems Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437496",
+      "description": "Feedback control system design and analysis. Stability criteria, root locus plots, transfer functions, introduction to feedback control and microprocessor applications. Frequency response, Bode Plots, frequency domain stability design. Concepts of PID controller tuning. Programming of control systems using microprocessors. Corequisite(s): ME 4391 .",
+      "prerequisites": "C- or better in ME 4351 and ME 4351L , or ME 435 and ME 435L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "mechanical-engineering-b-s",
+        "mechanical-engineering-b-s-roadmap-4-year-125-units"
+      ]
+    },
+    {
+      "code": "ME 4441",
+      "title": "Air Pollution Formation and Control",
+      "units": "3",
+      "ge": null,
+      "coid": "437577",
+      "description": "Atmosphere characteristics; Formation of primary and secondary air pollutants including tropospheric ozone, NOx, SOx, aerosols, and VOCs; Air pollution control strategies and technologies; Impacts of air pollution on health and environment; Stratospheric ozone destruction; Global climate change.",
+      "prerequisites": "C- or better in ME 3121 , or ME 302 and ME 312.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4450",
+      "title": "Safe Product Design and Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "437652",
+      "description": "A study of the engineering tools and methods used to design products in such a way as to prevent accidents and injuries from occurring, and to establish causation if an accident or injury does occur. Major tools discussed include: the use of industry standards and government regulations, warnings and labels, Fault Tree Analysis (FTA), and Failure Modes and Effects Analysis (FMEA). Failure analysis case studies from real cases, as well as group projects involving the analysis of real commercial products are utilized to illustrate concepts. Discussion of product liability litigation issues.",
+      "prerequisites": "C- or better in ME 2150 or ME 215, C- or better in ME 3150 or ME 315, and C- or better in ME 3190 or ME 319.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4510",
+      "title": "Entertainment Design Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "439449",
+      "description": "Selection of a compelling story for an amusement park ride, and incorporation of the story into waiting area, ride design, and AR/VR elements. Economic feasibility. Introduction to the design of all elements of the ride including track layout, structural analysis, vehicle design, dynamics, propulsion, and brakes. Passenger safety considerations including collision avoidance, safe accelerations, passenger restraints, clearance envelopes, emergency egress, emergency brake design. Knowledge of finite element analysis (for example ME 4060) is useful, but not necessary.",
+      "prerequisites": "C- or better in ME 2150 and C- or better in ME 3190 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4622",
+      "title": "Undergraduate Seminar",
+      "units": "1",
+      "ge": null,
+      "coid": "435611",
+      "description": "New developments, policies, practices, procedures and ethics in mechanical engineering. Each student is responsible for the preparation of a senior project proposal or a position paper on a current technical controversy that impacts on society and the development and oral presentation of a topic in the field of mechanical engineering. Corequisite(s): EGR 4830 .",
+      "prerequisites": "ME major; and C- or better in the following: ME 3190 or ME 319; and ME 3121 , or ME 302 and ME 312.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 4801",
+      "title": "Introduction to Micro-Electromechanical Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "437578",
+      "description": "An introduction of Micro-electromechanical systems (MEMS), which is the integration of mechanical elements, sensors, actuators, and electronics with a dimension of micrometers. It has been found increased application in a variety of industrial areas including; semi-conductors, automation, and biomedical fields. Exploration of various aspects of MEMS, including materials, design, fabrication and applications of MEMS. Top-level survey of MEMS encompassing broad coverage of this multidisciplinary field.",
+      "prerequisites": "C- or better in the following: ME 3150 or ME 315, ME 3121 or ME 312, ME 4351 or ME 435, and ME 4351L or ME 435L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438571",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "ME major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438572",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "ME major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438573",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "ME major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-b-s"
+      ]
+    },
+    {
+      "code": "ME 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438574",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 5200",
+      "title": "Elasticity",
+      "units": "3",
+      "ge": null,
+      "coid": "435898",
+      "description": "Theory of stress and strain for continuous media. Stress-strain relations of linearized elasticity. Plane problems in rectangular and polar coordinates. Plane problems in linear elastic fracture mechanics. Energy theorems. Introduction to thermoelasticity.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5220",
+      "title": "Fracture of Solids",
+      "units": "3",
+      "ge": null,
+      "coid": "435900",
+      "description": "Engineering and microscopic approaches to fracture; temperature and environmental effects; effect of cyclic loads; application and limits of Linear Elastic Fracture Mechanics.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5230",
+      "title": "Advanced Classical Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435903",
+      "description": "Lagrange’s equations, Hamilton’s principle, Variational principal, Equation of motion in Eulerian angle system, Characteristic equation of inertia matrix. 3 hours lectures/problem-solving.",
+      "prerequisites": "Graduate standing or ME 4160 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5251",
+      "title": "Advanced Continuous Vibrations",
+      "units": "3",
+      "ge": null,
+      "coid": "437624",
+      "description": "Equations of motion for strings, membranes, prismatical bars, and plates for various boundary conditions; approximate methods for complicated shapes; wave propagation in elastic media. 3 hours lectures/problem-solving.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5300",
+      "title": "Advanced Engineering Thermodynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435940",
+      "description": "Development of conceptual core of four linked elements in advanced engineering thermodynamics: entropy and second law of thermodynamics, the canonical probability distribution, the partition function, and the chemical potential, and its applications in phase equilibrium, the classic limits, and transport processes.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5310",
+      "title": "Conduction Heat Transfer",
+      "units": "3",
+      "ge": null,
+      "coid": "435943",
+      "description": "Fundamentals of heat conduction; approximate and exact analytical methods; finite and semi-infinite bodies; one-dimensional composite media; phase change problems; nonlinear problems; heat transfer in anisotropic solids.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5320",
+      "title": "Convective Heat Transfer",
+      "units": "3",
+      "ge": null,
+      "coid": "435947",
+      "description": "Conservation principles. Fluid stresses and flux laws. Laminar and turbulent boundary layers. Internal flow; non-circular cross section, entry-length, asymmetric heating. External flow; variable velocity, injection, specified temperature and heat flux distribution. Temperature dependent fluid properties. Computer solutions.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5330",
+      "title": "Radiation Heat Transfer",
+      "units": "3",
+      "ge": null,
+      "coid": "435950",
+      "description": "Radiation properties of surfaces; radiant interchange among surfaces separated by radiatively non-participating media including the interchange among black and gray surfaces; radiant energy transfer through absorbing, emitting, and scattering media. 3 hours lectures/problem-solving.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5340",
+      "title": "Combustion Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "435952",
+      "description": "Molecular structure and statistical thermodynamics. Real gases. Transport phenomena. Chemical reactions in gases. Reactive gas dynamics. Combustion phenomena and diffusion flames. Premixed gas flames; flame propagation, cellular flames, quenching. Aerodynamics of flames; flame shape, turbulent flames. Detonation. Applications.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5400",
+      "title": "Advanced Mechanics of Materials",
+      "units": "3",
+      "ge": null,
+      "coid": "435906",
+      "description": "Stress and strain analysis, 2-D elasticity problems, unsymmetrical bending, shear center, torsion of prismatic members, inelastic and plastic behavior in torsion and bending, topics from: micro-mechanics of composite materials, energy methods, failure theories, theory of plates, thick walled pressure vessels.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5431",
+      "title": "Advanced Finite Element Modeling",
+      "units": "3",
+      "ge": null,
+      "coid": "436565",
+      "description": "Emphasis is placed on the advanced modeling techniques that the graduate engineer is likely to encounter as stress analysis or dynamics engineer in industry. Minimal time is spent on the FEA theory. The majority of the time is spent solving real world problems. A basic background in the FEA method is be helpful.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5600",
+      "title": "Advanced Transport Phenomena",
+      "units": "3",
+      "ge": null,
+      "coid": "435954",
+      "description": "Differential balances for momentum, heat, and mass transfer. Convective energy, mass, and momentum transfer; internal and external flow, exact and approximate solutions. Application for space vehicle re-entry, binary and multicomponent systems, nuclear reactor cooling, mass transfer and heat exchanger analysis.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5610",
+      "title": "Advanced Fluid Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435955",
+      "description": "Governing field laws: mass, momentum, energy. Reynolds’ Transport Theorem: mass momentum energy. Cartesian tensor notation. Rotation, stress, rate-of strain relations. Flow kinematics. Ideal fluid flow. Conformal transformations. Viscous flows: pipe, flat plate.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5620",
+      "title": "Computational Fluid Dynamics",
+      "units": "3",
+      "ge": null,
+      "coid": "435959",
+      "description": "Fundamentals of finite-difference, finite element and finite volume methods; partial differential equation classification; difference representation; stability; errors; dynamics of a body moving thorough a fluid medium; boundary layers; compressible shock waves; SIMPLE method; PSIO method; turbulence modeling; applications.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5631",
+      "title": "Two Phase Flow and Boiling Heat Transfer",
+      "units": "3",
+      "ge": null,
+      "coid": "437889",
+      "description": "Pool boiling and flow boiling; modeling of two-phase flow; force-convection boiling; critical heat flux; thermal hydraulic behavior of boiling devices; applications. 3 hours lecture/problem-solving.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5641",
+      "title": "Porous Medium Flow and Heat Transfer",
+      "units": "3",
+      "ge": null,
+      "coid": "437890",
+      "description": "Fluid flow and heat transfer in porous media; Material properties; Darcy’s Law; Brinkman’s Model; Forced Convection in Porous Medium; Natural Convection in Porous Medium; Radiation Heat Transfer in Porous Medium; Applications. 3 hours lecture/problem-solving.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5651",
+      "title": "Biofluid Mechanics",
+      "units": "3",
+      "ge": null,
+      "coid": "436566",
+      "description": "Introduction to cardiovascular physiology, Poiseuille flow, pulsatile flow in rigid tubes, pulsatile flow in large arteries, blood flow in the microcirculation, flow and pressure measurement, prosthetic heart valves, prosthetic arteries, dimensional analysis and modeling.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5661",
+      "title": "Robot Dynamics and Controls",
+      "units": "3",
+      "ge": null,
+      "coid": "437891",
+      "description": "Overview of Robotics, Homogeneous Transformation, Denavit-Hartenberg Convention, Forward and Inverse Kinematics, Velocity Kinematics and Manipulator Jacobian, Dynamic Modeling of Robot Manipulators Using Lagrangian Dynamics, Iterative Newton-Euler Formulation, Independent Joint Controls, Stability Analysis, Lyapunov Methods, Computed-Torque and Other Control Methods.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5700",
+      "title": "Nonlinear Dynamical Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435907",
+      "description": "Complementary methods of nonlinear modeling of physical, chemical and fluid systems. Analytic, topologic and computational perspectives. Dimensions and fractals. Bifurcations and catastrophes. Deterministic Chaos. Solutions. Applications to ecology, by hydrodynamics, electrical and mechanical systems.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5711",
+      "title": "Fundamentals of Robotics",
+      "units": "3",
+      "ge": null,
+      "coid": "437920",
+      "description": "An overview of robotic systems; Topics include common robotic mechanisms, dynamics, planar and 3-D kinematics, manipulators, robotic controls, actuators, sensors, and microprocessors. Other topics that may be included are wireless communication and control, human-machine interfacing, and multiple robot networks. A hands-on robot project is required demonstrating the usage robotic mechanisms and control.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5721",
+      "title": "Systems and Signals",
+      "units": "3",
+      "ge": null,
+      "coid": "437879",
+      "description": "Introduces mathematical modeling of linear systems using a state variable approach and using these models to assess the stability and equilibrium of the system as well as its controllability and observability. Canonical representations of these systems will also be examined along with using state feedback and pole placement to modify the behavior of the system.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5731",
+      "title": "Robotic Sensing Technology",
+      "units": "3",
+      "ge": null,
+      "coid": "437921",
+      "description": "An in-depth study of sensors commonly used in robots systems, data acquisition, digital signal processing (DSP), memory storage techniques, and sensor interfacing. Sensor studied will include accelerometers, ultrasonic and IR displacement sensors, GPS, gyroscopic, cameras, lasers and others. Practical wireless communication such as near file communication (NFC), Bluetooth, ZigBee, and Wi-Fi will be discussed as it pertains to sensor interfacing and digital signal processing. A hands-on project is required to demonstrating the use of sensor and signal processing is required.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5741",
+      "title": "Biomechanical Robots",
+      "units": "3",
+      "ge": null,
+      "coid": "437918",
+      "description": "Biological and Artificial Sensors, Biologically Inspired Actuation, Prosthetics: Artificial Limbs and Organs, Human-Robot Interaction: Haptic Systems, Robot-Aided Surgery, Neural Control of Movement, Applied Musculoskeletal Modeling, Passive Dynamics: Bipedal Walking Robots.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5751",
+      "title": "Robot Motion Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "437919",
+      "description": "Basic concepts of motion planning, state space, time, action, configuration space, geometric representation and transformation, algorithms, computational issues of automatic planning of motion for mobile robots and arm manipulators, representations of state and movement, potential functions, roadmaps, cell decompositions, robot dynamics, basic control, constrained motion, hybrid planning and control.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5801",
+      "title": "Micro-Electromechanical System",
+      "units": "3",
+      "ge": null,
+      "coid": "437629",
+      "description": "An introduction of Micro-electromechanical systems (MEMS), which is the integration of mechanical elements, sensors, actuators, and electronics with a dimension of micrometers. It has been found increased application in a variety of industrial areas including; semi-conductors, automation, and biomedical fields. Exploration of various aspects of MEMS, including materials, design, fabrication and applications of MEMS. Top-level survey of MEMS encompassing broad coverage of this multidisciplinary field.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5811",
+      "title": "Nanotechnology",
+      "units": "3",
+      "ge": null,
+      "coid": "437892",
+      "description": "Introduction to Nanotechnology, Nanomaterials Processing and Nanomanufacturing. Nanofabrication and Nanomanufacturing science and various modern technologies. nanomaterials, nanofabrication techniques, nanomanufacturing and the simulations. 3 hours lecture/discussion.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438575",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438576",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438577",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438827",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438828",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "ME 6940",
+      "title": "Master’s Thesis/Project Research",
+      "units": "1",
+      "ge": null,
+      "coid": "436171",
+      "description": "Individual study program under supervision of master’s project advisor. Presentation of proposal for project in acceptable written form. Credit assigned upon acceptance of proposal. Credit assigned upon acceptance of proposal.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 6950",
+      "title": "Master’s Degree Project",
+      "units": "2",
+      "ge": null,
+      "coid": "436169",
+      "description": "Individual and independent work based on the project proposal, plan and schedule approved by advisor. Regular meetings and discussions with advisor.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "436170",
+      "description": "Individual and independent work based on the project proposal, plan and schedule approved by advisor. Regular meetings and discussions with advisor.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "mechanical-engineering-m-s"
+      ]
+    },
+    {
+      "code": "ME 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438578",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "mechanical-engineering-b-s",
+      "name": "Mechanical Engineering, B.S."
+    },
+    {
+      "id": "mechanical-engineering-m-s",
+      "name": "Mechanical Engineering, M.S."
+    },
+    {
+      "id": "mechanical-engineering-b-s-roadmap-4-year-125-units",
+      "name": "Mechanical Engineering, B.S.: Roadmap 4-year (125 units)"
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:28+00:00",
+  "id": "marketing-analytics-minor",
+  "name": "Marketing Analytics Minor",
+  "title_on_page": "University Catalog",
+  "department": "International Business And Marketing",
+  "department_id": "international-business-and-marketing",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24560",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6308",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Marketing Analytics Minor: 27 units Offered by: College of Business Administration , International Business and Marketing Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 12 units IBM 3012 - Principles of Marketing Management (3) MAT 1250 - Introductory Calculus for Business (3) [GE 2] STA 1200 - Statistics with Applications (3) [GE 2] * TOM 3020 - Statistical Foundations for Business Analytics (3) Minor Electives: 15 units Group A: 3 units IBM 3072 - Promotional Strategies (3) IBM 3082 - Retail Management (3) IBM 3302 - Marketing Research (3) IBM 4032 - E-marketing (3) IBM 4112 - Consumer Behavior (3) IBM 4141 - International Marketing (3) IBM 4212 - Marketing Problems (3) Group B: 12 units IBM 4000 - Special Study for Upper Division Students (1-3) ** IBM 4072 - Qualitative Marketing Research (3) IBM 4092 - Advanced Marketing Research (3) IBM 4192 - Data Mining for Marketing Decisions (3) IBM 4202 - Marketing Analytics (3) IBM 4952 - Marketing Research Practicum (3) IBM 4990 - Special Topics for Upper Division Students (1-3) ** Notes: * STA 1200 has many alternative prerequisites, including MAT 1250 - Introductory Calculus for Business , which is typically required for business majors. Non-business majors may use the appropriate alternative prerequisite courses in their disciplines. STA 1200 may be satisfied with one of the following stretch sequence, which may increase minor overall units: STA 1205 and STA 1205A STA 1201 , STA 1201A , and STA 1202 ** IBM 4000 and IBM 4990 have to be approved by advisors. Students will not be allowed to use more than three units from IBM 4000 or IBM 4990 to fulfill the min",
+  "requirements": [
+    {
+      "name": "Minor Required: 12 units",
+      "courses": [
+        "IBM 3012",
+        "MAT 1250",
+        "STA 1200",
+        "TOM 3020"
+      ],
+      "raw_text": "Minor Required: 12 units"
+    },
+    {
+      "name": "Group A: 3 units",
+      "courses": [
+        "IBM 3072",
+        "IBM 3082",
+        "IBM 3302",
+        "IBM 4032",
+        "IBM 4112",
+        "IBM 4141",
+        "IBM 4212"
+      ],
+      "raw_text": "Group A: 3 units"
+    },
+    {
+      "name": "Group B: 12 units",
+      "courses": [
+        "IBM 4000",
+        "IBM 4072",
+        "IBM 4092",
+        "IBM 4192",
+        "IBM 4202",
+        "IBM 4952",
+        "IBM 4990"
+      ],
+      "raw_text": "Group B: 12 units"
+    },
+    {
+      "name": "Notes:",
+      "courses": [
+        "MAT 1250"
+      ],
+      "raw_text": "Notes:"
+    }
+  ],
+  "courses": [
+    {
+      "code": "IBM 3012",
+      "title": "Principles of Marketing Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434760",
+      "requirement": "Minor Required: 12 units",
+      "description": "Principles, concepts, and institutions involved in facilitating the exchange of goods and services. Analysis of the markets, the marketing environment, and the ‘marketing mix’ variables. Planning, implementation and control of marketing strategies to gain competitive advantage. Technology mediated. Technology mediated.",
+      "prerequisites": "Completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MAT 1250",
+      "title": "Introductory Calculus for Business",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "435054",
+      "requirement": "Minor Required: 12 units",
+      "description": "[GE 2] Graphing and functions including exponentials and logarithms, derivatives and basic differentiation rules, curve sketching, anti-derivatives, integration, and the Fundamental Theorem of Calculus. A special emphasis is placed on business applications such as break-even analysis, supply and demand, optimization, average cost, marginal analysis, and consumer-producer surplus.",
+      "prerequisites": "Category I, Category II, ALEKS >=46, C or better in a GE Sub-area 2/B4 course, or C- or better or CR in MAT 1051 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "STA 1200",
+      "title": "Statistics with Applications",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "434999",
+      "requirement": "Minor Required: 12 units",
+      "description": "[GE 2] Sample and population data; descriptive statistics, including numerical and graphical summarization of central tendency and spread; elementary probability, including events, basic probability rules, binomial and normal distributions; inferential statistics, including confidence intervals and hypothesis tests for one-population mean and proportion problems, simple linear regression and correlation",
+      "prerequisites": "Category I, Category II, ALEKS >=46, C or better in a GE Sub-area 2/B4 course, or C- or better or CR in MAT 1051 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "TOM 3020",
+      "title": "Statistical Foundations for Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "434650",
+      "requirement": "Minor Required: 12 units",
+      "description": "Applications of managerial statistics for business decisions. Data collection, confidence interval estimation of mean and proportion, one and two-population hypothesis testing of mean and proportion, one-way and two-way chi-square testing, simple linear regression, multiple linear regression, and analysis of variance. Use of computers.",
+      "prerequisites": "STA 120, STA 1200 , or STA 1202 ; and MAT 125 or MAT 1250 , MAT 114 and MAT 115, or MAT 1140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 3072",
+      "title": "Promotional Strategies",
+      "units": "3",
+      "ge": null,
+      "coid": "434762",
+      "requirement": "Group A: 3 units",
+      "description": "Fundamentals of marketing communication. Promotional strategy development: advertising messages and media, personal selling, sales promotion, publicity, direct marketing, packaging, branding, and display. Promotional budgets. Development of promotion campaign strategies. Technology mediated instruction.",
+      "prerequisites": "Undergraduate standing; and C or better in IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 3082",
+      "title": "Retail Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434766",
+      "requirement": "Group A: 3 units",
+      "description": "Overview of the retail system, examining supply chain, store management, omni-channels, customer experience, and leadership, as well as various forms of retail. Exploration of different retail careers, including those in the supply chain. Review and critique of some successful retail companies",
+      "prerequisites": "Undergraduate standing; and IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 3302",
+      "title": "Marketing Research",
+      "units": "3",
+      "ge": null,
+      "coid": "434767",
+      "requirement": "Group A: 3 units",
+      "description": "Marketing research methods to aid marketing decision making. Types of research designs exploratory, descriptive, and causal. Sampling, questionnaire development, and primary data collection methods. Primary data collection and analysis. Using software to analyze of primary and secondary data. Reporting results, preparing reports with results, and suggest actionable recommendations.",
+      "prerequisites": "TOM 302 or TOM 3020 ; and IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4032",
+      "title": "E-marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434769",
+      "requirement": "Group A: 3 units",
+      "description": "Overview of Internet marketing. The strategic use of Internet and digital tools and platforms for acquiring, retaining, and developing customers, conducting marketing research, branding, and enhancing the organization’s entire marketing mix performance. Technology mediated instruction.",
+      "prerequisites": "IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4112",
+      "title": "Consumer Behavior",
+      "units": "3",
+      "ge": null,
+      "coid": "434774",
+      "requirement": "Group A: 3 units",
+      "description": "The psychological, sociological, and cultural factors that influence consumption behavior and activities are covered. Provides a basic understanding of the use of social and mobile platforms and their impact on the consumer decision making process. Marketing strategies utilizing various behavioral concepts are discussed.",
+      "prerequisites": "PSY 201 or PSY 2201 ; Undergraduate standing; and IBM 301, MKT 301, or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4141",
+      "title": "International Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "434776",
+      "requirement": "Group A: 3 units",
+      "description": "Examines processes for maximizing global marketing opportunities through comprehensive environmental analyses. Applies the marketing mix to emerging trends, the varying cultural landscapes, and economic factors, with an emphasis on effective adaption of U.S. products and services for overseas markets.",
+      "prerequisites": "C or better in IBM 301 or IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4212",
+      "title": "Marketing Problems",
+      "units": "3",
+      "ge": null,
+      "coid": "434778",
+      "requirement": "Group A: 3 units",
+      "description": "Application of marketing theories to solve marketing problems emphasizing critical thinking and analytical skills in the business environment. The case study approach integrates knowledge from all main areas of marketing including product development, pricing, distribution and advertising planning.",
+      "prerequisites": "IBM 320 or IBM 3202 ; IBM 330, IBM 408, or IBM 3302 ; and IBM 411 or IBM 4112 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434855",
+      "requirement": "Group B: 12 units",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4072",
+      "title": "Qualitative Marketing Research",
+      "units": "3",
+      "ge": null,
+      "coid": "434771",
+      "requirement": "Group B: 12 units",
+      "description": "Introduction to the theory and practice of analyzing qualitative data. Orients around using analysis to spur creativity and imaginative theorizing about consumer behavior. Examines the role of qualitative exploratory research in defining the research problem and in developing an approach.",
+      "prerequisites": "IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4092",
+      "title": "Advanced Marketing Research",
+      "units": "3",
+      "ge": null,
+      "coid": "434772",
+      "requirement": "Group B: 12 units",
+      "description": "Advanced marketing research for strategic decision-making. Analysis of internal data, consumer data, and cases for forecasting, segmentation, positioning, new product decisions, retail site, and promotions decisions. Fundamentals of gathering, transforming, and mining of big data for decision-making.",
+      "prerequisites": "IBM 3012 and TOM 3020 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4192",
+      "title": "Data Mining for Marketing Decisions",
+      "units": "3",
+      "ge": null,
+      "coid": "438981",
+      "requirement": "Group B: 12 units",
+      "description": "Survey of data mining for marketing decision-making. Analysis of abundant internal or external historic data for forecasting, market segmentation, product decisions, pricing decisions, channel selections, and promotions decisions, as well as social media mining and sentiment analysis. The course will equip students with both fundamental data mining theoretical knowledge to solve marketing problems/goals and practical hands-on data mining skills to execute to the techniques.",
+      "prerequisites": "IBM 3012 and TOM 3020 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4202",
+      "title": "Marketing Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "438982",
+      "requirement": "Group B: 12 units",
+      "description": "Marketing analytics introduces the role of analytics and various analytical tools that are crucial to marketing professionals. It explains analytical techniques and its applications in business. Learning and applying these tools and techniques will help students gain insights in real world and enhance their business decision making.",
+      "prerequisites": "IBM 3012 and TOM 3020 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4952",
+      "title": "Marketing Research Practicum",
+      "units": "3",
+      "ge": null,
+      "coid": "434788",
+      "requirement": "Group B: 12 units",
+      "description": "Integration of all aspects of marketing and marketing research into comprehensive plans and courses of action across the whole spectrum of research process. Emphasis will be given to successful project management and written and oral communications with clients.",
+      "prerequisites": "TOM 3020 and IBM 3012 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "434856",
+      "requirement": "Group B: 12 units",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "IBM 3012",
+    "IBM 3072",
+    "IBM 3082",
+    "IBM 3302",
+    "IBM 4000",
+    "IBM 4032",
+    "IBM 4072",
+    "IBM 4092",
+    "IBM 4112",
+    "IBM 4141",
+    "IBM 4192",
+    "IBM 4202",
+    "IBM 4212",
+    "IBM 4952",
+    "IBM 4990"
+  ]
+}

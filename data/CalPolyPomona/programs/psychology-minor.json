@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:16:54+00:00",
+  "id": "psychology-minor",
+  "name": "Psychology Minor",
+  "title_on_page": "University Catalog",
+  "department": "Psychology",
+  "department_id": "psychology",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24101",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6338",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Psychology Minor: 24 units Offered by: College of Letters, Arts, and Social Sciences , Psychology Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 15 units PSY 2201 - Introduction to Psychology (3) [GE 4A] PSY 2204 - Research Methods in Psychology (3) PSY 2210 - Mind, Brain and Behavior: An Integrated View (3) PSY 3325 - Multicultural Psychology (3) [GE 4C] STA 1200 - Statistics with Applications (3) [GE 2] or STA 1202 - Statistics with Applications Stretch II (3) [GE 2] Minor Electives: 9 units Upper Division Breadth Electives: 3 units Select one course from the following list: PSY 3304 - Cognitive Neuroscience (3) PSY 3305 - Basic Developmental Psychology (3) PSY 3332 - Organizational Psychology (3) PSY 3334 - Cognitive Processes (3) PSY 4150 - Abnormal Psychology (3) PSY 4401 - Social Psychology (3) Upper Division Electives in Psychology: 6 units Select two additional 3000 or 4000 level PSY courses. Notes: It is strongly recommended that students interested in Minoring in Psychology take PSY 2201 and STA 1200 before declaring the Minor. Students enrolled in these program(s) may not declare this minor: Psychology, B.A.: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top o",
+  "requirements": [
+    {
+      "name": "Minor Required: 15 units",
+      "courses": [
+        "PSY 2201",
+        "PSY 2204",
+        "PSY 2210",
+        "PSY 3325",
+        "STA 1200"
+      ],
+      "raw_text": "Minor Required: 15 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "STA 1202"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Upper Division Breadth Electives: 3 units",
+      "courses": [
+        "PSY 3304",
+        "PSY 3305",
+        "PSY 3332",
+        "PSY 3334",
+        "PSY 4150",
+        "PSY 4401"
+      ],
+      "raw_text": "Upper Division Breadth Electives: 3 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PSY 2201",
+      "title": "Introduction to Psychology",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435049",
+      "requirement": "Minor Required: 15 units",
+      "description": "[GE 4A] Survey and exploration of scope, methods, and content of both the qualitative and quantitative areas of psychology including: research methods, development, perception, learning, memory, motivation, emotion, personality, social, abnormal, clinical, and interpersonal relations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 2204",
+      "title": "Research Methods in Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "436965",
+      "requirement": "Minor Required: 15 units",
+      "description": "Introduction and intermediate exposure to the methods, techniques, and data analysis used in carrying out research in psychology.",
+      "prerequisites": "Major or minor in PSY; PSY 2201 , PSY 201, or PSY 202; STA 1200 , STA 1202 , or STA 120; and GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 2210",
+      "title": "Mind, Brain and Behavior: An Integrated View",
+      "units": "3",
+      "ge": null,
+      "coid": "437886",
+      "requirement": "Minor Required: 15 units",
+      "description": "Biological exploration of how the functioning of the brain gives rise to the human mind and complex behavior. Research from humans and animal models will be considered to provide this overview of the brain functions important to behavior, from the cellular to systems level. Discussion of brain anatomy, brain development, sensation, motor activity, motivation and emotion, sex differences, learning and memory, pain, psychoactive drugs, normal and abnormal aging, and brain and mental disorders.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 3325",
+      "title": "Multicultural Psychology",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434932",
+      "requirement": "Minor Required: 15 units",
+      "description": "[GE 4C] Examination and exploration of the field of Cross-Cultural/Multicultural Psychology. Examines how psychological theory and research are applied for understanding multicultural issues, primarily within the United States. Explores how issues such as racism, ethnic identity, and media portrayal impact both the communities of color and the majority culture, and how these issues relate to contemporary topics. Some aspects of cross-national psychology may be explored, depending upon instructor’s preference.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "STA 1200",
+      "title": "Statistics with Applications",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "434999",
+      "requirement": "Minor Required: 15 units",
+      "description": "[GE 2] Sample and population data; descriptive statistics, including numerical and graphical summarization of central tendency and spread; elementary probability, including events, basic probability rules, binomial and normal distributions; inferential statistics, including confidence intervals and hypothesis tests for one-population mean and proportion problems, simple linear regression and correlation",
+      "prerequisites": "Category I, Category II, ALEKS >=46, C or better in a GE Sub-area 2/B4 course, or C- or better or CR in MAT 1051 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "STA 1202",
+      "title": "Statistics with Applications Stretch II",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "438865",
+      "requirement": "or",
+      "description": "[GE 2] This is the second semester of two in the Statistics with Applications stretch sequence that introduces the concepts of probability and basic descriptive statistics with requisite arithmetic and algebraic topics integrated throughout. This path is designed to serve students with majors that require no college-level mathematics beyond introductory freshman-level statistics. Students must take a year-long sequence to receive credit for college-level statistics. STA 1202 is focused mainly on the elementary probability theory and statistical inference. STA 1201 is a prerequisite for STA 1202. STA 1201 and STA 1202 together are equivalent to STA 1200. This sequence covers topics that include basic concepts of probability, discrete and continuous random variables, sampling distributions, introduction to statistical inference, confidence intervals for population means and proportions, hypothesis testing for population means and proportions, and correlation and regression model.",
+      "prerequisites": "CR in STA 1201 or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 3304",
+      "title": "Cognitive Neuroscience",
+      "units": "3",
+      "ge": null,
+      "coid": "439412",
+      "requirement": "Upper Division Breadth Electives: 3 units",
+      "description": "Advanced exploration of the neural systems that underlie human sensation and perception, attention, action, memory, emotion, language, executive function, social cognition, and conscious awareness. Covers the research methods of Cognitive Neuroscience, such as neuroimaging, electrophysiology, brain stimulation, and patient studies. Examines how findings from Cognitive Neuroscience research have furthered understanding and treatment of brain disorders.",
+      "prerequisites": "PSY 2201 , PSY 2210 , or BIO 1110 ; and upper-division standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "PSY 3305",
+      "title": "Basic Developmental Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435238",
+      "requirement": "Upper Division Breadth Electives: 3 units",
+      "description": "Focus on developmental changes in, and interactions between, the physical, cognitive, social, and emotional domains throughout the lifespan. The influence of heredity and environment on development, including cross-cultural influences, will be considered.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 3332",
+      "title": "Organizational Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435105",
+      "requirement": "Upper Division Breadth Electives: 3 units",
+      "description": "Survey of issues related to work in contemporary organizations at the individual, group and organizational levels. Individual-level issues explored include employee motivation, value systems and ethics, emotions at work, and cultural diversity. Group-level issues discussed include decision making processes, effective communication, work group dynamics, teams and team building, and managing conflict. Examination of organizational-level elements include organizational power and politics, organizational culture, and organizational structure and strategy.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202; or instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 3334",
+      "title": "Cognitive Processes",
+      "units": "3",
+      "ge": null,
+      "coid": "435298",
+      "requirement": "Upper Division Breadth Electives: 3 units",
+      "description": "Processes by which humans acquire and maintain knowledge. Focus on the relationships of perception, language, and concept attainment. Major theories of cognition. Classroom experience with various perceptual and cognitive tasks.",
+      "prerequisites": "PSY 2201 , PSY 201, or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 4150",
+      "title": "Abnormal Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435242",
+      "requirement": "Upper Division Breadth Electives: 3 units",
+      "description": "The causes, description, and treatment of the extremes of human behavior. Emphasis is on an integrated analysis from a psycho-social viewpoint.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PSY 4401",
+      "title": "Social Psychology",
+      "units": "3",
+      "ge": null,
+      "coid": "435097",
+      "requirement": "Upper Division Breadth Electives: 3 units",
+      "description": "Advanced study of human behavior as a product of the individual and social environment: social influences on cognition, perception, emotion, and behavior; attitude formation and change; the self and identity; interpersonal and intergroup relations; and the nature of prejudice.",
+      "prerequisites": "PSY 2201 or PSY 201 or PSY 202.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "PSY 2201",
+    "PSY 2204",
+    "PSY 2210",
+    "PSY 3304",
+    "PSY 3305",
+    "PSY 3325",
+    "PSY 3332",
+    "PSY 3334",
+    "PSY 4150",
+    "PSY 4401"
+  ]
+}

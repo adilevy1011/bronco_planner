@@ -1,0 +1,204 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:08:27+00:00",
+  "id": "dietetics-m-s",
+  "name": "Dietetics, M.S.",
+  "title_on_page": "University Catalog",
+  "department": "Nutrition And Food Science",
+  "department_id": "nutrition-and-food-science",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24344",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6302",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Dietetics, M.S.: 30 units Offered jointly by: Don B. Huntley College of Agriculture - Nutrition and Food Science Department , and College of Professional and Global Education Modality: Online Major Required | Culminating Experience | Program Website Major Required: 29 units NTR 5100 - Nutrition Research Methods (3) NTR 5200 - Statistics for Nutrition and Dietetics (3) NTR 5360 - Advanced Life Cycle Nutrition (3) NTR 5430 - Advanced Medical Nutrition Therapy (3) NTR 5440 - Advanced Medical Nutrition II (3) NTR 5446 - Advanced Nutrition Education and Counseling (3) NTR 6425 - Nutrition and Food Management (3) NTR 6446 - Community Nutrition (3) NTR 6594 - Qualitative Research I (3) NTR 6595 - Qualitative Research II (2) Culminating Experience: 1 unit NTR 6970 - Comprehensive Exam (1) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Major Required: 29 units",
+      "courses": [
+        "NTR 5100",
+        "NTR 5200",
+        "NTR 5360",
+        "NTR 5430",
+        "NTR 5440",
+        "NTR 5446",
+        "NTR 6425",
+        "NTR 6446",
+        "NTR 6594",
+        "NTR 6595"
+      ],
+      "raw_text": "Major Required: 29 units"
+    },
+    {
+      "name": "Culminating Experience: 1 unit",
+      "courses": [
+        "NTR 6970"
+      ],
+      "raw_text": "Culminating Experience: 1 unit"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "NTR 5100",
+      "title": "Nutrition Research Methods",
+      "units": "3",
+      "ge": null,
+      "coid": "437830",
+      "requirement": "Major Required: 29 units",
+      "description": "Introduction to research in nutrition as the foundation for evidence-based practice. The scientific method, hypothesis testing, clinical trials, epidemiological research, nutrition surveys, and sensory analysis. Weekly writing assignments. Reading and critiquing research papers.",
+      "prerequisites": "Graduate standing and Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 5200",
+      "title": "Statistics for Nutrition and Dietetics",
+      "units": "3",
+      "ge": null,
+      "coid": "439137",
+      "requirement": "Major Required: 29 units",
+      "description": "Introduction to statistical procedures as applied to nutrition. Statistical software such as SPSS and NVivo will be used to analyze data. Application of both parametric and nonparametric statistical tests. A focus on statistical approaches for community nutrition and public health will be emphasized.",
+      "prerequisites": "STA 1201 or equivalent, and completion of accredited Baccalaureate degree requirements as specified by the Accreditation Council for Education in Nutrition and Dietetics; or permission of the instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 5360",
+      "title": "Advanced Life Cycle Nutrition",
+      "units": "3",
+      "ge": null,
+      "coid": "435720",
+      "requirement": "Major Required: 29 units",
+      "description": "Discussion of how developmental physiology and cellular growth and differentiation influence nutrient requirements during pregnancy and lactation, fetal growth, infancy, premature birth, childhood, adolescence adulthood and old age. Planning nutrition programs to meet the nutrient needs of at-risk women, infants and children. Review of the nutritionally relevant chronic diseases with aging. Oral presentation and discussion of the scientific literature related to the life cycle.",
+      "prerequisites": "NTR 3930 , FN 434, or instructor consent; NTR 3940 , FN 435, or instructor consent; and Dietetic Internship Eligible (DPD director consent).",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 5430",
+      "title": "Advanced Medical Nutrition Therapy",
+      "units": "3",
+      "ge": null,
+      "coid": "435726",
+      "requirement": "Major Required: 29 units",
+      "description": "Pathophysiology of selected medical problems with specific attention to nutritional needs and treatment as part of evidenced based practice medical care. Advanced clinical nutrition applications in acute and chronic diseases. Nutritional care process, medical terminology, charting and documentation, and case study discussions. Corequisite(s): NTR 5450 and NTR 5600 .",
+      "prerequisites": "Bachelor’s degree approved by Commission on Accreditation for Dietetic Educ; and accepted into CPP Dietetic Internship Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 5440",
+      "title": "Advanced Medical Nutrition II",
+      "units": "3",
+      "ge": null,
+      "coid": "439139",
+      "requirement": "Major Required: 29 units",
+      "description": "Application of critical thinking skills and integrate the theories and principles of Medical nutrition therapy (MNT) into clinical practice. Case studies and an evidence-based approach to practice will be used to integrate and utilize their knowledge of nutrition, metabolism, and physiology, for effectively planning and managing the nutritional care of patients using the Nutrition Care Process. Acute and chronic disease conditions will be explored through lectures, case discussions, assigned readings, programmed learning guides, and class presentations. Topics include: critical thinking, pediatric nutrition, clinical basis of disease processes, and medical, surgical, and diet therapies for acute and chronic disease in adults and pediatrics, enteral and parenteral nutrition, malnutrition and high risk conditions including cardiovascular, pulmonary, renal and liver disease, critical care, HIV/AIDS, and oncology.",
+      "prerequisites": "NTR 5430 and completion of accredited Baccalaureate degree requirements as specified by the Accreditation Council for Education in Nutrition and Dietetics; or permission of the instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 5446",
+      "title": "Advanced Nutrition Education and Counseling",
+      "units": "3",
+      "ge": null,
+      "coid": "439145",
+      "requirement": "Major Required: 29 units",
+      "description": "Examination of the theoretical perspectives on nutrition, food and health-related behavior change. Study of the key constructs from a variety of nutrition and health behavior theories and frameworks such as the Theory of Planned Behavior, the Health Belief Model, Social Cognitive Theory and the Trans-Theoretical Model. Effective teaching strategies and procedural models for designing effective nutrition education programs targeting the general public will be presented to enable students to design and deliver interventions and programs in the community and clinical settings",
+      "prerequisites": "Completion of accredited Baccalaureate degree requirements as specified by the Accreditation Council for Education in Nutrition and Dietetics, or permission of the instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 6425",
+      "title": "Nutrition and Food Management",
+      "units": "3",
+      "ge": null,
+      "coid": "439143",
+      "requirement": "Major Required: 29 units",
+      "description": "The organization and administration of foodservice and nutrition systems and the functions and responsibilities specific to management; decision-making, planning, organizing, and staffing. Examination of the complex responsibilities of the nutrition and dietetics professional in food management, including the essentials of operating a foodservice facility - menu planning, purchasing, storage, issuing, food production, service, distribution, quality control, and food safety.",
+      "prerequisites": "NTR 3680 , NTR 5325 , and completion of accredited Baccalaureate degree requirements as specified by the Accreditation Council for Education in Nutrition and Dietetics; or permission of the instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 6446",
+      "title": "Community Nutrition",
+      "units": "3",
+      "ge": null,
+      "coid": "439144",
+      "requirement": "Major Required: 29 units",
+      "description": "Explore skills needed and their application in community and public health settings. Evaluate the barriers to disease prevention and health promotion, factors that influence personal health decisions, preventive interventions directed at individuals (clinical settings) and populations (community settings), strategies for using population health principles. Familiarization with community-based research and programs focused on nutrition or has nutrition as a component such as community non-profit agencies, worksites, health centers, clinics, hospitals, schools, churches, supermarkets, recreational and sports centers, and councils on aging/senior centers, and food assistant programs.",
+      "prerequisites": "NTR 5446 or equivalent, and completion of accredited Baccalaureate degree requirements as specified by the Accreditation Council for Education in Nutrition and Dietetics; or permission of the instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 6594",
+      "title": "Qualitative Research I",
+      "units": "3",
+      "ge": null,
+      "coid": "439339",
+      "requirement": "Major Required: 29 units",
+      "description": "Qualitative Research (QR) is the foundation for mixed-method information gathering practices, including quality assurance/improvement, assessment, and human research studies. Methodology, study designs, observational methods, focus groups, interviewing, as well as analyses/thematic interpretation will be discussed. Application of QR techniques and practices in Discussions/Assignments.",
+      "prerequisites": "NTR 5100 and NTR 5200 .",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "NTR 6595",
+      "title": "Qualitative Research II",
+      "units": "2",
+      "ge": null,
+      "coid": "439340",
+      "requirement": "Major Required: 29 units",
+      "description": "Provides the opportunity for students to implement and apply Qualitative Research methodologies including triangulation interviews (assessment), and conducting, transcribing and analyzing information from a focus group (study implementation). Presentations and peer reviews will contribute to the evaluation component of their activities. Pre or Corequisite(s): NTR 6594 .",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "NTR 6970",
+      "title": "Comprehensive Exam",
+      "units": "1",
+      "ge": null,
+      "coid": "439341",
+      "requirement": "Culminating Experience: 1 unit",
+      "description": "Culminating activity. The completion of an assessment of the student’s ability to integrate Dietetic knowledge, show critical, independent thinking, and demonstrate comprehension of subject matter evidenced through appropriate organization, and critical analysis. Examination may be taken only two times.",
+      "prerequisites": "NTR 5100 , NTR 5200 , NTR 6594 , and NTR 6595 .",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": []
+}

@@ -1,0 +1,394 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:11:27+00:00",
+  "id": "civil-engineering-m-s-transportation-engineering-subplan-option",
+  "name": "Civil Engineering, M.S. - Transportation Engineering Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Civil Engineering",
+  "department_id": "civil-engineering",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24329",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6318",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Civil Engineering, M.S. - Transportation Engineering Subplan/Option: 30 units Offered by: College of Engineering , Civil Engineering Department Major Required | Subplan/Option Required | Subplan/Option Electives | Culminating Experience | Program Website Major Required: 3 units CE 5020 - Applied Probability Concepts (3) Subplan/Option Required: 18 units CE 5610 - Design of Transportation Facilities (3) CE 5620 - Traffic Flow Analysis (3) CE 5631 - Transportation Systems Design and Operation (3) CE 5640 - Transportation Planning and Management (3) CE 5670 - Intelligent Transportation Systems (3) CE 5681 - Multimodal Traffic Analysis (3) Subplan/Option Electives: 3-9 units Select a sufficient number of courses so that the total units for the degree is at least 30 . Choose up to 3 units of approved 4000-level courses. CE 4671 - Intelligent Transportation Systems (3) CE 4681 - Multimodal Traffic Analysis (3) CE 4690 - Traffic Engineering (3) CE 5310 - GIS Applications in Civil Engineering (3) CE 5451 - Pavement Design and Construction (3) CE 5630 - Public Transportation (3) CE 5641 - Transportation Administration and Policy (3) CE 5651 - Airport Engineering (3) CE 5661 - Transportation Systems Simulation (3) CE 5671 - Traffic Safety Analysis (3) CE 5680 - Advanced Computer Programming in Civil Engineering (3) CE 5682 - Computer Vision in Transportation and Civil Engineering (3) CE 5691 - Traffic Engineering (3) Culminating Experience: 0-6 units CE 6950 - Master’s Project (3) or CE 6960 - Master’s Thesis (3) (6 units required) or CE 6970 - Comprehensive Examination (0) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsore",
+  "requirements": [
+    {
+      "name": "Major Required: 3 units",
+      "courses": [
+        "CE 5020"
+      ],
+      "raw_text": "Major Required: 3 units"
+    },
+    {
+      "name": "Subplan/Option Required: 18 units",
+      "courses": [
+        "CE 5610",
+        "CE 5620",
+        "CE 5631",
+        "CE 5640",
+        "CE 5670",
+        "CE 5681"
+      ],
+      "raw_text": "Subplan/Option Required: 18 units"
+    },
+    {
+      "name": "Subplan/Option Electives: 3-9 units",
+      "courses": [
+        "CE 4671",
+        "CE 4681",
+        "CE 4690",
+        "CE 5310",
+        "CE 5451",
+        "CE 5630",
+        "CE 5641",
+        "CE 5651",
+        "CE 5661",
+        "CE 5671",
+        "CE 5680",
+        "CE 5682",
+        "CE 5691"
+      ],
+      "raw_text": "Subplan/Option Electives: 3-9 units"
+    },
+    {
+      "name": "Culminating Experience: 0-6 units",
+      "courses": [
+        "CE 6950"
+      ],
+      "raw_text": "Culminating Experience: 0-6 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "CE 6960",
+        "CE 6970"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CE 5020",
+      "title": "Applied Probability Concepts",
+      "units": "3",
+      "ge": null,
+      "coid": "435746",
+      "requirement": "Major Required: 3 units",
+      "description": "Statistical and probabilistic methods to better describe and understand variability and uncertainty in civil engineering problems.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5610",
+      "title": "Design of Transportation Facilities",
+      "units": "3",
+      "ge": null,
+      "coid": "435786",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Advanced study of design of transportation facilities. It includes geometry, drainage, soils, materials, and other topics of streets and non-motorized facilities, highways, railroads, transit, and harbor/port facilities.",
+      "prerequisites": "Graduate Standing and undergraduate course in transportation engineering or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5620",
+      "title": "Traffic Flow Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "435961",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Analysis of properties and models of the flow of vehicles in freeway and network situations. Macroscopic and microscopic perspectives of traffic flow. Study of traffic flow phenomena.",
+      "prerequisites": "Graduate Standing, undergraduate course in transportation engineering, and transportation engineering lab or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5631",
+      "title": "Transportation Systems Design and Operation",
+      "units": "3",
+      "ge": null,
+      "coid": "436663",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Dual Listed as: CE 4631 Introduction to traffic control systems. Types of traffic control methods. Warrants for placement of various intersection controls. Selection and placement of traffic control equipment. Signal system design and preparation of signal plans and specifications. Signal timing methods. Analysis of signalized intersection capacity and performance. Ramp metering.",
+      "prerequisites": "Graduate Standing, undergraduate course in transportation engineering, and transportation engineering lab or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5640",
+      "title": "Transportation Planning and Management",
+      "units": "3",
+      "ge": null,
+      "coid": "435963",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Study and design of transportation in the urban environment, primarily transit; includes history, nature of problems, alternative solutions, costs of modernization, mass transit trends, the subsidy debate, role of the State and Federal governments, rideshare planning, ADA services, financial plans, the nature and importance of planning and transit planning process.",
+      "prerequisites": "Graduate Standing, undergraduate course in transportation engineering, and transportation engineering lab or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5670",
+      "title": "Intelligent Transportation Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435788",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Review of the history of ITS. Study of available ITS technologies and benefits of use. Assessment of ITS case studies.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5681",
+      "title": "Multimodal Traffic Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "436664",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Dual Listed as: CE 4681 Highway capacity analysis of basic freeway segment and signalized intersection. Performance measurement selection for pedestrian, bicycle and transit facilities. Level of service for vehicular driver, pedestrian, bicyclist and transit user. Overview of Highway Capacity Manual. Countermeasure evaluation of transportation facilities for different road users.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 4671",
+      "title": "Intelligent Transportation Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "436660",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Historical overview of ITS development; ITS system architecture and Systems Engineering (SE) process; hands-on practice on ITS technologies through case studies and projects.",
+      "prerequisites": "CE 223 or CE 3601 ; and CE 223L or CE 3601L ; and BSCE, BSCET, BSCEM, or MSCE Major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 4681",
+      "title": "Multimodal Traffic Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "437801",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Dual Listed as: CE 5681 Highway capacity analysis of basic freeway segment and signalized intersection. Performance measurement selection for pedestrian, bicycle and transit facilities. Level of service for vehicular driver, pedestrian, bicyclist and transit user. Overview of Highway Capacity Manual. Countermeasure evaluation of transportation facilities for different road users.",
+      "prerequisites": "CE 223 or CE 3601 ; and CE 223L or CE 3601L ; and BSCE, BSCET, BSCEM, or MSCE Major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 4690",
+      "title": "Traffic Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435742",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Driver and vehicle characteristics. Origin and destination studies. Volume, speed and accident studies. Traffic control devices. Channelization design. Parking facilities design. Intersection design. Roadway lighting. Traffic Simulation. Corequisite(s): CE 4690L .",
+      "prerequisites": "CE 223 or CE 3601 ; and CE 223L or CE 3601L ; and BSCE, BSCET, BSCEM, or MSCE Major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5310",
+      "title": "GIS Applications in Civil Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435948",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Introduction to fundamental concepts and techniques of geographic information systems (GIS). GIS applications in transportation, environmental assessment, water resources management, geoenvironmental analyses and other areas in civil engineering.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5451",
+      "title": "Pavement Design and Construction",
+      "units": "3",
+      "ge": null,
+      "coid": "437813",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Cross Listed as: CE 4451 Fundamental principles of structural pavement design and common design methods: AASHTO, Caltrans, Asphalt Institute and Portland Cement Association. Typical highway construction practices and activities. Laboratory testing of highway materials and quality assurance during construction are also discussed.",
+      "prerequisites": "Graduate Standing, undergraduate course in geotechnical engineering, and engineering materials or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5630",
+      "title": "Public Transportation",
+      "units": "3",
+      "ge": null,
+      "coid": "435970",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Public transportation can be examined from three perspectives: system characteristics and technology, planning and operations, and management and finance. This course emphasizes the second aspect. Bus and rail transit are covered. Planning issues include stop and station location, routing and network design. Operational issues include scheduling, capacity, speed, dwell times, and others.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5641",
+      "title": "Transportation Administration and Policy",
+      "units": "3",
+      "ge": null,
+      "coid": "435971",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Examination of the institutions, legislation, and policies that govern transportation systems and their operations and development in the U.S. Federal, State, regional and local government involvement in transportation provision and protection. Public and private partnerships in support of transportation system development. Regulations, regulatory processes and mandates, and their effect on finance, system monitoring, environmental impact reviews, and other concerns.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5651",
+      "title": "Airport Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435800",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Introduction of aviation systems. The principal topics to be covered include aircraft performances, airport master plans, as well as planning and design of airside and landside airport facilities.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5661",
+      "title": "Transportation Systems Simulation",
+      "units": "3",
+      "ge": null,
+      "coid": "436666",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Fundamental and state-of-the-art study of the important aspects and different components of transportation modeling and simulation. Various modeling and simulation approaches in studying traffic dynamics and control in a transportation network. Simulation modeling including the introduction to traffic simulation software packages, model calibration and validation, input modeling, random number generators, statistical design, and analysis of simulation experiments. Basic traffic operation techniques, including traffic data collection and processing, adaptive signal systems, and adaptive ramp metering systems.",
+      "prerequisites": "Graduate Standing; undergraduate course in transportation engineering or equivalent; and CE 223L or CE 3601L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5671",
+      "title": "Traffic Safety Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "435972",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Introduction to traffic and highway safety. Safety management system. Hazardous location identification. Diagnosis of road accident problem. Development of countermeasure treatments. Introduction to statistical software. Crash statistical modeling development. Observational before/after study for evaluation of safety performance.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5680",
+      "title": "Advanced Computer Programming in Civil Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "437550",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Detailed discussion on the concepts of mobile programming. Introduction to programming technologies such as Java and Android. Use of programming languages such as Java to develop mobile apps in civil engineering. Solid computer programming skills in programming languages and establish hands-on experience in mobile applications to solve civil engineering problems.",
+      "prerequisites": "Graduate Standing and undergraduate course in programming or numerical methods or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5682",
+      "title": "Computer Vision in Transportation and Civil Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "439423",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Dual Listed as: CE 4682 A study of computer vision that enables machines to interpret, process, and analyze visual data from the world much like human eyesight. Image acquisition, feature extraction, detection/recognition, image post-processing, and analysis and interpretation. Enhancement of transportation and civil engineering design given the power of computer vision and deep learning.",
+      "prerequisites": "Graudate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "CE 5691",
+      "title": "Traffic Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "436665",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Dual Listed as: CE 4690 Driver and vehicle characteristics. Origin and destination studies. Volume, speed and accident studies. Traffic control devices. Channelization design. Parking facilities design. Intersection design. Roadway lighting. Traffic Simulation.",
+      "prerequisites": "Graduate Standing and undergraduate course in transportation engineering or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6950",
+      "title": "Master’s Project",
+      "units": "3",
+      "ge": null,
+      "coid": "436165",
+      "requirement": "Culminating Experience: 0-6 units",
+      "description": "Individual and independent work based on the project proposal, plan and schedule approved by the Project Committee members and Graduate Program Coordinator. Regular meetings and discussions with advisor.",
+      "prerequisites": "Graduate Standing, good academic standing, advancement to candidacy, and completion of approved project proposal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6960",
+      "title": "Master’s Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "436166",
+      "requirement": "or",
+      "description": "Individual and independent research work based on the thesis proposal, plan and schedule approved the Project Committee members and Graduate Program Coordinator. Regular meetings and discussions with advisor.",
+      "prerequisites": "Graduate Standing; good academic standing; advancement to candidacy; completion of approved project proposal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6970",
+      "title": "Comprehensive Examination",
+      "units": "0",
+      "ge": null,
+      "coid": "436167",
+      "requirement": "or",
+      "description": "Comprehensive examination to satisfy the culminating experience requirement of the Master of Science in Civil Engineering (MSCE) degree. May enroll after completing the required course work, and it may be taken up to two times.",
+      "prerequisites": "Graduate Standing, consent of instructor, and good standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "CE 4671",
+    "CE 4681",
+    "CE 4690"
+  ]
+}

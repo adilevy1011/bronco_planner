@@ -1,0 +1,256 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:18:21+00:00",
+  "id": "chemistry-minor",
+  "name": "Chemistry Minor",
+  "title_on_page": "University Catalog",
+  "department": "Chemistry And Biochemistry",
+  "department_id": "chemistry-and-biochemistry",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24269",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6342",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Chemistry Minor: 25 units Offered by: College of Science , Chemistry and Biochemistry Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 19 units General Chemistry CHM 1210 - General Chemistry I (3) [GE 5A] CHM 1210L - General Chemistry Laboratory I (1) [GE 5C] CHM 1220 - General Chemistry II (3) [GE 5A] CHM 1220L - General Chemistry Laboratory II (1) [GE 5C] Analytical Chemistry CHM 2210 - Quantitative Analysis (2) CHM 2210L - Quantitative Analysis Laboratory (2) Organic Chemistry CHM 2010 - Elements of Organic Chemistry (3) and CHM 2010L - Elements of Organic Chemistry Laboratory (1) OR CHM 3140 - Organic Chemistry I (4) and CHM 3140L - Organic Chemistry Laboratory I (1) Physical Chemistry CHM 3010 - Modeling the Fundamentals of Physical Chemistry (3) [GE 5D] or CHM 3040 - Elements of Physical Chemistry I (3) or CHM 3110 - Classical Physical Chemistry (3) Minor Electives: 6 units Select any 3000-4000 level CHM course except CHM 3140 / CHM 3140L . Notes: Students enrolled in these program(s) may not declare this minor: Chemistry, B.S. - American Chemical Society Subplan/Option: 120 units Chemistry, B.S. - Biochemistry Subplan/Option: 120 units Chemistry, B.S. - General Chemistry Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © ",
+  "requirements": [
+    {
+      "name": "General Chemistry",
+      "courses": [
+        "CHM 1210",
+        "CHM 1210L",
+        "CHM 1220",
+        "CHM 1220L"
+      ],
+      "raw_text": "General Chemistry"
+    },
+    {
+      "name": "Analytical Chemistry",
+      "courses": [
+        "CHM 2210",
+        "CHM 2210L"
+      ],
+      "raw_text": "Analytical Chemistry"
+    },
+    {
+      "name": "Organic Chemistry",
+      "courses": [
+        "CHM 2010"
+      ],
+      "raw_text": "Organic Chemistry"
+    },
+    {
+      "name": "and",
+      "courses": [
+        "CHM 2010L",
+        "CHM 3140L"
+      ],
+      "raw_text": "and"
+    },
+    {
+      "name": "OR",
+      "courses": [
+        "CHM 3140"
+      ],
+      "raw_text": "OR"
+    },
+    {
+      "name": "Physical Chemistry",
+      "courses": [
+        "CHM 3010"
+      ],
+      "raw_text": "Physical Chemistry"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "CHM 3040",
+        "CHM 3110"
+      ],
+      "raw_text": "or"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CHM 1210",
+      "title": "General Chemistry I",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "434961",
+      "requirement": "General Chemistry",
+      "description": "[GE 5A] Fundamental principles and concepts of chemistry, including atomic and molecular structure; nomenclature; stoichiometry; solution chemistry, including acid-base and redox chemistry; quantum theory; periodic properties; bonding theory; thermochemistry; gases; and intermolecular forces. Corequisite(s): CHM 1210L .",
+      "prerequisites": "SAT Math>=550; ACT Math>=23; ALEKS >=76; C or better in MAT 12, 105, 106, 112, 114, 115, 116, 120, 125, 130, 191, 214, 216, 224, MAT 1050 , MAT 1052 , MAT 1060 , MAT 1070 , MAT 1140 , MAT 1150 , MAT 1200 , MAT 1250 , MAT 1300 , MAT 1310 , MAT 1910 , MAT 2140 , MAT 2240 , MAT 2250 , STA 120, or STA 1200 ; or C- or better in CHM 121 and CHM 121L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 1210L",
+      "title": "General Chemistry Laboratory I",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "434962",
+      "requirement": "General Chemistry",
+      "description": "[GE 5C] Laboratory experiments to illustrate and enhance lecture topics in CHM 1210 . Basic laboratory techniques and practices. Product fee required. Corequisite(s): CHM 1210 .",
+      "prerequisites": "SAT Math>=550; ACT Math>=23; ALEKS >=76; C or better in MAT 12, 105, 106, 112, 114, 115, 116, 120, 125, 130, 191, 214, 216, 224, MAT 1050 , MAT 1052 , MAT 1060 , MAT 1070 , MAT 1140 , MAT 1150 , MAT 1200 , MAT 1250 , MAT 1300 , MAT 1310 , MAT 1910 , MAT 2140 , MAT 2240 , MAT 2250 , STA 120, or STA 1200 ; or C- or better in CHM 121 and CHM 121L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 1220",
+      "title": "General Chemistry II",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "434963",
+      "requirement": "General Chemistry",
+      "description": "[GE 5A] Continuation of the development of fundamental principles and concepts of chemistry, including kinetics; equilibria, including acid-base chemistry; buffers; titrations; thermodynamics; electrochemistry; colligative properties; and nuclear chemistry. Corequisite(s): CHM 1220L .",
+      "prerequisites": "C- or better in CHM 1210 , CHM 122 or CHM 122B; and C- or better in CHM 1210L , CHM 122L or CHM122LB.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 1220L",
+      "title": "General Chemistry Laboratory II",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "434966",
+      "requirement": "General Chemistry",
+      "description": "[GE 5C] Laboratory experiments to illustrate and enhance lecture topics in CHM 1220. Qualitative analysis. Basic laboratory techniques and practices. Product fee required. Corequisite(s): CHM 1220 .",
+      "prerequisites": "C- or better in CHM 1210 , CHM 122 or CHM 122B; and C- or better in CHM 1210L , CHM 122L or CHM122LB.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 2210",
+      "title": "Quantitative Analysis",
+      "units": "2",
+      "ge": null,
+      "coid": "436986",
+      "requirement": "Analytical Chemistry",
+      "description": "Fundamentals of gravimetric and volumetric analysis. Acid-base concepts and pH calculations. Statistical concepts including data reduction and error analysis. Introduction to modern instrumental analysis. Focus on laboratory work, with class discussion supplying supporting theory. Corequisite(s): CHM 2210L .",
+      "prerequisites": "C- or better in CHM 123 or CHM 1220 ; and CHM 123L or CHM 1220L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 2210L",
+      "title": "Quantitative Analysis Laboratory",
+      "units": "2",
+      "ge": null,
+      "coid": "436987",
+      "requirement": "Analytical Chemistry",
+      "description": "Fundamentals of gravimetric and volumetric analysis. Acid-base concepts and pH calculations. Statistical concepts including data reduction and error analysis. Introduction to modern instrumental analysis. Focus on laboratory work, with class discussion supplying supporting theory. Product fee required. Corequisite(s): CHM 2210 .",
+      "prerequisites": "C- or better in CHM 123 or CHM 1220 , and C- or better in CHM 123L or CHM 1220L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 2010",
+      "title": "Elements of Organic Chemistry",
+      "units": "3",
+      "ge": null,
+      "coid": "436985",
+      "requirement": "Organic Chemistry",
+      "description": "The fundamental concepts of organic chemistry will be presented, for students who are required to take one semester of organic chemistry. Topics covered include chemical bonding, molecular structure, stereochemistry, nomenclature, physical properties, thermodynamics and kinetics, acid-base chemistry, organic reaction mechanisms, synthesis and biomolecules. Not open to chemistry majors. Not open to chemistry majors.",
+      "prerequisites": "CHM 123 or CHM 1220 ; and CHM 123L or CHM 1220L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 2010L",
+      "title": "Elements of Organic Chemistry Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436988",
+      "requirement": "and",
+      "description": "Introduction to general techniques of the organic laboratory for the separation, purification and identification of organic substances. Survey of simple reactions of various functional groups. Product fee required.",
+      "prerequisites": "CHM 123 or CHM 1220 ; and CHM 123L or CHM 1220L ; or concurrent enrollment in CHM 2010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 3140",
+      "title": "Organic Chemistry I",
+      "units": "4",
+      "ge": null,
+      "coid": "436994",
+      "requirement": "OR",
+      "description": "Modern concepts of chemical bonding, molecular structure, conformations, nomenclature, thermodynamics and kinetics, acid-base chemistry, stereochemistry, organic reaction intermediates and mechanisms, and synthesis. The physical properties, preparations and reactions of alkanes, haloalkanes, alkenes, alkynes and alcohols.",
+      "prerequisites": "C- or better in CHM 123 or CHM 1220 ; and C- or better in CHM 123L or CHM 1220L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 3140L",
+      "title": "Organic Chemistry Laboratory I",
+      "units": "1",
+      "ge": null,
+      "coid": "436995",
+      "requirement": "and",
+      "description": "Introduction to synthesis, isolation, purification, and characterization of organic compounds. A focus of this applied learning will be the theory, interpretation, and application of identifying compounds utilizing IR and NMR spectra. Product fee required.",
+      "prerequisites": "C- or better in CHM 3140 or CHM 315; CHM 3140 can be concurrent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 3010",
+      "title": "Modeling the Fundamentals of Physical Chemistry",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "437885",
+      "requirement": "Physical Chemistry",
+      "description": "[GE 5D] Examine models of thermodynamic properties of chemical species and mixtures, chemical kinetics, physical properties of molecules. Not a substitute for CHM 3040, CHM 3050, CHM 3110, or CHM 3120. Not a substitute for CHM 3040, CHM 3050, CHM 3110, or CHM 3120.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 3040",
+      "title": "Elements of Physical Chemistry I",
+      "units": "3",
+      "ge": null,
+      "coid": "436990",
+      "requirement": "or",
+      "description": "Part of a yearlong course in physical chemistry covering the properties of gases, chemical thermodynamics, solutions, physical and chemical equilibrium, electrochemistry, and macromolecules. Does not have to be taken in sequence.",
+      "prerequisites": "CHM 123 or CHM 1220 ; MAT 116 or MAT 1150 ; PHY 133 or PHY 1520 ; and PHY 133L or PHY 1520L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CHM 3110",
+      "title": "Classical Physical Chemistry",
+      "units": "3",
+      "ge": null,
+      "coid": "436992",
+      "requirement": "or",
+      "description": "Physical chemistry covering the properties of gases, chemical thermodynamics, solutions, physical and chemical equilibrium, electrochemistry and kinetics. Required for certification by the American Chemical Society. Part of a two-semester sequence.",
+      "prerequisites": "CHM 123 or CHM 1220 ; MAT 116 or MAT 1150 ; PHY 133 or PHY 1520 ; and PHY 133L or PHY 1520L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "CHM 1210",
+    "CHM 1210L",
+    "CHM 1220",
+    "CHM 1220L",
+    "CHM 2010",
+    "CHM 2010L",
+    "CHM 2210",
+    "CHM 2210L",
+    "CHM 3010",
+    "CHM 3040",
+    "CHM 3110",
+    "CHM 3140",
+    "CHM 3140L"
+  ]
+}

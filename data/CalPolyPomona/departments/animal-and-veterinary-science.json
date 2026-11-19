@@ -1,0 +1,1452 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:29:52+00:00",
+  "id": "animal-and-veterinary-science",
+  "name": "Animal And Veterinary Science",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6299",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Animal and Veterinary Science Department Building 2 Room 123 | (909) 869-2216 | Department Website | Faculty Directory Our Department’s mission is to provide state‑of‑the‑art instructional and research programs. The Department of Animal and Veterinary Sciences endeavors to train all AVS and AHS majors, and minors to understand and critically evaluate food animal and companion animal production, nutrition, health, and physiology. The department is deeply rooted in Cal Poly Pomona’s polytechnic “become by doing” tradition, blending biological science with real-world animal husbandry. Students work across 330 acres of rangeland, 100 acres of irrigated pasture, and specialized labs for meat, wool, and production - including exposure to cattle, sheep, goats, swine, and Arabian horses. The curriculum includes pathways for pre-veterinary preparation, general animal science, and a separate animal health science program, reflecting the department’s comprehensive approach. Faculty engage in applied research and industry partnerships, advancing areas like nutrition, breeding, physiology, and biotechnology. Students enjoy a wide range of hands-on resources: teaching farms, nutrition and anatomy labs, the Arabian Horse Center, and externships such as the Santa Anita racetrack equine internship. Student groups like Pre-Vet and Livestock Club facilitate leadership, networking, and scholarship opportunities, while field placements with producers, USDA facilities, or veterinary clinics enable graduates to launch careers across veterinary, agricultural, biotech, and public health fields. Graduate students may pursue an M.S. in Agriculture with thesis-based rese",
+  "courses": [
+    {
+      "code": "AHS 1104",
+      "title": "Orientation and Careers in Animal Health Science",
+      "units": "2",
+      "ge": null,
+      "coid": "435445",
+      "description": "Outline of the academic path that students will follow. Discuss the various employment opportunities available for students graduating with this degree. This class will cover campus life, university rules and regulations and administration. May be taken up to three times for a total credit of 3 units.",
+      "prerequisites": "AHS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 1129",
+      "title": "Handling, Restraint and Nursing Care of Domestic Animals",
+      "units": "3",
+      "ge": null,
+      "coid": "435456",
+      "description": "General concepts of restraint and handling of wild and domestic animals. Emphasis is on physical, chemical and moral/psychological restraint. Discussion of the tools/equipment of restraint, rope work and medical problems that might occur during restraint. Corequisite(s): AHS 1129L .",
+      "prerequisites": "AHS 1104 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 1129L",
+      "title": "Handling, Restraint and Nursing Care of Domestic Animals Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435457",
+      "description": "General concepts of restraint and handling of wild and domestic animals. Emphasis is on physical, chemical and moral/psychological restraint. Discussion of the tools/equipment of restraint, rope work and medical problems that might occur during restraint. Product fee required. Corequisite(s): AHS 1129 .",
+      "prerequisites": "AHS 1104 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438021",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AHS 2202",
+      "title": "Clinical Anatomy and Physiology",
+      "units": "3",
+      "ge": null,
+      "coid": "435459",
+      "description": "Familiarize students with the function and form of the animal body and its parts. A systems approach to prepare students to locate and recognize clinically significant anatomical features. The physiology will be taught as an organ system basis. Per university policy, students must receive a C- or better in this course and all other core curriculum courses to advance in the Animal Health Science program. May be taken up to three times for a total credit of 9 units. Per university policy, students must receive a C- or better in this course and all other core curriculum courses to advance in the Animal Health Science program. Corequisite(s): AHS 2202L and AHS 2210 .",
+      "prerequisites": "AHS major, BIO 1150 or BIO 115, BIO 1150L or BIO 115L, CHM 1210 or CHM 121, and CHM 1210L or CHM 121L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 2202L",
+      "title": "Clinical Anatomy and Physiology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435460",
+      "description": "Familiarize students with the function and form of the animal body and its parts. A systems approach to prepare students to locate and recognize clinically significant anatomical features. Physiology will taught as an organ system basis. Per university policy, students must receive a C- or better in this course and all other core curriculum courses to advance in the Animal Health Science program Per university policy, students must receive a C- or better in this course and all other core curriculum courses to advance in the Animal Health Science program. Product fee required. Corequisite(s): AHS 2202 and AHS 2210 .",
+      "prerequisites": "AHS major, BIO 1150 or BIO 115, BIO 1150L or BIO 115L, CHM 1210 or CHM 121, and CHM 1210L or CHM 121L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 2208",
+      "title": "Diagnostic Imaging",
+      "units": "2",
+      "ge": null,
+      "coid": "435461",
+      "description": "How to safely and effectively produce diagnostic radiographs and ultrasonic images. Learn how to properly prepare and operate radiographic and darkroom equipment, computer radiography, as well as ultrasound equipment. Per department policy, students must receive a C- or better in this course and all other core curriculum courses to advance in the Animal Health Science program Corequisite(s): AHS 2208L .",
+      "prerequisites": "AHS major, AHS 1129 , and AHS 1129L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 2208L",
+      "title": "Diagnostic Imaging Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435462",
+      "description": "Safely and effectively produce diagnostic radiographs and ultrasonic images. How to properly prepare and operate radiographic and darkroom equipment, computer radiography, as well as ultrasound equipment. Per university policy, students must receive a C- or better in this course and all other core curriculum courses to advance in the Animal Health Science program. Product fee required. Corequisite(s): AHS 2208 .",
+      "prerequisites": "AHS major, AHS 1129 , and AHS 1129L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 2210",
+      "title": "Veterinary Terminology",
+      "units": "1",
+      "ge": null,
+      "coid": "435458",
+      "description": "Introduction to veterinary terminology and its usage in the veterinary field. Per university policy, students must receive a C- (1.7) or better in this course to advance in the Animal Health Science program. Corequisite(s): AHS 2202 and AHS 2202L .",
+      "prerequisites": "AHS 1104",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 2220",
+      "title": "Clinical Nutrition",
+      "units": "2",
+      "ge": null,
+      "coid": "435463",
+      "description": "An introduction to basic nutrients and nutritional needs of well animals and the ramifications of disease conditions on the nutritional needs and clinical case management. Completion of the CVTEA required and recommended nutritional essential skills for veterinary technologists. Per university policy, students must receive a C- or better in this course to advance in the Animal Health Science program.",
+      "prerequisites": "BIO 115 or BIO 1150 ; BIO 115L or BIO 1150L ; CHM 121 or CHM 1210 and CHM 121L or CHM 1210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 2410",
+      "title": "Clinical Internship I",
+      "units": "1",
+      "ge": null,
+      "coid": "435465",
+      "description": "Practical experience working in public or private clinics or laboratories where application of animal health sciences or research takes place. Experiences should be useful in preparation for state board exams in veterinary technology and/or AAALAC exams for certification in laboratory animal care. This course is intended for lower division students in the Animal Health Sciences major. This course is intended for lower division students in the Animal Health Sciences major.",
+      "prerequisites": "AHS 129 or AHS 1129 and AHS 129L or AHS 1129L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438022",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AHS 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438023",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AHS 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438024",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AHS 3042L",
+      "title": "Dentistry Skills Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "439359",
+      "description": "Introduction to the theories, practices, and techniques of small animal dentistry. Study of common oral diseases, routine and advanced dentistry procedures, and the role of the veterinary technician in dental care. Practical knowledge of general dentistry skills within the scope of a veterinary technician license. Product fee required. Corequisite(s): AHS 3263 and AHS 3263L .",
+      "prerequisites": "AHS 3235 , AHS 3235L , AHS 2202 , AHS 2202L , AHS 1129 , and AHS 1129L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 3235",
+      "title": "Laboratory Procedures and Clinical Pathology",
+      "units": "3",
+      "ge": null,
+      "coid": "435466",
+      "description": "An advanced course providing instruction in hematology, clinical pathology, microbiology, and urinalysis used to diagnose health problems in veterinary clinics and diagnostic laboratories. Per university policy, students must receive a C- (1.7) or better in this course to advance in the Animal Health Science program. Per university policy, students must receive a C- (1.7) or better in this course to advance in the Animal Health Science program. Corequisite(s): AHS 3235L .",
+      "prerequisites": "Animal Health Science major, BIO 1150 , BIO 1150L , CHM 1210 , AHS 2202 , and AHS 2202L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 3235L",
+      "title": "Laboratory Procedures and Clinical Pathology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435467",
+      "description": "An advanced laboratory course providing instruction in hematology, clinical pathology, microbiology, urinalysis and necropsy procedures used to diagnose health problems in veterinary clinics and diagnostic laboratories. Per university policy, students must receive a C- or better in this course to advance in the Animal Health Science program. Corequisite(s): AHS 3235 .",
+      "prerequisites": "Animal Health Science major, BIO 1150 , BIO 1150L , CHM 1210 , AHS 2202 , and AHS 2202L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 3263",
+      "title": "Companion Animal Nursing and Surgical Skills",
+      "units": "3",
+      "ge": null,
+      "coid": "435468",
+      "description": "Instruction on the nursing and surgical skills required to work with companion animals, mainly dogs and cats. How to safely restrain animals, how to use anesthetic and surgical equipment, and how to use proper aseptic technique. Preparation for common surgical procedures. Students must receive a C- or better to advance through the AHS program. Corequisite(s): AHS 3263L .",
+      "prerequisites": "Animal Health Science major, AHS 1129 / AHS 1129L , AHS 2202 / AHS 2202L , and AHS 3235 / AHS 3235L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 3263L",
+      "title": "Surgical Nursing Skills Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435469",
+      "description": "Gain experience in the skills required to work in the veterinary surgical arena. Learn the different types of anesthetics used, surgical equipment, instruments and aseptic technique. Familiarize with the preparation for common surgical procedures. Per university policy, students must receive a C- or better in this course to advance in the Animal Health Science program. Corequisite(s): AHS 3263 .",
+      "prerequisites": "Animal Health Science major, AHS 3235 / AHS 3235L , AHS 2202 / AHS 2202L , and AHS 2208 / AHS 2208L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 3305",
+      "title": "Parasitology and Infectious Diseases",
+      "units": "3",
+      "ge": null,
+      "coid": "435470",
+      "description": "Animal parasites and pathogens and their relationship to clinical and subclinical parasitic diseases, as well as common diseases and disease processes of livestock, companion animals, laboratory animals and wildlife. Per university policy, students must receive a C- (1.7) or better in this course to advance in the Animal Health Science program. Corequisite(s): AHS 3305L .",
+      "prerequisites": "AHS major, AVS major, AG Science major, AG 1010 , or instructor permission; BIO 1150 or BIO 1210 ; and BIO 1150L or BIO 1210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-health-science-b-s-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AHS 3305L",
+      "title": "Parasitology and Infectious Diseases Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435471",
+      "description": "Study of animal parasites and pathogens and their relationship to clinical and subclinical parasitic diseases, as well as common diseases and disease processes of livestock, companion animals, laboratory animals and wildlife. Per department policy, students must receive a C- or better in this course to advance in the Animal Health Science program. Product fee required. Corequisite(s): AHS 3305 .",
+      "prerequisites": "AHS major, AVS major, AG Science major, AG 1010 , or instructor permission; BIO 1150 or BIO 1210 ; and BIO 1150L or BIO 1210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-health-science-b-s-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AHS 3307",
+      "title": "Clinical Pharmacology",
+      "units": "3",
+      "ge": null,
+      "coid": "435472",
+      "description": "The use of clinical chemical procedures, the classification and action of pharmaceuticals, and the dispensing of medications will be studied. Includes conversion and calculation of drugs, prescription writing and routes of administration. Per university policy, students must receive a C- or better in this course to advance in the Animal Health Science program. Per university policy, students must receive a C- or better in this course to advance in the Animal Health Science program. Corequisite(s): AHS 3307L .",
+      "prerequisites": "AHS 2202 , AHS 2202L , AHS 2208 , AHS 2208L , AHS 3235 , and AHS 3235L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 3307L",
+      "title": "Clinical Pharmacology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435473",
+      "description": "The use of clinical chemical procedures, the classification and action of pharmaceuticals, and the dispensing of medications will be studied. Includes conversion and calculation of drugs, prescription writing and routes of administration. Per university policy, students must receive a C- or better in this course to advance in the Animal Health Science program Per university policy, students must receive a C- or better in this course to advance in the Animal Health Science program Corequisite(s): AHS 3307 .",
+      "prerequisites": "AHS 2202 , AHS 2202L , AHS 2208 , AHS 2208L , AHS 3235 , and AHS 3235L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 3369",
+      "title": "Lab Animal and Exotic Animal Medicine",
+      "units": "2",
+      "ge": null,
+      "coid": "435474",
+      "description": "Instruction in laboratory and exotic animal medicine including husbandry, biological data, common diseases and conditions, research policy and procedures, and animal welfare. Corequisite(s): AHS 3369L .",
+      "prerequisites": "Animal Health Science major, AHS 104 or AHS 1104 , AHS 129 or AHS 1129 , AHS 129L or AHS 1129L , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 3369L",
+      "title": "Lab Animal and Exotic Animal Medicine Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435475",
+      "description": "Instruction on handling and restraint, identification, and common procedures of laboratory and exotic animals. Instruction includes concepts of laboratory animal facility management, personnel, quality assurance, animal welfare and husbandry. Emphasis is placed on the role of the veterinary technician. Corequisite(s): AHS 3369 .",
+      "prerequisites": "Animal Health Science major, AHS 104 or AHS 1104 , AHS 129 or AHS 1129 , AHS 129L or AHS 1129L , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438025",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AHS 4200",
+      "title": "Large Animal Medicine and Nursing Skills",
+      "units": "2",
+      "ge": null,
+      "coid": "438985",
+      "description": "Instruction in large animal medicine and nursing. Advanced nursing and diagnostic techniques, response to disease, management of hospitalized patients, common diseases and conditions, and preventative medicine programs. Emphasis will be on the role of the veterinary technician in the veterinary hospital. Corequisite(s): AHS 4200L .",
+      "prerequisites": "Animal Health Science major, AHS 3263 , AHS 3263L , AHS 3307 and AHS 3307L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4200L",
+      "title": "Large Animal Medicine and Nursing Skills Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "438986",
+      "description": "Instruction in large animal medicine and nursing skills. Hands-on experience with large animal species, including advanced handling and restraint, venipuncture, diagnostic testing and nursing care. Emphasis will be on the role of the veterinary technician in the veterinary hospital. Product fee required.",
+      "prerequisites": "Animal Health Science major, AHS 3263 / AHS 3263L and AHS 3307 / AHS 3307L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4300",
+      "title": "Small Animal Medicine",
+      "units": "3",
+      "ge": null,
+      "coid": "439315",
+      "description": "Instruction on small animal medicine. Advanced nursing and diagnostic techniques, response to disease, management of hospitalized patients, common diseases and conditions, intensive care, toxicology and preventative medicine programs. Emphasis will be on the role of the veterinary technician in the veterinary hospital.",
+      "prerequisites": "AHS 3235 , AHS 3235L , AHS 3263 , AHS 3263L , AHS 3307 , AHS 3307L , AHS 4407 , and AHS 4407L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4407",
+      "title": "Critical Care, Advanced Surgical Assisting and Anesthesiology",
+      "units": "3",
+      "ge": null,
+      "coid": "435477",
+      "description": "Instruction in the specific concepts of intensive care veterinary nursing, surgical assisting in advanced and/or specialized surgical techniques and advanced anesthesia techniques will be mastered. Per department policy, students must receive a C- or better in this course to advance in the Animal Health Science program. Corequisite(s): AHS 4407L and AHS 4408L .",
+      "prerequisites": "Animal Health Science major, AHS 2202 , AHS 2202L , AHS 2208 , AHS 3263 , AHS 3263L , AHS 3307 , and AHS 3307L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4407L",
+      "title": "Critical Care, Advanced Surgical Assisting and Anesthesiology Laboratory",
+      "units": "2",
+      "ge": null,
+      "coid": "435476",
+      "description": "Instruction in the specific concepts of intensive care veterinary nursing, surgical assisting in advanced and/or specialized surgical techniques and advanced anesthesia techniques will be mastered. Corequisite(s): AHS 4407 .",
+      "prerequisites": "Animal Health Science major, AHS 202 or AHS 2202 , AHS 202L or AHS 2202L , AHS 208 or AHS 2208 , AHS 208L or AHS 2208L , AHS 263 or AHS 3263 , AHS 263L or AHS 3263L , AHS 307 or AHS 3307 , and AHS 307L or AHS 3307L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4408L",
+      "title": "Surgical Recovery, Nursing and Critical Care Laboratory",
+      "units": "2",
+      "ge": null,
+      "coid": "437383",
+      "description": "Instruction in the specific concepts of intensive care, recovery and veterinary nursing of surgical and anesthetic patients. Corequisite(s): Animal Health Science major, AHS 4407 , and AHS 4407L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4410",
+      "title": "Clinical Internship II",
+      "units": "1",
+      "ge": null,
+      "coid": "435478",
+      "description": "Practical experience working in public or private clinics or laboratories where application of animal health sciences or research takes place. Experiences should be useful in preparation for state board exams in veterinary technology and/or AAALAC exams for certification in laboratory animal care. This course is intended for lower division students in the Animal Health Sciences major.",
+      "prerequisites": "AHS 245 or AHS 2410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4420",
+      "title": "Advanced Clinical Internship II",
+      "units": "1",
+      "ge": null,
+      "coid": "436335",
+      "description": "Practical experience working in public or private clinics or laboratories where application of animal health sciences or research takes place. Experiences should be useful in preparation for state board exams in veterinary technology and/or AAALAC exams for certification in laboratory animal care. This course is intended for lower division students in the Animal Health Sciences major. May be taken up to two times for a total credit of 2 units.",
+      "prerequisites": "Animal Health Science major, and AHS 442 or AHS 4410 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4450W",
+      "title": "Veterinary Economics and Office Procedures",
+      "units": "2",
+      "ge": null,
+      "coid": "435479",
+      "description": "Principles of veterinary economics and office procedures as they relate to companion animals. This will include medical record-keeping, navigation of practice management software, inventory and economic analysis, and electronic medical records. Client communication, team building and managing stress within a high stakes environment will be explored in depth. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Animal Health Science major, junior or senior standing, and AHS 2210 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4610W",
+      "title": "Senior Seminar",
+      "units": "2",
+      "ge": null,
+      "coid": "439148",
+      "description": "Synthesis of disease processes, including medical, pharmacological and nursing aspects of the disease. Preparation for the Veterinary Technician National Exam. Review of the Veterinary Practice Act with emphasis on veterinary technician scope of practice. Veterinary technician licensure, legal and continuing education requirements for licensure. Continued study of client communication, interpersonal skills, and veterinary professional mental health. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Animal Health Science major, senior standing, AHS 4407 , and AHS 4407L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-health-science-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AHS 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438026",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AHS 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438027",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AHS 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438028",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 1000",
+      "title": "Orientation to Animal and Veterinary Sciences",
+      "units": "1",
+      "ge": null,
+      "coid": "437403",
+      "description": "Outlining the academic path that students will follow to be successful in this major. Discuss the various employment opportunities available for students graduating with this degree. Covering campus life, university rules, policies and regulations. Mandatory fall quarter course for entering freshmen. Strategies to assist students with the transition from school to university and the successful completion of their college career in the Animal & Veterinary Science department. Topics covered include: campus student support services, career planning, time management, academic planning, study/note/test skills, learning styles, navigating the college and university, professional development, extracurricular activities, and others.",
+      "prerequisites": "AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AVS 1112",
+      "title": "Food Animal Production",
+      "units": "3",
+      "ge": null,
+      "coid": "435771",
+      "description": "A study of the domestic livestock industry and animal management techniques emphasizing the importance of management strategies, equipment and facilities, nutrition, selection, breeding principles and disease control to ensure scientifically based management decisions.",
+      "prerequisites": "AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-and-veterinary-science-minor",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AVS 1113",
+      "title": "Companion, Laboratory and Exotic Animal Care",
+      "units": "3",
+      "ge": null,
+      "coid": "435767",
+      "description": "General concepts of handling and restraining domestic and exotic animals. Emphasis will be placed on behavior, management, nutrition, disease prevention, and breed identification. The care and use of laboratory animals will be covered in depth.",
+      "prerequisites": "AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "AVS 1114L",
+      "title": "Food Animal Production Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435780",
+      "description": "A study of the commonly applied animal techniques and practices used to scientifically manage livestock in the commercial food animal industry. The laboratory will emphasize the importance of evaluating business management strategies, equipment and facilities, nutrition, genetics and selection, breeding principles and herd health plans in order of evaluate scientifically based domestic animal livestock management methodologies. Product fee required.",
+      "prerequisites": "AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-and-veterinary-science-minor",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 1115L",
+      "title": "Companion Animal Management Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435791",
+      "description": "Instruction will cover the general concepts of handling and restraining domestic and exotic animals. Emphasis will be placed on behavior, management, nutrition, disease prevention, and breed identification. The care and use of laboratory animals will be covered in depth. Product fee required.",
+      "prerequisites": "AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 1125",
+      "title": "Equine Management Science",
+      "units": "3",
+      "ge": null,
+      "coid": "435447",
+      "description": "A study of horse industry emphasizing the importance of breeds, selection, evaluation, nutrition, breeding principles, disease control, equipment, facilities to ensure scientifically based management decisions. Corequisite(s): AVS 1125L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "equine-studies-minor"
+      ]
+    },
+    {
+      "code": "AVS 1125L",
+      "title": "Equine Management Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436274",
+      "description": "A study of horse industry emphasizing the importance of breeds, selection, evaluation, nutrition, breeding principles, disease control, equipment, facilities to ensure scientifically based management decisions. Corequisite(s): AVS 1125 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "equine-studies-minor"
+      ]
+    },
+    {
+      "code": "AVS 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438083",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 2010",
+      "title": "Medical Terminology",
+      "units": "2",
+      "ge": null,
+      "coid": "439553",
+      "description": "Introduction to medical terminology with specific application for veterinary science. Medical terminology is a universal language used in all aspects of the medical/health/research community. Designed to familiarize the student in such language by providing a basic understanding of word roots, prefixes, suffixes and abbreviations used in the field, preparing them for situations in which they will be communicating with others in the medical/veterinary field.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "AVS 2101",
+      "title": "Fundamentals of Animal Nutrition",
+      "units": "3",
+      "ge": null,
+      "coid": "435446",
+      "description": "A comprehensive introduction to animal nutrition with an emphasis on nutrients, digestive physiology, digestion, and feedstuff characteristics. Focus on developing a foundation for understanding more advanced topics in nutrition including the interaction between health and nutrition. Corequisite(s): AVS 2101L .",
+      "prerequisites": "AVS 1112 ; CHM 1210 ; CHM 1210L ; MAT 1050 , MAT 1052 , or MAT 1140 ; and AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-and-veterinary-science-minor",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 2101L",
+      "title": "Fundamentals of Animal Nutrition Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436322",
+      "description": "A comprehensive and applied introduction to animal nutrition with an emphasis on nutrients, digestive physiology, digestion, feed ingredient characteristics, feed identification, and ration formulation. Includes practical activities focused on developing the understanding necessary to balance appropriate diets. Corequisite(s): AVS 2101 .",
+      "prerequisites": "AVS major; AVS 1112 ; CHM 1210 ; CHM 1210L ; and MAT 1050 , MAT 1052 , or MAT 1140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-and-veterinary-science-minor",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 2211",
+      "title": "Drugs and Society",
+      "units": "3",
+      "ge": null,
+      "coid": "434983",
+      "description": "Identification and explanation of the action of different drugs. The compounds discussed include over-the-counter drugs, prescription drugs, social drugs, and drugs of abuse. How addictions develop, why they are harmful, and how to stop them. Emphasizes human pharmacology although the principles are the same for animals.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 2434",
+      "title": "Foal Watch",
+      "units": "1",
+      "ge": null,
+      "coid": "439314",
+      "description": "Basic equine breeding management, care of the pregnant mare, methods to detect impending foaling and parturition, difficulties that might occur during foaling, post foaling care and potential problems/disorder in foals.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "equine-studies-minor"
+      ]
+    },
+    {
+      "code": "AVS 2980A",
+      "title": "Animal Practicum",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438965",
+      "description": "Practical hands on animal technical training. Activities including animal handling, restraint, care, health management, production and industry standards are taught through applied supervised experiences with one or more domestic animal species.",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 18 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438084",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438085",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438086",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 3305",
+      "title": "Animal Genetics",
+      "units": "3",
+      "ge": null,
+      "coid": "435889",
+      "description": "An introductory course dealing with the basic genetics of all species of livestock and common companion animals. Emphasis will be placed on inherited abnormalities, traits of economic importance, conventional methods of dealing with these traits, and technologies of the future.",
+      "prerequisites": "BIO 1150 or BIO 1210 , BIO 1150L or BIO 1210L , and AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-and-veterinary-science-minor",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 3311",
+      "title": "Animal Industry and Society",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "437786",
+      "description": "[GE 5D] Analysis of the application of science in the food animal industry and animal production systems, the role and use of food animals and animal products in resolving problems associated with humanity, and the influence of animal agriculture on history, civilization and human values.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-health-science-b-s-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 3327",
+      "title": "Meat Science",
+      "units": "3",
+      "ge": null,
+      "coid": "435798",
+      "description": "Introduction to processing and utilization of fresh and value-added red meat products. Discussions on identity standards, factors affecting sensory, nutritional and shelf-life quality attributes, food safety (microbiological, chemical and physical hazards), including inspection and grading of red meats.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 3333",
+      "title": "Canine and Feline Compendium",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "434967",
+      "description": "[GE 5D] How the origins and evolution of the domestic dog and cat influence their behavior and unique nutritional requirements, how selection for desired traits leads to breed associated problems. Emergency first aid, nutrition, calculation of caloric requirements, common diseases, vaccines and the immune system, zoonotic diseases (diseases transmitted from animals to man.)",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-health-science-b-s",
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-health-science-b-s-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 3350",
+      "title": "Anatomy and Physiology",
+      "units": "4",
+      "ge": null,
+      "coid": "435890",
+      "description": "An integrated approach to the structure and function of animal systems. Topics to be discussed include the cell, the muscular-skeletal system, the nervous system, the cardiovascular system, the respiratory system, and the excretory system. Corequisite(s): AVS 3350L .",
+      "prerequisites": "BIO 1150 or BIO 1210 , BIO 1150L or BIO 1210L , CHM 1210 , CHM 1210L , and AVS major.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-and-veterinary-science-minor",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 3350L",
+      "title": "Domestic Animal Anatomy Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435894",
+      "description": "An integrated approach to the structure and function of animal systems. Topics to be discussed include the cell, the muscular-skeletal system, the nervous system, the cardio-vascular system, the respiratory system, and the excretory system. Corequisite(s): AVS 3350 .",
+      "prerequisites": "AVS major; BIO 115, BIO 1150 , BIO 121 or BIO 1210 ; BIO 115L, BIO 1150L , BIO 121L, or BIO 1210L ; CHM 121 or CHM 1210 ; and CHM 121L or CHM 1210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-and-veterinary-science-minor",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 3365",
+      "title": "Equine Herd Health",
+      "units": "3",
+      "ge": null,
+      "coid": "435450",
+      "description": "A study of the etiology, clinical signs, and control of infectious, nutritional and parasitic diseases of horses. 3 Lecture Corequisite(s): AVS 3365L .",
+      "prerequisites": "AVS 125 or AVS 1125 ; and AVS 125L or AVS 1125L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "equine-studies-minor"
+      ]
+    },
+    {
+      "code": "AVS 3365L",
+      "title": "Equine Herd Health Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435451",
+      "description": "Application of the fundamental aspects of preventative equine herd health diseases, veterinary care, nutrition, management, animal welfare and basic equine emergencies. 3 hour Laboratory Corequisite(s): AVS 3365 .",
+      "prerequisites": "AVS 125 or AVS 1125 ; and AVS 125L or AVS 1125L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "equine-studies-minor"
+      ]
+    },
+    {
+      "code": "AVS 3456",
+      "title": "Animal Behavior",
+      "units": "3",
+      "ge": null,
+      "coid": "438893",
+      "description": "The study of animal behavior including learning, cognition, behavioral physiology, biorhythms and social behavior. Emphasis will be placed on the behavior of domesticated species.",
+      "prerequisites": "AVS 1112 or AVS 112, AVS 1113 or AVS 113, AVS 1114L or AVS 114L, and AVS 1115L or AVS 115L.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-and-veterinary-science-minor",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 3556",
+      "title": "Companion Animal Behavior",
+      "units": "3",
+      "ge": null,
+      "coid": "442744",
+      "description": "The study of companion animal behavior will include of organization of behaviors frequently exhibited by companion animals, behavioral motivators, common behavioral problems in companion animals, and behavioral intervention techniques. Emphasis will be in species most frequently selected for companionship.",
+      "prerequisites": "AVS 1112 , AVS 1113 , AVS 1114L , and AVS 1115L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "AVS 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438087",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 4114",
+      "title": "Undergraduate Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438894",
+      "description": "Laboratory, field, or computational research conducted under faculty supervision. Recommended for students contemplating graduate or professional school training. A maximum of 3 units can be applied as a program elective for AVS majors.",
+      "prerequisites": "Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 3 units.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 4214",
+      "title": "Mammalian Endocrinology and Physiology of Reproduction and Lactation",
+      "units": "3",
+      "ge": null,
+      "coid": "437531",
+      "description": "Surveying the endocrine glands and their role roll in controlling development, growth, metabolism, digestion, metabolic regulation of physiological functions and the processes of reproduction from gametogenesis to parturition and galactopoiesis and lactation in domestic food producing animals. Corequisite(s): AVS 4214L .",
+      "prerequisites": "AVS major; AVS 350 or AVS 3350 ; and AVS 350L or AVS 3350L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 4214L",
+      "title": "Mammalian Reproduction and Lactational Physiology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435452",
+      "description": "A general laboratory course examining those factors which control reproductive function in domestic animals. Examine reproductive function in the female from puberty through pregnancy and parturition and from gametogenesis through puberty and gamete collection and cryopreservation in the male. 3 hour Laboratory Product fee required. Corequisite(s): AVS 4214 .",
+      "prerequisites": "AVS major; AVS 350 or AVS 3350 ; and AVS 350L or AVS 3350L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 4215",
+      "title": "Reproductive Physiology and Management",
+      "units": "3",
+      "ge": null,
+      "coid": "442745",
+      "description": "Provides a comprehensive study of mammalian reproductive physiology, covering humans, livestock, and companion animals. Explores the development of the reproductive system, sexual differentiation and maturation, spermatogenesis, oogenesis, and the estrus and menstrual cycles. Key topics include the cellular and hormonal regulation of fertilization, implantation, pregnancy, parturition, and lactation. An overview of relevant assisted reproductive management procedures used clinically and in the livestock industry by conclusion of course. Corequisite(s): AVS 4215L .",
+      "prerequisites": "AVS 3350 and AVS 3350L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "AVS 4215L",
+      "title": "Reproductive Physiology and Management Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "451015",
+      "description": "Experiential lab focusing on practical reproductive management techniques across different mammalian species. Learn estrus detection methods using both observation and specialized estrus detection tools. Learn artificial insemination techniques in livestock animals and perform pregnancy detection through ultrasound imaging, hormonal ELISA assays, and rectal palpation. Visit a local dairy to learn about the reproductive management of dairy cattle and perform colostrum quality testing. Observational field trip to either a specialized veterinary theriogenology unit, human human-assisted reproduction lab, or on-farm livestock management clinic. Corequisite(s): AVS 4215 .",
+      "prerequisites": "AVS 3350 and AVS 3350L . Pre or Corequisite(s):",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "AVS 4216",
+      "title": "Mammalian Endocrinology",
+      "units": "3",
+      "ge": null,
+      "coid": "451016",
+      "description": "A focused and thorough exploration of the endocrine system and its vital role in regulating growth, health, and development of livestock and companion animals. Systematically examine all major endocrine glands, including the thyroid, adrenal, and pituitary glands, to understand the fundamental role these glands play in supporting animal health. Apply this knowledge to clinical endocrinology, in which they discuss endocrine disorders, including hypothyroidism/hyperthyroidism, adrenal insufficiency, and Cushing’s disease. Learning is reinforced by the presentation of real-world clinical cases in small student groups. Provides a practical experience in diagnostics and therapeutic management. Preparation for veterinary, biomedical, or specialized animal science careers.",
+      "prerequisites": "AVS 3350 and AVS 3350L . Pre or Corequisite(s):",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "AVS 4350",
+      "title": "Equine Exercise Physiology",
+      "units": "3",
+      "ge": null,
+      "coid": "435455",
+      "description": "The basic and applied physiology of the exercising horse. Discussion of muscular respiratory, cardiovascular, nutritional, and osmoregulatory physiology. Includes gait analysis, lameness and pharmacology.",
+      "prerequisites": "AVS 350 or AVS 3350 ; and AVS 350L or AVS 3350L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "equine-studies-minor"
+      ]
+    },
+    {
+      "code": "AVS 4402",
+      "title": "Advanced Nutrition",
+      "units": "3",
+      "ge": null,
+      "coid": "435980",
+      "description": "Review of the advanced concepts of nutrient digestion and absorption; metabolism of proteins, carbohydrates, fats, minerals, and vitamins. Relate those concepts to applied feeding practices used in livestock production.",
+      "prerequisites": "AVS 101 or AVS 2101 , and AVS 2101L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 4411",
+      "title": "Internship in Animal Science",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438856",
+      "description": "On-the-job training in animal science, providing collegiate level experiences in animal production, agribusiness and related areas. Experiences may be useful for preparation of senior projects. Total credit limited to 16 units. Mandatory credit/no credit grading basis.",
+      "prerequisites": "Animal Science Major Pre or Corequisite(s): Permission of coordinator required before registering",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 4430W",
+      "title": "Biotechnology Applications in Animal Science",
+      "units": "3",
+      "ge": null,
+      "coid": "436242",
+      "description": "A study of the principles and practical applications of biotechnology in Animal Science. Discussion of the implications of genetic engineering, gene transfer, transgenic animals, embryo transfer and embryo manipulation for livestock improvement; present and future importance to the agriculture industry; human and veterinary medicine, ethical issues, patent law and strategies for future problem-solving. Appreciation of biotechniques with relevance to the Animal Sciences. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): AVS 4430LW .",
+      "prerequisites": "AVS 3305 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-and-veterinary-science-minor",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 4610",
+      "title": "Senior Seminar",
+      "units": "1",
+      "ge": null,
+      "coid": "435896",
+      "description": "New methods and developments, practices, and procedures in a variety of areas in the field of animal science.",
+      "prerequisites": "Senior Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "animal-science-b-s-animal-science-subplan-option",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+        "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "AVS 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438088",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438089",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438090",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 5410",
+      "title": "Graduate Internship in Animal Science",
+      "units": "1-4",
+      "ge": null,
+      "coid": "438838",
+      "description": "Individualized study, research, or professional experience related to animal science under the direction of a faculty member. May be repeated for up to a maximum of 4 units.",
+      "prerequisites": "Graduate students, Unconditional standing required",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "AVS 5500",
+      "title": "Advanced Topics in Animal Physiology",
+      "units": "3",
+      "ge": null,
+      "coid": "438849",
+      "description": "An advanced study of the physiology of domestic animals. Recent research developments in animal physiology. Topics include in-depth discussion of the nervous, endocrine, digestive, respiratory, circulatory, and excretory systems",
+      "prerequisites": "AVS 350 or AVS 3350 , and AVS 350L or AVS 3350L ; or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-animal-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AVS 5598",
+      "title": "Animal Science Seminar",
+      "units": "1",
+      "ge": null,
+      "coid": "438850",
+      "description": "In depth literature review, seminars and critiques addressing current topics in Animal Science.",
+      "prerequisites": "",
+      "grading_basis": "Student Choice",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-animal-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AVS 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438858",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing and permission of instructor. Pre or Corequisite(s): Graduate class standing and permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-animal-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AVS 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438859",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis.",
+      "prerequisites": "Graduate standing, and permission of instructor and department chair. Total credit limited to six units, with a maximum of 3 units per semester. Pre or Corequisite(s): Graduate standing, and permission of instructor and department chair. Total credit limited to six units, with a maximum of 3 units per semester.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-animal-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AVS 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438860",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis.",
+      "prerequisites": "Graduate standing, and permission of instructor and department chair. Pre or Corequisite(s): Graduate standing, and permission of instructor and department chair.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-animal-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AVS 6930",
+      "title": "Project Development",
+      "units": "2",
+      "ge": null,
+      "coid": "442746",
+      "description": "Develop and execute an intensive independent project based on a critical need within the Animal Sciences. Work with faculty advisor to draft a comprehensive project proposal and analyze data to refine their methodology and then complete their project. Projects can be practical applications such as writing animal handling manuals, creating lab manuals, or completing a systematic literature review.",
+      "prerequisites": "MS in Agricultural Sciences and Technology - Animal Science option, project emphasis.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 4 units.",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "AVS 6940",
+      "title": "Master Thesis / Project Research",
+      "units": "1-4",
+      "ge": null,
+      "coid": "438836",
+      "description": "Individual research in the area of specialization conducted as part of the preparation for writing a thesis under the direction of graduate faculty.",
+      "prerequisites": "Graduate student, Unconditional standing required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-animal-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AVS 6950",
+      "title": "Project Report",
+      "units": "2",
+      "ge": null,
+      "coid": "442747",
+      "description": "Finalize and present independent project. Requires the production of a concise, professionally written final report, approved by the faculty advisor, detailing the project’s background, consultations, methodology, and the finished product. Successful completion requires the final report submission by the Graduate Studies deadline and a public presentation of the project as the culminating experience. Typically taken during the final semester of the program. Pre or Corequisite(s): AVS 6930 .",
+      "prerequisites": "",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "AVS 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "1-2",
+      "ge": null,
+      "coid": "438837",
+      "description": "Compilation, evaluation, interpretation, and report of research for thesis directed by a committee of graduate faculty members. Completion of approved, bound thesis.",
+      "prerequisites": "Graduate students only. Advancement to Candidacy required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "agriculture-m-s-animal-science-subplan-option"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "animal-health-science-b-s",
+      "name": "Animal Health Science, B.S."
+    },
+    {
+      "id": "animal-science-b-s-animal-science-subplan-option",
+      "name": "Animal Science, B.S. - Animal Science Subplan/Option"
+    },
+    {
+      "id": "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option",
+      "name": "Animal Science, B.S. - Pre-Veterinary Science/Graduate School Subplan/Option"
+    },
+    {
+      "id": "agriculture-m-s-animal-science-subplan-option",
+      "name": "Agriculture, M.S. - Animal Science Subplan/Option"
+    },
+    {
+      "id": "animal-and-veterinary-science-minor",
+      "name": "Animal and Veterinary Science Minor"
+    },
+    {
+      "id": "equine-studies-minor",
+      "name": "Equine Studies Minor"
+    },
+    {
+      "id": "animal-health-science-b-s-roadmap-4-year-120-units",
+      "name": "Animal Health Science, B.S.: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "animal-science-b-s-animal-science-subplan-option-roadmap-4-year-120-units",
+      "name": "Animal Science, B.S. - Animal Science Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "animal-science-b-s-pre-veterinary-science-graduate-school-subplan-option-roadmap-4-year-120-units",
+      "name": "Animal Science, B.S. - Pre-Veterinary Science/Graduate School Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "animal-science-b-s-animal-science-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Animal Science, B.S. - Animal Science Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

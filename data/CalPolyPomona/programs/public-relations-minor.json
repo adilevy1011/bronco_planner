@@ -1,0 +1,196 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:13:35+00:00",
+  "id": "public-relations-minor",
+  "name": "Public Relations Minor",
+  "title_on_page": "University Catalog",
+  "department": "Communication",
+  "department_id": "communication",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24214",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6330",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Public Relations Minor: 21 units Offered by: College of Letters, Arts, and Social Sciences , Communication Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 15 units COM 1107 - Copyediting (3) COM 2217 - Reporting (3) COM 3313 - Public Relations Principles (3) COM 3319W - Public Relations Writing (3) COM 4140 - Public Relations Case Studies (3) Minor Electives: 6 units COM 3317 - Entertainment Public Relations (3) COM 3318 - Global Public Relations (3) COM 3325 - Persuasion (3) COM 4150 - Public Relations Campaigns (3) COM 4222 - Crisis Communication (3) [GE 4C] COM 4446 - Event Planning (3) Notes: Students enrolled in these programs may not declare this minor: Communication, B.S. - Public Relations Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 15 units",
+      "courses": [
+        "COM 1107",
+        "COM 2217",
+        "COM 3313",
+        "COM 3319W",
+        "COM 4140"
+      ],
+      "raw_text": "Minor Required: 15 units"
+    },
+    {
+      "name": "Minor Electives: 6 units",
+      "courses": [
+        "COM 3317",
+        "COM 3318",
+        "COM 3325",
+        "COM 4150",
+        "COM 4222",
+        "COM 4446"
+      ],
+      "raw_text": "Minor Electives: 6 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "COM 1107",
+      "title": "Copyediting",
+      "units": "3",
+      "ge": null,
+      "coid": "437544",
+      "requirement": "Minor Required: 15 units",
+      "description": "Instruction in the editorial process of writing text that is clear, correct, concise, comprehensible, and consistent. Use of the Associated Press style manual and reference materials. Applying appropriate level of copyediting and eliminating bias.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 2217",
+      "title": "Reporting",
+      "units": "3",
+      "ge": null,
+      "coid": "436515",
+      "requirement": "Minor Required: 15 units",
+      "description": "Reporting and writing the news. Emphasis on news gathering, interviewing and writing principles. Determining newsworthiness, using sources, writing news leads, and developing news stories. Pre or Corequisite(s): COM 106, COM 1106 , or COM 1107 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3313",
+      "title": "Public Relations Principles",
+      "units": "3",
+      "ge": null,
+      "coid": "436516",
+      "requirement": "Minor Required: 15 units",
+      "description": "The nature and role of public relations in society, activities of public relations professionals, major influences that affect organizational behavior, and ethics and professional development of practitioners. Emphasis on management functions and developing effective public relations strategies.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3319W",
+      "title": "Public Relations Writing",
+      "units": "3",
+      "ge": null,
+      "coid": "435551",
+      "requirement": "Minor Required: 15 units",
+      "description": "Format and style for writing public relations materials. Emphasis on writing the various types of public relations copy. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "COM 1106 or COM 1107 , COM 2217 , COM 3313 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "COM 4140",
+      "title": "Public Relations Case Studies",
+      "units": "3",
+      "ge": null,
+      "coid": "436518",
+      "requirement": "Minor Required: 15 units",
+      "description": "Examination of how PR professionals deal with the demanding and dynamic environment of corporate, government and nonprofit public relations. Examines situations and strategies and discusses factors that affect how public relations is practiced in organizations: identifying stakeholder groups, developing strategies, embracing diversity and recognizing ethical issues.",
+      "prerequisites": "COM 313 or COM 3313 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3317",
+      "title": "Entertainment Public Relations",
+      "units": "3",
+      "ge": null,
+      "coid": "439455",
+      "requirement": "Minor Electives: 6 units",
+      "description": "An examination of public relations strategies and tactics applied within the entertainment industry including talent and media relations, reputation management, and promotional practices. Emphasis on techniques employed in major areas of entertainment public relations including music, film, theatre, TV, video games, tourism and book publishing. Students are expected to conduct research using primary and secondary sources to create press materials.",
+      "prerequisites": "COM 106, COM 1106 , or COM 1107 ; and COM 300 or COM 2217 . Pre or Corequisite(s): COM 313 or COM 3313 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3318",
+      "title": "Global Public Relations",
+      "units": "3",
+      "ge": null,
+      "coid": "439456",
+      "requirement": "Minor Electives: 6 units",
+      "description": "Explore the different criteria for developing or adapting PR strategies and campaigns in different regions and countries. Explore several models and scholarship that enable the ethical exploration of cultural aspects, demographics, and psychographics for audiences and stakeholders. Case studies of international public figures, organizations, and brands will be analyzed in order to provide learning enrichment opportunities.",
+      "prerequisites": "COM 313 or COM 3313 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 3325",
+      "title": "Persuasion",
+      "units": "3",
+      "ge": null,
+      "coid": "435552",
+      "requirement": "Minor Electives: 6 units",
+      "description": "Persuasion is examined as affected by messages in various communication contexts. The process is studied through differing aspects of source, channel(s), and receiver(s). Emphasis on contributions from behavioral theorists.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4150",
+      "title": "Public Relations Campaigns",
+      "units": "3",
+      "ge": null,
+      "coid": "437793",
+      "requirement": "Minor Electives: 6 units",
+      "description": "Dive into the world of professional public relations and work directly with real clients to develop and implement a comprehensive PR campaign. Collaborate with local businesses and organizations, identify and analyze their PR challenges, craft targeted media strategies, and develop action plans to achieve tangible PR goals. Focus on client management, creating compelling media content, and developing a PR campaign portfolio.",
+      "prerequisites": "COM 313 or COM 3313 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "COM 4222",
+      "title": "Crisis Communication",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437883",
+      "requirement": "Minor Electives: 6 units",
+      "description": "[GE 4C] Theory and practice of crisis communication; strategies, and tactics when developing and implementing crisis communication plans through case studies and in-class activities.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "COM 4446",
+      "title": "Event Planning",
+      "units": "3",
+      "ge": null,
+      "coid": "435579",
+      "requirement": "Minor Electives: 6 units",
+      "description": "Application of public relations techniques to planning events. Participation in planning, organization, and implementation of selected event.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "COM 1107",
+    "COM 2217",
+    "COM 3313",
+    "COM 3317",
+    "COM 3318",
+    "COM 3319W",
+    "COM 3325",
+    "COM 4140",
+    "COM 4150",
+    "COM 4222",
+    "COM 4446"
+  ]
+}

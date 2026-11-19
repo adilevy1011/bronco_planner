@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:14:44+00:00",
+  "id": "english-m-a-teaching-english-to-speakers-of-other-languages-subplan-option-30-31-units",
+  "name": "English, M.A. - Teaching English to Speakers of Other Languages Subplan/Option: 30-31 units",
+  "title_on_page": "University Catalog",
+  "department": "English And Modern Languages",
+  "department_id": "english-and-modern-languages",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24223",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6332",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog English, M.A. - Teaching English to Speakers of Other Languages Subplan/Option: 30-31 units Offered by: College of Letters, Arts, and Social Sciences , English and Modern Languages Department Major Required | Subplan/Option Required | Culminating Experience | Notes | Program Website Major Required: 15 units ENG 5010 - Graduate Literary Research (3) or ENG 5100 - Rhetorical History and Methodology (3) or ENG 4230 - Teaching English to Speakers of Other Languages (3) ENG 5130 - Teaching Writing (3) ENG 5236 - Sociolinguistics (3) ENG 5368 - Multicultural Literatures in the U.S. (3) ENG 5400 - Professionalization Practicum (3) Subplan/Option Required: 15 units ENG 4212 - Language Acquisition (3) ENG 4223 - Applied Phonology (3) ENG 4231 - Pedagogical Grammar for Teaching English to Speakers of Other Languages (3) or ENG 5231 - Grammar for TESOL (3) ENG 5232 - Teaching Second Language Writing (3) ENG 5235 - Practicum in Teaching ESL (3) Culminating Experience: 1-3 units ENG 6960 - Master’s Degree Thesis (3) or ENG 6970 - Comprehensive Examination (1) Notes: The Master’s Degree Thesis will substitute for one course in consultation with an advisor. Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalo",
+  "requirements": [
+    {
+      "name": "Major Required: 15 units",
+      "courses": [
+        "ENG 5010"
+      ],
+      "raw_text": "Major Required: 15 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "ENG 5100",
+        "ENG 4230",
+        "ENG 5130",
+        "ENG 5236",
+        "ENG 5368",
+        "ENG 5400",
+        "ENG 5231",
+        "ENG 5232",
+        "ENG 5235",
+        "ENG 6970"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Subplan/Option Required: 15 units",
+      "courses": [
+        "ENG 4212",
+        "ENG 4223",
+        "ENG 4231"
+      ],
+      "raw_text": "Subplan/Option Required: 15 units"
+    },
+    {
+      "name": "Culminating Experience: 1-3 units",
+      "courses": [
+        "ENG 6960"
+      ],
+      "raw_text": "Culminating Experience: 1-3 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ENG 5010",
+      "title": "Graduate Literary Research",
+      "units": "3",
+      "ge": null,
+      "coid": "435339",
+      "requirement": "Major Required: 15 units",
+      "description": "Practical instruction in literary studies, including advanced skills in reading, writing, researching, theory, citing, formatting, editing, and presenting. How to enter the academic community and how such skills translate outside higher education.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5100",
+      "title": "Rhetorical History and Methodology",
+      "units": "3",
+      "ge": null,
+      "coid": "435275",
+      "requirement": "or",
+      "description": "History of rhetoric from pre-classical times through the eighteenth century; the interplay of theory and practice in this history.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 4230",
+      "title": "Teaching English to Speakers of Other Languages",
+      "units": "3",
+      "ge": null,
+      "coid": "436767",
+      "requirement": "or",
+      "description": "The study of teaching English in international language settings, including EFL methodology, cultural issues, necessary skill sets, practical issues, with classroom teaching opportunities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5130",
+      "title": "Teaching Writing",
+      "units": "3",
+      "ge": null,
+      "coid": "435279",
+      "requirement": "or",
+      "description": "Topics in pedagogical and theoretical perspectives. Methods for helping basic writing students to master writing and reading processes. Strategies for integrating recent research on composing into a course or curriculum in basic writing/first-year composition.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5236",
+      "title": "Sociolinguistics",
+      "units": "3",
+      "ge": null,
+      "coid": "438984",
+      "requirement": "or",
+      "description": "The investigation of relations between linguistic phenomena and social organization. Focus on central theoretical approaches to sociolinguistics developed over the last forty years. Topics covered, inter alia, multilingualism, language and social categories, critical sociolinguistics, and sociolinguistic methods in literary studies.",
+      "prerequisites": "Graduate standing or consent of instructor required.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5368",
+      "title": "Multicultural Literatures in the U.S.",
+      "units": "3",
+      "ge": null,
+      "coid": "435346",
+      "requirement": "or",
+      "description": "Survey of selected authors and topics in African-American, Asian-American, Mexican-American and Native-American literatures. Emphasis on comparative analysis to highlight the literary, cultural, and sociopolitical implications of these works.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5400",
+      "title": "Professionalization Practicum",
+      "units": "3",
+      "ge": null,
+      "coid": "437620",
+      "requirement": "or",
+      "description": "Engage and participate in professional activities, i.e., symposia, internships, community projects under faculty direction.",
+      "prerequisites": "Graduate standing and consent of English Graduate Coordinator.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "ENG 4212",
+      "title": "Language Acquisition",
+      "units": "3",
+      "ge": null,
+      "coid": "435373",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "Development of first language from birth through adolescence. Adult and child acquisition of second and subsequent languages. Linguistic, biological, and social factors that facilitate and hinder language learning. Theoretical and practical applications.",
+      "prerequisites": "Completion of GE Area 1B or A3.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "ENG 4223",
+      "title": "Applied Phonology",
+      "units": "3",
+      "ge": null,
+      "coid": "439075",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "Specialized instruction on English phonology. Introduction to the sound system, IPA, articulatory phonetics, and phonological processes. Computer training provided for speech analyses. Applications of phonology to real-world contexts. Course culminates in research topic of student’s choice.",
+      "prerequisites": "ENG 2200 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 4231",
+      "title": "Pedagogical Grammar for Teaching English to Speakers of Other Languages",
+      "units": "3",
+      "ge": null,
+      "coid": "439521",
+      "requirement": "Subplan/Option Required: 15 units",
+      "description": "Dual Listed as: ENG 5231 Study and discussion of grammatical features relevant to the teaching of English as an additional language. Approaches to teaching grammar to ESL/EFL learners. Development of grammar lesson plans and activities.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall (even years)"
+    },
+    {
+      "code": "ENG 5231",
+      "title": "Grammar for TESOL",
+      "units": "3",
+      "ge": null,
+      "coid": "435376",
+      "requirement": "or",
+      "description": "Survey of the grammatical features of English relevant to the teaching of English as a second or foreign language. Participants learn about the approaches to teaching grammar and develop instructional strategies for ESL classrooms.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 5232",
+      "title": "Teaching Second Language Writing",
+      "units": "3",
+      "ge": null,
+      "coid": "435378",
+      "requirement": "or",
+      "description": "Topics in pedagogical and theoretical perspectives. Methods for helping nonnative-speaking students master the requirements of basic and academic writing in their second language (L2). Strategies for integrating recent research on second-language writing in classes on L2 writing skills.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall (odd years)"
+    },
+    {
+      "code": "ENG 5235",
+      "title": "Practicum in Teaching ESL",
+      "units": "3",
+      "ge": null,
+      "coid": "435379",
+      "requirement": "or",
+      "description": "Synthesizes TESL studies through practical applications across student levels and diverse populations. Includes curriculum analysis and design, textbook and material selection, professional development, TESOL methodology, classroom observations, materials preparation, supported teaching practice, second-language literacy projects, and assessment issues and techniques.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "435327",
+      "requirement": "Culminating Experience: 1-3 units",
+      "description": "An analytical study, using critical sources and/or theory, on a topic chosen by the student in consultation with the graduate coordinator in English. The student undertakes this study, under the direction of a thesis committee, as the culminating project of the graduate program. May be taken up to two times for a total credit of 6 units. *The enforcement of the Graduation Writing Assessment Requirement has been temporarily suspended per a Chancellor’s Office memorandum.",
+      "prerequisites": "English Graduate Coordinator Permission and GWT*.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 6970",
+      "title": "Comprehensive Examination",
+      "units": "1",
+      "ge": null,
+      "coid": "435328",
+      "requirement": "or",
+      "description": "An examination on areas of special concentration in English as determined by the student in consultation with the graduate coordinator in English and other graduate faculty. Failure to complete exam satisfactorily the second time will result in termination from the program. Maybe taken up to two times for a total credit of 2 units.",
+      "prerequisites": "English Graduate Coordinator Permission.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "ENG 4212",
+    "ENG 4223",
+    "ENG 4230",
+    "ENG 4231"
+  ]
+}

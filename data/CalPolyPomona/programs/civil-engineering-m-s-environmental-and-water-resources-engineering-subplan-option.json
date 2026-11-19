@@ -1,0 +1,362 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:11:05+00:00",
+  "id": "civil-engineering-m-s-environmental-and-water-resources-engineering-subplan-option",
+  "name": "Civil Engineering, M.S. - Environmental and Water Resources Engineering Subplan/Option",
+  "title_on_page": "University Catalog",
+  "department": "Civil Engineering",
+  "department_id": "civil-engineering",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24326",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6318",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Civil Engineering, M.S. - Environmental and Water Resources Engineering Subplan/Option: 30 units Offered by: College of Engineering , Civil Engineering Department Major Required | Subplan/Option Required | Subplan/Option Electives | Culminating Experience | Program Website Major Required: 3 units CE 5020 - Applied Probability Concepts (3) Subplan/Option Required: 18 units CE 5200 - Environmental Water Resources Seminar (1) CE 5210 - Municipal Hydraulic Systems (3) CE 5211 - Applied Hydrology (3) CE 5230 - Bioresources and Bioenergy Recovery (3) CE 5250 - Advanced Water Treatment (3) CE 5260 - Advanced Wastewater Treatment (3) CE 5300 - Environmental and Water Resources Research Methods (2) Subplan/Option Electives: 3-9 units Select a sufficient number of courses so that the total units for the degree is at least 30 . CE 5201 - Environmental Chemistry (3) CE 5220 - Solid and Hazardous Waste Engineering (3) CE 5241 - Environmental Remediation (3) CE 5261 - Air Quality Engineering (3) CE 5271 - Unit Operations and Processes in Environmental Engineering (2) CE 5271L - Unit Operations and Processes in Environmental Engineering Laboratory (1) CE 5280 - River Mechanics (3) CE 5283 - Low Impact Development in Water Resources (3) CE 5290 - Global Climate and Water Supply (3) CE 5310 - GIS Applications in Civil Engineering (3) Culminating Experience: 0-6 units CE 6950 - Master’s Project (3) or CE 6960 - Master’s Thesis (3) (6 units required) or CE 6970 - Comprehensive Examination (0) Summer Sponsored Experience: 0 unit CPU 5003 - Cal Poly Pomona Graduate Sponsored Summer Experience (0) Add to My Favorites (opens a new window) Share this Page Facebook th",
+  "requirements": [
+    {
+      "name": "Major Required: 3 units",
+      "courses": [
+        "CE 5020"
+      ],
+      "raw_text": "Major Required: 3 units"
+    },
+    {
+      "name": "Subplan/Option Required: 18 units",
+      "courses": [
+        "CE 5200",
+        "CE 5210",
+        "CE 5211",
+        "CE 5230",
+        "CE 5250",
+        "CE 5260",
+        "CE 5300"
+      ],
+      "raw_text": "Subplan/Option Required: 18 units"
+    },
+    {
+      "name": "Subplan/Option Electives: 3-9 units",
+      "courses": [
+        "CE 5201",
+        "CE 5220",
+        "CE 5241",
+        "CE 5261",
+        "CE 5271",
+        "CE 5271L",
+        "CE 5280",
+        "CE 5283",
+        "CE 5290",
+        "CE 5310"
+      ],
+      "raw_text": "Subplan/Option Electives: 3-9 units"
+    },
+    {
+      "name": "Culminating Experience: 0-6 units",
+      "courses": [
+        "CE 6950"
+      ],
+      "raw_text": "Culminating Experience: 0-6 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "CE 6960",
+        "CE 6970"
+      ],
+      "raw_text": "or"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CE 5020",
+      "title": "Applied Probability Concepts",
+      "units": "3",
+      "ge": null,
+      "coid": "435746",
+      "requirement": "Major Required: 3 units",
+      "description": "Statistical and probabilistic methods to better describe and understand variability and uncertainty in civil engineering problems.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5200",
+      "title": "Environmental Water Resources Seminar",
+      "units": "1",
+      "ge": null,
+      "coid": "435964",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Current research topics and engineering projects in the area of Environmental and Water Resources and related fields.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5210",
+      "title": "Municipal Hydraulic Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435965",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Introduction to water and sewer infrastructure as a system. Planning, conceptual design, detailed design, construction, and maintenance of pipeline, pumping and storage systems for potable and sanitary sewer applications will be discussed. Hydraulic analysis of potable and sanitary systems will also be covered.",
+      "prerequisites": "Graduate Standing and undergraduate course in fluid mechanics or hydraulics or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5211",
+      "title": "Applied Hydrology",
+      "units": "3",
+      "ge": null,
+      "coid": "436661",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Dual Listed as: CE 4211 Hydrology as it is applied to storm water management. Evaluation of the ever changing regulations associated with storm water quality. Use/develop stochastic and process based hydrologic and hydraulic models. Based on the water quality regulations, hydrologic analysis and hydraulic analysis develop engineering solutions to the urban watershed. Further details will be provided associated with hydrographs, river routing and reservoir routing.",
+      "prerequisites": "Graduate Standing and undergraduate course in water resources engineering or hydraulics or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5230",
+      "title": "Bioresources and Bioenergy Recovery",
+      "units": "3",
+      "ge": null,
+      "coid": "439276",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Plant biomass and algae, as well as biosolids generated during wastewater treatment, will be explored as bioresources to support a sustainable future. Scientific feedstock examination methods and efficient conversion technologies for producing bioproducts and bioenergy along with their environmental impact and supply chain considerations. Introduction to the use of system thinking and life cycle analysis for global challenges in water, energy and food security.",
+      "prerequisites": "Undergraduate course(s) in chemistry, undergraduate course(s) in introduction to environmental engineering, and graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5250",
+      "title": "Advanced Water Treatment",
+      "units": "3",
+      "ge": null,
+      "coid": "435966",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Physical and chemical principles as applied to water treatment plant design. Advanced water treatment processes such as reverse osmosis, advanced oxidation, ion exchange, and ozonation will be considered in the design or improvement of water treatment facilities.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5260",
+      "title": "Advanced Wastewater Treatment",
+      "units": "3",
+      "ge": null,
+      "coid": "435967",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Principles of applied biotechnology used in various biological processes in wastewater treatment plant design. Advanced biological processes for BOD, nitrogen, and phosphorous removal, and membrane bioreactors will be considered in the design or improvement of wastewater treatment plants.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5300",
+      "title": "Environmental and Water Resources Research Methods",
+      "units": "2",
+      "ge": null,
+      "coid": "439278",
+      "requirement": "Subplan/Option Required: 18 units",
+      "description": "Applied research in the area of environmental and water resources. Research process includes: 1) identifying research gaps or issues, 2) formulating hypotheses and methodologies for solving problems, 3) developing plans and schedules, 4) conducting research, and 5) writing papers and technical reports.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5201",
+      "title": "Environmental Chemistry",
+      "units": "3",
+      "ge": null,
+      "coid": "437809",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Principles of chemistry applied on Earth, including topics related to chemical effects in the natural environment. Special attention is given to environmental (water, soil, air) pollutions, global climate change, waste disposal, and environmental regulations. Chemistry topics include atomic, molecular, and radical structures, stoichiometry, kinetics, and equilibrium. The environment in this context is divided into the atmosphere, the hydrosphere, the lithosphere, and anthrosphere. Integration of concepts from chemistry, hydrology, geology, biology, atmospheric sciences, and others.",
+      "prerequisites": "Graduate Standing and Undergraduate course in environmental engineering or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5220",
+      "title": "Solid and Hazardous Waste Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435938",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Principles of integrated solid waste management and fundamentals of hazardous waste management and engineering. Waste generation, storage, collection, transfer, transport, processing, recovery, disposal of municipal and industrial solid waste. Hazardous and industrial waste identification, accumulation, minimization, transport, and development of a hazardous waste contingency plan to comply with disposal restrictions.",
+      "prerequisites": "Graduate Standing , undergraduate course in general chemistry and environmental engineering or equivalent",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5241",
+      "title": "Environmental Remediation",
+      "units": "3",
+      "ge": null,
+      "coid": "437810",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Fundamentals of physical, chemical, and biological environmental remediation and cleanup will be covered, with the following elements: Environmental Chemistry, Environmental Microbiology, Water Contaminations, Soil Contaminations, Air Contaminations, Physical Methods, Chemical Methods, Biological Methods, Pollution Prevention Strategies, Regulations and Future Trends.",
+      "prerequisites": "Graduate Standing, undergraduate course in general chemistry, and environmental engineering or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5261",
+      "title": "Air Quality Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "437812",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Dual Listed as: CE 4261 Basic concepts in physics and chemistry of the atmosphere. Production, transformation, transport, and removal of air pollutants. The problems of photochemical smog, the greenhouse effect & climate change, stratospheric ozone, acid rain, and visibility. Analytical techniques for gases and particles. Numerical simulation of air pollution. Health and environmental effects of air pollution.",
+      "prerequisites": "Graduate Standing and undergraduate course in environmental engineering or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5271",
+      "title": "Unit Operations and Processes in Environmental Engineering",
+      "units": "2",
+      "ge": null,
+      "coid": "436764",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Dual Listed as: CE 4271 The study of various physical, chemical and biological operations and processes used in the professional practice of environmental engineering (water treatment, wastewater treatment, and soil remediation). Topics covered will be selected from areas such as reactor hydrodynamics, oxidation-reduction, coagulation-flocculation, chemical precipitation, ion exchange, adsorption process, biological oxidation, anaerobic digestion, activated sludge. Corequisite(s): CE 5271L .",
+      "prerequisites": "Graduate standing, undergraduate course in general chemistry, and environmental engineering or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5271L",
+      "title": "Unit Operations and Processes in Environmental Engineering Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "439279",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "The use of various physical, chemical and biological unit operation processes used for treatment of water, wastewater, stormwater and soil remediation as done in the professional practice of environmental engineering . Topics covered will be selected from areas such as reactor hydrodynamics, oxidation-reduction, coagulation-flocculation, chemical precipitation, ion exchange, adsorption process, biological oxidation, anaerobic digestion, activated sludge. Corequisite(s): CE 5271 .",
+      "prerequisites": "Graduate standing, undergraduate course in introduction to environmental engineering or water and wastewater engineering, and undergraduate course in chemistry.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5280",
+      "title": "River Mechanics",
+      "units": "3",
+      "ge": null,
+      "coid": "435944",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Dual Listed as: CE 4281 Foundation for understanding geomorphology, sediment transport and erosion in the river environment. Sediment properties; resistance to flow; incipient motion and bedforms; geomorphology; sediment transport; river stability; and river restoration. In addition, conceptual design techniques will be introduces about natural and urban runoff.",
+      "prerequisites": "Graduate Standing and undergraduate course in water resources engineering or hydraulics or equivalent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5283",
+      "title": "Low Impact Development in Water Resources",
+      "units": "3",
+      "ge": null,
+      "coid": "439431",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Evaluate various Low Impact Development (LID) from policy requirements, design and performance. Further develops skills in water resource analysis and design for sustainable LID.",
+      "prerequisites": "CE 3211 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "CE 5290",
+      "title": "Global Climate and Water Supply",
+      "units": "3",
+      "ge": null,
+      "coid": "435748",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Intersection of global climate, water and energy topics. Discussion of the relationship between energy and water demand and cover current developments in research and technology related to climate, water, and energy. Application will focus on identifying the links between climate, water and energy and the stewardship of scientists, policy makers and society at large and on the efficient design of systems affected by climate.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 5310",
+      "title": "GIS Applications in Civil Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435948",
+      "requirement": "Subplan/Option Electives: 3-9 units",
+      "description": "Introduction to fundamental concepts and techniques of geographic information systems (GIS). GIS applications in transportation, environmental assessment, water resources management, geoenvironmental analyses and other areas in civil engineering.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6950",
+      "title": "Master’s Project",
+      "units": "3",
+      "ge": null,
+      "coid": "436165",
+      "requirement": "Culminating Experience: 0-6 units",
+      "description": "Individual and independent work based on the project proposal, plan and schedule approved by the Project Committee members and Graduate Program Coordinator. Regular meetings and discussions with advisor.",
+      "prerequisites": "Graduate Standing, good academic standing, advancement to candidacy, and completion of approved project proposal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6960",
+      "title": "Master’s Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "436166",
+      "requirement": "or",
+      "description": "Individual and independent research work based on the thesis proposal, plan and schedule approved the Project Committee members and Graduate Program Coordinator. Regular meetings and discussions with advisor.",
+      "prerequisites": "Graduate Standing; good academic standing; advancement to candidacy; completion of approved project proposal.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CE 6970",
+      "title": "Comprehensive Examination",
+      "units": "0",
+      "ge": null,
+      "coid": "436167",
+      "requirement": "or",
+      "description": "Comprehensive examination to satisfy the culminating experience requirement of the Master of Science in Civil Engineering (MSCE) degree. May enroll after completing the required course work, and it may be taken up to two times.",
+      "prerequisites": "Graduate Standing, consent of instructor, and good standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": []
+}

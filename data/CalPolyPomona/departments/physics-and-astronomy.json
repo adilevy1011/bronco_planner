@@ -1,0 +1,1401 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:06:11+00:00",
+  "id": "physics-and-astronomy",
+  "name": "Physics And Astronomy",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6347",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Physics and Astronomy Department Building 8 Room 223 | (909) 869-4012 | Department Website | Faculty Directory The mission of the Department of Physics and Astronomy is “to provide rigorous undergraduate education in Physics and Astronomy and to propagate the joy of physics through its diverse faculty who are active teacher-scholars contributing to their respective research fields.” The department cultivates a culture of analytical rigor and hands‑on discovery. It offers robust programs in general physics, astrophysics, biophysics, optics, theoretical physics, and physics education research, along with minors in general physics, biophysics, and astronomy. Faculty members are not only exceptional educators but also accomplished researchers-ranked in the top 1% nationally for physics B.S. degrees by the American Institute of Physics and notable for placing among the top three nationally in physics degrees awarded to underrepresented minority students. Their expertise offers students exposure to cutting-edge fields and a supportive learning environment. Students in the department benefit from rich opportunities including undergraduate research in faculty-led labs across astrophysics, plasma physics, condensed matter, optics, and more . They have access to state-of-the-art facilities-from astronomy computing labs to physics research instrumentation-and can earn scholarships like the Mary E. Mogge Scholarship. Student-led organizations and honor societies, especially Sigma Pi Sigma, along with affiliations like the Cal‑Bridge program, enhance their academic journey and prepare them for careers in scientific research, education, or industry. Program",
+  "courses": [
+    {
+      "code": "AST 1010",
+      "title": "Stars, Galaxies, and the Universe",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "437723",
+      "description": "[GE 5A] Survey of the universe including lifecycles of stars, supernovae and creation of the chemical elements, collapsed objects (white dwarfs, pulsars and black holes), the Milky Way and other galaxies, distances to stars and galaxies, expansion of the universe, and Big Bang cosmology. Emphasis on the basic principles of physics needed to interpret astronomical observations.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "AST 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438075",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AST 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438076",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AST 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438077",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AST 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438078",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AST 3050",
+      "title": "Archaeoastronomy",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "437724",
+      "description": "[GE 5D] Cross Listed as: ANT 3050 Archaeoastronomy is a course synthesizing ancient and modern astronomical concepts. Themes of early science and empiricism emphasizing ancient cultures and their concepts of astronomy, cosmology, and time. Technological tools used by ancient societies to obtain and record astronomical data and knowledge will be studied. Examples will be drawn from ancient world cultures such as the Maya, the Aztec, Ancient Greece, Ancient China and others. An introduction to modern astronomical instrumentation and astrophysical insights will provide context for understanding the achievements and limitations of ancient scientists.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-integrated-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AST 3240",
+      "title": "Observational Astronomy",
+      "units": "2",
+      "ge": null,
+      "coid": "437232",
+      "description": "An introduction to astrophysical data collection and analysis from both ground-based and space-based telescopes. Concepts, techniques, skills and resources needed to plan, obtain, reduce, and interpret astronomical observations across the electromagnetic spectrum. Corequisite(s): AST 3240A .",
+      "prerequisites": "C- or better in PHY 1520 or PHY 133. Pre or Corequisite(s): C- or better in PHY 2530 or PHY 234.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "astronomy-minor"
+      ]
+    },
+    {
+      "code": "AST 3240A",
+      "title": "Observational Astronomy Computer Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437238",
+      "description": "Computer based laboratory, with emphasis on data visualization and high-level programming skills. Completion of a data analysis project and submission of technical reports. Corequisite(s): AST 3240 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "astronomy-minor"
+      ]
+    },
+    {
+      "code": "AST 3420",
+      "title": "Life, the Universe, and Everything",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "435064",
+      "description": "[GE 5D] An examination of the origins of life in the universe based on astronomy, cosmology, biology, and planetary science. Topics may include the search for extraterrestrial intelligence (SETI), the history of life in our solar system, and the origins of the chemical elements through Big Bang nucleosynthesis and galactic recycling plants.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-integrated-science-subplan-option"
+      ]
+    },
+    {
+      "code": "AST 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438079",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AST 4240",
+      "title": "Astrophysics I: Stars and Planetary Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "437368",
+      "description": "Physical processes governing the formation and evolution of stars and planetary systems. Topics include gravitation, celestial mechanics, physical properties of Solar System objects, stellar atmospheres and spectra, stellar structure and evolution, and extrasolar planetary systems. Corequisite(s): AST 4240A .",
+      "prerequisites": "C- or better in PHY 2530 or C- or better in PHY 234. Pre or Corequisite(s): C- or better in PHY 2540 or PHY 235.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-general-subplan-option",
+        "astronomy-minor"
+      ]
+    },
+    {
+      "code": "AST 4240A",
+      "title": "Astrophysics I Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437369",
+      "description": "Group activities and problem-solving to reinforce topics from lecture course, including the use of computer simulations. Recitation to accompany AST 4240. Recitation to accompany AST 4240. Corequisite(s): AST 4240 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-general-subplan-option",
+        "astronomy-minor"
+      ]
+    },
+    {
+      "code": "AST 4250",
+      "title": "Astrophysics II: Galaxies and the Universe",
+      "units": "3",
+      "ge": null,
+      "coid": "437372",
+      "description": "Physical processes governing the formation and evolution of galaxies and the universe as a whole. Topics include physical properties of the interstellar medium, black holes and other compact objects, galaxy dynamics, cosmological models, and applications of the general theory of relativity. Corequisite(s): AST 4250A .",
+      "prerequisites": "C- or better in PHY 2530 or C- or better in PHY 2530 or PHY 234. Pre or Corequisite(s): C- or better in PHY 2540 or PHY 235.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-general-subplan-option",
+        "astronomy-minor"
+      ]
+    },
+    {
+      "code": "AST 4250A",
+      "title": "Astrophysics II Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437373",
+      "description": "Group activities and problem-solving to reinforce topics from lecture course, including the use of computer simulations. Recitation activity to accompany AST 4250. Recitation activity to accompany AST 4250. Corequisite(s): AST 4250 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-general-subplan-option",
+        "astronomy-minor"
+      ]
+    },
+    {
+      "code": "AST 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438080",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AST 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438081",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "AST 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438082",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 1020",
+      "title": "Fundamentals of Physics",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "435056",
+      "description": "[GE 5A] The basic principles that govern the behavior of matter and energy. These principles will be explored in both fundamental contexts (e.g. the nature of measurement, space, time) and applied contexts (e.g. energy issues, the scientific basis of modern electronic technology).",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 1050",
+      "title": "The Physics of Musical Sound",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "435057",
+      "description": "[GE 5A] The fundamentals of acoustics and its application to music-vibrations, wave, hearing, pure tones, complex tones, resonance, scales, consonance, and the physics of musical instruments. Corequisite(s): PHY 1050L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "PHY 1050L",
+      "title": "Physics of Musical Sound Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "435058",
+      "description": "[GE 5C] Laboratory to accompany PHY 1050. Experimental study of sound, music, and related physical phenomena. Corequisite(s): PHY 1050 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 1210",
+      "title": "Physics of Motion, Fluids, and Heat",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "435068",
+      "description": "[GE 5A] Introduction to Newtonian mechanics and thermodynamics: Kinematics, forces, conservation laws, viscous fluids, heat transfer, and the microscopic nature of gases. Emphasis on biological applications. Corequisite(s): PHY 1210L .",
+      "prerequisites": "C- or better in MAT 106, MAT 1060 , MAT 112, MAT 114, MAT 1140 , MAT 1140C, MAT 115, MAT 116, MAT 1150 , MAT 1200 , or MAT 1300 . ( MAT 1300 can be concurrent.)",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor"
+      ]
+    },
+    {
+      "code": "PHY 1210L",
+      "title": "Physics of Motion, Fluids, and Heat Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "435069",
+      "description": "[GE 5C] Experiments on Newtonian mechanics, fluids, and heat. Corequisite(s): PHY 1210 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor"
+      ]
+    },
+    {
+      "code": "PHY 1220",
+      "title": "Physics of Electromagnetism, Circuits, and Light",
+      "units": "3",
+      "ge": null,
+      "coid": "437132",
+      "description": "Electric and magnetic forces and fields, DC and AC circuits, oscillations, electromagnetic waves, optics, and analogies between diffusion and electrostatics. Corequisite(s): PHY 1220L .",
+      "prerequisites": "C- or better in PHY 122, PHY 122B, PHY 1210 , or PHY 1210B.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor"
+      ]
+    },
+    {
+      "code": "PHY 1220L",
+      "title": "Electromagnetism, Circuits, and Light Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437155",
+      "description": "Experiments on electromagnetism, oscillations, and optics. Corequisite(s): PHY 1220 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor"
+      ]
+    },
+    {
+      "code": "PHY 1510",
+      "title": "Introduction to Newtonian Mechanics",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "435059",
+      "description": "[GE 5A] Introduction to mechanics, including Newton’s laws, vectors, statics, kinematics, conservation laws, rotational motion, Newtonian gravity, fluids, and simple harmonic motion. Corequisite(s): PHY 1510L .",
+      "prerequisites": "C- or better in MAT 114, MAT 1140 , MAT 1140C, MAT 115, MAT 116 or MAT 1150 ( MAT 1150 can be concurrent).",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 1510A",
+      "title": "Newtonian Mechanics Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437133",
+      "description": "Optional recitation to accompany Introduction to Newtonian Mechanics lecture series. Group tutorial activities in Newtonian mechanics. Students may take the lecture course without taking the recitation, but may not take the recitation without the lecture course. Corequisite(s): PHY 1510 .",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 1510L",
+      "title": "Newtonian Mechanics Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "437744",
+      "description": "[GE 5C] Experiments in Newtonian mechanics. Corequisite(s): PHY 1510 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 1520",
+      "title": "Introduction to Electromagnetism and Circuits",
+      "units": "3",
+      "ge": null,
+      "coid": "437157",
+      "description": "Introduction to electricity and magnetism, including electrostatics, dc circuits, magnetostatics, electrodynamics, and Maxwell’s equations. Corequisite(s): PHY 1520L .",
+      "prerequisites": "C- or better in MAT 115 or MAT 1150 ; and C- or better in PHY 132, PHY 132B, PHY 1510B or PHY 1510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 1520A",
+      "title": "Electromagnetism and Circuits Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437167",
+      "description": "Optional recitation to accompany the PHY 1520 lecture. Group tutorial activities in electromagnetism. Students may take the lecture without the recitation, but may not take the recitation without the lecture. Corequisite(s): PHY 1520 .",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 1520L",
+      "title": "Introductory Laboratory on Electromagnetism and Circuits",
+      "units": "1",
+      "ge": null,
+      "coid": "437169",
+      "description": "Experiments in electricity and magnetism. Corequisite(s): PHY 1520 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438652",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 2120",
+      "title": "Physical Science for Elementary Educators",
+      "units": "2",
+      "ge": null,
+      "coid": "435070",
+      "description": "Introduction to physical science concepts including forces, matter and its interactions, energy, physical properties of materials, physical changes, chemical reactions, conservation of mass, small particle theory, and wave properties and applications. Modeling of effective K-8 curriculum, teaching, and assessment practices as described in the state adopted framework and content standards. The course includes a fieldwork component. Corequisite(s): PHY 2120L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 2120L",
+      "title": "Physical Science for Elementary Educators Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435071",
+      "description": "Inquiry-based, hands-on activities and investigations of physical science concepts including forces, matter and its interactions, energy, physical changes, chemical reactions and conservation of mass, small particle theory, and wave properties and applications. Modeling of effective K-8 curriculum, teaching, and assessment practices as described in the state adopted framework and content standards. The course includes a fieldwork component. Corequisite(s): PHY 2120 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 2530",
+      "title": "Introduction to Electromagnetic Radiation and Special Relativity",
+      "units": "2",
+      "ge": null,
+      "coid": "437173",
+      "description": "Introduction to wave phenomena, electromagnetic radiation and relativity, including general wave theory, electromagnetic waves, geometrical optics, physical optics, and special theory of relativity. Corequisite(s): PHY 2530A .",
+      "prerequisites": "C- or better in MAT 2140 ; and C- or better in PHY 123, PHY 133, PHY 1220 , or PHY 1520 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 2530A",
+      "title": "Electromagnetic Radiation and Special Relativity Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437176",
+      "description": "Recitation to accompany the Electromagnetic Radiation and Special Relativity lecture. Group tutorial activities in EM waves, optics, and relativity. Corequisite(s): PHY 2530 .",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 2530L",
+      "title": "Introductory Laboratory on Electromagnetic Radiation and Special Relativity",
+      "units": "1",
+      "ge": null,
+      "coid": "437178",
+      "description": "Experiments in electromagnetic radiation and optics. Corequisite(s): PHY 2530 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 2540",
+      "title": "Introduction to Thermal and Quantum Physics",
+      "units": "2",
+      "ge": null,
+      "coid": "437179",
+      "description": "Introduction to thermal physics and quantum phenomena, including thermodynamics, kinetic theory of gases, origins of quantum theory, wave mechanics, particle-wave duality, and atomic energy levels. Corequisite(s): PHY 2540A .",
+      "prerequisites": "C- or better in PHY 234 or PHY 2530 . Pre or Corequisite(s): MAT 2240 or MAT 2250 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 2540A",
+      "title": "Thermal and Quantum Physics Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437181",
+      "description": "Recitation to accompany the Thermal and Quantum Physics lecture. Group tutorial activities in thermal and quantum physics. Corequisite(s): PHY 2540 .",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "astronomy-minor",
+        "biophysics-minor",
+        "physics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 2540L",
+      "title": "Introductory Laboratory on Thermal and Quantum Physics",
+      "units": "1",
+      "ge": null,
+      "coid": "437182",
+      "description": "Laboratory to accompany PHY 2540. Experiments in thermodynamics and quantum phenomena. Corequisite(s): PHY 2540 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438653",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438654",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438655",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 3010",
+      "title": "Energy and Society",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "435065",
+      "description": "[GE 5D] Study of how petroleum, solar, nuclear, and other energy sources generate electricity, power vehicles, and the like. Emphasis is on elementary physics principles. Coverage includes historical patterns of societal energy use, renewable and nonrenewable resources, fuel conservation methods, and environmental impacts.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-integrated-science-subplan-option"
+      ]
+    },
+    {
+      "code": "PHY 3020",
+      "title": "Physics for Future Presidents",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "437726",
+      "description": "[GE 5D] The physics needed to understand the technological and scientific dimensions of economic and political issues in today’s world and beyond. Topics will include energy, climate change, communications technologies and their applications, remote sensing, satellites, and medical technology. Minimal mathematical or scientific background is required. Minimal mathematical or scientific background is required.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-integrated-science-subplan-option"
+      ]
+    },
+    {
+      "code": "PHY 3040",
+      "title": "Electronics for Scientists",
+      "units": "2",
+      "ge": null,
+      "coid": "437183",
+      "description": "Fundamentals of electronic circuits and solid state devices. Primarily analog electronics with some digital circuitry with an emphasis on scientific applications. Corequisite(s): PHY 3040L .",
+      "prerequisites": "C- or better in PHY 133 or PHY 1520 ; and C- or better in PHY 133L or PHY 1520L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 3040L",
+      "title": "Electronics for Scientists Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437184",
+      "description": "Laboratory to accompany PHY 3040. DC and AC circuit analysis, including diodes, transistors, operational amplifiers, active filters, transducers, proportional feedback control, and phase sensitive detection. Corequisite(s): PHY 3040 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 3060",
+      "title": "History of Physics",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "435067",
+      "description": "[GE 5D] Addresses questions such as: How did Physics begin in the ancient Greek world? Why was the scientific tradition continued and developed in the Islamic world while Western Europe fell into a dark age? Why did the Scientific Revolution occur in the time and place that it did? How has the relationship of science and religion changed through time? How have the discoveries of modern Physics modified our worldview? What is it about Physics that makes it a unique way of learning about the world?",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-integrated-science-subplan-option"
+      ]
+    },
+    {
+      "code": "PHY 3210",
+      "title": "Advanced Classical Mechanics",
+      "units": "3",
+      "ge": null,
+      "coid": "437318",
+      "description": "Review of Newtonian mechanics. Conservation laws, oscillations, resonance, coupled oscillators, rigid body motion, and central forces. Development and application of Lagrangian mechanics, and introduction to the Hamiltonian formalism. Corequisite(s): PHY 3210A .",
+      "prerequisites": "C- or better in PHY 2530 ; C- or better in MAT 201, MAT 2010, or CS 1260 ; C- or better in MAT 216 or MAT 2250 ; and C- or better in PHY 3600 /3600A.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 3210A",
+      "title": "Advanced Classical Mechanics Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437319",
+      "description": "Group activities and problem-solving to reinforce topics from the lecture course. Recitation to accompany PHY 3210. Recitation to accompany PHY 3210. Corequisite(s): PHY 3210 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 3440",
+      "title": "Applied Optics",
+      "units": "2",
+      "ge": null,
+      "coid": "437322",
+      "description": "Basic principles of ray and wave optics, including mirrors, lenses, filters, gratings, and light detection. Emphasis on applying these principles to modern technologies, particularly imaging systems and sensors. Corequisite(s): PHY 3440A .",
+      "prerequisites": "C- or better in PHY 123, PHY 133, PHY 1220 , or PHY 1520 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "biophysics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 3440A",
+      "title": "Computational Activities in Applied Optics Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437323",
+      "description": "Use of optical simulation software to illustrate and apply principles of ray and wave optics. Emphasis on software packages used in applied research and industrial work. Corequisite(s): PHY 3440 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "biophysics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 3600",
+      "title": "Mathematical Methods of Physics I",
+      "units": "3",
+      "ge": null,
+      "coid": "437300",
+      "description": "Mathematical techniques and concepts for advanced study of physics. Linear algebra, vector analysis, Fourier series and transforms, orthogonal functions, and partial differential equations. Corequisite(s): PHY 3600A .",
+      "prerequisites": "C- or better in MAT 216 or MAT 2250 ( MAT 2250 can be concurrent). Pre or Corequisite(s): PHY 2540 and MAT 2250 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 3600A",
+      "title": "Mathematical Methods of Physics I Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437301",
+      "description": "Group activities and problem-solving to reinforce topics from the lecture course. Recitation to accompany PHY 3600. Recitation to accompany PHY 3600. Corequisite(s): PHY 3600 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 3610",
+      "title": "Introduction to Fundamentals of Theoretical Physics",
+      "units": "3",
+      "ge": null,
+      "coid": "437314",
+      "description": "Introduction to selected advanced techniques and concepts broadly applicable in theoretical physics. Topics may include some but not all of the following: conservation laws, symmetries, perturbation theory, field theory, scattering, and stochastic models. Application areas in physics may include relativistic quantum mechanics, elementary quantum field theory, quantum statistical mechanics, theoretical solid-state physics, quantum optics, and quantum computing.",
+      "prerequisites": "C- or better in PHY 309 or PHY 3600 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 3630",
+      "title": "Career Development for Physics Majors",
+      "units": "1",
+      "ge": null,
+      "coid": "442785",
+      "description": "Exploration of physics careers. Academic success in the major. Skills development through membership in a discipline-specific learning community. Discussion of different branches of physics, careers in physics, and career skills for physicists. The course consists of career workshops and guest presentations from physics alumni.",
+      "prerequisites": "C- or better in PHY 2530 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438656",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 4010",
+      "title": "Quantum Mechanics I",
+      "units": "3",
+      "ge": null,
+      "coid": "437324",
+      "description": "Fundamentals of quantum mechanics, including the Schroedinger equation with applications in one and three dimensions, spin, the simple harmonic oscillator and the hydrogen atom, the quantum mechanical postulates, algebraic methods, and matrix mechanics. Corequisite(s): PHY 4010A .",
+      "prerequisites": "C- or better in PHY 309 or PHY 3600 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 4010A",
+      "title": "Quantum Mechanics I Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437325",
+      "description": "Group activities and problem-solving to reinforce topics from the lecture course. Recitation to accompany PHY 4010. Recitation to accompany PHY 4010. Corequisite(s): PHY 4010 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 4020",
+      "title": "Quantum Mechanics II",
+      "units": "3",
+      "ge": null,
+      "coid": "437326",
+      "description": "Continuation of fundamentals of quantum mechanics, including perturbation theory and its applications, identical particles, multi-electron atoms, theory of angular momentum, electromagnetic interactions, and symmetries.",
+      "prerequisites": "C- or better in PHY 402 or PHY 4010 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 4040",
+      "title": "Introduction to High Energy Physics",
+      "units": "3",
+      "ge": null,
+      "coid": "437466",
+      "description": "History and concepts of high energy and elementary particle physics; fundamental interactions; quantum numbers, invariance principles and conservation laws; particle detectors and accelerators.",
+      "prerequisites": "C- or better in PHY 308 or PHY 3600 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring"
+    },
+    {
+      "code": "PHY 4060",
+      "title": "Introduction to Condensed Matter Physics",
+      "units": "3",
+      "ge": null,
+      "coid": "437460",
+      "description": "Introduction to the properties of condensed materials, mainly solids. Topics include crystal structure, atomic lattice vibrations, energy band models, insulators, semiconductors, metals, superconductors and magnetic materials.",
+      "prerequisites": "C- or better in PHY 309 or PHY 3600 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 4090",
+      "title": "Computational Physics",
+      "units": "2",
+      "ge": null,
+      "coid": "437327",
+      "description": "Computer simulation techniques applied to physics problems, including differential equation solvers, nonlinear dynamics, wave equations, relaxation methods and potentials, and random walks. Corequisite(s): PHY 4090A .",
+      "prerequisites": "C- or better in PHY 123, PHY 133, PHY 1220 , or PHY 1520 ; C- or better in MAT 201, MAT 2010, or CS 1260 ; and C- or better in MAT 216, MAT 224, MAT 2240 , or MAT 2250 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 4090A",
+      "title": "Computational Physics Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437328",
+      "description": "Emphasis on trouble-shooting code and interpreting output. Computer lab activities to implement techniques discussed in PHY 4090 lecture. Computer lab activities to implement techniques discussed in PHY 4090 lecture. Corequisite(s): PHY 4090 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 4100",
+      "title": "Biophysics",
+      "units": "3",
+      "ge": null,
+      "coid": "437443",
+      "description": "Cross Listed as: BIO 4100 A quantitative exploration of biological systems and the physical mechanisms underlying their operation. Topics may include membrane physics, the relationship between blood flow and metabolic scaling laws, diffusion and random walks, and a unified treatment of heat, fluid, solute, and electrical transport in biological systems.",
+      "prerequisites": "C- or better in PHY 123, PHY 133, PHY 1220 , or PHY 1520 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "biophysics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 4140",
+      "title": "Electricity and Magnetism I",
+      "units": "3",
+      "ge": null,
+      "coid": "437315",
+      "description": "Fundamentals of electric and magnetic phenomena, including electrostatics, potentials, electric fields in matter, magnetostatics, and magnetic fields in matter. Corequisite(s): PHY 4140A .",
+      "prerequisites": "C- or better in PHY 309 or PHY 3600 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 4140A",
+      "title": "Electricity and Magnetism I Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437316",
+      "description": "Group activities and problem-solving to reinforce topics from lecture course. Recitation to accompany PHY 4140. Recitation to accompany PHY 4140. Corequisite(s): PHY 4140 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 4150",
+      "title": "Electricity and Magnetism II",
+      "units": "3",
+      "ge": null,
+      "coid": "437317",
+      "description": "Continuation of fundamentals of electric and magnetic phenomena, including electrodynamics, conservation laws, electromagnetic waves, radiation, and relativity.",
+      "prerequisites": "C- or better in PHY 315 or PHY 4140 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 4170",
+      "title": "Wave Optics",
+      "units": "2",
+      "ge": null,
+      "coid": "437346",
+      "description": "Principles and applications of wave optics, including the electromagnetic wave equation, reflection, refraction, polarization, interference and diffraction phenomena. Lasers, spectroscopy, fiber optics, Fourier optics, and holography may also be introduced. Corequisite(s): PHY 4170L .",
+      "prerequisites": "C- or better in PHY 234 or PHY 2530 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option"
+      ]
+    },
+    {
+      "code": "PHY 4170L",
+      "title": "Wave Optics Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437351",
+      "description": "Experiments in wave optics, spectroscopy, and fiber optics. Corequisite(s): PHY 4170 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option"
+      ]
+    },
+    {
+      "code": "PHY 4260",
+      "title": "Gravity and Black Holes",
+      "units": "3",
+      "ge": null,
+      "coid": "439408",
+      "description": "Introduction to the theory of general relativity. Topics include special and general relativity, Lorentz transformations, equivalence principle, gravity as geometry, world lines and geodesics in curves spacetime, features of non-rotating and rotating black holes, and applications of general relativity in GPS systems. Techniques from tensor analysis and differential geometry will be introduced as needed. Additional topics may include: the perihelion of mercury, solar system tests of general relativity, bending of light, Einstein equations, solutions of the Einstein equations, Penrose diagrams, black hole imaging, cosmology, gravitational waves, thermodynamic aspects of black holes, Hawking’s radiation, black holes as a window into quantum gravity.",
+      "prerequisites": "C- or better in PHY 3600 , PHY 3210 , MAT 4200 , or MAT 4440 ; OR permission of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "PHY 4330",
+      "title": "Thermal and Statistical Physics",
+      "units": "3",
+      "ge": null,
+      "coid": "437320",
+      "description": "Fundamentals of thermal physics, including energy, entropy, heat engines, refrigerators, thermodynamic potentials, phase transformations, Boltzmann statistics, and quantum statistics. Corequisite(s): PHY 4330A .",
+      "prerequisites": "C- or better in PHY 235 or PHY 2540 ; C- or better in MAT 214 or MAT 2140 ; and C- or better in MAT 216 or MAT 2250 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 4330A",
+      "title": "Thermal and Statistical Physics Recitation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437321",
+      "description": "Group activities and problem-solving to reinforce topics from lecture course. Recitation to accompany PHY 4330. Recitation to accompany PHY 4330. Corequisite(s): PHY 4330 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 4410",
+      "title": "Internship in Physics",
+      "units": "1-2",
+      "ge": null,
+      "coid": "437440",
+      "description": "On-the-job training and work experience in physics under the guidance of a faculty internship coordinator and on-site job supervisor. The internship is arranged by the student and may not be a continuation of an ongoing job or volunteer experience. A minimum of 4 hours per week (60 hours/semester) per unit credit. Total credit limited to up to 3 units. Student must be enrolled in PHY 4410 during the term in which work at the internship site is done. Hours worked in one term may not carry over into another. May be taken up to two times for a total credit of 4 units. Student must be enrolled in PHY 4410 during the term in which work at the internship site is done. Hours worked in one term may not carry over into another.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to up to 3 units.",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option"
+      ]
+    },
+    {
+      "code": "PHY 4510W",
+      "title": "Advanced Laboratory Physics - Advanced Instrumentation",
+      "units": "2",
+      "ge": null,
+      "coid": "439559",
+      "description": "Provides the theoretical framework for PHY 4510L: Advanced Laboratory Physics - Advanced Instrumentation Lab. Lectures, group activities, and problem-solving exercises reinforce laboratory topics. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): PHY 4510LW .",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 4520W",
+      "title": "Advanced Laboratory Physics - Contemporary Experiments",
+      "units": "2",
+      "ge": null,
+      "coid": "439560",
+      "description": "Lecture to provide the theoretical frame work for the laboratory. Lecture to accompany PHY 4520LW. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): PHY 4520LW .",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 4610",
+      "title": "Senior Project I",
+      "units": "1",
+      "ge": null,
+      "coid": "437441",
+      "description": "Selection and initiation of a project under faculty supervision. Projects typical of problems which graduates must solve in physics careers. Project progress is presented in an interim report at the end of the semester.",
+      "prerequisites": "Instructor consent.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "biophysics-minor",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 4620",
+      "title": "Senior Project II",
+      "units": "2",
+      "ge": null,
+      "coid": "437442",
+      "description": "Execution, completion, and reporting of a project under faculty supervision. Projects typical of problems which graduates must solve in physics careers. Project results are presented in final written and oral/poster reports at the end of the semester.",
+      "prerequisites": "Instructor consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "biophysics-minor"
+      ]
+    },
+    {
+      "code": "PHY 4630",
+      "title": "Professional Communication Seminar",
+      "units": "1",
+      "ge": null,
+      "coid": "437456",
+      "description": "Technical presentations by students on current developments in physics and astronomy, and discussions of journal articles and other primary sources at an appropriate level.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option",
+        "physics-b-s-general-subplan-option",
+        "physics-b-s-integrated-science-subplan-option",
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "PHY 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438657",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438658",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438659",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "PHY 1010",
+      "title": "Physics First-Year Experience",
+      "units": "1",
+      "ge": null,
+      "coid": "442783",
+      "description": "Interdisciplinary questions explored through the disciplinary perspective of physics and astronomy. Focuses on developing critical thinking, communication, and networking skills, as well as navigating academic expectations, finding university resources, and securing new opportunities. Corequisite(s): PHY 1010A .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "PHY 1010A",
+      "title": "Physics First-Year Experience Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "442784",
+      "description": "Activities integrated with PHY 1010 topics to practice skills, explore resources, and engage in discussion of interdisciplinary problems from the perspective of their chosen major. Corequisite(s): PHY 1010 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+        "physics-b-s-general-subplan-option-roadmap-4-year-120-units"
+      ]
+    }
+  ],
+  "programs": [
+    {
+      "id": "physics-b-s-biophysics-subplan-option",
+      "name": "Physics, B.S. - Biophysics Subplan/Option"
+    },
+    {
+      "id": "physics-b-s-general-subplan-option",
+      "name": "Physics, B.S. - General Subplan/Option"
+    },
+    {
+      "id": "physics-b-s-integrated-science-subplan-option",
+      "name": "Physics, B.S. - Integrated Science Subplan/Option"
+    },
+    {
+      "id": "astronomy-minor",
+      "name": "Astronomy Minor"
+    },
+    {
+      "id": "biophysics-minor",
+      "name": "Biophysics Minor"
+    },
+    {
+      "id": "physics-minor",
+      "name": "Physics Minor"
+    },
+    {
+      "id": "physics-b-s-biophysics-subplan-option-roadmap-4-year-120-units",
+      "name": "Physics, B.S. - Biophysics Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "physics-b-s-general-subplan-option-roadmap-4-year-120-units",
+      "name": "Physics, B.S. - General Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "physics-b-s-integrated-science-subplan-option-roadmap-4-year-120-units",
+      "name": "Physics, B.S. - Integrated Science Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "physics-b-s-general-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Physics, B.S. - General Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

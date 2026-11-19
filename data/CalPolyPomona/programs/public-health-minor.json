@@ -1,0 +1,205 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:19:00+00:00",
+  "id": "public-health-minor",
+  "name": "Public Health Minor",
+  "title_on_page": "University Catalog",
+  "department": "Kinesiology And Health Promotion",
+  "department_id": "kinesiology-and-health-promotion",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24563",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6345",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Public Health Minor: 27 units Offered by: College of Science , Kinesiology and Health Promotion Department Minor Required | Notes | Program Website Minor Required: 27 units ANT 3570 - Culture, Health, and Healing (3) EWS 2180 - Ethnic Studies of Food, Nutrition, and Health Disparities (3) [GE 6] or NTR 2180 - Ethnic Studies of Food, Nutrition, and Health Disparities (3) [GE 6] or NTR 2180S - Ethnic Studies of Food, Nutrition, and Health Disparities Service Learning (3) [GE 6] KIN 2050 - Applied Health and Well-Being (3) KIN 2400 - Foundations of Public Health and Applied Epidemiology (3) KIN 3400 - Health Disparities and Social Justice (3) KIN 3650 - Dimensions of the Aging Process (3) KIN 4650 - Intervention Design and Evaluation (2) KIN 4650A - Intervention Design and Evaluation Activity (1) SOC 2201 - Introduction to Sociology (3) [GE 4A] STA 1300 - Biostatistics (3) [GE 2] Notes: Students enrolled in these program(s) must meet with an advisor to ensure their minor coursework is distinct from their major coursework: Kinesiology, B.S. - General Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 27 units",
+      "courses": [
+        "ANT 3570",
+        "EWS 2180"
+      ],
+      "raw_text": "Minor Required: 27 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "NTR 2180",
+        "NTR 2180S",
+        "KIN 2050",
+        "KIN 2400",
+        "KIN 3400",
+        "KIN 3650",
+        "KIN 4650",
+        "KIN 4650A",
+        "SOC 2201",
+        "STA 1300"
+      ],
+      "raw_text": "or"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ANT 3570",
+      "title": "Culture, Health, and Healing",
+      "units": "3",
+      "ge": null,
+      "coid": "435996",
+      "requirement": "Minor Required: 27 units",
+      "description": "An overview of methods and topics in medical anthropology, an interdisciplinary field that explores how culture shapes our experiences of health, illness, and systems of healing through holistic and cross-cultural study. Approaches include interpretative, critical medical anthropology, and biocultural perspectives. Topics covered include biomedicine; political economy of health; biopolitics; structural violence; care; dismantling race-based medicine; global health; anthropology for public health.",
+      "prerequisites": "ANT 1010 , ANT 1020 , or ANT 1120 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EWS 2180",
+      "title": "Ethnic Studies of Food, Nutrition, and Health Disparities",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439124",
+      "requirement": "Minor Required: 27 units",
+      "description": "[GE 6] Cross Listed as: NTR 2180 Interdisciplinary study of Native American, African American, Asian American, and/or Latina and Latino American communities and food, nutrition, and health inequities in the United States. Foundational theoretical concepts of ethnic studies and nutrition such as racism, colonialism, immigration, eurocentrism, social determinants of health, food and health disparities, acculturation, and health equity are examined.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "NTR 2180",
+      "title": "Ethnic Studies of Food, Nutrition, and Health Disparities",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439116",
+      "requirement": "or",
+      "description": "[GE 6] Cross Listed as: EWS 2180 Interdisciplinary study of Native American, African American, Asian American, and/or Latina and Latino American communities and food, nutrition, and health inequities in the United States. Foundational theoretical concepts of ethnic studies and nutrition such as racism, colonialism, immigration, eurocentrism, social determinants of health, food and health disparities, acculturation, and health equity are examined.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "NTR 2180S",
+      "title": "Ethnic Studies of Food, Nutrition, and Health Disparities Service Learning",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "439334",
+      "requirement": "or",
+      "description": "[GE 6] Cross Listed as: EWS 2180 Interdisciplinary study of Native American, African American, Asian American, and/or Latina and Latino American communities and food, nutrition, and health inequities in the United States. Foundational theoretical concepts of ethnic studies and nutrition such as racism, colonialism, immigration, eurocentrism, social determinants of health, food and health disparities, acculturation, and health equity are examined.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "KIN 2050",
+      "title": "Applied Health and Well-Being",
+      "units": "3",
+      "ge": null,
+      "coid": "437198",
+      "requirement": "or",
+      "description": "This course addresses the issues pertaining to health behaviors including theory of behavior change, dimensions of health and wellness (e.g., mental, physical, environmental, social) and health communication.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "KIN 2400",
+      "title": "Foundations of Public Health and Applied Epidemiology",
+      "units": "3",
+      "ge": null,
+      "coid": "439227",
+      "requirement": "or",
+      "description": "Introduction to the core dimensions of public health and examines principles of epidemiology as they relate to various public health activities, outcomes, and issues.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 3400",
+      "title": "Health Disparities and Social Justice",
+      "units": "3",
+      "ge": null,
+      "coid": "439228",
+      "requirement": "or",
+      "description": "Introduction to concepts of health equity, health disparities, and social justice. It examines how determinants of health impact people’s abilities to engage in healthy lifestyles and evaluates intervention practices used to reduce health disparities in the U.S.",
+      "prerequisites": "KIN 2400 and SOC 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 3650",
+      "title": "Dimensions of the Aging Process",
+      "units": "3",
+      "ge": null,
+      "coid": "436327",
+      "requirement": "or",
+      "description": "Issues pertaining to the quality of life through the aging process, specifically throughout the adult life span, as they relate to kinesiology and health. Socio-cultural, emotional, physical, and health and well-being influences be examined as they impact aging.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 4650",
+      "title": "Intervention Design and Evaluation",
+      "units": "2",
+      "ge": null,
+      "coid": "437285",
+      "requirement": "or",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "KIN 4650A",
+      "title": "Intervention Design and Evaluation Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437290",
+      "requirement": "or",
+      "description": "",
+      "prerequisites": "",
+      "grading_basis": "",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 2201",
+      "title": "Introduction to Sociology",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434882",
+      "requirement": "or",
+      "description": "[GE 4A] Introduction to the study and practice of sociology. Key theories, ideas, concepts and principles. Theories, methods and key areas of study such as culture, socialization, globalization, gender/sexuality, race/ethnicity. Must be taken for a letter grade by Sociology majors.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "STA 1300",
+      "title": "Biostatistics",
+      "units": "3",
+      "ge": "GE 2",
+      "coid": "437761",
+      "requirement": "or",
+      "description": "[GE 2] Basic definitions, Sampling methods, Graphical display and descriptive statistics. Probability concepts, Normal distribution. Estimation, hypothesis testing, t-tests, goodness of fit, analysis of variance, regression and correlation, and nonparametric procedures. Applications in biological, agricultural, and other applied science. Use of computer packages for applied problems.",
+      "prerequisites": "Category I, Category II, MDPT >=14, ALEKS >=46, SAT >=570, ACT >=23, C or better in a GE Sub-area 2/B4 course, or C- or better or CR in MAT 1051 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "KIN 2050",
+    "KIN 2400",
+    "KIN 3400",
+    "KIN 3650",
+    "KIN 4650",
+    "KIN 4650A"
+  ]
+}

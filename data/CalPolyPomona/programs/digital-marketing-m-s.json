@@ -1,0 +1,361 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:26+00:00",
+  "id": "digital-marketing-m-s",
+  "name": "Digital Marketing, M.S.",
+  "title_on_page": "University Catalog",
+  "department": "International Business And Marketing",
+  "department_id": "international-business-and-marketing",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24518",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6308",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Digital Marketing, M.S.: 34 units Offered jointly by: College of Business Administration - International Business and Marketing Department and College of Professional and Global Education Major Required | Major Electives | Culminating Experience | Program Website Major Required: 18 units IBM 6010 - Digital Marketing (3) IBM 6200 - Online Consumer Psychology and Behaviors (3) IBM 6400 - Current Issues in Digital Marketing (1) IBM 6500 - Customer Insights Methods and Survey Research (3) IBM 6510 - Foundations of Customer Analytics (3) IBM 6800 - Data-Driven Digital Marketing Strategy I (2) IBM 5910 - Strategic Data Wrangling and Visualization (3) Major Electives: 14 units Any combination of courses listed below will satisfy the required 14 units. Emphases are listed to provide guidance for helping students to choose courses of interest that best fit your career goals, but there is no requirement for choosing a specific emphasis for fulfilling these units. It is strongly recommended to complete the 14 units from the same emphasis. Digital Marketing Strategy Emphasis: 14 units Recommended: 10 units IBM 6100 - Search Engine Marketing (2) IBM 6150 - Database Marketing (2) IBM 6250 - Social Media Marketing Strategy (3) IBM 6300 - Retailing in Digital Economy (3) Other: 4 units GBA 5140 - Statistics Essentials for Business Analytics (3) IBM 6450 - Artificial Intelligence in Marketing (2) 6000-level IBM Course Marketing Analytics Emphasis: 14 units Recommended: 10 units IBM 6520 - Market Forecasting (2) IBM 6530 - Marketing Analytics (3) IBM 6540 - Applied Machine Learning in Marketing (3) IBM 6600 - Marketing Text Analytics with Large Language Models ",
+  "requirements": [
+    {
+      "name": "Major Required: 18 units",
+      "courses": [
+        "IBM 6010",
+        "IBM 6200",
+        "IBM 6400",
+        "IBM 6500",
+        "IBM 6510",
+        "IBM 6800",
+        "IBM 5910"
+      ],
+      "raw_text": "Major Required: 18 units"
+    },
+    {
+      "name": "Recommended: 10 units",
+      "courses": [
+        "IBM 6100",
+        "IBM 6150",
+        "IBM 6250",
+        "IBM 6300",
+        "IBM 6520",
+        "IBM 6530",
+        "IBM 6540",
+        "IBM 6600"
+      ],
+      "raw_text": "Recommended: 10 units"
+    },
+    {
+      "name": "Other: 4 units",
+      "courses": [
+        "GBA 5140",
+        "IBM 6450",
+        "GBA 6420",
+        "IBM 6700"
+      ],
+      "raw_text": "Other: 4 units"
+    },
+    {
+      "name": "Culminating Experience: 2 units",
+      "courses": [
+        "IBM 6950"
+      ],
+      "raw_text": "Culminating Experience: 2 units"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "IBM 6010",
+      "title": "Digital Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "439362",
+      "requirement": "Major Required: 18 units",
+      "description": "Study of the Internet, its culture, and procedures from a marketing perspective. Integrated digital marketing strategy by combining web design, web analytics, search engine optimization, search engine marketing, online advertising, email marketing, social media, reputation management, and customer relationship management. Survey of concepts and tools. Analysis of current practice of client organization(s); planning and execution of digital marketing strategies.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "IBM 6200",
+      "title": "Online Consumer Psychology and Behaviors",
+      "units": "3",
+      "ge": null,
+      "coid": "439365",
+      "requirement": "Major Required: 18 units",
+      "description": "An overview of theories and findings in social psychology and consumer behavior with a focus on online behavior. Topics include motivation, cognition, emotion, memory, personality, and identity; customer decision making, including choice architecture and brand selection; online marketplace behavior; psychology of online/social media interface and group influence.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6400",
+      "title": "Current Issues in Digital Marketing",
+      "units": "1",
+      "ge": null,
+      "coid": "439367",
+      "requirement": "Major Required: 18 units",
+      "description": "Study of latest trends, practices, and issues in digital marketing with the goal of anticipating and preparing for future disruptions in the digital economy and exploring adoption of the technology to companies in relation with existing portfolios of digital marketing programs.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6500",
+      "title": "Customer Insights Methods and Survey Research",
+      "units": "3",
+      "ge": null,
+      "coid": "439368",
+      "requirement": "Major Required: 18 units",
+      "description": "Survey of customer insights methods – both traditional and emerging techniques from big data, data science, machine learning, and AI – and primary data collection method with an emphasis on survey methods, including such topics as construct and measurement, reliability and validity, questionnaire design, sampling, data preparation, exploratory factor analysis, frequency distribution, test of hypothesis, ANOVA, ANCOVA, MANOVA, correlation, regression, and Structural equation modeling.",
+      "prerequisites": "Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6510",
+      "title": "Foundations of Customer Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "439369",
+      "requirement": "Major Required: 18 units",
+      "description": "Study of the foundations of econometrics approach to marketing data, with an emphasis on fostering a fundamental understanding of the properties of an estimator and associated assumptions, with topics ranging from estimation and statistical inference to topics derived because of violating the assumptions of regression models; modeling for limited dependent variables.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6800",
+      "title": "Data-Driven Digital Marketing Strategy I",
+      "units": "2",
+      "ge": null,
+      "coid": "439374",
+      "requirement": "Major Required: 18 units",
+      "description": "The second of the three-semester culminating experience project sequence. Critical evaluation of the client firms’ current marketing practices, defining problems and research objectives, understanding the external environment, examining currently available theories and models for a possible solution to the problems, determining research methods to achieve research objectives, collection of data, and analysis of data. Emphasis will be given to the culminating experience project proposal defense and analysis of data to generate insights. Students will develop a research proposal in IBM 6200, start analyzing data in IBM 6800, and finish up the project in IBM 6950. To be equipped with sufficient methods prior to data analysis, students should take this course towards the end of the program. To be successful, students should have data in hand early in IBM 6800.",
+      "prerequisites": "GBA 6010 or IBM 6010 ; and IBM 6200 , IBM 6500 , and IBM 6510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "IBM 5910",
+      "title": "Strategic Data Wrangling and Visualization",
+      "units": "3",
+      "ge": null,
+      "coid": "439461",
+      "requirement": "Major Required: 18 units",
+      "description": "Cross Listed as: GBA 5910 The art and science of wrangling and visualizing data for storytelling in business; literate coding and reproducible research as part of communication preparation; presentation of complex data for the non-technical audience with a focus on strategic data visualization for various types of data.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6100",
+      "title": "Search Engine Marketing",
+      "units": "2",
+      "ge": null,
+      "coid": "439363",
+      "requirement": "Recommended: 10 units",
+      "description": "Monitoring customer behaviors on firms’ websites and developing digital advertising strategies by establishing website performance measurements and measuring it, using popular search engine optimization and online advertising tools such as Google Analytics and SEMRush.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6150",
+      "title": "Database Marketing",
+      "units": "2",
+      "ge": null,
+      "coid": "439364",
+      "requirement": "Recommended: 10 units",
+      "description": "Developing and executing strategies to support various digital marketing programs, using CRM as a backbone of ecommerce and direct marketing efforts; building and maintaining databases with the use popular user-friendly CRM tools (e.g., hubSpots/zoho) for database marketing.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6250",
+      "title": "Social Media Marketing Strategy",
+      "units": "3",
+      "ge": null,
+      "coid": "439563",
+      "requirement": "Recommended: 10 units",
+      "description": "Gain in-depth knowledge and skills needed to plan and execute social media marketing, including organic social media, advertising, influencer marketing, and social listening. Create engaging content, analyze performance metrics, and develop comprehensive social media marketing strategies.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "IBM 6300",
+      "title": "Retailing in Digital Economy",
+      "units": "3",
+      "ge": null,
+      "coid": "439366",
+      "requirement": "Recommended: 10 units",
+      "description": "An overview of retailing and e-commerce in the new digital economy; online retailing strategy and practice; multi-channel and omni-channel retailing; merchandise management; digital design and layout; consumer behavior, digital customer service, and interfacing with consumers; and the role of technology, social media, and digital marketing.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GBA 5140",
+      "title": "Statistics Essentials for Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "434609",
+      "requirement": "Other: 4 units",
+      "description": "Cross Listed as: EMT 5140 Applications of managerial statistics for business decisions. Data collection, confidence interval estimation of mean and proportion, one and two-population hypothesis testing of mean and proportion, one-way and two-way Chi-square testing, simple linear regression, multiple linear regression, and Analysis of Variance. Use of computers.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6450",
+      "title": "Artificial Intelligence in Marketing",
+      "units": "2",
+      "ge": null,
+      "coid": "439564",
+      "requirement": "Other: 4 units",
+      "description": "Introduction to AI and Machine learning in Marketing, involving various technologies such as Natural Language Processing, generative imagery, data visualization in such marketing areas as social media marketing, retailing, customer services, pricing, and marketing automation; Special emphasis will be given to data privacy and ethics.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "IBM 6520",
+      "title": "Market Forecasting",
+      "units": "2",
+      "ge": null,
+      "coid": "439370",
+      "requirement": "Recommended: 10 units",
+      "description": "Forecasting of marketing variables such as customer equity, sales, marketing budget, and individual consumer demand for marketing mix decisions, with an emphasis on quantitative methods with time series and panel data and relevant techniques such as time series regression, exponential smoothing, and ARIMA models.",
+      "prerequisites": "IBM 6510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6530",
+      "title": "Marketing Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "439371",
+      "requirement": "Recommended: 10 units",
+      "description": "Advanced data analytics for marketing professionals for segmentation, targeting, and marketing mix decisions; multivariate analysis methods such as discriminant and logit analysis, conjoint analysis, factor analysis, and SEM.",
+      "prerequisites": "IBM 6500 and IBM 6510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6540",
+      "title": "Applied Machine Learning in Marketing",
+      "units": "3",
+      "ge": null,
+      "coid": "439372",
+      "requirement": "Recommended: 10 units",
+      "description": "Introduction to Data Science, Machine Learning, and Artificial Intelligence with a focus on techniques effective for solving marketing problems; organization of large datasets in an effective and structured way; identifying relationships among customer and marketing outcome variables to support marketing decisions.",
+      "prerequisites": "IBM 6510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "IBM 6600",
+      "title": "Marketing Text Analytics with Large Language Models and Artificial Intelligence",
+      "units": "2",
+      "ge": null,
+      "coid": "439373",
+      "requirement": "Recommended: 10 units",
+      "description": "Focus on gathering, processing, and analyzing small- and large-scale qualitative textual data from diverse sources such as customer emails, social media, review sites, and blogs. Integrate the use of advanced language models like OpenAI’s GPT for enhanced analysis of customer interactions with peers and firms. Generate insights and make strategic recommendations for digital marketing plans by leveraging cutting-edge AI tools for text analysis and sentiment understanding, enabling more informed and impactful marketing decisions.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "GBA 6420",
+      "title": "Optimization Methods for Business Analytics",
+      "units": "3",
+      "ge": null,
+      "coid": "439135",
+      "requirement": "Other: 4 units",
+      "description": "Understand how complex business problems can be modeled, analyzed, and solved in an optimal manner. Develop spreadsheet models for making complex business decisions, as well as interpret the results of such models. Optimization models including various mathematical programming models and decision making under risk and uncertainty.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "IBM 6700",
+      "title": "Marketing Data Management",
+      "units": "2",
+      "ge": null,
+      "coid": "439565",
+      "requirement": "Other: 4 units",
+      "description": "Explores the practical aspects of accessing, managing, and analyzing big CRM data. Use popular R programming and its ecosystems for big data management (e.g., Databricks), students will learn how to manage large databases on the Cloud. Emphasis is placed on leveraging big data technologies and tools to uncover actionable insights, enhance customer experiences, and optimize marketing strategies.",
+      "prerequisites": "IBM 5910 and IBM 6510 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "IBM 6950",
+      "title": "Data-Driven Digital Marketing Strategy II",
+      "units": "2",
+      "ge": null,
+      "coid": "439375",
+      "requirement": "Culminating Experience: 2 units",
+      "description": "The third and last course in the three-semester-long culminating experience project. Continuation from IBM 6800 with a particular emphasis on generating insights, making data-informed recommendations, and guiding clients for the execution of digital marketing strategies, utilizing all the knowledge learned about digital marketing, consumer psychology and behavior, e-commerce, and marketing science.",
+      "prerequisites": "IBM 6800 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "IBM 5910",
+    "IBM 6010",
+    "IBM 6100",
+    "IBM 6150",
+    "IBM 6200",
+    "IBM 6250",
+    "IBM 6300",
+    "IBM 6400",
+    "IBM 6450",
+    "IBM 6500",
+    "IBM 6510",
+    "IBM 6520",
+    "IBM 6530",
+    "IBM 6540",
+    "IBM 6600",
+    "IBM 6700",
+    "IBM 6800",
+    "IBM 6950"
+  ]
+}

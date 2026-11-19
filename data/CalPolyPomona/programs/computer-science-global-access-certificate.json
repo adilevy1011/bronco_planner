@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:18:36+00:00",
+  "id": "computer-science-global-access-certificate",
+  "name": "Computer Science Global Access Certificate",
+  "title_on_page": "University Catalog",
+  "department": "Computer Science",
+  "department_id": "computer-science",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24527",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6343",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Computer Science Global Access Certificate: 19 units Offered jointly by: College of Science, Computer Science Department and the College of Professional and Global Education Certificate Required The proposed Global Access Certificate Program in Computer Science is an academic credit certificate program. The program comprises 6 required courses in computer science with a total of 19 credit units that will be completed within one year. The program aims to create learning opportunities for students and professionals with computer science background to extend their computer science knowledge and expand their career opportunities through the focused educational program. Program participants will also benefit from the program in getting prepared for admission to the graduate program in computer science at CPP or other institutions. The program is designed for both domestic and international students. For international students, the proposed program provides F-1 visa support. A combination of the core courses and intensive English language courses will be offered to international students to make sure that the students enroll as full-time students that take at least 12 credit units per semester, according to the SEVP regulation on international student status. Upon completion of the program, international students will be eligible for an Optional Practical Training (OPT). For details about OPT, please visit the U.S. Citizen and Immigration Services website . Program Goals and Objectives Goal 1 - To provide an organized, sequential curriculum that addresses the knowledge and skills of computer science and prepare graduates to be competent entry-level ",
+  "requirements": [
+    {
+      "name": "Certificate Required: 19 units",
+      "courses": [
+        "CS 3010"
+      ],
+      "raw_text": "Certificate Required: 19 units"
+    },
+    {
+      "name": "or",
+      "courses": [
+        "CS 3110",
+        "CS 3750W",
+        "CS 3310",
+        "CS 3560",
+        "CS 3650",
+        "CS 4310",
+        "CS 4800"
+      ],
+      "raw_text": "or"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CS 3010",
+      "title": "Numerical Methods and Computing",
+      "units": "3",
+      "ge": null,
+      "coid": "435645",
+      "requirement": "Certificate Required: 19 units",
+      "description": "Linear algebra concepts, Linear Transformations and Matrix Factorizations, Eigenvalues and Eigenvectors, Least Squares, error analysis, floating-point representations, roots of non-linear equations, systems of linear equations, interpolation, numerical integration.",
+      "prerequisites": "CS major, and C or better in CS 2400 and MAT 1150 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter"
+    },
+    {
+      "code": "CS 3110",
+      "title": "Formal Languages and Automata",
+      "units": "3",
+      "ge": null,
+      "coid": "435646",
+      "requirement": "or",
+      "description": "Finite automata. Non-determinism. Regular expressions and languages. Context-free grammars and push down automata. Ambiguity. Closure properties. Normal forms. Context-free and non-context-free languages.",
+      "prerequisites": "CS major and C or better in CS 2400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter"
+    },
+    {
+      "code": "CS 3750W",
+      "title": "Computers and Society",
+      "units": "3",
+      "ge": "GE 4C or 5D",
+      "coid": "435039",
+      "requirement": "or",
+      "description": "[GE 4C or 5D] Impact of computing technology on individuals and on society. Various current uses of computing devices, how these have evolved, and what the future might bring. Benefits and dangers of information technology. How the Internet and computing devices have fundamentally changed the way we work, play, and interact with others. Overview of computer and information technology (e.g., networking and communications, information management). Secure computing principles and practice. Consequent rise of new social, legal and diversity issues, making it essential for everyone to acquire a working understanding of the role of this technology in our daily lives. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter"
+    },
+    {
+      "code": "CS 3310",
+      "title": "Design and Analysis of Algorithms",
+      "units": "3",
+      "ge": null,
+      "coid": "436705",
+      "requirement": "or",
+      "description": "Algorithms for fundamental problems. Efficiency analysis using asymptotic notation. Principal algorithm design techniques and their tradeoffs. NP-theory and approaches used to address intractability.",
+      "prerequisites": "CS major or CS minor, and C or better in CS 2400 and STA 2260 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter"
+    },
+    {
+      "code": "CS 3560",
+      "title": "Object-Oriented Design and Programming",
+      "units": "3",
+      "ge": null,
+      "coid": "435648",
+      "requirement": "or",
+      "description": "Elements of the object model. Abstraction, encapsulation, modularity, hierarchy and polymorphism. UML Modeling. Object-oriented design principles. Design patterns. Implementation and programming of system design. Code generation. Overview of advanced file and database technology. Model integration with database. Introduction to embedded software. Object and portable data. Comprehensive examples using a case study approach.",
+      "prerequisites": "CS major and C or better in CS 2400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter"
+    },
+    {
+      "code": "CS 3650",
+      "title": "Computer Architecture",
+      "units": "4",
+      "ge": null,
+      "coid": "436706",
+      "requirement": "or",
+      "description": "Logic design and computer arithmetic. Logical properties of flip-flops and sequential machines. Datapath and control unit design. Pipelining. Memory hierarchy and storage technology. Multiprocessing and alternative architectures.",
+      "prerequisites": "CS major and C or better in CS 2640 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer"
+    },
+    {
+      "code": "CS 4310",
+      "title": "Operating Systems",
+      "units": "3",
+      "ge": null,
+      "coid": "435655",
+      "requirement": "or",
+      "description": "Overview of operating systems. Operating system structures. Process management. Concurrency and synchronization. Deadlock. Processor management. Operating system security. Scheduling and dispatch. Memory management. Virtual memory. Device management. File systems.",
+      "prerequisites": "CS major, and C or better in CS 3650 and STA 2260 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter"
+    },
+    {
+      "code": "CS 4800",
+      "title": "Software Engineering",
+      "units": "3",
+      "ge": null,
+      "coid": "435665",
+      "requirement": "or",
+      "description": "Models of the software development process and metrics. Software requirements and specifications. Methodologies, tools and environments. Human-computer interaction. Software architecture, design and implementation techniques. Project management. Cost estimation. Testing and validation. Secure software development life cycle and common software security issues. Automated build, deployment and continuous integration. Maintenance and evolution.",
+      "prerequisites": "CS major and C or better in CS 2400 ; or consent of instructor.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter"
+    }
+  ],
+  "department_course_codes": [
+    "CS 3010",
+    "CS 3110",
+    "CS 3310",
+    "CS 3560",
+    "CS 3650",
+    "CS 3750W",
+    "CS 4310",
+    "CS 4800"
+  ]
+}

@@ -1,0 +1,1452 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:03:23+00:00",
+  "id": "geological-sciences",
+  "name": "Geological Sciences",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6344",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Geological Sciences Department Building 4 Room 242 | (909) 869-5116 | Department Website | Faculty Directory The Geological Sciences Department aspires to provide the highest quality education in Earth Science and its applications. Through hands-on learning, faculty-mentored research, and exposure to current technology, students acquire skills applicable to careers in geosciences and related fields. The department emphasizes understanding Earth system processes and their interrelationships, arming students with a global perspective for problem solving, decision making, and leadership in a rapidly changing world. The department emphasizes a “learn-by-doing” approach grounded in interdisciplinary fieldwork, laboratory analysis, and modern geospatial technologies. Students choose from emphases in geology, geophysics/earth exploration, or environmental resources, all of which integrate theoretical knowledge with practical application. Faculty are active researchers in areas such as tectonics, hydrogeology, environmental geoscience, and planetary science, and regularly involve students in research supported by grants and partnerships with government agencies and industry. The program supports a collaborative and inclusive academic culture that prepares students for both professional practice and advanced study. Students participate in field-based learning throughout Southern California and beyond, using industry-standard tools such as ground-penetrating radar, LiDAR, and geochemical instrumentation. On-campus facilities include a hydrogeochemical lab, X-ray and seismic equipment, fossil and mineral collections, and a dedicated computer lab. The dep",
+  "courses": [
+    {
+      "code": "GSC 1010",
+      "title": "Planet Earth: A Citizen’s Guide",
+      "units": "2",
+      "ge": null,
+      "coid": "437762",
+      "description": "Development of knowledge pertinent to Earth stewardship and global citizenship, with emphasis on building and maintaining a habitable earth. Survey of issues such as climate change, environmental and natural hazards, water resource development and conservation, and/or environmental sustainability, with their social, emotional, financial, psychological, and physiological impacts. Corequisite(s): GSC 1010A .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 1010A",
+      "title": "Planet Earth: A Citizen’s Guide Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437763",
+      "description": "Activities directed toward educating regional or campus communities about response to / recovery from challenges posed by Earth’s environment. Enhancement of skills to evaluate such challenges, engage in related conversations, and promote community awareness. Participation in events such as Earth Day, California Shake-Out, and disaster preparedness drills. Promotion of water conservation and waste recycling. Outdoor field trips. Corequisite(s): GSC 1010 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 1100",
+      "title": "Water in a Changing World",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "435002",
+      "description": "[GE 5A] Introduction to water resource issues affecting urban, agricultural, and natural end-users in California, and the arid southwest. Integrates basic hydrologic principles, discussion of recent research, and historical issues to understand current water resource management decisions and future trends in water use.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s"
+      ]
+    },
+    {
+      "code": "GSC 1110",
+      "title": "Principles of Geology",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "435003",
+      "description": "[GE 5A] An introduction to minerals, rocks and geologic features that comprise the Earth; analysis of internal and external processes controlling the formation and evolution of features of our dynamic planet.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-minor",
+        "geology-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GSC 1120",
+      "title": "Earth, Time, and Life",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "437764",
+      "description": "[GE 5A] A survey of Earth’s history and changing environments: formation from the solar nebula, plate tectonics, ‘continental drift,’ and ocean basins; evolution of the hydrosphere, biosphere, and Earth landscape; crosscutting age relationships; fossil populations during successive geological ages; dating the past and development of the Geologic Time Scale; biostratigraphy; global climate change over time.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-minor",
+        "geology-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GSC 1160",
+      "title": "Introduction to Astronomy",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "435004",
+      "description": "[GE 5A] Current knowledge of the cosmos and techniques used in its investigation. The solar system: composition, dynamics, and theories of origin and evolution. Nature of stars, galaxies, and the universe. Stellar distance, magnitude, luminosity, temperature, composition, and evolution. Search for extrasolar planets and extraterrestrial life. Modern revelations from robotic space missions.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 1200",
+      "title": "Introduction to Oceanography",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "435005",
+      "description": "[GE 5A] An introduction to the marine sciences. Dealing primarily with the properties of water, ocean currents, waves, tides, beaches, marine life, marine resources and the nature and origin of the sea floor.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 1410L",
+      "title": "Principles of Geology Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "435084",
+      "description": "[GE 5C] Laboratory synthesis of the rock cycle and geologic topics, including earthquakes, plate tectonics, and earth surface processes. Classification of minerals and rocks, reading and interpreting topographic and geologic maps, and understanding basic geological concepts. Corequisite(s): Pre or Corequisite(s): GSC 1110 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-minor",
+        "geology-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GSC 1450L",
+      "title": "Megascopic Petrography Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435895",
+      "description": "Identification of common igneous, metamorphic and sedimentary rocks, as well as rock-forming minerals in hand sample. Emphasis is placed upon modern classification schemes and recognition of rock textures. Field observation of rock samples and outcrops.",
+      "prerequisites": "GSC 111 or GSC 1110 ; and GSC 141L or GSC 1410L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 1510L",
+      "title": "Earth, Time, and Life Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "435083",
+      "description": "[GE 5C] Classification of fossil invertebrates, studies of paleogeographic maps and geologic maps and problems in structural geology and crosscutting age relationships Corequisite(s): Pre or Corequisite(s): GSC 1120 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-minor",
+        "geology-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GSC 1950",
+      "title": "Living in Earthquake Country",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "435006",
+      "description": "[GE 5A] Introduction to earthquakes, their causes and effects, with emphasis on California. Earthquake distribution in space and time; faulting; historical earthquakes in California and their impact on society; measuring and monitoring earthquakes; secondary effects and hazards; hazard mitigation; prediction and forecasting.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438408",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 2120",
+      "title": "Earth Science for Elementary Educators",
+      "units": "3",
+      "ge": "GE 5A",
+      "coid": "434996",
+      "description": "[GE 5A] Introduction to Earth Science including: physical and planetary geology, weather and climate, and human impact on Earth’s systems. Modeling of effective K-8 curriculum, teaching and assessment practices as described in the state adopted framework and content standards. Corequisite(s): GSC 2120L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring"
+    },
+    {
+      "code": "GSC 2120L",
+      "title": "Earth Science for Elementary Educators Laboratory",
+      "units": "1",
+      "ge": "GE 5C",
+      "coid": "434997",
+      "description": "[GE 5C] Laboratory activities in Earth Science including: physical and planetary geology, weather and climate, and human impact on Earth’s systems. Modeling of effective K-8 curriculum, teaching and assessment practices as described in the state adopted framework and content standards. Fieldwork component is required. Corequisite(s): GSC 2120 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 2150",
+      "title": "Mineralogy",
+      "units": "2",
+      "ge": null,
+      "coid": "437099",
+      "description": "Physical and chemical properties of minerals, introductory morphologic crystallography, and basic petrographic microscopy. Occurrence, origin and uses of the common minerals. Identification in hand sample and thin section. Corequisite(s): GSC 2150L .",
+      "prerequisites": "GSC 111 or GSC 1110 ; GSC 141L or GSC 1410L ; CHM 121 or CHM 1210 ; and CHM 121L or CHM 1210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 2150L",
+      "title": "Mineralogy Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437102",
+      "description": "Laboratory study of the physical and chemical properties of minerals in hand specimen and under microscope. Introductory morphologic crystallography; basic petrographic microscopy. Occurrence, origin and uses of the common minerals. Mineral identification. Corequisite(s): GSC 2150 .",
+      "prerequisites": "GSC 111 or GSC 1110 ; GSC 141L or GSC 1410L ; CHM 121 or CHM 1210 ; and CHM 121L or CHM 1210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 2550L",
+      "title": "Field Methods Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435897",
+      "description": "Techniques for observing, mapping, measuring, recording, analyzing, and interpreting geologic structures and earth features. Use of Brunton compass, surveying tools, and other modern instrumentation for field data collection. Course may involve multi-day field trips and/or one-day excursions.",
+      "prerequisites": "GSC 111 or GSC 1110 and GSC 141L or GSC 1410L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 2700",
+      "title": "Age of the Dinosaurs",
+      "units": "3",
+      "ge": "GE 5B",
+      "coid": "439024",
+      "description": "[GE 5B] Evolution of life during the Mesozoic era. Examination of the evolution of Mesozoic animals and plants, including the major dinosaur groups, controversies over dinosaurian behavior, physiology, and extinction; and the geology of the Mesozoic.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438409",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438410",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438411",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 3000",
+      "title": "Geochemistry",
+      "units": "2",
+      "ge": null,
+      "coid": "435891",
+      "description": "Introduction to geochemical thermodynamics and kinetics. Topics include the carbonate system, aqueous geochemistry, mineral formation and weathering processes, rock chemistry, global geochemical cycles, and isotopes. Problem solving skills and use of instrumentation. Field measurements, sampling techniques, data evaluation and dissemination. Corequisite(s): GSC 3000L .",
+      "prerequisites": "CHM121 or CHM 1210 ; and CHM121L or CHM 1210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3000L",
+      "title": "Geochemistry Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435892",
+      "description": "Laboratory and Field investigations of Geochemistry. Laboratories emphasize applied chemical principles for understanding geologic processes such as rock formation and weathering, salinity, geochemical cycles and Environmental applications. Corequisite(s): GSC 3000 .",
+      "prerequisites": "CHM 121 or CHM 1210 ; and CHM 121L or CHM 1210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3040",
+      "title": "Meteorology",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "435007",
+      "description": "[GE 5D] Framework topics such as atmospheric structure, composition, global heat budget, pressure and humidity form the base upon which a process-oriented, semi-quantitative, descriptive survey of major weather phenomena, including winds, clouds, precipitation and storms is conducted. Individual or team research presentations describe selected meteorological phenomena or case studies.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GSC 3070",
+      "title": "Introduction to Global Geophysics",
+      "units": "2",
+      "ge": null,
+      "coid": "435538",
+      "description": "Cross Listed as: PHY 3070 Physics of the solid Earth and its applications. Plate tectonics; geo- and paleo-magnetism; gravity and isostasy; global seismology; radioactivity and heat; deep interior of the Earth and its physical processes; tectonics of specific regions. Corequisite(s): GSC 3070L .",
+      "prerequisites": "MAT 1050 , MAT 112, MAT 114, MAT 1140 , MAT 115, MAT 1150 , or MAT 116; MAT 1060 , MAT 112, MAT 114, MAT 1140 , MAT 115, MAT 1150 , or MAT 116.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3070L",
+      "title": "Introduction to Global Geophysics Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435539",
+      "description": "Cross Listed as: PHY 3070L Laboratory and field study of the physics of the solid Earth. Plate tectonics; geo- and paleo-magnetism; gravity and isostasy; global seismology; radioactivity and heat; deep interior of the Earth and its physical processes; tectonics of specific regions. Corequisite(s): GSC 3070 .",
+      "prerequisites": "MAT 1050 , MAT 112, MAT 114, MAT 1140 , MAT 115, MAT 1150 , or MAT 116; MAT 1060 , MAT 112, MAT 114, MAT 1140 , MAT 115, MAT 1150 , or MAT 116.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3200",
+      "title": "Studies of a Blue Planet",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "435008",
+      "description": "[GE 5D] Science-based issues related to the ocean-atmosphere system that directly impact humans. Global environmental change, El Nio/La Nia, ozone depletion, sea level changes, coastal development, alternative energy sources and satellite monitoring of earth are investigated. Individual or team research presentations describe selected linked ocean-atmosphere phenomena or case studies.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GSC 3210",
+      "title": "Engineering Geology I",
+      "units": "2",
+      "ge": "GE 5D",
+      "coid": "435009",
+      "description": "[GE 5D] Fundamentals of geology applied to engineering problems. Includes rock and soil properties, structure, erosion, sedimentation, groundwater flow, seismic explorations, rock/soil movements, and project site evaluations. Individual and group study of selected engineering geology problems or case studies. Corequisite(s): GSC 3210L .",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3210L",
+      "title": "Engineering Geology I Laboratory",
+      "units": "1",
+      "ge": "GE 5D",
+      "coid": "435010",
+      "description": "[GE 5D] Laboratory investigation of geology aspects of engineering problems. Includes rock and soil properties, structure, erosion, sedimentation, groundwater flow, seismic explorations, rock/soil movements, landslide hazard assessment, ground motion analysis, liquefaction susceptibility and general site evaluations. Individual and group study of selected engineering geology problems. Instruction is carried out in the field and laboratory. Corequisite(s): GSC 3210 .",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3230",
+      "title": "Geomorphology",
+      "units": "2",
+      "ge": null,
+      "coid": "435759",
+      "description": "Study of Earth surface processes and landforms. Geomorphic analysis of landscape evolution, dynamic equilibrium, and topographic response to tectonic and climatic forcing. Terrain analysis utilizing geomorphic field data, remote sensing imagery, and digital terrain models. Applications to natural hazards and resource problems. Topics include watershed hydrology, river systems, hill slopes, weathering and soils, coastlines, active tectonics, and climate change. Corequisite(s): GSC 3230L .",
+      "prerequisites": "GSC 111 or GSC 1110 ; and GSC 141L or GSC 1410L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3230L",
+      "title": "Geomorphology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435757",
+      "description": "Laboratory and field investigation of Earth surface processes and landforms. Geomorphic analysis of landscape evolution, dynamic equilibrium, and topographic response to tectonic and climatic forcing. Terrain analysis utilizing geomorphic field data, remote sensing imagery, and digital terrain models. Applications to natural hazards and resource problems. Topics include watershed hydrology, river systems, hill slopes, weathering and soils, coastlines, active tectonics, and climate change. Corequisite(s): GSC 3230 .",
+      "prerequisites": "GSC 111 or GSC 1110 ; and GSC 141L or GSC 1410L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3310",
+      "title": "Paleontology",
+      "units": "2",
+      "ge": null,
+      "coid": "436320",
+      "description": "Morphology and evolution of fossil invertebrates and vertebrates. Interpretation and discussion of ancient environments and changes in life forms with time. Corequisite(s): GSC 3310L .",
+      "prerequisites": "GSC 112, GSC 1120 , BIO 110, BIO 1110 , BIO 111L or BIO 1110L ; and GSC 151L or GSC 1510L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s"
+      ]
+    },
+    {
+      "code": "GSC 3310L",
+      "title": "Paleontology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436321",
+      "description": "Field and laboratory exercises emphasizing description and classification of fossil invertebrates and vertebrates. Morphological characteristics related to evolution. Interpretation and discussion of ancient environments and changes in life forms with time. Field trips to local museums and classic fossil locations of southern California and Nevada. Corequisite(s): GSC 3310 .",
+      "prerequisites": "GSC 112, GSC 1120 , BIO 110, BIO 1110 , BIO 111L or BIO 1110L ; and GSC 151L or GSC 1510L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s"
+      ]
+    },
+    {
+      "code": "GSC 3330",
+      "title": "Structural Geology",
+      "units": "2",
+      "ge": null,
+      "coid": "435515",
+      "description": "Investigation of the deformation of Earth’s lithosphere. Three-dimensional analysis of Earth structures at various scales of observation. Quantitative relationships between stress and strain; associated rock mechanics experiments. Interpretation of crosscutting structural relationships with intention of deducing the deformational history. Corequisite(s): GSC 3330L .",
+      "prerequisites": "MAT 1050 , MAT112, MAT114, MAT 1140 , MAT115, MAT 1150 , or MAT116; MAT 1060 , MAT112, MAT114, MAT 1140 , MAT115, MAT 1150 , or MAT116; GS3A/C111 or GSC 1110 ; GS3A/C141L or GSC 1410L ; and GS3B/C255L, GSC 2550L , GSC491L or GSC 4910L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3330L",
+      "title": "Structural Geology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435516",
+      "description": "Laboratory and field investigation of the deformation of Earth’s lithosphere. Three-dimensional analysis of Earth structures at various scales of observation. Interpretation of crosscutting structural relationships and field sequence. Corequisite(s): GSC 3330 .",
+      "prerequisites": "MAT 1050 , MAT112, MAT114, MAT 1140 , MAT115, MAT 1150 , or MAT116; MAT 1060 , MAT112, MAT114, MAT 1140 , MAT115, MAT 1150 , or MAT116; and GS3A/C111, GSC 1110 , GS3A/C141L or GSC 1410L ; and GS3B/C255L, GSC 2550L , GSC491L or GSC 4910L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3350",
+      "title": "Exploring Earth’s Oceans: Oceanography",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "435011",
+      "description": "[GE 5D] Scientific investigation of fundamental processes emphasizing physical, chemical, and geological oceanography. Topics include currents, tides, waves, beaches, chemistry of ocean water, ocean basin evolution and physiography, sedimentation, coastal hazards, marine climate, and relevant marine biological processes. Independent field trip. Individual or team presentations describe selected oceanographic phenomena or case studies.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GSC 3500",
+      "title": "Natural Disasters",
+      "units": "3",
+      "ge": "GE 5D",
+      "coid": "435012",
+      "description": "[GE 5D] Study of natural disasters and their human impact. Hazards related to plate tectonics and climate are examined from a scientific perspective. Topics may include earthquakes, tsunami, volcanic eruptions, landslides, flooding, hurricanes, tornadoes, and climate change. Recent events and notable case histories reviewed through lecture, Internet, video, field trips, and student presentations.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GSC 3600",
+      "title": "Hydrogeology",
+      "units": "2",
+      "ge": null,
+      "coid": "435733",
+      "description": "Synthesis of the principles of hydrogeology and its place in the hydrologic cycle. Lectures emphasize properties of aquifers and principles of groundwater flow, and strategies for groundwater production and sustainable use. Corequisite(s): GSC 3600L .",
+      "prerequisites": "MAT 105, MAT 1050 , MAT 106, MAT 1060 , MAT 112, MAT 114, MAT 1140 , MAT 1140C, MAT 115, MAT 1150 , MAT 1150C, MAT 116; GSC 111, GSC 1110 , GSC 321, or GSC 3210 ; and GS3A/C141L or GSC 1410L , GSC 321L, or GSC 3210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 3600L",
+      "title": "Hydrogeology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435738",
+      "description": "Laboratory and field investigations of hydrogeology and its place in the hydrologic cycle. Laboratories emphasize properties of aquifers and principles of groundwater flow, and strategies for groundwater production and sustainable use. Corequisite(s): GSC 3600 .",
+      "prerequisites": "MAT 105, MAT 1050 , MAT 106, MAT 1060 , MAT 112, MAT 114, MAT 1140 , MAT 1140C, MAT 115, MAT 1150 , MAT 1150C, MAT 116; GSC 111, GSC 1110 , GSC 321, or GSC 3210 ; and GS3A/C141L or GSC 1410L , GSC 321L, or GSC 3210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438412",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 4010",
+      "title": "GIS Applications for Earth and Environmental Scientists",
+      "units": "1",
+      "ge": null,
+      "coid": "435763",
+      "description": "Theory underlying GIS methods for digital mapping and quantitative analysis of geospatial data. Coordinate systems, raster vs. vector data sets, procedures for georeferencing raster images, creation of geodatabases linked to topology, geocoding procedures. Spatial analysis of geologic, hydrologic, and environmental processes or phenomena. Team project(s) to integrate data acquisition with GIS map production. Corequisite(s): GSC 4010L .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4010L",
+      "title": "GIS Applications for Earth and Environmental Scientists Laboratory",
+      "units": "2",
+      "ge": null,
+      "coid": "435995",
+      "description": "Practical GIS methods for map representation and quantitative spatial analysis of coordinate-based geoscience data. Laboratory and field techniques for converting raw geoscience data into digital map layers. Acquisition of X-Y-Z-attribute data from raster scans or natural field settings. Creation of geo-databases linked to topology. Manipulation of digital data layers; enhancement with graphics programs. Corequisite(s): GSC 4010 .",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4100W",
+      "title": "Presentation, Writing and Research Skills in the Geosciences",
+      "units": "2",
+      "ge": null,
+      "coid": "437103",
+      "description": "Discussion and practice of the design, mechanics and style of geoscience written and oral presentations and posters. Writing effective conference abstracts, professional reports and theses. Literature search and critically evaluating sources. Data analysis and visualization. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "Junior, senior, or graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Spring",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 4150",
+      "title": "Engineering Geology II",
+      "units": "2",
+      "ge": null,
+      "coid": "437104",
+      "description": "Geologic and geophysical principles applied to engineering problems in the geotechnical industry. Slope stability assessment, faults and seismology of southern California, Alquist- Priolo/fault trench studies, strong ground motion and site effects, shake maps, probabilistic hazard analysis. Case studies of landslides, earthquakes, and engineering infrastructure. May be enrolled by undergraduate or graduate students. May be enrolled by undergraduate or graduate students. Corequisite(s): GSC 4150L .",
+      "prerequisites": "GSC 111 and GSC 141L, GSC 1110 and GSC 1410L , GSC 321 and GSC 321L or GSC 3210 and GSC 3210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4150L",
+      "title": "Engineering Geology II Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437105",
+      "description": "Laboratory study of engineering problems pertinent to the geotechnical industry; e.g., slope stability assessment, dam site analysis, fault trench studies, grading of housing developments. Site investigations involving field measurements and 3-dimensional analysis of structural data. May be enrolled by undergraduate or graduate students. May be enrolled by undergraduate or graduate students. Corequisite(s): GSC 4150 .",
+      "prerequisites": "GS3A/C111/141L, GSC 1110 / GSC 1410L , GS3C/C321/321L or GSC 3210 / GSC 3210L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4230W",
+      "title": "Sedimentary Geology",
+      "units": "2",
+      "ge": null,
+      "coid": "435651",
+      "description": "Study of sedimentary rocks based on textures, mineralogy, classification, and structures and their significance in relation to transport/depositional processes, regional setting, and post depositional history; focus on depositional facies models and controls of tectonics and sediment supply on sedimentation Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): GSC 4230LW .",
+      "prerequisites": "GSC 1110 , GSC 1410L , GSC 2150L , GSC 4100W , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 4240",
+      "title": "Igneous and Metamorphic Petrology",
+      "units": "2",
+      "ge": null,
+      "coid": "435770",
+      "description": "Theory of the origin, classification, chemistry, and mineralogy of igneous and metamorphic rocks. Properties of igneous and metamorphic minerals in thin section. Interpretation of rock textures and structures. Geothermobarometry. Corequisite(s): GSC 4240L .",
+      "prerequisites": "GSC 215 or GSC 2150 ; and GSC 215L or GSC 2150L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4240L",
+      "title": "Igneous and Metamorphic Petrology Laboratory",
+      "units": "2",
+      "ge": null,
+      "coid": "435769",
+      "description": "Practical laboratory and field exercises regarding the origin, classification, chemistry, and mineralogy of igneous and metamorphic rocks. Use of petrographic microscopes to describe igneous and metamorphic minerals in thin section. Analysis of pressures and temperatures of geologic events via calculations and software. Corequisite(s): GSC 4240 .",
+      "prerequisites": "GSC 215 or GSC 2150 ; and GSC 215L or GSC 2150L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4320",
+      "title": "Soil Physics",
+      "units": "2",
+      "ge": null,
+      "coid": "435728",
+      "description": "Methods to characterize physical attributes of soil. Soil particle size distribution and structure, nature and behavior of clay, state and movement of water and solutes in saturated and unsaturated soil conditions, gas and energy exchange between soil and atmosphere, principles of rheology. Corequisite(s): GSC 4320L .",
+      "prerequisites": "GSC 141L, GSC 1410L , PLT 231 or PLT 2310 ; and Upper Division or Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4320L",
+      "title": "Soil Physics Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435705",
+      "description": "Laboratory and field investigations of Soil Physics. Laboratories emphasize physical attributes of soil. Soil particle size distribution and structure, nature and behavior of clay, state and movement of water and solutes in saturated and unsaturated soil conditions, gas and energy exchange between soil and atmosphere, principles of rheology. Corequisite(s): GSC 4320 .",
+      "prerequisites": "GSC 141L, GSC 1410L , PLT 231 or PLT 2310 ; and Upper Division or Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4340",
+      "title": "Shallow Subsurface Geophysics",
+      "units": "2",
+      "ge": null,
+      "coid": "435517",
+      "description": "Geophysical methods used to investigate the Earth’s shallow subsurface structure. Fundamentals of seismic methods. Exploration using gravity. Principles of electrical resistivity, magnetic methods and ground-penetrating radar. Equipment, field procedures and experiment design. Data processing and analysis using modeling. Examples of applications. Corequisite(s): GSC 4340L .",
+      "prerequisites": "MAT 1050 and MAT 1060 ; OR MAT 112, MAT 114, MAT 1140 , MAT 1140C, MAT 115, MAT 1150 , MAT 116, GSC 307, GSC 3070 , GSC 450, or GSC 4500 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4340L",
+      "title": "Shallow Subsurface Geophysics Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435518",
+      "description": "Laboratory and field-based investigations of the geophysical methods used to investigate the Earth’s shallow subsurface: seismic methods, gravity, electrical resistivity, electromagnetic and magnetic methods, and ground-penetrating radar. Equipment use, field procedures and experiment design. Data processing and analysis using modeling. Examples of applications. Corequisite(s): GSC 4340 .",
+      "prerequisites": "MAT 1050 and MAT 1060 ; OR MAT 112, MAT 114, MAT 1140 , MAT 1140C, MAT 115, MAT 1150 , MAT 116, GSC 307, GSC 3070 , GSC 450, or GSC 4500 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4410",
+      "title": "Internship in Geosciences",
+      "units": "1-2",
+      "ge": null,
+      "coid": "436948",
+      "description": "On-the-job training in student’s area of interest. The internship is arranged by the student and is not a continuation of an ongoing job or volunteer experience. Requirements include a minimum of 4 hours service per week per unit credit and an oral presentation and/or written report describing the internship experience upon completion. Grade will be based on a written evaluation from the job supervisor and an evaluation of the student presentation and/or report by the internship coordinator. A maximum of 2 units of GSC 4410 are allowed as restricted elective courses for Geology majors. May be taken unlimited times. A maximum of 2 units of GSC 4410 are allowed as restricted elective courses for Geology majors.",
+      "prerequisites": "Upper Division Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 4440",
+      "title": "Tectonics",
+      "units": "2",
+      "ge": null,
+      "coid": "435762",
+      "description": "Study of the major tectonic elements of the Earth, including their geometry, kinematics and dynamics, with special emphasis on the Cordillera of western North America. Geologic features will be analyzed in the context of plate tectonic theory. Corequisite(s): GSC 4440L .",
+      "prerequisites": "GSC 111 or GSC 1110 ; GSC 141L or GSC 1410L ; GSC 333 or GSC 3330 ; and GSC 333L or GSC 3330L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4440L",
+      "title": "Tectonics Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435761",
+      "description": "Field examples of plate tectonics, both in the geologic record and also ongoing activity, in southern California and the southwest U.S. Oral presentation of tectonic topics during field trips. Corequisite(s): GSC 4400 .",
+      "prerequisites": "GSC 111 or GSC 1110 ; GSC 215 or GSC 2150 ; and GSC 215L or GSC 2150L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4500",
+      "title": "Introduction to Seismology, Earthquakes and Earth Structure",
+      "units": "2",
+      "ge": null,
+      "coid": "435540",
+      "description": "Study of generation, propagation and recording of seismic waves and their sources. Stress and strain. Body waves and surface waves. Interpretation of seismograms. Determination of Earth structure. Focal mechanisms; earthquake statistics; seismotectonics. Corequisite(s): GSC 4500L .",
+      "prerequisites": "MAT 1050 and MAT 1060 , or MAT 112, MAT114, MAT 1140 , MAT 1140C, MAT115, MAT 1150 , MAT 1150C, or MAT116; and GS3C/C307, GSC 3070 , GS3A/C111, or GSC 1110 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4500L",
+      "title": "Introduction to Seismology, Earthquakes and Earth Structure Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435541",
+      "description": "Laboratory study of generation, propagation and recording of seismic waves and their sources. Interpretation of seismograms. Determination of Earth structure. Interpretation of focal mechanisms; seismotectonics. Analysis of earthquake statistics. Corequisite(s): GSC 4500 .",
+      "prerequisites": "MAT 1050 and MAT 1060 , or MAT 112, MAT 114, MAT 1140 , MAT 1140C, MAT 115, MAT 1150 , MAT 1150C, or MAT 116; and GSC 307, GSC 3070 , GSC 111, or GSC 1110 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4610",
+      "title": "Senior Project and Presentation",
+      "units": "2",
+      "ge": null,
+      "coid": "435554",
+      "description": "Independent research study of a geologic problem following standard scientific methodology. Topic selection, research techniques, data acquisition and analysis/interpretation guided by a GSC faculty research advisor. Formal presentation of results via a poster or an oral presentation to peers and faculty.",
+      "prerequisites": "Upper Division standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GSC 4620",
+      "title": "Senior Thesis",
+      "units": "2",
+      "ge": null,
+      "coid": "435549",
+      "description": "Completion of a formal written thesis document, formatted to GSC Department specifications with appropriate scientific citation style. The thesis will be evaluated for clarity, organization, and scientific merit. Carried out under supervision of a GSC faculty research advisor.",
+      "prerequisites": "Upper Division standing.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-b-s-roadmap-4-year-120-units"
+      ]
+    },
+    {
+      "code": "GSC 4700",
+      "title": "Volcanology",
+      "units": "2",
+      "ge": null,
+      "coid": "436949",
+      "description": "Geophysics and geochemistry of volcanoes. Plate tectonic setting. Properties of magma. Shape and structure of volcanic edifices. Products of eruptions. Hazards and risk. Effects of volcanic eruptions on climate and human history. Field measurements and remote sensing. Forecasting and prediction. Graduate students may enroll for graduate credit. Graduate students may enroll for graduate credit. Corequisite(s): GSC 4700L .",
+      "prerequisites": "MAT 1050 and MAT 1060 , or MAT 112, MAT 114, MAT 1140 , MAT 1140C, MAT 115, MAT 1150 , MAT 1150C, or MAT 116; GSC 111, or GSC 1110 ; and GSC 141L or GSC 1410L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4700L",
+      "title": "Volcanology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "436950",
+      "description": "Laboratory study of the geophysics and geochemistry of volcanoes. Plate tectonic setting. Properties of magma. Shape and structure of volcanic edifices. Products of eruptions. Hazards and risk. Effects of volcanic eruptions on climate and human history. Field measurements and remote sensing. Forecasting and prediction. Graduate students may enroll for graduate credit. Graduate students may enroll for graduate credit. Corequisite(s): GSC 4700 .",
+      "prerequisites": "MAT 1050 and MAT 1060 , or MAT 112, MAT 114, MAT 1140 , MAT 1140C, MAT 115, MAT 1150 , MAT 1150C, or MAT 116; GSC 111, or GSC 1110 ; and GSC 141L or GSC 1410L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4800",
+      "title": "Quantitative and Computer Skills in the Geosciences",
+      "units": "3",
+      "ge": null,
+      "coid": "437555",
+      "description": "Data analysis, quantitative and computer skills necessary to succeed in geoscience careers. Solving realistic quantitative problems in the geosciences using standard mathematical procedures as well as more specialized techniques and software. Graduate students may enroll for graduate credit. Graduate students may enroll for graduate credit.",
+      "prerequisites": "MAT 114, MAT 1140 , MAT 115, MAT 1150 or MAT 116.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4910L",
+      "title": "Field Module Laboratory",
+      "units": "1-2",
+      "ge": null,
+      "coid": "435893",
+      "description": "Advanced geologic mapping and/or data collection in a variety of settings. Exact topics to vary based on expertise of instructor. Use of modern geospatial tools and instrumentation. Reports, maps, and field data analysis required. Minimum four field days per unit, plus additional time to complete assignments. May be taken unlimited times.",
+      "prerequisites": "GSC 255 or GSC 2550L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s",
+        "geology-b-s-roadmap-4-year-120-units",
+        "geology-b-s-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "GSC 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438413",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438414",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438415",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5000",
+      "title": "Special Study for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438416",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at graduate level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 5010",
+      "title": "Advanced Topics in Geosciences",
+      "units": "2",
+      "ge": null,
+      "coid": "435557",
+      "description": "Literature review and analysis of geoscience concepts, principles and processes. Topics may draw upon sub-disciplines of Hydrogeology, Geophysics, Engineering Geology, Structural Geology, Tectonics, Petrology, Geochronology, Mineral and Energy Resources, and Natural Hazards. Participants present oral and written summaries of assigned readings, and participate in discussion sessions that examine the underlying hypotheses and recent research advances.",
+      "prerequisites": "Graduate standing in Geology MS program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5030L",
+      "title": "Field Investigations Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435760",
+      "description": "“Field excursions to sites of geological, geophysical, hydrologic or geotechnical importance within California and the southwestern U.S. Advanced field mapping projects, geophysical surveys, and/or hydrogeologic/geotechnical investigations with “”on-site”” reviews of field relationships or data collected by instruments. Written reports presenting and analyzing data collected during student field experiences in the context of various current research topics. Multi-day field trips and/or one-day excursions. May be taken unlimited times.",
+      "prerequisites": "Upper Division or Graduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5330",
+      "title": "Advanced Topics in Structural Geology and Tectonics",
+      "units": "2",
+      "ge": null,
+      "coid": "437832",
+      "description": "Advanced topics related to outstanding tectonic problems. Discussion and presentation of scientific literature. Use of structural, petrological, and geochronological data to evaluate geologic hypotheses. Emphasis on field data sources. Application to exploration for groundwater, minerals, and energy resources. Corequisite(s): GSC 5330L .",
+      "prerequisites": "Graduate standing in Geology MS Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5330L",
+      "title": "Advanced Topics in Structural Geology and Tectonics Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437833",
+      "description": "Advanced laboratory and field investigations in Structural Geology and Tectonics. Geological mapping related to outstanding tectonic problems. Use of structural and petrologic field data to evaluate tectonic hypotheses. Corequisite(s): GSC 5330 .",
+      "prerequisites": "MAT 1050 / MAT 1052 and MAT 1060 , or MAT 112, MAT 114, MAT 1140 , MAT 1140C, MAT 115, MAT 1150 , MAT 116, GSC 307, GSC 3070 , GSC 450, or GSC 4500 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5340",
+      "title": "Quaternary Geology",
+      "units": "2",
+      "ge": null,
+      "coid": "435799",
+      "description": "History of the Earth during the Quaternary Period (last 2.6 Million Years), including the Pleistocene ice ages and Holocene warm epoch. Study of geologic and geomorphic records of Quaternary climate cycles, glaciation, sedimentation, sea level fluctuation, and active tectonics. Quaternary stratigraphic methods, geochronology, ice core studies, glacial geology, and paleoseismology. Causes and global environmental effects of cyclical Quaternary climate change. Corequisite(s): GSC 5340L .",
+      "prerequisites": "GSC 323, GSC 3230 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5340L",
+      "title": "Quaternary Geology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435802",
+      "description": "Laboratory and field investigations of Earth history during the Quaternary Period. Geologic and geomorphic records of Quaternary climate cycles, glaciation, sedimentation, sea level fluctuation, and active tectonics. Quaternary stratigraphic methods, geochronology, ice core studies, glacial geology, and paleoseismology. Causes and global environmental effects of cyclical Quaternary climate change. Corequisite(s): GSC 5340 .",
+      "prerequisites": "GSC 323, GSC 3230 or Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5450",
+      "title": "Advanced Hydrogeology",
+      "units": "2",
+      "ge": null,
+      "coid": "435668",
+      "description": "Discussions of fluid mechanics, fluid flow equations, surface water/groundwater interactions, contaminant fate and transport, and conceptual/computer models used to characterize the occurrence and transport of fluids in a variety of geologic and subsurface environments Corequisite(s): GSC 5450L .",
+      "prerequisites": "MAT 1050 , MAT 112, MAT 114, MAT 1140 , MAT 115, MAT 1150 , or MAT 116; MAT 1060 , MAT 112, MAT 114, MAT 1140 , MAT 115, MAT 1150 , or MAT 116; and GSC 360 or GSC 3600 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5450L",
+      "title": "Advanced Hydrogeology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435704",
+      "description": "Advanced laboratory and field investigations of Hydrogeology. Laboratories and field trips will focus on aspects of fluid mechanics, quantifying fluid flow, surface water/groundwater interactions, contaminant fate and transport, and conceptual/computer models to characterize fluid/contaminant transport. Corequisite(s): GSC 5450 .",
+      "prerequisites": "MAT 1050 , MAT 112, MAT 114, MAT 1140 , MAT 115, MAT 1150 , MAT 116, GSC 307, GSC 3070 , GSC 450, or GSC 4500 ; and MAT 1060 , MAT 112, MAT 114, MAT 1140 , MAT 115, MAT 1150 , MAT 116; and GSC 360 or GSC 3600 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5640",
+      "title": "Advanced Shallow Subsurface Geophysics",
+      "units": "2",
+      "ge": null,
+      "coid": "435535",
+      "description": "Advanced geophysical methods used to investigate the Earth’s shallow subsurface. Focus on application of these methods and interpretation of geophysical data through forward and inverse modeling. Methods include: seismic refraction, resistivity, magnetics, gravity, ground penetrating radar. Discussion of case studies and scientific literature. Corequisite(s): GSC 5640L .",
+      "prerequisites": "MAT 114, MAT 1140 , MAT 115, MAT 1150 or MAT 116; and GSC 434 or GSC 4340 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5640L",
+      "title": "Advanced Shallow Subsurface Geophysics Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435536",
+      "description": "Laboratory and field study of advanced geophysical methods used to investigate the Earth’s shallow subsurface. Design of experiments and use of geophysical equipment to generate data; processing and interpretation of this data through forward and inverse modeling. Methods include: seismic refraction, resistivity, magnetics, gravity, ground penetrating radar. Discussion of scientific literature and case studies. Corequisite(s): GSC 5640 .",
+      "prerequisites": "MAT 114, MAT 1140 , MAT 115, MAT 1150 or MAT 116; and GSC 434 or GSC 4340 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5680",
+      "title": "Topics in Advanced Seismology",
+      "units": "2",
+      "ge": null,
+      "coid": "435542",
+      "description": "Advanced topics in structural, engineering and earthquake seismology, with a focus on concepts and applications of observational seismology. Earthquake rupture and strong ground motion. Use of seismic waves for the study of Earth’s interior. Site response and hazard. Tectonophysics and seismotectonics. Discussion of scientific literature and research on recent earthquakes. Corequisite(s): GSC 5680L .",
+      "prerequisites": "MAT 114, MAT 1140 , MAT 115, MAT 1150 or MAT 116; and GSC 450 or GSC 4500 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5680L",
+      "title": "Topics in Advanced Seismology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "435544",
+      "description": "Laboratory and field study of advanced topics in structural, engineering and earthquake seismology, focused on applications of observational seismology. Use of seismic equipment to record seismic waveforms; processing and interpretation of this data. Site response and hazard. Tectonophysics and seismotectonics. Discussion of scientific literature and research on recent earthquakes. Corequisite(s): GSC 5680 .",
+      "prerequisites": "MAT 114, MAT 1140 , MAT 115, MAT 1150 or MAT 116; and GSC 450 or GSC 4500 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5850",
+      "title": "Isotope Geochemistry",
+      "units": "2",
+      "ge": null,
+      "coid": "437834",
+      "description": "Geochemistry of stable and radiogenic isotopes. Use as tracers in hydrology and petrology. Fractionation and mixing. Paleoclimate proxies. Geochronology and thermochronology. Measurement techniques and data analysis. Corequisite(s): GSC 5850L .",
+      "prerequisites": "Graduate standing in Geology MS Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5850L",
+      "title": "Isotope Geochemistry Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437835",
+      "description": "Laboratory exercises in the geochemistry of stable and radiogenic isotopes. Use of isotopes as tracers in hydrology and petrology, fractionation and mixing, paleoclimate proxies, geochronology and thermochronology. Measurement techniques and data analysis. Corequisite(s): GSC 5850 .",
+      "prerequisites": "Graduate standing in Geology MS program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5950",
+      "title": "Advanced Topics in Sedimentology/Stratigraphy",
+      "units": "2",
+      "ge": null,
+      "coid": "437900",
+      "description": "Advanced topics and applications related to sediment transport, depositional environments, stratigraphy, or basin analysis. Application to groundwater and energy resource evaluation or tectonics research. Discussion and presentation of scientific literature. Corequisite(s): GSC 5950L .",
+      "prerequisites": "Graduate standing in Geology MS Program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5950L",
+      "title": "Advanced Topics in Sedimentology/Stratigraphy Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437901",
+      "description": "Laboratory and field investigations in sedimentology and stratigraphy. Topics may include sediment transport, depositional environments, stratigraphic interpretation methods, sedimentary petrography, provenance studies, basin analysis, interpretation of well logs and drill core. Corequisite(s): GSC 5950 .",
+      "prerequisites": "Graduate standing in Geology MS program.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-b-s",
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5990",
+      "title": "Special Topics for Graduate Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438417",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5990A",
+      "title": "Special Topics for Graduate Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438418",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 5990L",
+      "title": "Special Topics for Graduate Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438419",
+      "description": "Group study at a graduate level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 6910",
+      "title": "Directed Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438420",
+      "description": "Individual research in a specialized area, under the direction of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 6920",
+      "title": "Independent Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438421",
+      "description": "Individual study/investigation and research in a specialized area proposed by the student with the approval, and under the supervision, of a graduate faculty member; work does not pertain directly to the thesis. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "GSC 6930",
+      "title": "Master’s Thesis Proposal",
+      "units": "1",
+      "ge": null,
+      "coid": "436006",
+      "description": "Oral presentation and discussion of a proposed research plan for the Master’s thesis, accompanied by a written proposal. Required for Advancement to Candidacy.",
+      "prerequisites": "Graduate standing in Geology MS program.",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 6940",
+      "title": "Master’s Thesis Research",
+      "units": "1-3",
+      "ge": null,
+      "coid": "436007",
+      "description": "Independent research study of a Geoscience problem following standard scientific methodology. Research techniques, data acquisition and analysis/interpretation guided by a GSC faculty research supervisor. Total number of units allowed to count toward degree is 3.",
+      "prerequisites": "GSC 600 or GSC 6930 .",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 6960",
+      "title": "Master’s Thesis",
+      "units": "2",
+      "ge": null,
+      "coid": "436008",
+      "description": "Compilation, evaluation, interpretation, and report of research for Master’s thesis directed by a committee of Geology faculty members. Completion of university-approved, bound thesis. Oral defense of thesis. May be taken up to two times for a total credit of 2 units.",
+      "prerequisites": "GSC 694 or GSC 6940 .",
+      "grading_basis": "Graded including RP",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": "",
+      "programs": [
+        "geology-m-s"
+      ]
+    },
+    {
+      "code": "GSC 6990",
+      "title": "Master’s Degree Continuation",
+      "units": "0",
+      "ge": null,
+      "coid": "438422",
+      "description": "Enrollment in this course allows candidates that have enrolled in the maximum number of thesis or project units to maintain resident status in order to receive university services.",
+      "prerequisites": "",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "geology-b-s",
+      "name": "Geology, B.S."
+    },
+    {
+      "id": "geology-m-s",
+      "name": "Geology, M.S."
+    },
+    {
+      "id": "geology-minor",
+      "name": "Geology Minor"
+    },
+    {
+      "id": "geology-b-s-roadmap-4-year-120-units",
+      "name": "Geology, B.S.: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "geology-b-s-roadmap-2-year-adt-60-units",
+      "name": "Geology, B.S.: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}

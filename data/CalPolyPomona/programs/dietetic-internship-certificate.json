@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:08:40+00:00",
+  "id": "dietetic-internship-certificate",
+  "name": "Dietetic Internship Certificate",
+  "title_on_page": "University Catalog",
+  "department": "Nutrition And Food Science",
+  "department_id": "nutrition-and-food-science",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24306",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6302",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Dietetic Internship Certificate: 12 units Offered by: Don B. Huntley College of Agriculture , Nutrition and Food Science Department Certificate Required Certificate Required: 12 Units NTR 5450 - Current Topics in Clinical Practice I, II (2) (4 units required) NTR 5600 - Clinical Practice I (1-4) (4 units required) NTR 5610 - Clinical Practice II (1-4) (4 units required) Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Certificate Required: 12 Units",
+      "courses": [
+        "NTR 5450",
+        "NTR 5600",
+        "NTR 5610"
+      ],
+      "raw_text": "Certificate Required: 12 Units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "NTR 5450",
+      "title": "Current Topics in Clinical Practice I, II",
+      "units": "2",
+      "ge": null,
+      "coid": "435727",
+      "requirement": "Certificate Required: 12 Units",
+      "description": "Presentations by professionals on selected topics. Student presentations of case studies and position papers. Professional portfolio creation. Critiques of peer-reviewed articles. 150 hours of experiential practice. Must enroll in the NTR 5450 course for two consecutive semesters while completing the Master of Science in Agriculture - Nutrition and Food Science Option. Corequisite(s): NTR 5600 and NTR 5610 .",
+      "prerequisites": "Admission into the MS in Agriculture - Nutrition and Food Science Option.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 4 units, with a maximum of 2 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "NTR 5600",
+      "title": "Clinical Practice I",
+      "units": "1-4",
+      "ge": null,
+      "coid": "435730",
+      "requirement": "Certificate Required: 12 Units",
+      "description": "Supervised pre-professional practice and on-the-job training in nutrition and dietetics. This internship course is a high-impact practice (HIP) to enhance the knowledge and application of skills of the MS in Nutrition students. Gain hands-on experience working with nutrition and dietetic companies that serve the needs of the nutrition market. An opportunity to network with the industry for future jobs. The experience must be new to the student. Students must obtain instructor/advisor/preceptor approval of the Internship experience. Periodic analysis of internship experience is reported in written journal reflections. *Students in the DI track option will take this course for 4 credits, as it serves as their ACEND required supervised practice. Non-DI track option will take this course for 2 credits. *For students enrolled in the Dietetics track option: Supervised pre-professional practice in assigned clinical, community and food service sites, minimum of 350-500 hours. *For students enrolled in the non-Dietetics track option: Supervised pre-professional practice in an internship experience identified by the student and their advisor/instructor. Corequisite(s): NTR 5450 - Current Topics in Clinical Practice I, II (2) NTR 5450 (Dietetics subplan/track/option only)*.",
+      "prerequisites": "Bachelor’s degree; and verification statement approved by Accreditation Council for Education in Nutrition and Dietetics (ACEND), accepted in the MS in Applied Nutrition (Blended), or accepted into CPP Dietetic Internship Program.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall"
+    },
+    {
+      "code": "NTR 5610",
+      "title": "Clinical Practice II",
+      "units": "1-4",
+      "ge": null,
+      "coid": "438824",
+      "requirement": "Certificate Required: 12 Units",
+      "description": "Supervised pre-professional practice and on-the-job training in nutrition and dietetics. This internship class is a high-impact practice (HIP) to enhance the knowledge and application of skills of the MS in Applied Nutrition students. Students will get hands-on experience working with nutrition and dietetic companies that serve the needs of the nutrition market. An opportunity to network with the industry for future jobs. The experience must be new to the student. Students must obtain instructor/advisor/preceptor approval of the Internship experience. Periodic analysis of internship experience is reported in written journal reflections. Students in Dietetics Internship will take this course for 4 credits, as it serves as their ACEND required supervised practice. Non-Dietetics Internship students will take this course for 2 credits. For students enrolled in DI: Supervised pre-professional practice in assigned clinical, community and food service sites, minimum of 350-500 hours. For students enrolled in non-DI: Supervised pre-professional practice in an internship experience identified by the student and their advisor/instructor. Corequisite(s): NTR 5450 (Dietetics Internship students only).",
+      "prerequisites": "Bachelor’s degree; and verification statement approved by Accreditation Council for Education in Nutrition and Dietetics (ACEND), accepted in the MS in Applied Nutrition, or accepted into CPP Dietetic Internship Program.",
+      "grading_basis": "Credit/No Credit",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": []
+}

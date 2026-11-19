@@ -1,0 +1,306 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:13:47+00:00",
+  "id": "quantitative-economics-m-s",
+  "name": "Quantitative Economics, M.S.",
+  "title_on_page": "University Catalog",
+  "department": "Economics",
+  "department_id": "economics",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24216",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6331",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Quantitative Economics, M.S.: 30 units Offered by: College of Letters, Arts, and Social Sciences , Economics Department Major Required | Major Electives | Culminating Experience | Notes | Program Website Major Required: 12 units EC 5550 - Microeconomic Analysis (3) EC 5551 - Macroeconomic Analysis (3) EC 5552 - Graduate Econometrics I (3) EC 5553 - Graduate Econometrics II (3) Major Electives: 12-15 units Select a sufficient number of courses so that the total degree units is 30 . Students may take a total of 12 units of 4000-level that are above 4000 or 5001-5003 economics courses as electives with the approval of the graduate coordinator. EC 4401 - Intermediate Microeconomics (3) * EC 4403 - Intermediate Macroeconomics (3) * and ** EC 4406 - Mathematical Economics (3) * and ** EC 4444 - Econometrics (3) * and ** EC 6654 - International Finance (3) EC 6656 - Capital Markets I (3) EC 6657 - Capital Markets II (3) EC 6660 - Graduate Public Finance (3) Culminating Experience: 3-6 units EC 6692 - Graduate Research Practicum I (3) and EC 6693 - Graduate Research Practicum II (3) OR EC 6960 - Master’s Degree Thesis (3) Notes: Exceptional students may take EC 6960 with the approval of the Graduate Coordinator. Students taking three courses per term may finish in four semesters. Students must sign a graduate contract to graduate. * Students in the following blended programs must select EC 4401 , EC 4403 , EC 4406 , and EC 4444 as electives: Economics, B.S. - Applied Economics Subplan/Option + Quantitative Economics, M.S. Blended Program: 138 units Economics, B.S. - General Economics Subplan/Option + Quantitative Economics, M.S. Blended Program: 138 u",
+  "requirements": [
+    {
+      "name": "Major Required: 12 units",
+      "courses": [
+        "EC 5550",
+        "EC 5551",
+        "EC 5552",
+        "EC 5553"
+      ],
+      "raw_text": "Major Required: 12 units"
+    },
+    {
+      "name": "Major Electives: 12-15 units",
+      "courses": [
+        "EC 4401"
+      ],
+      "raw_text": "Major Electives: 12-15 units"
+    },
+    {
+      "name": "*",
+      "courses": [
+        "EC 4403"
+      ],
+      "raw_text": "*"
+    },
+    {
+      "name": "**",
+      "courses": [
+        "EC 4406",
+        "EC 4444",
+        "EC 6654",
+        "EC 6656",
+        "EC 6657",
+        "EC 6660"
+      ],
+      "raw_text": "**"
+    },
+    {
+      "name": "Culminating Experience: 3-6 units",
+      "courses": [
+        "EC 6692"
+      ],
+      "raw_text": "Culminating Experience: 3-6 units"
+    },
+    {
+      "name": "and",
+      "courses": [
+        "EC 6693"
+      ],
+      "raw_text": "and"
+    },
+    {
+      "name": "OR",
+      "courses": [
+        "EC 6960"
+      ],
+      "raw_text": "OR"
+    },
+    {
+      "name": "Summer Sponsored Experience: 0 unit",
+      "courses": [
+        "CPU 5003"
+      ],
+      "raw_text": "Summer Sponsored Experience: 0 unit"
+    }
+  ],
+  "courses": [
+    {
+      "code": "EC 5550",
+      "title": "Microeconomic Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "436879",
+      "requirement": "Major Required: 12 units",
+      "description": "Calculus and set theory based presentation of microeconomic theory including consumer and producer theory as well as general equilibrium models.",
+      "prerequisites": "EC 5501 or EC 501.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 5551",
+      "title": "Macroeconomic Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "436880",
+      "requirement": "Major Required: 12 units",
+      "description": "Analysis of aggregate national economic activities using dynamic models.",
+      "prerequisites": "EC 4403 or EC 403; and EC 5503 or EC 503.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 5552",
+      "title": "Graduate Econometrics I",
+      "units": "3",
+      "ge": null,
+      "coid": "436881",
+      "requirement": "Major Required: 12 units",
+      "description": "Specification and statistical inference in econometric models; estimation, verification and prediction of economic variables; recent empirical studies, advanced topics in econometrics.",
+      "prerequisites": "EC 5502 or EC 502.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 5553",
+      "title": "Graduate Econometrics II",
+      "units": "3",
+      "ge": null,
+      "coid": "436882",
+      "requirement": "Major Required: 12 units",
+      "description": "Specification and statistical inference in econometric models; estimation, verification and prediction of economic variables; recent empirical studies, advanced topics in econometrics.",
+      "prerequisites": "EC 5552 or EC 552.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 4401",
+      "title": "Intermediate Microeconomics",
+      "units": "3",
+      "ge": null,
+      "coid": "436853",
+      "requirement": "Major Electives: 12-15 units",
+      "description": "Theoretical foundations of demand and supply. Consumer choice analysis. Income and substitution effects. Firm profit maximization and industry structure. Economic efficiency and welfare effects of policy instruments. Corequisite(s): EC 4401A .",
+      "prerequisites": "EC 2201 or EC 201.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 4403",
+      "title": "Intermediate Macroeconomics",
+      "units": "3",
+      "ge": null,
+      "coid": "436854",
+      "requirement": "*",
+      "description": "Overview of the micro foundations of macroeconomic models and use of these models to understand decisions of consumers, firms, and the government. Includes study of labor market dynamics and wages. Measurement of national accounts and the determinants of economic growth.",
+      "prerequisites": "EC 2202 , EC 202 or Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 4406",
+      "title": "Mathematical Economics",
+      "units": "3",
+      "ge": null,
+      "coid": "436856",
+      "requirement": "**",
+      "description": "Mathematical description and derivation of micro- and macroeconomic theory.",
+      "prerequisites": "EC 2201 or EC 201; EC 2202 or EC 220; and MAT 1140 , MAT 114, MAT 1250 or MAT 125; or Graduate Standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 4444",
+      "title": "Econometrics",
+      "units": "3",
+      "ge": null,
+      "coid": "436862",
+      "requirement": "**",
+      "description": "Introduction to econometrics, with a focus on understanding and applying the classical linear regression model; emphasis placed on applications of regression analysis; quantitative model-building; estimation, verification, and prediction of economic variables. Corequisite(s): EC 4444A .",
+      "prerequisites": "EC 3322 or EC 322.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 6654",
+      "title": "International Finance",
+      "units": "3",
+      "ge": null,
+      "coid": "436885",
+      "requirement": "**",
+      "description": "Advanced topics in international liquidity and finance theory. Problems of international monetary systems. Balance of payments theory and practices; theory of exchange rates and mechanism of international adjustment.",
+      "prerequisites": "EC 5551 or EC 551.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 6656",
+      "title": "Capital Markets I",
+      "units": "3",
+      "ge": null,
+      "coid": "436887",
+      "requirement": "**",
+      "description": "Topics in monetary and capital theory. Liquidity creation, financial intermediation and capital formation. Development of capital policy.",
+      "prerequisites": "EC 5551 or EC 551.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 6657",
+      "title": "Capital Markets II",
+      "units": "3",
+      "ge": null,
+      "coid": "436888",
+      "requirement": "**",
+      "description": "Topics in monetary and capital theory. Liquidity creation, financial intermediation and capital formation. Development of capital policy.",
+      "prerequisites": "EC 5551 or EC 551.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 6660",
+      "title": "Graduate Public Finance",
+      "units": "3",
+      "ge": null,
+      "coid": "436889",
+      "requirement": "**",
+      "description": "Public policies, principles, and standards of taxation and expenditures, budgeting, public goods, income redistribution, regulation, and development. Examine the equity and efficiency of public policy and assess the fiscal impact.",
+      "prerequisites": "EC 5550 or EC 550.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 6692",
+      "title": "Graduate Research Practicum I",
+      "units": "3",
+      "ge": null,
+      "coid": "436890",
+      "requirement": "Culminating Experience: 3-6 units",
+      "description": "Intensive study of applied research methods and technical writing through replication of existing peer-reviewed findings in the economics literature or through selected research topics determined by the instructor.",
+      "prerequisites": "EC 5550 or EC 550; and EC 5551 or EC 551; and EC 5503 or EC 503.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 6693",
+      "title": "Graduate Research Practicum II",
+      "units": "3",
+      "ge": null,
+      "coid": "436891",
+      "requirement": "and",
+      "description": "Intensive study of applied research methods and technical writing through replication of existing peer-reviewed findings in the economics literature or through selected research topics determined by the instructor.",
+      "prerequisites": "EC 5550 or EC 550; and EC 6692 or EC 692.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 6960",
+      "title": "Master’s Degree Thesis",
+      "units": "3",
+      "ge": null,
+      "coid": "436892",
+      "requirement": "OR",
+      "description": "Independent research and study under the supervision of the faculty. Reporting the research results in the approved form. May be taken up to four times for a total credit of 12 units. *The enforcement of the Graduation Writing Assessment Requirement has been temporarily suspended per a Chancellor’s Office memorandum.",
+      "prerequisites": "Graduate standing and Graduate Writing Assessment passed*.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times",
+      "when_offered": ""
+    },
+    {
+      "code": "CPU 5003",
+      "title": "Cal Poly Pomona Graduate Sponsored Summer Experience",
+      "units": "0",
+      "ge": null,
+      "coid": "439398",
+      "requirement": "Summer Sponsored Experience: 0 unit",
+      "description": "Enrollment in this 0-unit course allows students to receive university services while participating in a Cal Poly Pomona sponsored summer experience.",
+      "prerequisites": "",
+      "grading_basis": "Non-Graded",
+      "repeat_for_credit": "",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "EC 4401",
+    "EC 4403",
+    "EC 4406",
+    "EC 4444",
+    "EC 5550",
+    "EC 5551",
+    "EC 5552",
+    "EC 5553",
+    "EC 6654",
+    "EC 6656",
+    "EC 6657",
+    "EC 6660",
+    "EC 6692",
+    "EC 6693",
+    "EC 6960"
+  ]
+}

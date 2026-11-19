@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:37+00:00",
+  "id": "management-and-leadership-minor",
+  "name": "Management and Leadership Minor",
+  "title_on_page": "University Catalog",
+  "department": "Management And Human Resources",
+  "department_id": "management-and-human-resources",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24149",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6309",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Management and Leadership Minor: 18 units Offered by: College of Business Administration , Management and Human Resources Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 9 units MHR 3010 - Principles of Management (3) MHR 3020 - Organizational Behavior (3) [GE 4C] MHR 4020 - Leadership: Theory and Practice (3) Minor Electives: 9 units MHR 3210 - Human Resources Management (3) MHR 4010 - Business Ethics, Diversity and Social Responsibility (3) MHR 4030 - Leading Organizational Transformations (3) MHR 4040 - Conflict Management in Organizations (3) MHR 4050 - International Management (3) Notes: Students enrolled in these program(s) must meet with an advisor to ensure their minor coursework is distinct from their major coursework: Business Administration, B.S. - Management and Human Resources Subplan/Option: 120 units Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 9 units",
+      "courses": [
+        "MHR 3010",
+        "MHR 3020",
+        "MHR 4020"
+      ],
+      "raw_text": "Minor Required: 9 units"
+    },
+    {
+      "name": "Minor Electives: 9 units",
+      "courses": [
+        "MHR 3210",
+        "MHR 4010",
+        "MHR 4030",
+        "MHR 4040",
+        "MHR 4050"
+      ],
+      "raw_text": "Minor Electives: 9 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MHR 3010",
+      "title": "Principles of Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434791",
+      "requirement": "Minor Required: 9 units",
+      "description": "A survey of the basic management functions of planning, organizing, leading and controlling, along with their application to the management of contemporary organizations. Provides an interdisciplinary approach to the study and practice of management theory. Topics included: functions of management, managerial roles and skills, management history, organizational environments, organizational strategy and structure, ethics, and diversity among others.",
+      "prerequisites": "Sophomore standing and completion of GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3020",
+      "title": "Organizational Behavior",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "434544",
+      "requirement": "Minor Required: 9 units",
+      "description": "[GE 4C] Introductory experiences in the basics of organizational behavior. Emphasis is given to the application of scientific knowledge drawn from different social sciences (primarily psychology, social psychology, sociology, political science, and cultural anthropology) to understand and manage human behavior in organizations. Topics discussed: individual differences, perception, attribution, motivation, working in teams, leadership, power and influence, conflict management, culture, and ethical decision making in the organizational context.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4020",
+      "title": "Leadership: Theory and Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "434796",
+      "requirement": "Minor Required: 9 units",
+      "description": "Introduction to various leadership theories so that they can identify leadership in action and accordingly understand the applications of leadership theories. Develop leadership potential within students by helping them identify their own strengths, weaknesses, and their dominant leadership style.",
+      "prerequisites": "C or better in MHR 3020 or MHR 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 3210",
+      "title": "Human Resources Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434789",
+      "requirement": "Minor Electives: 9 units",
+      "description": "Establishment of human resources objectives and requirements in organizations. Planning recruiting, testing, interviewing, screening, and selection of employees. Training and development, career development, compensation and benefit plans, safety and health, employee and labor relations and human resources research. Case studies.",
+      "prerequisites": "C or better in MHR 301 or MHR 3010 ; and Undergraduate standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4010",
+      "title": "Business Ethics, Diversity and Social Responsibility",
+      "units": "3",
+      "ge": null,
+      "coid": "434795",
+      "requirement": "Minor Electives: 9 units",
+      "description": "Ethical reasoning skills necessary for making business decisions. Emphasis is given on developing an ethical mindset towards human diversity in organizations and corporate social responsibility. Topics to be discussed: purpose of the corporation, nature of ethics , ethical dilemmas, ethical decision making, diversity in organizations (based on race, ethnicity and accent, age, skin color, religion, physical abilities, sexual orientation, and gender) and corporate social responsibility. The main focus is to develop ethically and socially responsible managers, leaders, and organizational members.",
+      "prerequisites": "MHR 3020 or MHR 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4030",
+      "title": "Leading Organizational Transformations",
+      "units": "3",
+      "ge": null,
+      "coid": "434797",
+      "requirement": "Minor Electives: 9 units",
+      "description": "The role of leaders as champions of organizational innovation, change, and renewal. Topics include context, content, and process of change, rethinking employee resistance, and leading merger and acquisitions, restructuring, innovation, design thinking, and sustainability.",
+      "prerequisites": "C or better in MHR 3010 or MHR 301.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4040",
+      "title": "Conflict Management in Organizations",
+      "units": "3",
+      "ge": null,
+      "coid": "434798",
+      "requirement": "Minor Electives: 9 units",
+      "description": "Explore the major concepts and theories of conflict management and resolution in organizational settings. Topics covered include: cooperative and competitive business negotiations; distributive and integrative bargaining situations at the workplace; interests, rights and power oriented conflict management strategies; creativity, problem solving and cross-cultural issues in conflict management and resolution; coalitions and multi-party negotiations; and third party interventions. Emphasis on developing and practicing students’ conflict management and resolution skills that can be utilized in business world.",
+      "prerequisites": "C or better in MHR 3020 or MHR 318.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "MHR 4050",
+      "title": "International Management",
+      "units": "3",
+      "ge": null,
+      "coid": "434799",
+      "requirement": "Minor Electives: 9 units",
+      "description": "Applying management principles and techniques in an international setting. Adapting management practices to different economic, political, legal, and cultural environments. Formulating multinational strategies, designing global management systems, and managing human resources and corporate social responsibility globally.",
+      "prerequisites": "MHR 3010 or MHR 301.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "MHR 3010",
+    "MHR 3020",
+    "MHR 3210",
+    "MHR 4010",
+    "MHR 4020",
+    "MHR 4030",
+    "MHR 4040",
+    "MHR 4050"
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T06:09:19+00:00",
+  "id": "contract-management-minor",
+  "name": "Contract Management Minor",
+  "title_on_page": "University Catalog",
+  "department": "Finance Real Estate And Law",
+  "department_id": "finance-real-estate-and-law",
+  "source_url": "https://catalog.cpp.edu/preview_program.php?catoid=78&poid=24140",
+  "department_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6307",
+  "catalog_id": "78",
+  "program_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Contract Management Minor: 24 units Offered by: College of Business Administration , Finance, Real Estate, and Law Department Minor Required | Minor Electives | Notes | Program Website Minor Required: 21 units ACC 2070 - Financial Accounting for Decision Making (3) EC 2202 - Principles of Macroeconomics (3) [GE 4A] ENG 1103 - First Year Composition (3) [GE 1A] FRL 2013 - The Legal Environment of Business and its Transactions (3) FRL 3253 - Contract Administration (3) FRL 3273 - Contract Case Study/Practical Application (3) FRL 3283 - Contract Cost/Price Techniques-Negotiation (3) Minor Electives: 3 units FRL 3263 - Contract Aspects of the Uniform Commercial Code (3) FRL 3293 - Legal and Contract Management Aspects of Federal Government Contract Property (3) Notes: Students are advised to verify course prerequisites in the current University Catalog. Approval of your Contract Management Minor may be obtained from one the advisors. Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) T Apply Maps Visit Contact Us Copyright ©2025 California State Polytechnic University, Pomona. All Rights Reserved A campus of The California State University . Feedback Privacy Accessibility Document Readers All catalogs © 2026 Cal Poly Pomona. Powered by Modern Campus Catalog™ . Scroll to top of page",
+  "requirements": [
+    {
+      "name": "Minor Required: 21 units",
+      "courses": [
+        "ACC 2070",
+        "EC 2202",
+        "ENG 1103",
+        "FRL 2013",
+        "FRL 3253",
+        "FRL 3273",
+        "FRL 3283"
+      ],
+      "raw_text": "Minor Required: 21 units"
+    },
+    {
+      "name": "Minor Electives: 3 units",
+      "courses": [
+        "FRL 3263",
+        "FRL 3293"
+      ],
+      "raw_text": "Minor Electives: 3 units"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ACC 2070",
+      "title": "Financial Accounting for Decision Making",
+      "units": "3",
+      "ge": null,
+      "coid": "434677",
+      "requirement": "Minor Required: 21 units",
+      "description": "Introduction to financial accounting and accounting information systems (AIS), including basic concepts, limitations, tools and methods, use of AIS-generated information, including financial statements in decision making by investors, creditors, and other users external to the organization.",
+      "prerequisites": "CIS 101, CIS 1010 , or PCPT.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "EC 2202",
+      "title": "Principles of Macroeconomics",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "435062",
+      "requirement": "Minor Required: 21 units",
+      "description": "[GE 4A] Introduction to macroeconomics. Determinants of national income, output, and price levels. Monetary and fiscal policy. International economics. Applications of economic principles to domestic and international problems.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "ENG 1103",
+      "title": "First Year Composition",
+      "units": "3",
+      "ge": "GE 1A",
+      "coid": "434942",
+      "requirement": "Minor Required: 21 units",
+      "description": "[GE 1A] Principal concepts of rhetoric, argumentation, and research. Frequent practice writing essays, letters, and other genres commonly used in academic writing. Sections designated with an M are recommended for multilingual speakers.",
+      "prerequisites": "CO Category II.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 2013",
+      "title": "The Legal Environment of Business and its Transactions",
+      "units": "3",
+      "ge": null,
+      "coid": "434608",
+      "requirement": "Minor Required: 21 units",
+      "description": "The study of the legal adversarial system, principles of American law, coverage of business-related torts and contracts, strict liability, real/personal property, regulatory environment and criminal law. The law of products liability will also be critically examined.",
+      "prerequisites": "GE Area 1A/A2.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 3253",
+      "title": "Contract Administration",
+      "units": "3",
+      "ge": null,
+      "coid": "434738",
+      "requirement": "Minor Required: 21 units",
+      "description": "Organization, procedures, and areas of application in contract administration. Designed to provide the student with knowledge and skills essential to accomplish the responsibility of contract administration. Provides a comprehensive approach to the interrelationship between contract administration and various functional disciplines.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 3273",
+      "title": "Contract Case Study/Practical Application",
+      "units": "3",
+      "ge": null,
+      "coid": "434741",
+      "requirement": "Minor Required: 21 units",
+      "description": "Review of current and past cases in government and private contracting, using the case study method. Combined class textbook and library assignments. Cases, selected by areas briefed, discussed and reviewed.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 3283",
+      "title": "Contract Cost/Price Techniques-Negotiation",
+      "units": "3",
+      "ge": null,
+      "coid": "434742",
+      "requirement": "Minor Required: 21 units",
+      "description": "Cost/price techniques applicable to public and private prime/sub contracts including RFQ-RFP-IFB analysis, proposal preparation, estimating methodology, and pricing strategies. Analytical and econometric techniques in preparing contracts.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "FRL 3263",
+      "title": "Contract Aspects of the Uniform Commercial Code",
+      "units": "3",
+      "ge": null,
+      "coid": "434740",
+      "requirement": "Minor Electives: 3 units",
+      "description": "Transition from common law background to statutory contract law. Formation of sales contract under the UCC. Insight regarding policy considerations, legal remedies, and the mechanical requirements.",
+      "prerequisites": "FRL 201 or FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "FRL 3293",
+      "title": "Legal and Contract Management Aspects of Federal Government Contract Property",
+      "units": "3",
+      "ge": null,
+      "coid": "438954",
+      "requirement": "Minor Electives: 3 units",
+      "description": "Organization, procedures, and areas of application in basic concepts of Federal Government Contract Property Management including the examination of inherent fundamental legal issues. Further designed to provide the student with knowledge and skills essential to obtaining the National Property Management Association’s Certified Professional Property Specialist (CPPS) certification. Provides a comprehensive approach to the interrelationship between contract property management and various functional disciplines.",
+      "prerequisites": "FRL 2013 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    }
+  ],
+  "department_course_codes": [
+    "FRL 2013",
+    "FRL 3253",
+    "FRL 3263",
+    "FRL 3273",
+    "FRL 3283",
+    "FRL 3293"
+  ]
+}

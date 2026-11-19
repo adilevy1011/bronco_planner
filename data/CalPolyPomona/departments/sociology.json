@@ -1,0 +1,1447 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-18T05:58:19+00:00",
+  "id": "sociology",
+  "name": "Sociology",
+  "title_on_page": "University Catalog",
+  "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6353",
+  "catalog_id": "78",
+  "department_text": "Skip to Content commencement apply visit info give mycpp Search × search Admissions Financial Aid Student Accounting Cal Poly Pomona Menu Admissions Financial Aid Student Accounting University Catalog Cal Poly Pomona Nov 18, 2026 2026-2027 University Catalog Select a Catalog 2026-2027 University Catalog 2025-2026 University Catalog [ARCHIVED CATALOG] 2024-2025 University Catalog [ARCHIVED CATALOG] 2023-2024 University Catalog [ARCHIVED CATALOG] 2022-2023 University Catalog [ARCHIVED CATALOG] 2021-2022 University Catalog [ARCHIVED CATALOG] 2020-2021 University Catalog [ARCHIVED CATALOG] 2019-2020 University Catalog [ARCHIVED CATALOG] 2018-2019 University Catalog [ARCHIVED CATALOG] 2017-2018 University Catalog [ARCHIVED CATALOG] 2016-2017 University Catalog [ARCHIVED CATALOG] 2015-2016 University Catalog [ARCHIVED CATALOG] 2014-2015 University Catalog (Revised 01-05-2015) [ARCHIVED CATALOG] 2013-2014 University Catalog [ARCHIVED CATALOG] 2012-2013 University Catalog (Revised 2012-10-02) [ARCHIVED CATALOG] 2026-2027 University Catalog Global Search Catalog Search Choose Search Location Select an option Courses Programs Schools/Colleges and Departments Policies and non-curricular content Entire Catalog Entire Catalog Search Keyword Field S earch Whole Word/Phrase Advanced Search Catalog Navigation Catalog Home President’s Message Academic Calendar Academic Policies Enrollment Services Graduate Studies General Education Program Don B. Huntley College of Agriculture College of Business Administration College of Education and Integrative Studies College of Engineering College of Environmental Design College of Letters, Arts, and Social Sciences College of Science The Collins College of Hospitality Management College of Professional and Global Education University Library Student Programs for Support and Enrichment Centers and Institutes University Interdisciplinary Programs Index of Courses Index of Academic Programs Index of Roadmaps Index of Academic Colleges, Departments, and Programs University Administration, Regulations, and History Directory Archived Catalog PDFs My Portfolio Add to My Favorites (opens a new window) Share this Page Facebook this Page (opens a new window) Tweet this Page (opens a new window) Print (opens a new window) Help (opens a new window) 2026-2027 University Catalog Sociology Department Building 5 Room 233 | (909) 869-3888 | Department Website | Faculty Directory The Sociology Department at Cal Poly Pomona fosters rigorous study of social life, social change, and the structures that shape human behavior. Grounded in theory, methodology, and content across areas like race, gender, immigration, crime, family, and inequality, the department emphasizes critical analysis of both local and global social dynamics . Faculty are nationally recognized scholars focused on social justice and inequality, committed to inclusive pedagogy-evident in public support statements affirming LGBTQ+ students and broad course offerings. Whether exploring criminal justice systems, policymaking, or social institutions, the curriculum prepares students with skills in research, data analysis, and applied theory. Students have multiple pathways: a Bachelor’s in Sociology (General or Social Work) or Criminology, bolstered by minors in related fields. Hands-on learning includes 70-hour field internships at local nonprofits, legal services, schools, and shelters. Annual events like the Lowell Overton Undergraduate Research Symposium feature student-led research in oral and poster formats. Peer mentoring, student organizations, and department-hosted panels such as “Social Movements in the Moment” foster collaboration and civic engagement. Honor societies like Alpha Kappa Delta and Pi Sigma Alpha recognize academic achievement and leadership. Together, these experiences equip students for careers in public administration, social work, law, business, and graduate education. Programs Bachelor Criminology, B.A.: 120 units Sociology, B.A. - Ge",
+  "courses": [
+    {
+      "code": "CRM 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438184",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CRM 2201",
+      "title": "Introduction to Criminology",
+      "units": "3",
+      "ge": null,
+      "coid": "437308",
+      "description": "Introduction to criminology. Systematic analysis of the history, theories and major works of the field. Contemporary issues and debates.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 2205",
+      "title": "Research Methods in Criminology",
+      "units": "3",
+      "ge": null,
+      "coid": "438963",
+      "description": "Examines how research is conducted in criminology and criminal justice. Designed to highlight the research process, ethical issues, and different types of quantitative and qualitative research designs, data analysis, and the evaluation and reporting of research results in the field of criminology. The following methods of criminological research are explored: ethnography, ethnomethodology, conversation analysis, narrative analysis, comparative analyses, case studies, evaluation research, and elementary statistical analysis and survey design.",
+      "prerequisites": "SOC 201, SOC 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-minor",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438185",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CRM 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438186",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CRM 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438187",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CRM 3306",
+      "title": "Crime Analysis",
+      "units": "3",
+      "ge": null,
+      "coid": "437537",
+      "description": "Introduction to intelligence analysis and its application in law enforcement. Corequisite(s): CRM 3306A .",
+      "prerequisites": "CRM 2201 , CRM 2205 or SOC 2205 , and senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3306A",
+      "title": "Crime Analysis Activity",
+      "units": "1",
+      "ge": null,
+      "coid": "437538",
+      "description": "Introduction to intelligence analysis and its application in law enforcement. Corequisite(s): CRM 3306 .",
+      "prerequisites": "CRM 2201 , SOC 2205 or CRM 2205 , and senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3308",
+      "title": "White Collar Crime",
+      "units": "3",
+      "ge": null,
+      "coid": "438983",
+      "description": "Defining, measuring and understanding the scale of white collar crime along with the major theoretical influences on its study.",
+      "prerequisites": "SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3318",
+      "title": "Criminal Law and the Courts",
+      "units": "3",
+      "ge": null,
+      "coid": "437539",
+      "description": "Examines criminal cases after arrest but before the sentence is imposed. Outlines the evolving roles of the judge, prosecutor, and defense attorney. Discusses major challenges and controversies during bail, arraignment, trial, and sentencing, including cash bail and pre-trial detention, plea bargaining, jury selection, sentencing outcomes, like incarceration, and disparities.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring, Summer, Winter",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-social-work-subplan-option",
+        "criminology-minor",
+        "social-work-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3319",
+      "title": "Policing",
+      "units": "3",
+      "ge": null,
+      "coid": "437309",
+      "description": "History and organization of police in the United States. Police organizations, controversies and reforms are covered.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3320",
+      "title": "Probation and Parole",
+      "units": "3",
+      "ge": null,
+      "coid": "437310",
+      "description": "Theoretical and philosophical basis of probation and parole. Historical background; development and practice of investigation; supervision and treatment role of probation and parole officers. Past and present treatment models related to officer, offender, and community.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3325",
+      "title": "Mass Incarceration",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "439301",
+      "description": "[GE 4C] Drawing upon theoretical and empirical insights from sociology, criminology, law, and other fields, this course explores the causes and consequences of mass incarceration in the United States. Specifically, the course will examine the historical foundations of mass incarceration; how sentencing policy, policing, and prosecution have oiled the engine of mass imprisonment; what correctional practices look like in the everyday; the consequences of mass incarceration for those incarcerated, their families, and their respective communities; and the implications of incarceration for mobility, inequality, and equity in the U.S. The course will also explore how other countries practice incarceration in order to identify alternative approaches and place American policy and practice in global perspective.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3330",
+      "title": "Restorative Justice",
+      "units": "3",
+      "ge": null,
+      "coid": "437311",
+      "description": "Introduction and application of restorative justice in history and practice. Current issues related to restorative justice and nonviolent approaches to justice.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-social-work-subplan-option",
+        "criminology-minor",
+        "social-work-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3350",
+      "title": "Criminological Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "439010",
+      "description": "Explores both historical and contemporary theories of the causes of crime. In addition to understanding the basic theoretical foundation of criminological theory, placement of those theories within their particular historical and political contexts. Examination of contemporary theories of crime.",
+      "prerequisites": "SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3360",
+      "title": "Juvenile Delinquency",
+      "units": "3",
+      "ge": null,
+      "coid": "437540",
+      "description": "Juvenile delinquency in California and elsewhere; types and extent; theories of causation; laws, courts, correctional institutions, probation; new programs.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-social-work-subplan-option",
+        "criminology-minor",
+        "social-work-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3370",
+      "title": "Drug Policy",
+      "units": "3",
+      "ge": null,
+      "coid": "437312",
+      "description": "History of American drug policy, a sociological examination of the war on drugs, globalization of the drug trade, future directions in drug policy.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3380",
+      "title": "Political Violence",
+      "units": "3",
+      "ge": null,
+      "coid": "437313",
+      "description": "Examination of the configuration and organization of historical and contemporary political violence from an international and global perspective. Comparison of different forms of political violence and comparison of forms of counterinsurgency and counterterrorism. Critical discussion of the theoretical views of political violence, peacemaking, and nonviolence.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 3390",
+      "title": "Media and Crime",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437753",
+      "description": "[GE 4C] Exploration of the complicated relationship between media and crime. Theoretical insights from media studies, sociology, cultural studies, ethnic and area studies, and criminology will be used to problematize this relationship. How media impacts priorities for law enforcement, funding and discourse on crime. How media depictions of crime impact politics, popular culture, economics, and social policy.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438188",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "Consent of department.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CRM 4611W",
+      "title": "Senior Symposium",
+      "units": "3",
+      "ge": null,
+      "coid": "438970",
+      "description": "Contemporary concepts, issues, and studies in criminology. Seminar-discussions. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "SOC 2201 or CRM 2201 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "CRM 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438189",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CRM 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438190",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "CRM 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438191",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438728",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 2201",
+      "title": "Introduction to Sociology",
+      "units": "3",
+      "ge": "GE 4A",
+      "coid": "434882",
+      "description": "[GE 4A] Introduction to the study and practice of sociology. Key theories, ideas, concepts and principles. Theories, methods and key areas of study such as culture, socialization, globalization, gender/sexuality, race/ethnicity. Must be taken for a letter grade by Sociology majors.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "criminology-minor",
+        "social-work-minor",
+        "sociology-minor",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 2205",
+      "title": "Research Methods in Sociology",
+      "units": "3",
+      "ge": null,
+      "coid": "437343",
+      "description": "Introduction and intermediate exposure to the following methods of sociological research: ethnography, interviews, discourse and content analysis, focus groups, and elementary statistical analysis and survey design.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-minor",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438729",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438730",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438731",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 3305",
+      "title": "Classic Sociological Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "436952",
+      "description": "Presents and critiques fundamental theoretical assumptions of classic sociological theory. Karl Marx, Max Weber and Emile Durkheim and other classical theorists are read and discussed. Patterns of thought necessary for critical analysis of sociological theories are systematically outlined and utilized.",
+      "prerequisites": "Sociology major; and SOC 201, SOC 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3306",
+      "title": "Contemporary Sociological Theory",
+      "units": "3",
+      "ge": null,
+      "coid": "435117",
+      "description": "Presents and critiques contemporary sociological theory. Symbolic interactionism, structuralism, post-structuralism, postmodernism, multiracial feminism, queer theory, post-colonial, critical race theory and special topics. Critical analysis of sociological theories are systematically outlined and utilized.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 ; and SOC 3305 or SOC 305.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3307",
+      "title": "Statistics for Sociology",
+      "units": "3",
+      "ge": null,
+      "coid": "437344",
+      "description": "Storytelling with numbers. Tools and techniques to quantitatively measure social behaviors and attitudes as related to larger questions of social inequality. Learning to think statistically, conceptualize quantitative analysis, and effectively communicate statistical findings to general audiences. Corequisite(s): SOC 3307L .",
+      "prerequisites": "SOC 201, SOC 2201 , or CRM 2201 ; SOC 204, SOC 2205 , or CRM 2205 ; and STA 1200 , STA 1202 , or STA 120.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 3307L",
+      "title": "Statistics for Sociology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437541",
+      "description": "Storytelling with numbers. Tools and techniques to quantitatively measure social behaviors and attitudes as related to larger questions of social inequality. Students learn to think statistically, conceptualize quantitative analysis, and effectively communicate statistical findings to general audiences. Corequisite(s): SOC 3307 .",
+      "prerequisites": "SOC 201, SOC 2201 , or CRM 2201 ; SOC 204, SOC 2205 ,or CRM 2205 ; and STA 1200 , STA 1202 , or STA 120.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 3309",
+      "title": "Social Stratification and Inequality",
+      "units": "3",
+      "ge": null,
+      "coid": "435103",
+      "description": "Theories and research concerning social stratification; historical roots and contemporary manifestations of inequitable power relationships in the areas of class, race, gender and sexuality; concepts of mobility and legitimation",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor",
+        "sociology-minor",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3313",
+      "title": "Latina/o Sociology",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "436380",
+      "description": "[GE 6] Cross Listed as: EWS 3313 Latina/o Sociology is the systematic inquiry into the social lives of Latina and Latino Americans in the U.S. This course examines the ways in which Latina and Latino American communities have developed and the social, political, and economic structures that have influenced them. The course analyzes the ways in which hierarchical power relations and resistance to domination by Latina and Latino Americans have shaped their life chances across time and space in the U.S. and along the U.S.-Mexico border region.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3314",
+      "title": "Black Sociology",
+      "units": "3",
+      "ge": null,
+      "coid": "437345",
+      "description": "Sociological analysis of Black sociologists, intellectuals, and artists and their contributions to collective understandings of Black history and life, social trends and culture (e.g., hip hop), shifting values, institutional development, social movements, and social problems.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3315",
+      "title": "Asian American Sociology",
+      "units": "3",
+      "ge": "GE 6",
+      "coid": "437347",
+      "description": "[GE 6] Cross Listed as: EWS 3315 Who are Asian Americans, and how have they shaped the social, economic, political, and cultural landscape of the United States? How are the lives of Asian American immigrants and their children shaped by race, gender, class, sexuality, region, legal status, and more? Examine the role of American militarism and colonialism on Asian immigration and racialization, as well as the neighborhood, community, school, and workplace experiences of Asian Americans, both historically and in the present day.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3320",
+      "title": "Race and Ethnic Relations",
+      "units": "3",
+      "ge": null,
+      "coid": "435118",
+      "description": "Focuses on race and ethnic relations in the U.S. Examines historical and contemporary issues of racism and experiences of ethnic minorities in the U.S. Examines the future of race and ethnic relations and emphasizes current ethnic contacts, conflicts, and coalitions.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-minor",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3321",
+      "title": "Sociology of Families",
+      "units": "3",
+      "ge": null,
+      "coid": "435480",
+      "description": "Sociology of the Family examines the social, political, and cultural development of the family as a social institution. Focus upon the structural and micro impact of family (dys)functions, cultural, transnational, the growing significance of gender, sexuality, socioeconomic status, race and ethnicity on family as an institution. Examination of both historical and contemporary policies and laws that keep the family as an institution.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor"
+      ]
+    },
+    {
+      "code": "SOC 3325",
+      "title": "Community and Urban Sociology",
+      "units": "3",
+      "ge": null,
+      "coid": "436531",
+      "description": "Examination of the configuration and organization of the city through urban theories and research. A historical orientation is also undertaken to illuminate social dynamic patterns such as community and cultural relations that have shaped modern urban life. Analyses of ongoing trends in urban and suburban communities will also be undertaken.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3328",
+      "title": "Gender and Sexuality",
+      "units": "3",
+      "ge": null,
+      "coid": "435481",
+      "description": "Interrogates how gender and sexuality exist as organizing principles of society in political, economic, cultural and familial contexts within selected western and non-western societies. A critical focus on the intersection of gender and sexuality across class, racial-ethnic groups, cultures, and regions.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-minor",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3340",
+      "title": "Social Change and Social Movements",
+      "units": "3",
+      "ge": null,
+      "coid": "437348",
+      "description": "Social theories and explanations of the causes, effects, and meanings of social/political/cultural change and social movement. Technological, cultural, political, ideological and material changes that precipitated and resulted from industrialization/urbanization and globalization/post-industrialization. Changes in family life, work, leisure and social relations are covered. Types, causes and effects of movements are central.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor"
+      ]
+    },
+    {
+      "code": "SOC 3345",
+      "title": "Crime, Criminalization and Society",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437756",
+      "description": "[GE 4C] Introduction to a social science understandings of crime. Topics covered include: criminalization of youth, drug policy, policing, internet crime, and the underground economy.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3350",
+      "title": "Immigration and Migration",
+      "units": "3",
+      "ge": null,
+      "coid": "437349",
+      "description": "Historical and contemporary eras of immigration to the United States. Comparison of the migration and acculturation experiences of different national origin groups from Europe, Asia, Latin America and the Caribbean, and Africa to deepen our understanding of frameworks related to push/pull factors, assimilation, and incorporation.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 3351",
+      "title": "Transnationalism and Diaspora",
+      "units": "3",
+      "ge": null,
+      "coid": "436450",
+      "description": "Examination of how migrant populations move beyond the traditional confines of the state yet remain cohesive as a community at their destinations. The course examines the cultural adjustments, contestations, and discontents of such populations in the context of globalization.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 3360",
+      "title": "Sociology of Education",
+      "units": "3",
+      "ge": null,
+      "coid": "436696",
+      "description": "Analyzes education as a major social institution. Considers theoretical formulations and methodological approaches to the study of education. Examines structural forces that shape educational experiences and explores separate and intersecting effects of race, class, gender on educational attainment.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor"
+      ]
+    },
+    {
+      "code": "SOC 3380",
+      "title": "Political Sociology",
+      "units": "3",
+      "ge": null,
+      "coid": "436451",
+      "description": "Examination of the political process and how groups maneuver for empowerment in the context of local, national, and international politics. Examination of the differences in political systems seen around world as well as their relationship to their constituents.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 3388",
+      "title": "Faith and Ideology",
+      "units": "3",
+      "ge": null,
+      "coid": "437350",
+      "description": "Focus is on various religious orientations in the United States and other countries. Inter-relationships among ethnicity, social class, and religious affiliation is dissected.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438732",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "Consent of department.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 4100L",
+      "title": "Quantitative Methods for Sociology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437354",
+      "description": "Upper level research methods that focuses on quantitative sociological methods. Primary forcus is survey research. Existing data analysis, experimental research, content analysis and other methodologies may also be covered. Corequisite(s): SOC 4100W .",
+      "prerequisites": "SOC 2201 or CRM 2201 , and SOC 2205 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 4100W",
+      "title": "Quantitative Methods for Sociology",
+      "units": "3",
+      "ge": null,
+      "coid": "437353",
+      "description": "Upper level research methods that focuses on quantitative sociological methods. Primary focus is survey research. Existing data analysis, experimental research, content analysis and other methodologies may also be covered. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "SOC 2201 or CRM 2201 , SOC 2205 or CRM 2205 , and junior or senior standing. Pre or Corequisite(s): SOC 4100L .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 4110L",
+      "title": "Qualitative Methods for Sociology Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437583",
+      "description": "Advanced qualitative methods in sociology. In this class, students will conduct a semester long qualitative research project using ethnographic field methods and in-depth interviewing. Students will be required to conduct at least 5 hours of qualitative data collection each week and collect 100-150 single spaced pages of field notes and interview transcripts. Corequisite(s): SOC 4110W .",
+      "prerequisites": "SOC 201, SOC 2201 , or CRM 2201 ; and SOC 2205 , SOC 204, or CRM 2205 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 4110W",
+      "title": "Qualitative Methods for Sociology",
+      "units": "3",
+      "ge": null,
+      "coid": "437582",
+      "description": "Advanced qualitative methods in sociology. Conduct a semester long qualitative research project using ethnographic field methods and in-depth interviewing. Students will be required to conduct at least 5 hours of qualitative data collection each week and collect 100-150 single spaced pages of field notes and interview transcripts. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement. Corequisite(s): SOC 4110L .",
+      "prerequisites": "SOC 2201 or CRM 2201 , SOC 2205 or CRM 2205 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "criminology-b-a-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 4250",
+      "title": "Demography and Public Policy",
+      "units": "3",
+      "ge": null,
+      "coid": "437913",
+      "description": "How populations change across time in terms of size, distribution, and key characteristics. How these factors influence public policy is central. How policies change across time, and their impact on the populations is covered.",
+      "prerequisites": "SOC 201, SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "criminology-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 4402",
+      "title": "Socialization: Self and Society",
+      "units": "3",
+      "ge": null,
+      "coid": "435482",
+      "description": "Examines the social interaction relating to development of self as it relates to society. Micro-mezo-macro reciprocal influences between individual and society. Critical analysis of how identity is constructed at both the global and local, as well as, the political and personal are examined.",
+      "prerequisites": "Sociology major; and SOC 201, SOC 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 4440",
+      "title": "Technology & Society",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437754",
+      "description": "[GE 4C] Explores the relationship between technological development and social life. How technology impacts society and how social, political and economic factors inhibit and encourage the development of technology is key. Issues of inequality regarding access are central.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 4451",
+      "title": "Social Inequality, Sport and the Body",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "435074",
+      "description": "[GE 4C] Social inequality is investigated, using sport and the treatment of bodies as an institutional examples. Social science theories of inequality are applied to the empirical example of sport. Explanations for inequality, critiques, and possibilities for change are examined within the microcosm of the sports world. How bodies are subject to and act to change social inequality is central.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 4465",
+      "title": "Impact of Colonization on the Peoples of Hawaii",
+      "units": "3",
+      "ge": "GE 4C",
+      "coid": "437755",
+      "description": "[GE 4C] How colonization has affected Hawaiians, immigrants, ‘locals’, and transients on the islands of Hawai’i. Why is Hawai’i still perceived as ‘another country’? Why is it that the native people of the islands experience the highest rates of incarceration, health problems, and poverty in a place that is their homeland? How is race and ethnicity constructed and actualized in Hawaii? How has the socioeconomic system impacted by colonization. Examine the socio-historical, political, economic, transnational, and racial impact of how colonization has affected people living in Hawaii today.",
+      "prerequisites": "Junior or senior standing; and completion of GE Areas 1 and 2, or Areas A and B4 are recommended.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 4466",
+      "title": "The Residues of Colonization: Contemporary Realities",
+      "units": "3",
+      "ge": null,
+      "coid": "437584",
+      "description": "Cross Listed as: PSY 4466 Original research will be conducted based on data collected earlier in the HEP, the course content from a prerequisite course from fall semester (SOC 4465), and a new literature review. Students are expected to submit a research proposal (research questions, thesis, and literature review) and to produce a final visual presentation and research paper.",
+      "prerequisites": "SOC 4465 and Instructor Consent.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 4470",
+      "title": "Peer Mentor I: Introduction to Leadership",
+      "units": "3",
+      "ge": null,
+      "coid": "435491",
+      "description": "Introduction to theories of leadership and mentoring in a seminar-style class, with regular practice of utilizing mentorship and leadership skills. Examines ways in which leaders emerge and progress. Discusses issues related to communication, time management, professional development, and serving historically underrepresented students and colleagues. Following the Cal Poly mantra of “learn by doing,” emphasizes student experience leading and mentoring their peers through applied practice.",
+      "prerequisites": "SOC 2201 or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "SOC 4471",
+      "title": "Peer Mentor II: Leaders in Education and the Workplace",
+      "units": "3",
+      "ge": null,
+      "coid": "435492",
+      "description": "Focuses on training emerging leaders to understand and address issues in education and the workplace. Explores a range of critical topics, including pedagogy, the support of historically underrepresented students and colleagues, strategies for those dealing with trauma and disabilities, as well as methods for both preventing and addressing burnout within educational and workplace settings. Following the Cal Poly mantra of “learn by doing,” emphasizes student experience leading and mentoring their peers through applied practice.",
+      "prerequisites": "SOC 4470 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "As needed; see Academic Department"
+    },
+    {
+      "code": "SOC 4472",
+      "title": "Peer Mentor III: Student Leaders and Outreach",
+      "units": "3",
+      "ge": null,
+      "coid": "435493",
+      "description": "High impact practice and learning how to mentor and help other students. How to effectively communicate in person and via social media, conduct outreach by speaking at public events. Focus during PM2 to highlight leadership through outreach, workshops, interviews, and office hours, while simultaneously taking a content rich course to examine ways in which leaders emerge, progress, and support others. Theories of learning and mentoring in a seminar-style class format once a week, with regular practice of utilizing skills that come with mentoring. Discussion pedagogical principles focusing on student growth, the role of mentors, differences among learning and teaching styles, intercultural competencies, communication skills, problem solving, and managing group dynamics.",
+      "prerequisites": "SOC 4470 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 4611W",
+      "title": "Senior Symposium",
+      "units": "3",
+      "ge": null,
+      "coid": "435483",
+      "description": "Contemporary concepts, issues, and studies in sociology. Writing-Intensive courses must be passed with a C or higher to count towards the University’s 3-unit Writing Requirement.",
+      "prerequisites": "SOC 2201 or CRM 2201 , and junior or senior standing.",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "Fall, Spring",
+      "programs": [
+        "sociology-b-a-general-sociology-subplan-option",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SOC 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438733",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438734",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SOC 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438735",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SW 2000",
+      "title": "Special Study for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438767",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SW 2201",
+      "title": "Introduction to Social Work and Social Welfare",
+      "units": "3",
+      "ge": null,
+      "coid": "437358",
+      "description": "Introduction to the social work profession. Overview of the profession’s historical development, ethics and values, theories and frameworks, and fields of practice. Social work’s commitment to social justice and diversity will be integrated throughout the course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SW 2990",
+      "title": "Special Topics for Lower Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438768",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SW 2990A",
+      "title": "Special Topics for Lower Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438769",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SW 2990L",
+      "title": "Special Topics for Lower Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438770",
+      "description": "Group study of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SW 3301",
+      "title": "Social Work Practice",
+      "units": "3",
+      "ge": null,
+      "coid": "437359",
+      "description": "Prepares social work students for generalist practice in the profession. Orientation to problem-solving and to the roles and activities of the social worker with individuals, families, groups and communities. Major theories, skills and the phases of the helping process including assessment, intervention, and evaluation. Use of fieldwork and research evidence to inform practice, facilitation of appropriate professional working relationships, identification of client resources and assets, the collection and assessment of information, and planning for service delivery. Corequisite(s): SW 3301L .",
+      "prerequisites": "SOC 201, SOC 2201 , SW 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SW 3301L",
+      "title": "Social Work Practice Laboratory",
+      "units": "1",
+      "ge": null,
+      "coid": "437360",
+      "description": "Prepares social work students for generalist practice in the profession. Orientation to problem-solving and to the roles and activities of the social worker with individuals, families, groups and communities. Major theories, skills and the phases of the helping process including assessment, intervention, and evaluation. Use of fieldwork and research evidence to inform practice, facilitation of appropriate professional working relationships, identification of client resources and assets, the collection and assessment of information, and planning for service delivery. Corequisite(s): SW 3301 .",
+      "prerequisites": "SOC 201, SOC 2201 , SW 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SW 3310",
+      "title": "Social Welfare Policy and Issues",
+      "units": "3",
+      "ge": null,
+      "coid": "437361",
+      "description": "Examines the cultural and structural elements that shape social policy in the United States. Emphasis on social welfare policy. Topics include: social security, poverty, child welfare, immigration, physical and mental health.",
+      "prerequisites": "SOC 201, SOC 2201 , SW 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor"
+      ]
+    },
+    {
+      "code": "SW 3311",
+      "title": "Social Work and Integrated Health Settings",
+      "units": "3",
+      "ge": null,
+      "coid": "437362",
+      "description": "Introduction to the direct practice of integrated behavioral health in primary care. Roles of behavioral health providers working in primary care settings, theories and models of care, and cross-cultural issues. They Engagement, assessment, intervention planning and implementation, and practice evaluation. Because the populations served in primary care settings span the spectrum of severity in both the physical and behavioral health dimensions, development of competencies in engaging and supporting patients across a range of health conditions.",
+      "prerequisites": "SOC 201, SOC 2201 , SW 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor"
+      ]
+    },
+    {
+      "code": "SW 3320",
+      "title": "Medical Social Work",
+      "units": "3",
+      "ge": null,
+      "coid": "437363",
+      "description": "Social work roles, interventions, and issues related to helping clients in health settings. Examination of advanced practice skills and strategies relevant to health care settings in work with individual clients, families, groups, interdisciplinary teams, and service providers. Ethical dilemmas that emerge from the convergence of consumer, provider and societal needs are emphasized. Consideration of the effects of class, race, age, gender, sexual orientation, disability culture, and ethnicity on social work practice with various populations in contemporary health care.",
+      "prerequisites": "SOC 201, SOC 2201 , SW 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SW 3322",
+      "title": "Family Violence",
+      "units": "3",
+      "ge": null,
+      "coid": "435484",
+      "description": "Critically examines causes and consequences of various forms of family violence such as child abuse, intimate partner abuse, and elder abuse. Includes theory, research interventions, and services at the local, national and international level that attempt both to address and prevent family violence.",
+      "prerequisites": "SOC 2201 , SW 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-social-work-subplan-option",
+        "criminology-minor",
+        "social-work-minor",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SW 3325",
+      "title": "Theories and Issues of Aging",
+      "units": "3",
+      "ge": null,
+      "coid": "437364",
+      "description": "Biological, psychological and sociological perspectives of the aging process. Theories and contemporary issues in aging that relate to social work practice with older adults and their families. Special consideration given to the diversity of older adults and the practice issues that arise based on age, gender, race and ethnicity, class, sexual orientation, religion, physical or mental disability, and national origin. Analysis of the development of policies and welfare services in relation to the elderly. Aging as a worldwide phenomenon that impacts multiple dimensions of societies throughout the world.",
+      "prerequisites": "SOC 2201 , SW 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option"
+      ]
+    },
+    {
+      "code": "SW 4000",
+      "title": "Special Study for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438771",
+      "description": "Individual or group investigation, research, studies, or surveys of selected problems at advanced level. Proposals to be initiated by student(s) with guidance from faculty. Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SW 4411",
+      "title": "Internship",
+      "units": "3",
+      "ge": null,
+      "coid": "437365",
+      "description": "An internship course open to SW option students, SOC majors and CRM majors. Students must secure an internship before enrolling in the course. Internship information located on the sociology department website.",
+      "prerequisites": "SOC 2201 , SW 2201 , or CRM 2201 ; and SOC 4401 or SW 4990 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times Minimum - Maximum Units: Total credit limited to 6 units, with a maximum of 3 units per semester.",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-social-work-subplan-option",
+        "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+        "criminology-b-a-roadmap-2-year-adt-60-units",
+        "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SW 4430",
+      "title": "International Social Work",
+      "units": "3",
+      "ge": null,
+      "coid": "437366",
+      "description": "Social welfare issues, theories, social policies and practice interventions using a transnational and comparative lens. Designed to prepare students with the knowledge and professional competence for both international practice as well as transnational work within the US.",
+      "prerequisites": "SOC 201, SOC 2201 , SW 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "sociology-b-a-social-work-subplan-option",
+        "social-work-minor"
+      ]
+    },
+    {
+      "code": "SW 4440",
+      "title": "Human Rights",
+      "units": "3",
+      "ge": null,
+      "coid": "437367",
+      "description": "Introduction to the study of human rights in a global context. It will prepare students to critically engage with the dominant theoretical discussions and discourses within the field as well as analyze the complex human rights abuses and frameworks for action.",
+      "prerequisites": "SOC 2201 , SW 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-social-work-subplan-option",
+        "criminology-minor",
+        "social-work-minor",
+        "criminology-b-a-roadmap-2-year-adt-60-units"
+      ]
+    },
+    {
+      "code": "SW 4470",
+      "title": "Death and Dying",
+      "units": "3",
+      "ge": null,
+      "coid": "435485",
+      "description": "Death and dying in American society. Attitudes towards dying expressed in contemporary institutional policies and practices; cultural variations; selected case histories. Social work practice with the dying and their families.",
+      "prerequisites": "SOC 2201 , SW 2201 , or CRM 2201 .",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken only once",
+      "when_offered": ""
+    },
+    {
+      "code": "SW 4990",
+      "title": "Special Topics for Upper Division Students",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438772",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": "",
+      "programs": [
+        "criminology-b-a",
+        "sociology-b-a-social-work-subplan-option"
+      ]
+    },
+    {
+      "code": "SW 4990A",
+      "title": "Special Topics for Upper Division Students Activity",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438773",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    },
+    {
+      "code": "SW 4990L",
+      "title": "Special Topics for Upper Division Students Laboratory",
+      "units": "1-3",
+      "ge": null,
+      "coid": "438774",
+      "description": "Group study at an advanced level of a selected well-defined topic or area not covered by a regularly offered course.",
+      "prerequisites": "",
+      "grading_basis": "Graded Only",
+      "repeat_for_credit": "May be taken multiple times only with different topics Minimum - Maximum Units: Total credit limited to 6 units applicable to a degree, with a maximum of 2 sections per semester.",
+      "when_offered": ""
+    }
+  ],
+  "programs": [
+    {
+      "id": "criminology-b-a",
+      "name": "Criminology, B.A."
+    },
+    {
+      "id": "sociology-b-a-general-sociology-subplan-option",
+      "name": "Sociology, B.A. - General Sociology Subplan/Option"
+    },
+    {
+      "id": "sociology-b-a-social-work-subplan-option",
+      "name": "Sociology, B.A. - Social Work Subplan/Option"
+    },
+    {
+      "id": "criminology-minor",
+      "name": "Criminology Minor"
+    },
+    {
+      "id": "social-work-minor",
+      "name": "Social Work Minor"
+    },
+    {
+      "id": "sociology-minor",
+      "name": "Sociology Minor"
+    },
+    {
+      "id": "criminology-b-a-roadmap-4-year-120-units",
+      "name": "Criminology, B.A.: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "sociology-b-a-general-sociology-subplan-option-roadmap-4-year-120-units",
+      "name": "Sociology, B.A. - General Sociology Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "sociology-b-a-social-work-subplan-option-roadmap-4-year-120-units",
+      "name": "Sociology, B.A. - Social Work Subplan/Option: Roadmap 4-year (120 units)"
+    },
+    {
+      "id": "criminology-b-a-roadmap-2-year-adt-60-units",
+      "name": "Criminology, B.A.: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "sociology-b-a-general-sociology-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Sociology, B.A. - General Sociology Subplan/Option: Roadmap 2-year ADT (60 units)"
+    },
+    {
+      "id": "sociology-b-a-social-work-subplan-option-roadmap-2-year-adt-60-units",
+      "name": "Sociology, B.A. - Social Work Subplan/Option: Roadmap 2-year ADT (60 units)"
+    }
+  ]
+}
