@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "scraped_at": "2026-11-19T19:39:04+00:00",
+  "scraped_at": "2026-11-24T01:59:41+00:00",
   "departments": [
     {
       "id": "agribusiness-and-food-industry-management-and-agricultural-science",
@@ -276,13 +276,6 @@
       "course_count": 158
     },
     {
-      "id": "political-science",
-      "name": "Political Science",
-      "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6337",
-      "file": "departments/political-science.json",
-      "course_count": 117
-    },
-    {
       "id": "theatre-and-new-dance",
       "name": "Theatre And New Dance",
       "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6339",
@@ -316,6 +309,13 @@
       "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6345",
       "file": "departments/kinesiology-and-health-promotion.json",
       "course_count": 132
+    },
+    {
+      "id": "political-science",
+      "name": "Political Science",
+      "source_url": "https://catalog.cpp.edu/preview_entity.php?catoid=78&ent_oid=6337",
+      "file": "departments/political-science.json",
+      "course_count": 117
     },
     {
       "id": "mathematics-and-statistics",

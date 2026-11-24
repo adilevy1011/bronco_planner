@@ -2,30 +2,58 @@ import json
 import os
 import sys
 from pathlib import Path
-
+from datetime import datetime
 script_dir = Path(__file__).resolve().parent.parent
 
-DATA_DIR = script_dir / ".." / "data" / "CalPolyPomona"
-PROGRAMS_DIR = DATA_DIR / "programs"
-DEPART_DIR = DATA_DIR / "departments"
-GENERAL_EDUCATION_FILE = DATA_DIR / "general-education.json"
+DATA_DIR = script_dir / ".." / "data"
+# temporary since CPP is the only one available so far
+INSTITUTION_DATA_DIR = DATA_DIR / "CalPolyPomona" 
+PROGRAMS_DIR = INSTITUTION_DATA_DIR / "programs"
+DEPART_DIR = INSTITUTION_DATA_DIR / "departments"
+GENERAL_EDUCATION_FILE = INSTITUTION_DATA_DIR / "general-education.json"
 
+def load_manifest():
+    MANIFEST_FILE = INSTITUTION_DATA_DIR / "manifest.json"
+    with MANIFEST_FILE.open('r',encoding="utf-8") as file:
+        data = json.load(file)
+    return data
+
+def get_last_updated():
+    date_str = load_manifest().get("scraped_at")
+    local_dt = datetime.fromisoformat(date_str)
+    return f"{local_dt:%Y/%m/%d}"
 def get_programs():
-    programs = [
-        f.stem.replace("-", " ").title()
-        for f in PROGRAMS_DIR.iterdir()
-        if f.is_file() and f.suffix == ".json"
-    ]
-    return programs
+    programs = load_manifest().get('programs')
+    return [item["name"] for item in programs]
+    
 
+def get_program(program_name: str):
+    program_name = program_name.replace(" ", "-").lower()
+    program_file_name = program_name + ".json"
+    program_file = PROGRAMS_DIR / program_file_name
+    try:
+        with program_file.open("r", encoding="utf-8") as file:
+            data = json.load(file)
+        return data.get("requirements")
+    except:
+        return None
 
+def get_program_courses(program_name:str):
+    program_name = program_name.replace(" ", "-").lower()
+    program_file_name = program_name + ".json"
+    program_file = PROGRAMS_DIR / program_file_name
+    try:
+        with program_file.open("r", encoding="utf-8") as file:
+            data = json.load(file)
+        return data.get("courses")
+    except:
+        return None
+def get_institutions():
+    institutions = [item.name for item in DATA_DIR.iterdir() if item.is_dir()]
+    return institutions
 def get_departments():
-    programs = [
-        f.stem.replace("-", " ").title()
-        for f in DEPART_DIR.iterdir()
-        if f.is_file() and f.suffix == ".json"
-    ]
-    return programs
+    departments = load_manifest().get('departments')
+    return [item["name"] for item in departments]
 
 
 def get_ge_areas():
@@ -58,6 +86,22 @@ def search_courses(department: str = None,units: str = None ,course_code: str =N
         return [c for c in course_list if c.get('code')==course_code]
     return course_list
 
+def get_course_details(course_code)->dict:
+    """Returns a dict with course details organized like this:\n
+    {
+        'code': 'CS 1300',
+        'title': 'Discrete Structures', 
+        'units': '3', 
+        'ge': None, 
+        'coid': '436699', 
+        'description': 'Logic, proof techniques, sets, basic counting rules, relations, functions and recursion. Graphs and trees.', 
+        'prerequisites': 'CS major, CS minor, or Cyber Security minor; and eligibility for MAT 1140 or C or better in: MAT 1050 or MAT 1052 , and MAT 1060 ; MAT 1140 ; MAT 1150 ; or MAT 2140 .', 
+        'grading_basis': 'Graded Only', 
+        'repeat_for_credit': 'May be taken only once', 
+        'when_offered': 'Fall, Spring, Summer'
+    }
+    """
+    return search_courses(course_code=course_code)[0]
 
 if __name__=="__main__":
-    print(search_courses(course_code='CS 1400'))
+    print(get_course_details(course_code="CS 1300"))

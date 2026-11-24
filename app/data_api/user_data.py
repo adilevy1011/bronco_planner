@@ -2,10 +2,11 @@ import os
 import json
 from pathlib import Path
 from typing import Any, Dict, List
-
+from app.data_api.app_data import get_institutions
 class PlannerStorage:
     DEFAULT_STATE: Dict[str, Any] = {
         "schema_version": 1,
+        "institution":[],
         "program": [],
         "terms": {},
         "preferences": {}
@@ -45,6 +46,18 @@ class PlannerStorage:
             json.dump(self.data, f, indent=2, ensure_ascii=False)
         os.replace(temp_path, self.file_path)
 
+    def add_institution(self, institution_name):
+        institutions = get_institutions()
+        user_institutions = self.data['institution']
+        if institution_name not in user_institutions and institution_name in institutions:
+            user_institutions.append(institution_name)
+            self.save()
+    def remove_institution(self,institution_name):
+        if institution_name in self.data['institution']:
+            self.data['institutions'].remove(institution_name)
+            self.save()
+    def get_user_institutions(self):
+        return self.load().get('institution')
     # --- Program Helpers ---
     def add_program(self, program_id: Any) -> None:
         if program_id not in self.data["program"]:
@@ -95,6 +108,6 @@ class PlannerStorage:
 
 if __name__=="__main__":
     storage = PlannerStorage()
-    storage.clear_term_courses('Fall 2025')
     print(storage.load())
+    
         

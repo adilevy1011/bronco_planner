@@ -1,7 +1,12 @@
 import flet as ft
 from app.views.view import View
 from app.data_api.user_data import PlannerStorage
-from app.data_api.app_data import get_departments, get_ge_areas, search_courses
+from app.data_api.app_data import (
+    get_course_details,
+    get_departments,
+    get_ge_areas,
+    search_courses,
+)
 class PlannerView(View):
     def __init__(self):
         super().__init__()
@@ -219,13 +224,62 @@ class PlannerView(View):
         term_name_field = ft.TextField(label="Term name")
         terms = self.storage.get_user_terms()
         term_items = []
-        for term_name, courses in terms.items():
-            courses.sort()
-            course_controls = [
-                ft.ListTile(
-                    title=ft.Text(str(course)) 
-                ) for course in courses
+
+        def course_detail_controls(course_code):
+            try:
+                details = get_course_details(course_code)
+            except (IndexError, KeyError, TypeError):
+                return [
+                    ft.Text(
+                        "Course details are not available in the catalog.",
+                        italic=True,
+                    )
+                ]
+
+            detail_fields = [
+                ("Description", details.get("description")),
+                ("Units", details.get('units')),
+                ("GE", details.get("ge")),
+                ("Prerequisites", details.get("prerequisites")),
+                ("Grading", details.get("grading_basis")),
+                ("Repeat for credit", details.get("repeat_for_credit")),
+                ("When offered", details.get("when_offered")),
             ]
+            controls = []
+            for label, value in detail_fields:
+                if value:
+                    controls.append(
+                        ft.Text(
+                            spans=[
+                                ft.TextSpan(
+                                    f"{label}: ",
+                                    style=ft.TextStyle(weight=ft.FontWeight.BOLD),
+                                ),
+                                ft.TextSpan(str(value)),
+                            ],
+                        )
+                    )
+            return controls or [ft.Text("No additional course details available.", italic=True)]
+
+        for term_name, courses in terms.items():
+            courses = sorted(courses)
+            term_unit_count = 0
+            course_controls = [
+                ft.ExpansionTile(
+                    title=ft.Text(f"{str(course)} - {get_course_details(str(course)).get('title')}"),
+                    controls=course_detail_controls(str(course)),
+                    expanded_cross_axis_alignment=ft.CrossAxisAlignment.START,
+                )
+                for course in courses
+            ]
+            for course in courses:
+                course_units = get_course_details(str(course)).get('units')
+                try:
+                    term_unit_count += float(course_units)
+                except:
+                    continue
+
+                
             if not course_controls:
                 course_controls = [
                     ft.ListTile(
@@ -242,7 +296,7 @@ class PlannerView(View):
             
             term_items.append(
                 ft.ExpansionTile(
-                    title=ft.Text(term_name),
+                    title=ft.Text(f"{term_name} ({term_unit_count})", style=ft.TextStyle(weight=ft.FontWeight.BOLD), size=20),
                     controls=course_controls,
                     expanded=True
                 )

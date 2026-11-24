@@ -28,6 +28,7 @@ DEPARTMENTS_DIR = DATA_DIR / "departments"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36"
 COURSE_RE = re.compile(r"^([A-Z]{2,6}\s+\d{3,4}[A-Z]?)\s*-\s*(.*)$")
 DETAIL_LABELS = r"(Prerequisite\(s\):|Grading Basis:|Repeat for Credit:|When Offered:|$)"
+DETAIL_FIELDS = ("description", "prerequisites", "grading_basis", "repeat_for_credit", "when_offered")
 
 
 def clean_text(value: str | None) -> str:
@@ -78,12 +79,19 @@ def parse_course_link(raw_text: str) -> dict | None:
     if not match:
         return None
     code, remainder = match.groups()
-    ge_match = re.search(r"\s*\[([^]]+)\]\s*$", remainder)
-    ge = ge_match.group(1).strip() if ge_match else None
-    if ge_match:
-        remainder = remainder[:ge_match.start()].rstrip()
-    unit_match = re.search(r"\s*\(([\d.-]+)\)\s*$", remainder)
-    units = unit_match.group(1) if unit_match else None
+    # Catalog pages can append more than one bracketed annotation, e.g.
+    # ``(3) [GE 4B] [AmInst-B]``.  Only the GE annotation belongs in ``ge``;
+    # the other annotations are catalog metadata, not part of the title.
+    annotations = []
+    while True:
+        annotation_match = re.search(r"\s*\[([^]]+)\]\s*$", remainder)
+        if not annotation_match:
+            break
+        annotations.insert(0, annotation_match.group(1).strip())
+        remainder = remainder[:annotation_match.start()].rstrip()
+    ge = next((item for item in annotations if re.match(r"GE\b", item, re.I)), None)
+    unit_match = re.search(r"\s*\((\d+(?:\s*-\s*\d+)?)\)\s*$", remainder)
+    units = re.sub(r"\s*", "", unit_match.group(1)) if unit_match else None
     if unit_match:
         remainder = remainder[:unit_match.start()].rstrip()
     return {"code": code, "title": remainder, "units": units or "N/A", "ge": ge}
@@ -91,7 +99,12 @@ def parse_course_link(raw_text: str) -> dict | None:
 
 def extract_coid(element) -> str | None:
     attributes = f"{element.get('href', '')} {element.get('onclick', '')}"
-    for pattern in [r"coid[=,]\s*['\"]?(\d+)", r"showCourse\s*\(\s*['\"]?\d+['\"]?\s*,\s*['\"]?(\d+)"]:
+    for pattern in [
+        r"coid[=,]\s*['\"]?(\d+)",
+        r"showCourse\s*\(\s*['\"]?\d+['\"]?\s*,\s*['\"]?(\d+)",
+        # Expanded department pages use hideCatalogData(catoid, entity, coid, ...).
+        r"hideCatalogData\s*\(\s*['\"]?\d+['\"]?\s*,\s*['\"]?\d+['\"]?\s*,\s*['\"]?(\d+)",
+    ]:
         match = re.search(pattern, attributes, re.I)
         if match:
             return match.group(1)
@@ -100,6 +113,10 @@ def extract_coid(element) -> str | None:
 
 def parse_course_details(html_text: str) -> dict:
     soup = BeautifulSoup(html_text, "html.parser")
+    # Expanded rows can contain the page toolbar and hidden tooltip markup.
+    # Those are presentation chrome, not course metadata.
+    for node in soup.select(".gateway-toolbar, .tooltip, script, style"):
+        node.decompose()
     content = soup.find("td", class_="block_content") or soup.find("div", class_="custompad_style") or soup
     text = clean_text(content.get_text(" "))
     details = {"description": "", "prerequisites": "", "grading_basis": "", "repeat_for_credit": "", "when_offered": ""}
@@ -114,10 +131,33 @@ def parse_course_details(html_text: str) -> dict:
         if match:
             details[name] = clean_detail_value(match.group(1))
     description = re.split(DETAIL_LABELS, text, maxsplit=1, flags=re.I)[0]
-    description = re.sub(r"^[A-Z]{2,6}\s+\d{3,4}[A-Z]?\s*-\s*.*?\([\d.-]+\)", "", description, flags=re.I)
+    description = re.sub(
+        r"^(?:[A-Z]{2,6}\s+\d{3,4}[A-Z]?\s*-\s*.*?\([\d.-]+\)\s*)+",
+        "", description, flags=re.I,
+    )
     description = re.sub(r"(Back to Top|Print-Friendly Page|Facebook this Page|Tweet this Page|Add to Portfolio).*", "", description, flags=re.I)
     details["description"] = clean_text(description)
     return details
+
+
+def inline_course_details(anchor) -> dict:
+    """Read details already expanded inside a department/program page."""
+    parent = anchor.find_parent("li") or anchor.parent
+    if not parent:
+        return {}
+    text = clean_text(parent.get_text(" "))
+    if not re.search(r"(?:Prerequisite\(s\)|Grading Basis|Repeat for Credit|When Offered):", text, re.I):
+        return {}
+    return parse_course_details(str(parent))
+
+
+def merge_course_details(course: dict, details: dict) -> None:
+    """Keep inline data when a detail request fails or returns no fields."""
+    for field in DETAIL_FIELDS:
+        course.setdefault(field, "")
+        value = clean_text(details.get(field))
+        if value:
+            course[field] = value
 
 
 def parse_requirement_name(element) -> str:
@@ -133,6 +173,7 @@ def extract_course_candidates(soup: BeautifulSoup, requirement_name: str | None 
         if not course or course["code"] in seen:
             continue
         course["coid"] = extract_coid(anchor)
+        merge_course_details(course, inline_course_details(anchor))
         if requirement_name is not None:
             course["requirement"] = requirement_name
         courses.append(course)
@@ -155,6 +196,7 @@ def extract_program(soup: BeautifulSoup, program: dict) -> dict:
     for anchor, course in candidates:
         category = parse_requirement_name(anchor)
         course["coid"] = extract_coid(anchor)
+        merge_course_details(course, inline_course_details(anchor))
         course["requirement"] = category
         if course["code"] not in seen_courses:
             courses.append(course)
@@ -189,7 +231,8 @@ def extract_department(soup: BeautifulSoup, department: dict) -> dict:
 def fetch_course_details(context: BrowserContext, course: dict, cache: dict, catoid: str) -> None:
     coid = course.get("coid")
     if not coid:
-        course.update({"description": "", "prerequisites": "", "grading_basis": "", "repeat_for_credit": "", "when_offered": ""})
+        for field in DETAIL_FIELDS:
+            course.setdefault(field, "")
         return
     if coid not in cache:
         url = f"https://catalog.cpp.edu/preview_course_nopop.php?catoid={catoid}&coid={coid}"
@@ -205,7 +248,9 @@ def fetch_course_details(context: BrowserContext, course: dict, cache: dict, cat
                 else:
                     time.sleep(1.5 * (attempt + 1))
         time.sleep(0.15)
-    course.update(cache[coid])
+    merge_course_details(course, cache[coid])
+    for field in DETAIL_FIELDS:
+        course.setdefault(field, "")
 
 
 def scrape_program(page: Page, context: BrowserContext, program: dict, detail_cache: dict) -> dict:
@@ -251,7 +296,9 @@ def write_outputs(results: list[dict], departments: list[dict], force: bool = Fa
     PROGRAMS_DIR.mkdir(exist_ok=True)
     DEPARTMENTS_DIR.mkdir(exist_ok=True)
     manifest_path = DATA_DIR / "manifest.json"
-    if manifest_path.exists() and not force:
+    # A forced targeted refresh must preserve records for departments/programs
+    # that were not selected.  Individual records are replaced below.
+    if manifest_path.exists():
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
     else:
         manifest = {"schema_version": 1, "scraped_at": now_iso(), "departments": [], "programs": []}
@@ -281,9 +328,33 @@ def write_outputs(results: list[dict], departments: list[dict], force: bool = Fa
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--only", action="append", help="Scrape only this exact program name; repeatable")
+    parser.add_argument(
+        "--department", action="append",
+        help="Refresh only this department catalog by id or exact name; repeatable",
+    )
     parser.add_argument("--force", action="store_true", help="re-scrape and replace all selected data")
     args = parser.parse_args()
     programs = load_program_urls()
+    if args.department:
+        wanted_departments = {value.strip().lower() for value in args.department}
+        department_matches = {
+            program["department_id"]: program["department"]
+            for program in programs
+            if program["department_id"] in wanted_departments
+            or program["department"].lower() in wanted_departments
+        }
+        missing_departments = wanted_departments - set(department_matches) - {
+            name.lower() for name in department_matches.values()
+        }
+        if missing_departments:
+            parser.error(
+                "department not found: " + ", ".join(sorted(missing_departments))
+                + ". Use a department id such as mathematics-and-statistics."
+            )
+        programs = [
+            program for program in programs
+            if program["department_id"] in department_matches
+        ]
     if args.only:
         wanted = set(args.only)
         programs = [p for p in programs if p["name"] in wanted]
@@ -294,6 +365,8 @@ def main() -> int:
         parser.error("no programs found")
 
     results, departments, detail_cache = [], [], {}
+    skipped_programs = 0
+    skipped_departments = 0
     department_records = {}
     output_departments = {}
     department_groups = {}
@@ -332,11 +405,19 @@ def main() -> int:
                     output_departments[department_info["id"]] = department_result
                 else:
                     department_records[department_info["id"]] = existing_department
+                    skipped_departments += 1
             except Exception as error:
                 print(f"  ERROR scraping department {department_info['name']}: {error}", file=sys.stderr)
-        for program in programs:
+        # --department is intentionally department-only: it refreshes the
+        # complete department course inventory without revisiting its programs.
+        if args.department:
+            programs_to_scrape = []
+        else:
+            programs_to_scrape = programs
+        for program in programs_to_scrape:
             program_path = PROGRAMS_DIR / f"{program['id']}.json"
             if program_path.exists() and not args.force:
+                skipped_programs += 1
                 continue
             try:
                 results.append(scrape_program(page, context, program, detail_cache))
@@ -359,6 +440,12 @@ def main() -> int:
     print(f"\nWrote {len(output_departments)} department files to {DEPARTMENTS_DIR}")
     print(f"Wrote {len(results)} program files to {PROGRAMS_DIR}")
     print(f"Wrote manifest to {DATA_DIR / 'manifest.json'}")
+    if not results and not output_departments and (skipped_programs or skipped_departments):
+        print(
+            f"Nothing was refreshed ({skipped_programs} programs and "
+            f"{skipped_departments} departments already existed). "
+            "Use --force to apply scraper/parser changes to existing JSON."
+        )
     return 0
 
 
