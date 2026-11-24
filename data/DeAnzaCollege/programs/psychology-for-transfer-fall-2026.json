@@ -1,0 +1,272 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:39+00:00",
+  "id": "psychology-for-transfer-fall-2026",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree Psychology for Transfer",
+  "title_on_page": "Introduction to Sociology",
+  "department": "Psychology",
+  "department_id": "psychology",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/psychology-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,psychology-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 PSYC - Psychology Psychology for Transfer AAT_Associate in Arts in Psychology for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree Psychology for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Psychology major consists of courses appropriate for the Associate in Arts in Psychology for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline, and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Associate in Arts in Psychology for Transfer is intended for students who plan to complete a bachelor’s degree in Psychology (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Apply the scientific method to the study of behavior and mental processes Understand historical and contemporary perspectives of psychology and be able to apply these theories to real-world experiences Prepare to apply psychological concepts and theories to local and global issues affecting all beings as well as the environment De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses",
+  "requirements": [
+    {
+      "name": "Area 1: (10 Units)",
+      "courses": [],
+      "raw_text": "Area 1: (10 Units)"
+    },
+    {
+      "name": "Area 2: (4 - 5 Units)",
+      "courses": [],
+      "raw_text": "Area 2: (4 - 5 Units)"
+    },
+    {
+      "name": "List A: (4 - 5 Units)",
+      "courses": [],
+      "raw_text": "List A: (4 - 5 Units)"
+    },
+    {
+      "name": "List B - Complete from below or from List A (not already taken): (4 - 5 Units)",
+      "courses": [],
+      "raw_text": "List B - Complete from below or from List A (not already taken): (4 - 5 Units)"
+    },
+    {
+      "name": "List C - Complete from below or from List A or List B (not already taken): (8 - 10 Units)",
+      "courses": [
+        "PSYC 2",
+        "PSYC 15",
+        "SOC 15",
+        "BIOL 10",
+        "BIOL 10H",
+        "BIOL 11",
+        "PSYC 24",
+        "PSYC 8",
+        "PSYC 14",
+        "ANTH 2",
+        "ANTH 2H",
+        "COMM 9",
+        "COMM 9H",
+        "MATH 1A",
+        "MATH 1AH",
+        "MATH 12",
+        "PHIL 3",
+        "PSYC 4",
+        "PSYC 5",
+        "PSYC 9",
+        "PSYC 12",
+        "WMST 12",
+        "SOC 1"
+      ],
+      "raw_text": "List C - Complete from below or from List A or List B (not already taken): (8 - 10 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PSYC 2",
+      "title": "Research Methods in Psychology",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 10",
+      "title": "Introductory Biology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 10H",
+      "title": "Introductory Biology - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 11",
+      "title": "Human Biology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 24",
+      "title": "Introduction to Psychobiology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 8",
+      "title": "Introduction to Social Psychology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 14",
+      "title": "Developmental Aspects of Psychology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 9",
+      "title": "Argumentation: Analysis of Oral and Written Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 9H",
+      "title": "Argumentation: Analysis of Oral and Written Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1A",
+      "title": "Calculus I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1AH",
+      "title": "Calculus I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 12",
+      "title": "Introductory Calculus for Business and Social Science",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 3",
+      "title": "Critical Thinking and Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 4",
+      "title": "Abnormal Psychology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 5",
+      "title": "Introduction to Theories of Personality",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 9",
+      "title": "Psychology of Human Relationships and Normal Adjustment",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 12",
+      "title": "Psychology of Gender",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 12",
+      "title": "Psychology of Gender",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 1",
+      "title": "Introduction to Sociology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

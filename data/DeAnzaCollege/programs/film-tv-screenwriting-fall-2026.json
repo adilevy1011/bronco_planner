@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:44+00:00",
+  "id": "film-tv-screenwriting-fall-2026",
+  "name": "Associate in Arts (A.A.) Degree Film/TV: Screenwriting",
+  "title_on_page": "Appreciation of Theatre",
+  "department": "Film/TV",
+  "department_id": "film-tv",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/film-tv-screenwriting-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,film-tv-screenwriting-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 F/TV - Film and TV Prod. Film/TV: Screenwriting AA_Film/TV: Screenwriting Go Back Print Associate in Arts (A.A.) Degree Film/TV: Screenwriting New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Film/TV: Screenwriting A.A. degree provides a foundation for students interested in pursuing a career in screenwriting for film or pursuing a bachelor's degree in Film/Television. Students are exposed to the craft and business of screenwriting. In order to fulfill the major requirements, students take each course in the screenwriting series, courses in cinema studies and media theory and basic production courses. Program Learning Outcomes Upon completion, students will be able to Apply the principles of cinematic story, character and theme to screenwriting Write both short and feature-length screenplays with good technique and craft Execute the step-by-step process of screenwriting from concept and idea to completed screenplay Apply all aspects of story and character to oral pitches Understand the business of screenwriting and how to best position themselves for success De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but ",
+  "requirements": [
+    {
+      "name": "Required Core: (44 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (44 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [
+        "ARTS 1A",
+        "HUMI 1",
+        "HUMI 1H",
+        "HUMI 2",
+        "HUMI 15",
+        "PHTG 1",
+        "THEA 1"
+      ],
+      "raw_text": "List A: (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ARTS 1A",
+      "title": "Introduction to the Visual Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1",
+      "title": "Creative Minds",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1H",
+      "title": "Creative Minds - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 2",
+      "title": "But is it Art? Questions and Criticism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 15",
+      "title": "Discussion on the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 1",
+      "title": "Basic Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "THEA 1",
+      "title": "Appreciation of Theatre",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

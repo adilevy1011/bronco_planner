@@ -1,0 +1,797 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:42+00:00",
+  "id": "leadership-and-social-change-fall-2026",
+  "name": "Certificate of Achievement (COA) Leadership and Social Change",
+  "title_on_page": "Community Based Learning in Social Sciences - Sociological",
+  "department": "Social Justice, Leadership and Engagement",
+  "department_id": "social-justice-leadership-and-engagement",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/leadership-and-social-change-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,leadership-and-social-change-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 CETH - Comparative Ethnic Studies Leadership and Social Change COA_Leadership and Social Change Go Back Print Certificate of Achievement (COA) Leadership and Social Change New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Leadership and Social Change Certificate of Achievement prepares students to be community leaders, agents of change in the workplace and responsible participants in civic life in general. Students completing this certificate are prepared to work as an entry-level union organizer or staff person at a nonprofit organization. Students who plan to pursue a transfer degree can use the skills obtained to analyze the social forces at work in, and to take leadership in, their areas of work or study. Contact the Vasconcellos Institute for Democracy in Action (VIDA) at deanza.edu/vida for more information on earning this certificate. Program Learning Outcomes Upon completion, students will be able to Analyze the social processes that foster inequality and disempowerment, and those that challenge inequality and lead to empowerment Analyze the ways that social processes are amenable to transformation through strategic planning and constituent mobilization Apply leadership skills, such as meeting facilitation, strategic planning, consensus-building and generating buy-in from stakeholders, with the aim of fostering social justice and empowerment De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Stud",
+  "requirements": [
+    {
+      "name": "Required Core: (4 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (4 Units)"
+    },
+    {
+      "name": "List A - Leadership Skills: (4 Units)",
+      "courses": [],
+      "raw_text": "List A - Leadership Skills: (4 Units)"
+    },
+    {
+      "name": "List B - Understanding Social Change: (4 Units)",
+      "courses": [],
+      "raw_text": "List B - Understanding Social Change: (4 Units)"
+    },
+    {
+      "name": "List C - Leadership Internship: (6 Units)",
+      "courses": [
+        "POLI 17",
+        "ICS 27",
+        "POLI 17H",
+        "ICS 27H",
+        "BUS 50",
+        "BUS 65",
+        "CETH 50",
+        "COMM 15",
+        "COMM 15H",
+        "COMM 17",
+        "COMM 17H",
+        "GEO 6",
+        "ICS 2A",
+        "ICS 19",
+        "AFAM 10",
+        "AFAM 25",
+        "WMST 25",
+        "ASAM 1",
+        "ASAM 10",
+        "CETH 10",
+        "CETH 29",
+        "ADMJ 29",
+        "CHLX 10",
+        "CHLX 26",
+        "WMST 26",
+        "ICS 17",
+        "ICS 17H",
+        "ICS 26",
+        "INTL 33",
+        "NAIS 11",
+        "POLI 15",
+        "ICS 25",
+        "POLI 16",
+        "ICS 36",
+        "SOC 5",
+        "WMST 1",
+        "WMST 8",
+        "CETH 8",
+        "WMST 24",
+        "WMST 27",
+        "WMST 29",
+        "CETH 19",
+        "ICS 80",
+        "ICS 80W",
+        "ICS 80X",
+        "ICS 80Y",
+        "ICS 80Z",
+        "ICS 81",
+        "ICS 81W",
+        "ICS 81X",
+        "ICS 81Y",
+        "ICS 81Z",
+        "ICS 82",
+        "ICS 82W",
+        "ICS 82X",
+        "ICS 82Y",
+        "ICS 82Z",
+        "POLI 64",
+        "POLI 64X",
+        "POLI 64Y",
+        "POLI 64Z",
+        "SOSC 80",
+        "SOSC 80W",
+        "SOSC 80X",
+        "SOSC 80Y",
+        "SOSC 80Z",
+        "SOSC 82",
+        "SOSC 82W",
+        "SOSC 82X",
+        "SOSC 82Y",
+        "SOSC 82Z",
+        "SOSC 83",
+        "SOSC 83W",
+        "SOSC 83X",
+        "SOSC 83Y",
+        "SOSC 83Z"
+      ],
+      "raw_text": "List C - Leadership Internship: (6 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "POLI 17",
+      "title": "Grassroots Democracy: Leadership and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 27",
+      "title": "Grassroots Democracy: Leadership and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 17H",
+      "title": "Grassroots Democracy: Leadership and Power - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 27H",
+      "title": "Grassroots Democracy: Leadership and Power - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 50",
+      "title": "Nonprofit Organizations",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 65",
+      "title": "Leadership",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 50",
+      "title": "Civic Leadership for Community Empowerment",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 15",
+      "title": "Critical Decision-Making in Groups",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 15H",
+      "title": "Critical Decision-Making in Groups - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 17",
+      "title": "Organizational Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 17H",
+      "title": "Organizational Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 6",
+      "title": "Introduction to Geographic Information System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 2A",
+      "title": "Introduction to Peer Mentoring, Leadership, and Community Building",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 19",
+      "title": "Making a Difference: Transforming Relations of Nature, Community, and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 10",
+      "title": "An Introduction to African American Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 25",
+      "title": "Introduction to Black Feminism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 25",
+      "title": "Introduction to Black Feminism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 1",
+      "title": "Asian American Experiences Past to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 10",
+      "title": "Contemporary Asian American Communities",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 10",
+      "title": "Introduction to Ethnic Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 10",
+      "title": "Introduction to Chicanx and Latinx Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 26",
+      "title": "La Mujer: Latina Life and Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 26",
+      "title": "La Mujer: Latina Life and Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 17",
+      "title": "Critical Consciousness and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 17H",
+      "title": "Critical Consciousness and Social Change - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 26",
+      "title": "Introduction to Lesbian, Gay, Bisexual, Transgender and Queer Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 33",
+      "title": "Introduction to Peace and Conflict Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 11",
+      "title": "Ethnic Studies and Native American Contemporary Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 15",
+      "title": "Grassroots Democracy: Race, Politics and the American Promise",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 25",
+      "title": "Grassroots Democracy: Race, Politics and the American Promise",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 16",
+      "title": "Grassroots Democracy: Social Movements Since the 1960s",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 36",
+      "title": "Grassroots Democracy: Social Movements Since the 1960s",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 5",
+      "title": "Sociology of Globalization and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 1",
+      "title": "Introduction to Women's Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 8",
+      "title": "Women of Color in the USA",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 8",
+      "title": "Women of Color in the USA",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 24",
+      "title": "Women and Gender in Global Perspectives",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 27",
+      "title": "Women and Gendered Violence",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 29",
+      "title": "Masculinities in U.S. Culture and Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 19",
+      "title": "Masculinities in U.S. Culture and Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 80",
+      "title": "Community Based Learning in Intercultural Studies - Intrapersonal",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 80W",
+      "title": "Community Based Learning in Intercultural Studies - Intrapersonal",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 80X",
+      "title": "Community Based Learning in Intercultural Studies - Intrapersonal",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 80Y",
+      "title": "Community Based Learning in Intercultural Studies - Intrapersonal",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 80Z",
+      "title": "Community Based Learning in Intercultural Studies - Intrapersonal",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 81",
+      "title": "Community Based Learning in Intercultural Studies - Interpersonal",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 81W",
+      "title": "Community Based Learning in Intercultural Studies - Interpersonal",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 81X",
+      "title": "Community Based Learning in Intercultural Studies - Interpersonal",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 81Y",
+      "title": "Community Based Learning in Intercultural Studies - Interpersonal",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 81Z",
+      "title": "Community Based Learning in Intercultural Studies - Interpersonal",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 82",
+      "title": "Community Based Learning in Intercultural Studies - Systems",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 82W",
+      "title": "Community Based Learning in Intercultural Studies - Systems",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 82X",
+      "title": "Community Based Learning in Intercultural Studies - Systems",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 82Y",
+      "title": "Community Based Learning in Intercultural Studies - Systems",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 82Z",
+      "title": "Community Based Learning in Intercultural Studies - Systems",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 64",
+      "title": "Political Science Internship",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 64X",
+      "title": "Political Science Internship",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 64Y",
+      "title": "Political Science Internship",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 64Z",
+      "title": "Political Science Internship",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 80",
+      "title": "Community Based Learning in Social Sciences - Historical",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 80W",
+      "title": "Community Based Learning in Social Sciences - Historical",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 80X",
+      "title": "Community Based Learning in Social Sciences - Historical",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 80Y",
+      "title": "Community Based Learning in Social Sciences - Historical",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 80Z",
+      "title": "Community Based Learning in Social Sciences - Historical",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 82",
+      "title": "Community Based Learning in Social Sciences - Philosophical",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 82W",
+      "title": "Community Based Learning in Social Sciences - Philosophical",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 82X",
+      "title": "Community Based Learning in Social Sciences - Philosophical",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 82Y",
+      "title": "Community Based Learning in Social Sciences - Philosophical",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 82Z",
+      "title": "Community Based Learning in Social Sciences - Philosophical",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 83",
+      "title": "Community Based Learning in Social Sciences - Sociological",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 83W",
+      "title": "Community Based Learning in Social Sciences - Sociological",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 83X",
+      "title": "Community Based Learning in Social Sciences - Sociological",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 83Y",
+      "title": "Community Based Learning in Social Sciences - Sociological",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOSC 83Z",
+      "title": "Community Based Learning in Social Sciences - Sociological",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

@@ -1,0 +1,2942 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:15+00:00",
+  "id": "liberal-arts-arts-and-letters-emphasis-fall-2026",
+  "name": "Associate in Arts (A.A.) Degree Liberal Arts (Arts and Letters Emphasis)",
+  "title_on_page": "Women and Philosophy",
+  "department": "Liberal Arts",
+  "department_id": "liberal-arts",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/liberal-arts-arts-and-letters-emphasis-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,liberal-arts-arts-and-letters-emphasis-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 COUN - Counseling Liberal Arts (Arts and Letters Emphasis) AA_Liberal Arts (Arts and Letters Emphasis) Go Back Print Associate in Arts (A.A.) Degree Liberal Arts (Arts and Letters Emphasis) New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. Designed primarily for students who plan on transferring to the University of California or California State University, the associate degree in Liberal Arts represents the completion of a broad area of study with an emphasis in one of the following four areas: Arts and Letters; Business and Computer Information Systems; Science, Math and Engineering; or Social and Behavioral Sciences. The degree allows the student to develop a broad set of essential life and work competencies such as communication, critical thinking, problem solving, quantitative reasoning and multicultural skills. Students complete a minimum of 27 units from one of the four emphasis areas, the A.A. degree General Education requirements and the A.A./A.S. degree requirements noted in the campus catalog. Courses used for the 27-unit emphasis area requirement may not be used to satisfy the General Education requirements. Note: Students are limited to earning one Liberal Arts degree. Program Learning Outcomes Upon completion, students will be able to Demonstrate the use of effective language and speech communication skills Analyze and solve problems by using thoughtful and logical reasoning skills Recognize and value the complexities of living in a multicultural world by demonstrating an appreciation of diversity in its many forms Display behaviors that promote the mental and physical well-being of self and others Identify basic and foundational theories, concepts and practices in the comprehensive area of emphasis De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum G",
+  "requirements": [
+    {
+      "name": "African American Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "African American Studies: (0 Units)"
+    },
+    {
+      "name": "Anthropology: (0 Units)",
+      "courses": [],
+      "raw_text": "Anthropology: (0 Units)"
+    },
+    {
+      "name": "Arts: (0 Units)",
+      "courses": [],
+      "raw_text": "Arts: (0 Units)"
+    },
+    {
+      "name": "Asian American Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Asian American Studies: (0 Units)"
+    },
+    {
+      "name": "Chicanx/Latinx Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Chicanx/Latinx Studies: (0 Units)"
+    },
+    {
+      "name": "Communication Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Communication Studies: (0 Units)"
+    },
+    {
+      "name": "Comparative Ethnic Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Comparative Ethnic Studies: (0 Units)"
+    },
+    {
+      "name": "Dance: (0 Units)",
+      "courses": [],
+      "raw_text": "Dance: (0 Units)"
+    },
+    {
+      "name": "English as a Second Language: (0 Units)",
+      "courses": [],
+      "raw_text": "English as a Second Language: (0 Units)"
+    },
+    {
+      "name": "English Literature: (0 Units)",
+      "courses": [],
+      "raw_text": "English Literature: (0 Units)"
+    },
+    {
+      "name": "English Writing: (0 Units)",
+      "courses": [],
+      "raw_text": "English Writing: (0 Units)"
+    },
+    {
+      "name": "Environmental Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Environmental Studies: (0 Units)"
+    },
+    {
+      "name": "Film and Television Production: (0 Units)",
+      "courses": [],
+      "raw_text": "Film and Television Production: (0 Units)"
+    },
+    {
+      "name": "French: (0 Units)",
+      "courses": [],
+      "raw_text": "French: (0 Units)"
+    },
+    {
+      "name": "German: (0 Units)",
+      "courses": [],
+      "raw_text": "German: (0 Units)"
+    },
+    {
+      "name": "Hindi: (0 Units)",
+      "courses": [],
+      "raw_text": "Hindi: (0 Units)"
+    },
+    {
+      "name": "History: (0 Units)",
+      "courses": [],
+      "raw_text": "History: (0 Units)"
+    },
+    {
+      "name": "Humanities: (0 Units)",
+      "courses": [],
+      "raw_text": "Humanities: (0 Units)"
+    },
+    {
+      "name": "Italian: (0 Units)",
+      "courses": [],
+      "raw_text": "Italian: (0 Units)"
+    },
+    {
+      "name": "Japanese: (0 Units)",
+      "courses": [],
+      "raw_text": "Japanese: (0 Units)"
+    },
+    {
+      "name": "Journalism: (0 Units)",
+      "courses": [],
+      "raw_text": "Journalism: (0 Units)"
+    },
+    {
+      "name": "Korean: (0 Units)",
+      "courses": [],
+      "raw_text": "Korean: (0 Units)"
+    },
+    {
+      "name": "Linguistics: (0 Units)",
+      "courses": [],
+      "raw_text": "Linguistics: (0 Units)"
+    },
+    {
+      "name": "Mandarin: (0 Units)",
+      "courses": [],
+      "raw_text": "Mandarin: (0 Units)"
+    },
+    {
+      "name": "Music: (0 Units)",
+      "courses": [],
+      "raw_text": "Music: (0 Units)"
+    },
+    {
+      "name": "Native American and Indigenous Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Native American and Indigenous Studies: (0 Units)"
+    },
+    {
+      "name": "Persian: (0 Units)",
+      "courses": [],
+      "raw_text": "Persian: (0 Units)"
+    },
+    {
+      "name": "Philosophy: (0 Units)",
+      "courses": [],
+      "raw_text": "Philosophy: (0 Units)"
+    },
+    {
+      "name": "Photography: (0 Units)",
+      "courses": [],
+      "raw_text": "Photography: (0 Units)"
+    },
+    {
+      "name": "Russian: (0 Units)",
+      "courses": [],
+      "raw_text": "Russian: (0 Units)"
+    },
+    {
+      "name": "Sign Language: (15 Units)",
+      "courses": [],
+      "raw_text": "Sign Language: (15 Units)"
+    },
+    {
+      "name": "Spanish: (0 Units)",
+      "courses": [],
+      "raw_text": "Spanish: (0 Units)"
+    },
+    {
+      "name": "Theater Arts: (0 Units)",
+      "courses": [],
+      "raw_text": "Theater Arts: (0 Units)"
+    },
+    {
+      "name": "Vietnamese: (0 Units)",
+      "courses": [],
+      "raw_text": "Vietnamese: (0 Units)"
+    },
+    {
+      "name": "Women’s Studies: (0 Units)",
+      "courses": [
+        "AFAM 11",
+        "ANTH 16",
+        "ARTS 1A",
+        "ARTS 1B",
+        "ARTS 1C",
+        "ARTS 2A",
+        "ARTS 2B",
+        "ARTS 2C",
+        "ARTS 2D",
+        "ARTS 2F",
+        "ARTS 2G",
+        "ARTS 2H",
+        "ARTS 2J",
+        "ARTS 3TC",
+        "ARTS 3TE",
+        "ARTS 4A",
+        "ARTS 4B",
+        "ARTS 4C",
+        "ARTS 4D",
+        "ARTS 8",
+        "ARTS 10A",
+        "ARTS 10B",
+        "ARTS 12",
+        "ARTS 14A",
+        "ARTS 14B",
+        "ARTS 14C",
+        "ARTS 15A",
+        "ARTS 15B",
+        "ARTS 15C",
+        "ARTS 16A",
+        "ARTS 16B",
+        "ARTS 16C",
+        "ARTS 18A",
+        "ARTS 18B",
+        "ARTS 18C",
+        "ARTS 18D",
+        "ARTS 18E",
+        "ARTS 19H",
+        "ARTS 19J",
+        "ARTS 19K",
+        "ARTS 19M",
+        "ARTS 37A",
+        "ARTS 37B",
+        "ARTS 37C",
+        "ARTS 54",
+        "ARTS 55A",
+        "ARTS 55B",
+        "ARTS 55C",
+        "ARTS 56",
+        "ARTS 57",
+        "ARTS 58A",
+        "ARTS 58B",
+        "ARTS 58C",
+        "ARTS 63",
+        "ARTS 65",
+        "ARTS 85",
+        "ARTS 86",
+        "ASAM 20",
+        "ASAM 32",
+        "ASAM 40",
+        "ASAM 41",
+        "CHLX 13",
+        "CHLX 35",
+        "COMM 8",
+        "COMM 8H",
+        "COMM 9",
+        "COMM 9H",
+        "COMM 10",
+        "COMM 10H",
+        "COMM 15",
+        "COMM 15H",
+        "COMM 20",
+        "CETH 13",
+        "DANC 22",
+        "DANC 22K",
+        "DANC 22M",
+        "DANC 23A",
+        "DANC 23L",
+        "DANC 23M",
+        "DANC 23N",
+        "DANC 24A",
+        "DANC 25A",
+        "DANC 25B",
+        "DANC 37A",
+        "DANC 38A",
+        "ESL 6",
+        "ELIT 8",
+        "ELIT 10",
+        "ELIT 10H",
+        "ELIT 11",
+        "ELIT 17",
+        "ELIT 17H",
+        "ELIT 19",
+        "ELIT 21",
+        "ELIT 22",
+        "ELIT 24",
+        "ELIT 28",
+        "ELIT 38",
+        "ELIT 39",
+        "ELIT 40",
+        "ELIT 41",
+        "ELIT 41H",
+        "ELIT 46A",
+        "ELIT 46AH",
+        "ELIT 46B",
+        "ELIT 46BH",
+        "ELIT 46C",
+        "ELIT 46CH",
+        "ELIT 47A",
+        "ELIT 47B",
+        "ELIT 48A",
+        "ELIT 48AH",
+        "ELIT 48B",
+        "ELIT 48BH",
+        "ELIT 48C",
+        "ELIT 48CH",
+        "EWRT 30",
+        "EWRT 40",
+        "EWRT 41",
+        "EWRT 42",
+        "FREN 1",
+        "FREN 2",
+        "FREN 3",
+        "GERM 1",
+        "GERM 2",
+        "GERM 3",
+        "GERM 4",
+        "HNDI 1",
+        "HNDI 2",
+        "HNDI 3",
+        "HIST 6A",
+        "HIST 6AH",
+        "HIST 6B",
+        "HIST 6BH",
+        "HIST 6C",
+        "HIST 6CH",
+        "HUMI 1",
+        "HUMI 1H",
+        "HUMI 2",
+        "HUMI 5",
+        "HUMI 6",
+        "HUMI 7",
+        "HUMI 9",
+        "HUMI 9H",
+        "HUMI 10",
+        "HUMI 13",
+        "HUMI 15",
+        "HUMI 16",
+        "HUMI 18",
+        "HUMI 18H",
+        "HUMI 20",
+        "ITAL 1",
+        "ITAL 2",
+        "ITAL 3",
+        "JAPN 1",
+        "JAPN 2",
+        "JAPN 3",
+        "JAPN 4",
+        "JAPN 5",
+        "JAPN 6",
+        "JOUR 2",
+        "JOUR 21A",
+        "JOUR 21B",
+        "JOUR 50",
+        "JOUR 80",
+        "KORE 1",
+        "KORE 2",
+        "KORE 3",
+        "KORE 4",
+        "LING 1",
+        "MAND 1",
+        "MAND 2",
+        "MAND 3",
+        "MAND 4",
+        "MAND 5",
+        "MAND 6",
+        "MUSI 1A",
+        "MUSI 1B",
+        "MUSI 1C",
+        "MUSI 1D",
+        "MUSI 2",
+        "MUSI 3A",
+        "MUSI 3B",
+        "MUSI 3C",
+        "MUSI 4A",
+        "MUSI 4B",
+        "MUSI 4C",
+        "MUSI 5",
+        "MUSI 8",
+        "MUSI 9A",
+        "MUSI 12A",
+        "MUSI 12B",
+        "MUSI 12C",
+        "MUSI 13A",
+        "MUSI 13B",
+        "MUSI 13C",
+        "MUSI 14A",
+        "MUSI 14B",
+        "MUSI 14C",
+        "MUSI 14D",
+        "MUSI 16A",
+        "MUSI 16B",
+        "MUSI 17",
+        "MUSI 18A",
+        "MUSI 18B",
+        "MUSI 18C",
+        "MUSI 20",
+        "MUSI 21",
+        "MUSI 22",
+        "MUSI 25",
+        "MUSI 31",
+        "MUSI 34",
+        "MUSI 42",
+        "MUSI 44A",
+        "MUSI 45",
+        "MUSI 51",
+        "MUSI 53",
+        "NAIS 13",
+        "NAIS 14",
+        "NAIS 15",
+        "NAIS 32",
+        "PERS 1",
+        "PHIL 1",
+        "PHIL 2",
+        "PHIL 3",
+        "PHIL 4",
+        "PHIL 7",
+        "PHIL 7H",
+        "PHIL 8",
+        "PHIL 8H",
+        "PHIL 11",
+        "PHIL 20A",
+        "PHIL 20B",
+        "PHIL 20C",
+        "PHIL 24",
+        "PHIL 30",
+        "PHIL 49",
+        "PHTG 1",
+        "PHTG 2",
+        "PHTG 3",
+        "PHTG 4",
+        "PHTG 5",
+        "PHTG 6",
+        "PHTG 7",
+        "PHTG 21",
+        "PHTG 54",
+        "PHTG 57A",
+        "PHTG 57B",
+        "PHTG 58A",
+        "PHTG 58B",
+        "RUSS 1",
+        "RUSS 2",
+        "RUSS 3",
+        "SIGN 1",
+        "SIGN 2",
+        "SIGN 3",
+        "SPAN 1",
+        "SPAN 2",
+        "SPAN 3",
+        "SPAN 4",
+        "SPAN 5",
+        "SPAN 6",
+        "THEA 1",
+        "THEA 20A",
+        "THEA 20B",
+        "THEA 20C",
+        "VIET 1",
+        "VIET 2",
+        "VIET 3",
+        "VIET 4",
+        "VIET 5",
+        "VIET 6",
+        "WMST 3C",
+        "WMST 21",
+        "WMST 49"
+      ],
+      "raw_text": "Women’s Studies: (0 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AFAM 11",
+      "title": "Sankofa: Roots of the African American Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 16",
+      "title": "Anthropology of Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 1A",
+      "title": "Introduction to the Visual Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 1B",
+      "title": "Architecture Past and Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 1C",
+      "title": "Introduction to Museum Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2A",
+      "title": "History of Art: Europe from Prehistory through Early Christianity",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2B",
+      "title": "History of Art: Europe During the Middle Ages and the Renaissance",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2C",
+      "title": "History of Art: Europe from the Baroque Period Through Impressionism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2D",
+      "title": "History of Art: Europe and the United States from Post-Impressionism to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2F",
+      "title": "History of Art (Multicultural Arts in the United States)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2G",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2H",
+      "title": "History of Art: Native Arts of Mesoamerica and the Andes",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2J",
+      "title": "History of Art: Arts of Africa, Oceania and Native North America",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 3TC",
+      "title": "Women and Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 3TE",
+      "title": "Today's Art Scene",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4A",
+      "title": "Beginning Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4B",
+      "title": "Intermediate Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4C",
+      "title": "Life Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4D",
+      "title": "Representational Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 8",
+      "title": "Two-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10A",
+      "title": "Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10B",
+      "title": "Intermediate Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 12",
+      "title": "Design and Color",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 14A",
+      "title": "Watercolor Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 14B",
+      "title": "Watercolor Painting II",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 14C",
+      "title": "Watercolor Painting III",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 15A",
+      "title": "Acrylic Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 15B",
+      "title": "Acrylic Painting II",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 15C",
+      "title": "Acrylic Painting III",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 16A",
+      "title": "Oil Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 16B",
+      "title": "Oil Painting II",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 16C",
+      "title": "Oil Painting III",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18A",
+      "title": "Ceramics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18B",
+      "title": "Ceramics (Beginning Wheel Throwing)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18C",
+      "title": "Ceramics (Intermediate Wheel Throwing)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18D",
+      "title": "Ceramics Hand Building",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18E",
+      "title": "Ceramics (Advanced Wheel Throwing)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 19H",
+      "title": "Ceramics Raku",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 19J",
+      "title": "Ceramics Techniques",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 19K",
+      "title": "Ceramics Decoration",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 19M",
+      "title": "Ceramics Low Fire",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 37A",
+      "title": "Sculpture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 37B",
+      "title": "Intermediate Sculpture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 37C",
+      "title": "Advanced Sculpture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 54",
+      "title": "Introduction to Graphic Design: Digital Imaging",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 55A",
+      "title": "Graphic Design-Visual Communication I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 55B",
+      "title": "Graphic Design-Visual Communication II",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 55C",
+      "title": "Graphic Design-Visual Communication III: Production Techniques",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 56",
+      "title": "Graphic Design: UI Prototyping and Digital Publishing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 57",
+      "title": "Graphic Design-Visual Communication: Typography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 58A",
+      "title": "Furniture Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 58B",
+      "title": "Intermediate Furniture Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 58C",
+      "title": "Advanced Furniture Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 63",
+      "title": "Graphic Design: Portfolio and Business Practices",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 65",
+      "title": "Graphic Design: UI/UX",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 85",
+      "title": "Graphic Design: Motion Graphics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 86",
+      "title": "Graphic Design: Digital Illustration Techniques",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 20",
+      "title": "Asian American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 32",
+      "title": "Vietnamese Literature from Traditional to Asian American Expressions",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 40",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 41",
+      "title": "Introduction to Korean Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 13",
+      "title": "The Chicanx and Latinx and the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 35",
+      "title": "Chicano/a, Latino/a Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 8",
+      "title": "Argumentation and Critical Inquiry in Oral Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 8H",
+      "title": "Argumentation and Critical Inquiry in Oral Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 9",
+      "title": "Argumentation: Analysis of Oral and Written Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 9H",
+      "title": "Argumentation: Analysis of Oral and Written Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 10",
+      "title": "Fundamentals of Oral Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 10H",
+      "title": "Fundamentals of Oral Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 15",
+      "title": "Critical Decision-Making in Groups",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 15H",
+      "title": "Critical Decision-Making in Groups - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 20",
+      "title": "Performance Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 13",
+      "title": "History of Art (Multicultural Arts in the United States)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 22",
+      "title": "Body Awareness and Conditioning for Dancers",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 22K",
+      "title": "Theory and Technique of Ballet I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 22M",
+      "title": "Theory and Technique of Ballet III",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 23A",
+      "title": "Theory and Technique of Contemporary (Modern) Dance I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 23L",
+      "title": "Theory and Technique of Hip-Hop I (Popular American Dance)",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 23M",
+      "title": "Theory and Technique of Hip-Hop II (Popular American Dance II)",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 23N",
+      "title": "Theory and Technique of Hip-Hop III (Popular American Dance III)",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 24A",
+      "title": "Theory and Technique of Social Dance I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 25A",
+      "title": "Theory and Technique of Salsa Dance I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 25B",
+      "title": "Theory and Technique of Salsa Dance II",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 37A",
+      "title": "Theory and Technique of Jazz Dance I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 38A",
+      "title": "Appreciation of Dance",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ESL 6",
+      "title": "Critical Reading and Research for Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 8",
+      "title": "Children's Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 10",
+      "title": "Introduction to Fiction",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 10H",
+      "title": "Introduction to Fiction - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 11",
+      "title": "Introduction to Poetry",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 17",
+      "title": "Introduction to Shakespeare",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 17H",
+      "title": "Introduction to Shakespeare - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 19",
+      "title": "Introduction to the Bible as Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 21",
+      "title": "Women in Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 22",
+      "title": "Mythology and Folklore",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 24",
+      "title": "Asian American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 28",
+      "title": "Young Adult Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 38",
+      "title": "Utopian/Dystopian Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 39",
+      "title": "Contemporary Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 40",
+      "title": "African American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 41",
+      "title": "Ethnic Literature of the United States",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 41H",
+      "title": "Ethnic Literature of the United States - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46A",
+      "title": "Major British Writers (Medieval and Renaissance)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46AH",
+      "title": "Major British Writers (Medieval and Renaissance) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46B",
+      "title": "Major British Writers (Neo-Classical and Romantic)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46BH",
+      "title": "Major British Writers (Neo-Classical and Romantic) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46C",
+      "title": "Major British Writers (Victorian and Modern)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46CH",
+      "title": "Major British Writers (Victorian and Modern) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 47A",
+      "title": "World Literature: Antiquity to the 1500s",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 47B",
+      "title": "World Literature: Africa and Latin America",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48A",
+      "title": "Major American Writers (Colonial to Romantic, 1620-1865)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48AH",
+      "title": "Major American Writers (Colonial to Romantic, 1620-1865) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48B",
+      "title": "Major American Writers (The Advent of Realism, 1865-1914)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48BH",
+      "title": "Major American Writers (The Advent of Realism, 1865-1914) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48C",
+      "title": "Major American Writers (The Modern Age, 1914-the Present)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48CH",
+      "title": "Major American Writers (The Modern Age, 1914-the Present) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 30",
+      "title": "Introduction to Creative Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 40",
+      "title": "Fiction Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 41",
+      "title": "Poetry Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 42",
+      "title": "Introduction to Creative Nonfiction and Memoir Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "FREN 1",
+      "title": "Elementary French (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "FREN 2",
+      "title": "Elementary French (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "FREN 3",
+      "title": "Elementary French (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 1",
+      "title": "Elementary German (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 2",
+      "title": "Elementary German (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 3",
+      "title": "Elementary German (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 4",
+      "title": "Intermediate German (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 1",
+      "title": "Elementary Hindi (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 2",
+      "title": "Elementary Hindi (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 3",
+      "title": "Elementary Hindi (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6A",
+      "title": "History of Western Civilization: Pre-History to 750 C.E.",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6AH",
+      "title": "History of Western Civilization: Pre-History to 750 C.E. - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6B",
+      "title": "History of Western Civilization: 750 C.E. to 1750 C.E.",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6BH",
+      "title": "History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6C",
+      "title": "History of Western Civilization: 1750 C.E. to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6CH",
+      "title": "History of Western Civilization: 1750 C.E. to Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1",
+      "title": "Creative Minds",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1H",
+      "title": "Creative Minds - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 2",
+      "title": "But is it Art? Questions and Criticism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 5",
+      "title": "Storytelling in American Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 6",
+      "title": "Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 7",
+      "title": "The Arts and the Human Spirit",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 9",
+      "title": "Introduction to Comparative Religion",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 9H",
+      "title": "Introduction to Comparative Religion - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 10",
+      "title": "Global Religious Perspectives: Judaism, Christianity and Islam",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 13",
+      "title": "Introduction to Korean Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 15",
+      "title": "Discussion on the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 16",
+      "title": "Arts, Ideas and Values",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 18",
+      "title": "History as Mystery: A Critique of Western Perspectives in a Global Context",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 18H",
+      "title": "History as Mystery: A Critique of Western Perspectives in a Global Context - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 20",
+      "title": "The Greek Achievement",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 1",
+      "title": "Elementary Italian (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 2",
+      "title": "Elementary Italian (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 3",
+      "title": "Elementary Italian (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 1",
+      "title": "Elementary Japanese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 2",
+      "title": "Elementary Japanese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 3",
+      "title": "Elementary Japanese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 4",
+      "title": "Intermediate Japanese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 5",
+      "title": "Intermediate Japanese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 6",
+      "title": "Intermediate Japanese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 2",
+      "title": "Media and Its Impact On Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 21A",
+      "title": "News Writing and Reporting",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 21B",
+      "title": "Feature Writing and Reporting",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 50",
+      "title": "Social Media Strategies for Journalists and Content Creators",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 80",
+      "title": "Introduction to Public Relations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 1",
+      "title": "Elementary Korean (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 2",
+      "title": "Elementary Korean (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 3",
+      "title": "Elementary Korean (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 4",
+      "title": "Intermediate Korean (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "LING 1",
+      "title": "Introduction to Linguistics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 1",
+      "title": "Elementary Mandarin (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 2",
+      "title": "Elementary Mandarin (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 3",
+      "title": "Elementary Mandarin (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 4",
+      "title": "Intermediate Mandarin (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 5",
+      "title": "Intermediate Mandarin (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 6",
+      "title": "Intermediate Mandarin (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 1A",
+      "title": "Music Appreciation: Music in Western Cultures",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 1B",
+      "title": "Music Appreciation: Jazz Styles",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 1C",
+      "title": "Music Appreciation: World Music in America",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 1D",
+      "title": "Music Appreciation: Rock - From Roots to Rap",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 2",
+      "title": "Music Fundamentals",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 3A",
+      "title": "Comprehensive Musicianship (First Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 3B",
+      "title": "Comprehensive Musicianship (Second Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 3C",
+      "title": "Comprehensive Musicianship (Third Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 4A",
+      "title": "Comprehensive Musicianship II (First Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 4B",
+      "title": "Comprehensive Musicianship II (Second Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 4C",
+      "title": "Comprehensive Musicianship II (Third Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 5",
+      "title": "Music for Video Games and Film: History and Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 8",
+      "title": "Intermediate Electronic Music",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 9A",
+      "title": "Jazz Piano I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 12A",
+      "title": "Class Piano I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 12B",
+      "title": "Class Piano II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 12C",
+      "title": "Class Piano III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 13A",
+      "title": "Beginning Singing I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 13B",
+      "title": "Beginning Singing II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 13C",
+      "title": "Beginning Singing III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 14A",
+      "title": "Classical Guitar I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 14B",
+      "title": "Classical Guitar II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 14C",
+      "title": "Classical Guitar III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 14D",
+      "title": "Classical Guitar IV",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 16A",
+      "title": "Beginning Acoustic Guitar",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 16B",
+      "title": "Jazz, Blues and Popular Guitar",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 17",
+      "title": "Beginning Guitar",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 18A",
+      "title": "Intermediate Piano I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 18B",
+      "title": "Intermediate Piano II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 18C",
+      "title": "Intermediate Piano III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 20",
+      "title": "De Anza Chorale",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 21",
+      "title": "Vintage Singers",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 22",
+      "title": "Early Music Study and Performance",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 25",
+      "title": "Applied Music",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 31",
+      "title": "Chamber Orchestra",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 34",
+      "title": "Jazz Ensemble",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 42",
+      "title": "Concert Band",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 44A",
+      "title": "Composition and Arranging",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 45",
+      "title": "Jazz Combos",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 51",
+      "title": "Introduction to Electronic Music",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 53",
+      "title": "Music Business",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 13",
+      "title": "Survey of Native American Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 14",
+      "title": "Ethnic Studies and the Religious Traditions of Native Americans",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 15",
+      "title": "Ethnic Studies and Native American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 32",
+      "title": "Oceania and the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PERS 1",
+      "title": "Elementary Persian (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 1",
+      "title": "Introduction to Philosophy",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 2",
+      "title": "Social and Political Philosophy",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 3",
+      "title": "Critical Thinking and Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 4",
+      "title": "Critical Thinking",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 7",
+      "title": "Deductive Logic",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 7H",
+      "title": "Deductive Logic - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 8",
+      "title": "Ethics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 8H",
+      "title": "Ethics - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 11",
+      "title": "Asian Philosophy",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 20A",
+      "title": "History of Western Philosophy - Ancient Greece",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 20B",
+      "title": "History of Western Philosophy - 1400-1800",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 20C",
+      "title": "History of Western Philosophy - 1800-the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 24",
+      "title": "Philosophy of Religion",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 30",
+      "title": "Introduction to Existentialism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 49",
+      "title": "Women and Philosophy",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 1",
+      "title": "Basic Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 2",
+      "title": "Intermediate Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 3",
+      "title": "Advanced Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 4",
+      "title": "Introduction to Digital Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 5",
+      "title": "Intermediate Digital Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 6",
+      "title": "Photography Production Laboratory",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 7",
+      "title": "Exploring Visual Expression",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 21",
+      "title": "Contemporary Trends in Photography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 54",
+      "title": "Experimental Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 57A",
+      "title": "Commercial Lighting I",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 57B",
+      "title": "Commercial Lighting II",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 58A",
+      "title": "Photographic Photoshop I",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 58B",
+      "title": "Photographic Photoshop II",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 1",
+      "title": "Elementary Russian (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 2",
+      "title": "Elementary Russian (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 3",
+      "title": "Elementary Russian (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 1",
+      "title": "Elementary American Sign Language (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 2",
+      "title": "Elementary American Sign Language (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 3",
+      "title": "Elementary American Sign Language (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 1",
+      "title": "Elementary Spanish (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 2",
+      "title": "Elementary Spanish (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 3",
+      "title": "Elementary Spanish (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 4",
+      "title": "Intermediate Spanish (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 5",
+      "title": "Intermediate Spanish (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 6",
+      "title": "Intermediate Spanish (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "THEA 1",
+      "title": "Appreciation of Theatre",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "THEA 20A",
+      "title": "Theory and Technique of Acting (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "THEA 20B",
+      "title": "Theory and Technique of Acting (Modern Period)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "THEA 20C",
+      "title": "Theory and Technique of Acting (Classic Period)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 1",
+      "title": "Elementary Vietnamese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 2",
+      "title": "Elementary Vietnamese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 3",
+      "title": "Elementary Vietnamese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 4",
+      "title": "Intermediate Vietnamese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 5",
+      "title": "Intermediate Vietnamese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 6",
+      "title": "Intermediate Vietnamese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 3C",
+      "title": "Women and Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 21",
+      "title": "Women in Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 49",
+      "title": "Women and Philosophy",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

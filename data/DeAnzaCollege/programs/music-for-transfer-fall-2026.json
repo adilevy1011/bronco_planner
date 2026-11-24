@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:28+00:00",
+  "id": "music-for-transfer-fall-2026",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree Music for Transfer New",
+  "title_on_page": "Comprehensive Musicianship II (Third Quarter)",
+  "department": "Music",
+  "department_id": "music",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/music-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,music-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 MUSI - Music Music for Transfer AAT_Associate in Arts in Music for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree Music for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Music major consists of courses appropriate for the Associate in Arts in Music for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Associate in Arts in Music for Transfer is intended for students who plan to complete a bachelor’s degree in Music (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Apply foundational knowledge of music theory, history and cultural context to critically analyze and interpret written music and live or recorded performances Aurally identify, transcribe and compose music, demonstrating technical proficiency in music theory, harmony, sight-singing and keyboard skills Perform proficiently in a solo or ensemble setting, applying appropriate technical skills and expressive qualities on a primary instrument or voice Analyze and articulate the relationship between musical works and their historical, social and cultural contexts, demonstrating respect for social and cultural diversity De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 ",
+  "requirements": [
+    {
+      "name": "Required Core: (24 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (24 Units)"
+    },
+    {
+      "name": "Required Core - Applied Music - Repeat for Six Quarters: (6 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Applied Music - Repeat for Six Quarters: (6 Units)"
+    },
+    {
+      "name": "Required Core - Major/Specialized Ensemble - One per Quarter for Six Quarters: (12 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Major/Specialized Ensemble - One per Quarter for Six Quarters: (12 Units)"
+    },
+    {
+      "name": "List A - Satisfied through Required Core: (0 Units)",
+      "courses": [
+        "MUSI 3A",
+        "MUSI 3B",
+        "MUSI 3C",
+        "MUSI 4A",
+        "MUSI 4B",
+        "MUSI 4C",
+        "MUSI 25",
+        "MUSI 20",
+        "MUSI 21",
+        "MUSI 22",
+        "MUSI 31",
+        "MUSI 34",
+        "MUSI 42"
+      ],
+      "raw_text": "List A - Satisfied through Required Core: (0 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MUSI 3A",
+      "title": "Comprehensive Musicianship (First Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 3B",
+      "title": "Comprehensive Musicianship (Second Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 3C",
+      "title": "Comprehensive Musicianship (Third Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 4A",
+      "title": "Comprehensive Musicianship II (First Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 4B",
+      "title": "Comprehensive Musicianship II (Second Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 4C",
+      "title": "Comprehensive Musicianship II (Third Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 25",
+      "title": "Applied Music",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 20",
+      "title": "De Anza Chorale",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 21",
+      "title": "Vintage Singers",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 22",
+      "title": "Early Music Study and Performance",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 31",
+      "title": "Chamber Orchestra",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 34",
+      "title": "Jazz Ensemble",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 42",
+      "title": "Concert Band",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

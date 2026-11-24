@@ -1,0 +1,237 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:54+00:00",
+  "id": "biological-sciences-fall-2025",
+  "name": "Associate in Science (A.S.) Degree Biological Sciences",
+  "title_on_page": "Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics",
+  "department": "Biological Sciences",
+  "department_id": "biological-sciences",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/biological-sciences-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,biological-sciences-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 BIOL - Biology Biological Sciences AS_Biological Sciences Go Back Print Associate in Science (A.S.) Degree Biological Sciences New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The purpose of the Biological Sciences A.S. degree is to provide a lower-division science foundation for those interested in pursuing a bachelor's degree in Biology or Biological Sciences. This major prepares students for transfer to any University of California or California State University campus. A major in Biological Sciences prepares students for advanced academic work and for careers in civil service, industry or teaching. It also provides a background for professional training in such fields as biotechnology, public health, nutrition, laboratory and field research, medicine, dentistry, pharmacy and veterinary medicine. Program Learning Outcomes Upon completion, students will be able to Design and complete a biological research project applying scientific methods Correlate structure and function in biological systems De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or higher Major Courses Each co",
+  "requirements": [
+    {
+      "name": "Required Core: (33 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (33 Units)"
+    },
+    {
+      "name": "Option 1 - Organic Chemistry: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 1 - Organic Chemistry: (15 Units)"
+    },
+    {
+      "name": "Option 2 - Physics-General: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 2 - Physics-General: (15 Units)"
+    },
+    {
+      "name": "Option 3 - Physics-Engineers: (18 Units)",
+      "courses": [
+        "BIOL 6A",
+        "BIOL 6AH",
+        "BIOL 6B",
+        "BIOL 6C",
+        "BIOL 6CH",
+        "CHEM 1A",
+        "CHEM 1AH",
+        "CHEM 1B",
+        "CHEM 1BH",
+        "CHEM 1C",
+        "CHEM 1CH",
+        "CHEM 12A",
+        "CHEM 12B",
+        "CHEM 12C",
+        "PHYS 2A",
+        "PHYS 2B",
+        "PHYS 2C",
+        "PHYS 4A",
+        "PHYS 4B",
+        "PHYS 4C"
+      ],
+      "raw_text": "Option 3 - Physics-Engineers: (18 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BIOL 6A",
+      "title": "Form and Function in the Biological World",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6AH",
+      "title": "Form and Function in the Biological World - HONORS",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6B",
+      "title": "Cell and Molecular Biology",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6C",
+      "title": "Ecology and Evolution",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6CH",
+      "title": "Ecology and Evolution - HONORS",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1A",
+      "title": "General Chemistry I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1AH",
+      "title": "General Chemistry I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1B",
+      "title": "General Chemistry II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1BH",
+      "title": "General Chemistry II - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1C",
+      "title": "General Chemistry III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1CH",
+      "title": "General Chemistry III - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 12A",
+      "title": "Organic Chemistry I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 12B",
+      "title": "Organic Chemistry II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 12C",
+      "title": "Organic Chemistry III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 2A",
+      "title": "General Physics I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 2B",
+      "title": "General Physics II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 2C",
+      "title": "General Physics III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4A",
+      "title": "Physics for Scientists and Engineers: Mechanics",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4B",
+      "title": "Physics for Scientists and Engineers: Electricity and Magnetism",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4C",
+      "title": "Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

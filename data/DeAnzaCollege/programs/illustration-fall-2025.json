@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:31+00:00",
+  "id": "illustration-fall-2025",
+  "name": "Certificate of Achievement-Advanced (COA-A) Illustration",
+  "title_on_page": "Arts, Ideas and Values",
+  "department": "Art",
+  "department_id": "art",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/illustration-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,illustration-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ARTS - Visual Arts and Design Illustration COAA_Illustration Go Back Print Certificate of Achievement-Advanced (COA-A) Illustration New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. Our Certificate of Achievement-Advanced in Illustration is meticulously designed to immerse you in the captivating world of visual storytelling. We recognize the intricate interplay between traditional and digital media, offering a comprehensive program that seamlessly integrates both realms to equip you with the following skill sets. Foundational techniques: Begin your exploration with fundamental techniques in drawing, painting and composition, laying the groundwork for your artistic endeavors. Delve into the principles of design, color theory and perspective, mastering traditional media such as pencil, ink, watercolor, and acrylic. Digital illustration: Transition into the digital sphere as you learn to harness the power of industry-standard software like Adobe Photoshop, Illustrator, and Procreate. Discover the versatility of digital tools in creating illustrations with precision and efficiency, from concept sketching to final rendering. Narrative development: Dive deep into the art of visual storytelling, honing your ability to craft compelling narratives through imagery. Explore cultural relevancy, character development, sequential art and storyboarding techniques, cultivating your unique voice as an illustrator. Mixed media integration: Embrace the synergy between analog and digital media as you experiment with mixed media approaches. Blend traditional hand-drawn elements with digital enhancements, pushing the boundaries of creativity to new heights. Professional practices: Navigate the professional landscape of illustration with confidence, learning essential business skills such as portfolio development, client communication and self-promotion. Gain insights into freelance opportunities, illustration markets and industry trends, preparing yourself for a successful career path. Program Learning Outcomes Upon completion, students will be able to Demonstrate proficiency in both traditional analog techniques and digital illustration tools, mastering a diverse range of media, including drawing, painting, printmaking and digital software such as Adobe Photoshop, Illustrator and other emerging digital tools Exhibit a strong foundation in artistic expression and visual storytelling, leveraging their understanding of composition, color theory and narrative development to create engaging and impactful illustrations across various genres and media Demonstrate the ability to seamlessly integrate analog and digital media, utilizing traditional techniques alongside digital enhancements to push the boundaries of creativity and explore innovative approaches to illustration Demonstrate adaptability and innovation in their artistic practice, embracing emerging technologies and experimenting with new tools and techniques to continuously evolve and expand their creative repertoire Employ critical thinking and problem-solving skills to conceptualize, plan and execute illustration projects, analyzing visual challenges and developing creative solutions that effectively communicate concepts, emotions and narratives Exhibit professionalism and collaboration in their interactions with clients, colleagues and collaborators, effectively communicating ideas, receiving and incorporating feedback, and meeting project deadlines and requirements Develop a professional portfolio showcasing their illustration projects, demonstrating their technical skills, creativity and versatility as visual storytellers, and effectively presenting their work to potential clients, employers and artistic communities Demonstrate awareness of ethical considerations and cultural perspectives in illustration, respecting diverse viewpoints, representing characters and narratives authentical",
+  "requirements": [
+    {
+      "name": "Required Core: (40 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (40 Units)"
+    },
+    {
+      "name": "List A: (7 - 8 Units)",
+      "courses": [],
+      "raw_text": "List A: (7 - 8 Units)"
+    },
+    {
+      "name": "List B: (4 Units)",
+      "courses": [
+        "ARTS 1A",
+        "ARTS 4A",
+        "ARTS 4B",
+        "ARTS 4C",
+        "ARTS 8",
+        "ARTS 12",
+        "ARTS 53",
+        "ARTS 54",
+        "ARTS 63",
+        "ARTS 86",
+        "ARTS 4D",
+        "ARTS 14A",
+        "ARTS 15A",
+        "ARTS 16A",
+        "ARTS 57",
+        "HUMI 1",
+        "HUMI 1H",
+        "HUMI 6",
+        "HUMI 16"
+      ],
+      "raw_text": "List B: (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ARTS 1A",
+      "title": "Introduction to the Visual Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4A",
+      "title": "Beginning Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4B",
+      "title": "Intermediate Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4C",
+      "title": "Life Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 8",
+      "title": "Two-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 12",
+      "title": "Design and Color",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 53",
+      "title": "Introduction to Graphic Design: Vector Illustration",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 54",
+      "title": "Introduction to Graphic Design: Digital Imaging",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 63",
+      "title": "Graphic Design: Portfolio and Business Practices",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 86",
+      "title": "Graphic Design: Digital Illustration Techniques",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4D",
+      "title": "Representational Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 14A",
+      "title": "Watercolor Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 15A",
+      "title": "Acrylic Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 16A",
+      "title": "Oil Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 57",
+      "title": "Graphic Design-Visual Communication: Typography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1",
+      "title": "Creative Minds",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1H",
+      "title": "Creative Minds - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 6",
+      "title": "Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 16",
+      "title": "Arts, Ideas and Values",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

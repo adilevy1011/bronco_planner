@@ -1,0 +1,222 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:50+00:00",
+  "id": "ui-ux-user-interface-user-experience-design-fall-2026",
+  "name": "Certificate of Achievement-Advanced (COA-A) UI/UX: User Interface/User Experience Design",
+  "title_on_page": "Introduction to Social Psychology",
+  "department": "Graphic and Interactive Design",
+  "department_id": "graphic-and-interactive-design",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/ui-ux-user-interface-user-experience-design-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,ui-ux-user-interface-user-experience-design-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ARTS - Visual Arts and Design UI/UX: User Interface/User Experience Design COAA_UI/UX: User Interface/User Experience Design Go Back Print Certificate of Achievement-Advanced (COA-A) UI/UX: User Interface/User Experience Design New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. Begin your education in the dynamic realm of User Interface (UI) and User Experience (UX) design with our Certificate of Achievement-Advanced program. Rooted in the fusion of innovative digital tools, design theory, heuristics, research, and human-centered principles, this comprehensive curriculum is meticulously crafted to equip you with the skills needed to shape the future of interactive technology. Student will engage in the following: Digital tools mastery: Dive into the latest industry-standard software and tools used in UI/UX design, including Adobe XD, Figma and other emerging technologies. Through hands-on projects and tutorials, develop proficiency in creating wireframes, prototypes and interactive mockups that bring your design concepts to life. Heuristics and design principles: Learn to apply established heuristics and design guidelines to evaluate and optimize the usability and accessibility of digital interfaces across web, mobile and emerging platforms. Design theory and aesthetics: Delve into the principles of design theory, typography, color theory and visual hierarchy to create visually compelling and intuitive user interfaces. Gain insights into the psychology of perception and cognition, understanding how design choices influence user behavior and engagement. Prototyping and iterative design: Embrace an iterative design process as you prototype, test and refine your designs based on user feedback and usability testing. Explore rapid prototyping techniques, including paper prototyping, low-fidelity wireframes and high-fidelity interactive prototypes, to iterate and iterate quickly. Project-based learning: Apply your skills and knowledge to real-world projects, collaborating with peers to solve complex design challenges. From conceptualizing innovative product concepts to designing user-friendly interfaces, you'll gain practical experience that prepares you for success in the field. Program Learning Outcomes Upon completion, students will be able to Demonstrate awareness of digital tools as an effective and important aspect of user interface design Demonstrate the ability to apply user-centered design principles and methodologies to create intuitive, accessible and engaging digital experiences that meet the needs and preferences of diverse user demographics Demonstrate proficiency in heuristic methods, problem-solving and critical thinking, employing analytical and creative strategies to identify user pain points, anticipate user needs and propose innovative design solutions that address complex design challenges Demonstrate strong visual communication skills, utilizing typography, color theory, layout design and visual hierarchy to craft visually compelling and cohesive user interfaces that enhance usability, readability and brand identity Demonstrate a proficient application of prototyping techniques and iterative design processes, utilizing industry-standard tools to rapidly develop and refine interactive prototypes that effectively communicate design concepts and gather user feedback De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College C",
+  "requirements": [
+    {
+      "name": "Required Core: (37.5 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (37.5 Units)"
+    },
+    {
+      "name": "List A: (7 - 8 Units)",
+      "courses": [],
+      "raw_text": "List A: (7 - 8 Units)"
+    },
+    {
+      "name": "List B: (4 - 5 Units)",
+      "courses": [
+        "ARTS 8",
+        "ARTS 10A",
+        "ARTS 12",
+        "ARTS 53",
+        "ARTS 54",
+        "ARTS 56",
+        "ARTS 65",
+        "BUS 90",
+        "CIS 89A",
+        "ARTS 1A",
+        "ARTS 4A",
+        "ARTS 57",
+        "ARTS 85",
+        "PHTG 4",
+        "ANTH 2",
+        "ANTH 2H",
+        "BUS 94",
+        "CIS 2",
+        "PSYC 8"
+      ],
+      "raw_text": "List B: (4 - 5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ARTS 8",
+      "title": "Two-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10A",
+      "title": "Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 12",
+      "title": "Design and Color",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 53",
+      "title": "Introduction to Graphic Design: Vector Illustration",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 54",
+      "title": "Introduction to Graphic Design: Digital Imaging",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 56",
+      "title": "Graphic Design: UI Prototyping and Digital Publishing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 65",
+      "title": "Graphic Design: UI/UX",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 90",
+      "title": "Principles of Marketing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 89A",
+      "title": "Web Page Development",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 1A",
+      "title": "Introduction to the Visual Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4A",
+      "title": "Beginning Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 57",
+      "title": "Graphic Design-Visual Communication: Typography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 85",
+      "title": "Graphic Design: Motion Graphics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 4",
+      "title": "Introduction to Digital Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 94",
+      "title": "Social Media Marketing Strategies",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 2",
+      "title": "Computers and the Internet in Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 8",
+      "title": "Introduction to Social Psychology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

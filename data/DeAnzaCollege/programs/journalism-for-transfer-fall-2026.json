@@ -1,0 +1,192 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:01+00:00",
+  "id": "journalism-for-transfer-fall-2026",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree Journalism for Transfer",
+  "title_on_page": "Introduction to Statistics - HONORS",
+  "department": "Journalism",
+  "department_id": "journalism",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/journalism-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,journalism-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 JOUR - Journalism Journalism for Transfer AAT_Associate in Arts in Journalism for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree Journalism for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Journalism major consists of courses appropriate for the Associate in Arts in Journalism for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). Jobs in the field include journalist, multimedia producer, editor, writer, publication designer, copy editor, social media specialist, content producer, newsletter editor, public relations representative, publicist, sportswriter and photojournalist. The Associate in Arts in Journalism for Transfer is intended for students who plan to complete a bachelor’s degree in Journalism (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Demonstrate competency in the basics of journalistic writing, including grammar, punctuation, story structure and journalistic styles Demonstrate competency in research, information gathering and critical analysis of information using techniques such as observation, researching sources and interviewing Compile a portfolio of print, electronic and/or multimedia projects that tell journalistic stories Apply media literacy skills to explain the communication process and detect media bias Identify and apply the steps appropriate to gain employment in a mass communications industry De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requir",
+  "requirements": [
+    {
+      "name": "Required Core: (13 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (13 Units)"
+    },
+    {
+      "name": "Option 1: (6 Units)",
+      "courses": [],
+      "raw_text": "Option 1: (6 Units)"
+    },
+    {
+      "name": "Option 2: (4 Units)",
+      "courses": [],
+      "raw_text": "Option 2: (4 Units)"
+    },
+    {
+      "name": "Option 3: (4 Units)",
+      "courses": [],
+      "raw_text": "Option 3: (4 Units)"
+    },
+    {
+      "name": "List B: (11 - 15 Units)",
+      "courses": [
+        "JOUR 2",
+        "JOUR 21A",
+        "JOUR 21B",
+        "JOUR 61A",
+        "JOUR 61B",
+        "JOUR 61C",
+        "JOUR 80",
+        "JOUR 90",
+        "COMM 8",
+        "COMM 8H",
+        "PHTG 4",
+        "POLI 2",
+        "POLI 20",
+        "PSYC 15",
+        "SOC 15"
+      ],
+      "raw_text": "List B: (11 - 15 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "JOUR 2",
+      "title": "Media and Its Impact On Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 21A",
+      "title": "News Writing and Reporting",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 21B",
+      "title": "Feature Writing and Reporting",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 61A",
+      "title": "Student News Media Production I",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 61B",
+      "title": "Student News Media Production II",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 61C",
+      "title": "Editorial Leadership for Student News Media",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 80",
+      "title": "Introduction to Public Relations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 90",
+      "title": "Introduction to Multimedia Reporting",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 8",
+      "title": "Argumentation and Critical Inquiry in Oral Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 8H",
+      "title": "Argumentation and Critical Inquiry in Oral Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 4",
+      "title": "Introduction to Digital Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 2",
+      "title": "Comparative Politics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 20",
+      "title": "Introduction to Statistics for the Behavioral and Social Sciences",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

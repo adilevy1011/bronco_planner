@@ -1,0 +1,262 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:06+00:00",
+  "id": "applied-artificial-intelligence-fall-2026v2v3",
+  "name": "Certificate of Achievement-Advanced (COA-A) Applied Artificial Intelligence",
+  "title_on_page": "Introduction to Natural Language Processing",
+  "department": "Computer Science and Information Systems",
+  "department_id": "computer-science-and-information-systems",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/applied-artificial-intelligence-fall-2026v2v3",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,applied-artificial-intelligence-fall-2026v2v3?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 CIS - Computer Sci and Info Systems Applied Artificial Intelligence COAA_Applied Artificial Intelligence Go Back Print Certificate of Achievement-Advanced (COA-A) Applied Artificial Intelligence New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement-Advanced in Applied Artificial Intelligence (AI) builds on the knowledge gained in the Certificate of Achievement. Students will work with more in-depth machine learning and AI modules, toolkits and frameworks to solve hands-on applications with real-world data. Students will also use programming skills and math and statistics techniques to apply and evaluate both classical and deep learning models. The certificate culminates in a capstone project where students apply AI skills and knowledge in a real-world application. Program Learning Outcomes Upon completion, students will be able to Explain machine learning concepts, identify machine learning problems, and apply and evaluate machine learning models Explain statistics and math concepts in machine learning algorithms Implement and apply basic deep learning algorithms and models, and interpret and evaluate the results Explain natural language processing (NLP) concepts and implementation, and apply and evaluate NLP algorithms in human language applications De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or E",
+  "requirements": [
+    {
+      "name": "Required Core: (25.5 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (25.5 Units)"
+    },
+    {
+      "name": "Option 1: (9.5 Units)",
+      "courses": [],
+      "raw_text": "Option 1: (9.5 Units)"
+    },
+    {
+      "name": "Option 2: (6.5 Units)",
+      "courses": [],
+      "raw_text": "Option 2: (6.5 Units)"
+    },
+    {
+      "name": "Option 1 - Deep Learning: (9 Units)",
+      "courses": [],
+      "raw_text": "Option 1 - Deep Learning: (9 Units)"
+    },
+    {
+      "name": "Option 2 - Data Analytics: (8.5 - 9 Units)",
+      "courses": [],
+      "raw_text": "Option 2 - Data Analytics: (8.5 - 9 Units)"
+    },
+    {
+      "name": "Option 3 - Software Engineering: (9 Units)",
+      "courses": [],
+      "raw_text": "Option 3 - Software Engineering: (9 Units)"
+    },
+    {
+      "name": "Option 4 - General: (8.5 - 9 Units)",
+      "courses": [
+        "CIS 17A",
+        "CIS 17B",
+        "CIS 40",
+        "CIS 51",
+        "CIS 67",
+        "CIS 82Y",
+        "CIS 7",
+        "CIS 11",
+        "CIS 111X",
+        "CIS 78",
+        "CIS 80",
+        "CIS 44A",
+        "CIS 44F",
+        "CIS 64B",
+        "CIS 64C",
+        "CIS 64G",
+        "CIS 22C",
+        "CIS 22CH",
+        "CIS 41A",
+        "CIS 41B",
+        "CIS 44H"
+      ],
+      "raw_text": "Option 4 - General: (8.5 - 9 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CIS 17A",
+      "title": "Introduction to Machine Learning",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 17B",
+      "title": "Foundations of Machine Learning",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 40",
+      "title": "Introduction to Programming in Python",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 51",
+      "title": "Introduction to Prompt Engineering",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 67",
+      "title": "Implementing Responsible AI",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 82Y",
+      "title": "Current Topics in Computer Information Systems",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 7",
+      "title": "Introduction to Artificial Intelligence",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 11",
+      "title": "Foundations of Data Science for All",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 111X",
+      "title": "Support for Foundations of Data Science for All",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 78",
+      "title": "Introduction to Deep Learning",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 80",
+      "title": "Introduction to Natural Language Processing",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 44A",
+      "title": "Database Management Systems",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 44F",
+      "title": "Introduction to Big Data and Analytics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 64B",
+      "title": "Introduction to SQL",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 64C",
+      "title": "Introduction to PL/SQL",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 64G",
+      "title": "Data Visualization Methodology and Tools",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22C",
+      "title": "Data Abstraction and Structures",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22CH",
+      "title": "Data Abstraction and Structures - HONORS",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 41A",
+      "title": "Python Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 41B",
+      "title": "Advanced Python Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 44H",
+      "title": "R Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

@@ -327,19 +327,31 @@ def write_outputs(results: list[dict], departments: list[dict], force: bool = Fa
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--only", action="append", help="Scrape only this exact program name; repeatable")
+    parser.add_argument("--program", "--only", dest="program", action="append", help="Scrape only this exact program name; repeatable")
     parser.add_argument(
         "--department", action="append",
         help="Refresh only this department catalog by id or exact name; repeatable",
     )
+    parser.add_argument("--all-programs", action="store_true", help="Scrape every discovered program")
+    parser.add_argument("--all-departments", action="store_true", help="Refresh every discovered department catalog")
     parser.add_argument("--force", action="store_true", help="re-scrape and replace all selected data")
     args = parser.parse_args()
-    programs = load_program_urls()
+    all_programs = load_program_urls()
+    program_filter = set(args.program or [])
+    if program_filter:
+        wanted = {value.strip() for value in program_filter}
+        selected_programs = [p for p in all_programs if p["name"] in wanted]
+        missing = wanted - {p["name"] for p in selected_programs}
+        if missing:
+            parser.error(f"program not found in cpp_urls.json: {', '.join(sorted(missing))}")
+    else:
+        selected_programs = all_programs
+
     if args.department:
         wanted_departments = {value.strip().lower() for value in args.department}
         department_matches = {
             program["department_id"]: program["department"]
-            for program in programs
+            for program in all_programs
             if program["department_id"] in wanted_departments
             or program["department"].lower() in wanted_departments
         }
@@ -351,17 +363,31 @@ def main() -> int:
                 "department not found: " + ", ".join(sorted(missing_departments))
                 + ". Use a department id such as mathematics-and-statistics."
             )
-        programs = [
-            program for program in programs
+        department_programs = [
+            program for program in all_programs
             if program["department_id"] in department_matches
         ]
-    if args.only:
-        wanted = set(args.only)
-        programs = [p for p in programs if p["name"] in wanted]
-        missing = wanted - {p["name"] for p in programs}
-        if missing:
-            parser.error(f"program not found in cpp_urls.json: {', '.join(sorted(missing))}")
-    if not programs:
+    else:
+        department_programs = all_programs
+
+    if args.all_departments:
+        department_programs = all_programs
+    elif (args.program or args.all_programs) and not args.department:
+        department_programs = []
+
+    if args.program and args.department:
+        department_programs = [p for p in department_programs if p["name"] in {item["name"] for item in selected_programs}]
+
+    if args.all_programs:
+        programs_to_scrape = selected_programs
+    elif args.program:
+        programs_to_scrape = selected_programs
+    elif args.department or args.all_departments:
+        programs_to_scrape = []
+    else:
+        programs_to_scrape = all_programs
+
+    if not department_programs and not programs_to_scrape:
         parser.error("no programs found")
 
     results, departments, detail_cache = [], [], {}
@@ -370,7 +396,7 @@ def main() -> int:
     department_records = {}
     output_departments = {}
     department_groups = {}
-    for program in programs:
+    for program in department_programs:
         department_groups.setdefault(program["department_id"], []).append(program)
     with sync_playwright() as playwright:
         browser = playwright.chromium.launch(headless=True)
@@ -408,12 +434,6 @@ def main() -> int:
                     skipped_departments += 1
             except Exception as error:
                 print(f"  ERROR scraping department {department_info['name']}: {error}", file=sys.stderr)
-        # --department is intentionally department-only: it refreshes the
-        # complete department course inventory without revisiting its programs.
-        if args.department:
-            programs_to_scrape = []
-        else:
-            programs_to_scrape = programs
         for program in programs_to_scrape:
             program_path = PROGRAMS_DIR / f"{program['id']}.json"
             if program_path.exists() and not args.force:

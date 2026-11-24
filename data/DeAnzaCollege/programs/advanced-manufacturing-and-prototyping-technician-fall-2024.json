@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:24+00:00",
+  "id": "advanced-manufacturing-and-prototyping-technician-fall-2024",
+  "name": "Certificate of Achievement-Advanced (COA-A) Advanced Manufacturing and Prototyping Technician",
+  "title_on_page": "CAD/CAM Based CNC Surface Contouring Programming Using Mastercam",
+  "department": "Design and Manufacturing Technologies",
+  "department_id": "design-and-manufacturing-technologies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/advanced-manufacturing-and-prototyping-technician-fall-2024",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,advanced-manufacturing-and-prototyping-technician-fall-2024?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 DMT - Design and Mfg. Tech. Advanced Manufacturing and Prototyping Technician COAA_Advanced Manufacturing and Prototyping Technician Go Back Print Certificate of Achievement-Advanced (COA-A) Advanced Manufacturing and Prototyping Technician New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. This Certificate of Achievement-Advanced covers the fundamentals of advanced manufacturing prototype and product development. Students learn to render digital designs using CAD/CAM software and produce three-dimensional models and prototypes using 3D printing/additive manufacturing (AM), CNC machining/subtractive manufacturing, or a combination of these processes. Additional topics include the safe setup and operation of 3D printers and CNC equipment, determination of processes and materials to be used for prototype development and production, and the inspection and testing of finished items. Upon completion, students are prepared for a range of advanced manufacturing and product development occupations including industrial and mechanical engineering technicians and prototype and model makers across multiple industry sectors, including medical, technology, aerospace, transportation, and consumer products. Advanced Manufacturing and Prototyping Technician program completers will also develop strong cross-disciplinary skills in 3D printing/AM and CNC machining to pursue career opportunities as members of industrial design and new product introduction teams. Program Learning Outcomes Upon completion, students will be able to Construct and inspect machined projects using conventional and CNC equipment that uses word address programs Create and manipulate designs for three-dimensional prototypes and models using CAD/CAM software Design and construct three-dimensional objects Differentiate and analyze the materials and processes used in subtractive and additive manufacturing Create part geometry using SolidWorks or Creo/Pro Engineer CAD software Utilize CAD software to produce and optimize design drawings for 3D printing/additive manufacturing, factoring geometric dimensioning and tolerancing (GD&T) considerations Differentiate and analyze the materials and processes used in manufacturing Produce prototypes and models using 3D printing/additive manufacturing processes and materials as per ANSI/ISO Standards Create tool paths for CNC machining using constructed and imported geometry in Mastercam Produce tool paths with constructed and imported geometry using Mastercam Construct machined projects using conventional and CNC equipment employing word address programming (G & M code) Inspect and test finished prototypes and parts Recommend design and production modifications as necessary De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass ",
+  "requirements": [
+    {
+      "name": "Required Core: (31 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (31 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [],
+      "raw_text": "List A: (4 Units)"
+    },
+    {
+      "name": "List B: (5 Units)",
+      "courses": [],
+      "raw_text": "List B: (5 Units)"
+    },
+    {
+      "name": "List C: (5 Units)",
+      "courses": [
+        "DMT 53",
+        "DMT 54",
+        "DMT 56",
+        "DMT 80",
+        "DMT 84A",
+        "DMT 92",
+        "DMT 95",
+        "DMT 60A",
+        "DMT 60B",
+        "DMT 60C",
+        "DMT 60D",
+        "DMT 60E",
+        "DMT 65A",
+        "DMT 65B",
+        "DMT 65C",
+        "DMT 65D",
+        "DMT 65E",
+        "DMT 87E",
+        "DMT 87K"
+      ],
+      "raw_text": "List C: (5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "DMT 53",
+      "title": "Introduction to 3D Printing/Additive Manufacturing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 54",
+      "title": "3D Printing/Additive Manufacturing: Applications and Practice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 56",
+      "title": "3D Printing for AM Support Technicians and Operators",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 80",
+      "title": "Introduction to Machining and CNC Processes",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 84A",
+      "title": "Introduction to CNC Programming and Operation; Mill",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 92",
+      "title": "Applied GD&T (ASME Y14.5m); Coordinate Measuring Machines (CMM)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 95",
+      "title": "Manufacturing Materials and Processes",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60A",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60B",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60C",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60D",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60E",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65A",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65B",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65C",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65D",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65E",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 87E",
+      "title": "CAD/CAM Programming Using Mastercam",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 87K",
+      "title": "CAD/CAM Based CNC Surface Contouring Programming Using Mastercam",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

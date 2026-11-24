@@ -1,0 +1,287 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:44+00:00",
+  "id": "sociology-for-transfer-fall-2026",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree Sociology for Transfer",
+  "title_on_page": "Sociology of Globalization and Social Change",
+  "department": "Sociology",
+  "department_id": "sociology",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/sociology-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,sociology-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 SOC - Sociology Sociology for Transfer AAT_Associate in Arts in Sociology for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree Sociology for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Sociology major consists of courses appropriate for the Associate in Arts in Sociology for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Associate in Arts in Sociology for Transfer is intended for students who plan to complete a bachelor’s degree in Sociology (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Apply the sociological imagination to analyze and evaluate real world situations and problems Demonstrate the above capacity (first outcome) in written or oral communication De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Edu",
+  "requirements": [
+    {
+      "name": "Area 1: (8 Units)",
+      "courses": [],
+      "raw_text": "Area 1: (8 Units)"
+    },
+    {
+      "name": "Area 2: (4 - 5 Units)",
+      "courses": [],
+      "raw_text": "Area 2: (4 - 5 Units)"
+    },
+    {
+      "name": "List A - Complete from below or from Required Core (not already taken): (12 Units)",
+      "courses": [],
+      "raw_text": "List A - Complete from below or from Required Core (not already taken): (12 Units)"
+    },
+    {
+      "name": "List B - Complete from below or from Required Core or List A (not already taken): (4 Units)",
+      "courses": [
+        "SOC 1",
+        "SOC 20",
+        "PSYC 15",
+        "SOC 15",
+        "PSYC 8",
+        "SOC 14",
+        "SOC 28",
+        "WMST 28",
+        "SOC 29",
+        "CETH 10",
+        "SOC 35",
+        "ADMJ 10",
+        "SOC 10",
+        "ADMJ 51",
+        "SOC 51",
+        "ADMJ 54",
+        "GEO 10",
+        "ICS 17",
+        "ICS 17H",
+        "ICS 19",
+        "POLI 17",
+        "ICS 27",
+        "POLI 17H",
+        "ICS 27H",
+        "SOC 5"
+      ],
+      "raw_text": "List B - Complete from below or from Required Core or List A (not already taken): (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "SOC 1",
+      "title": "Introduction to Sociology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 20",
+      "title": "Social Problems",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 8",
+      "title": "Introduction to Social Psychology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 14",
+      "title": "The Process of Social Research",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 28",
+      "title": "Sociology of Gender",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 28",
+      "title": "Sociology of Gender",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 29",
+      "title": "Sociology of Structural Racism in the United States",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 10",
+      "title": "Introduction to Ethnic Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 35",
+      "title": "Marriage, Family, and Intimate Relationships",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 10",
+      "title": "Crime and Criminology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 10",
+      "title": "Crime and Criminology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 51",
+      "title": "Women in Crime",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 51",
+      "title": "Women in Crime",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 54",
+      "title": "Youth and the Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 10",
+      "title": "World Regional Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 17",
+      "title": "Critical Consciousness and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 17H",
+      "title": "Critical Consciousness and Social Change - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 19",
+      "title": "Making a Difference: Transforming Relations of Nature, Community, and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 17",
+      "title": "Grassroots Democracy: Leadership and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 27",
+      "title": "Grassroots Democracy: Leadership and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 17H",
+      "title": "Grassroots Democracy: Leadership and Power - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 27H",
+      "title": "Grassroots Democracy: Leadership and Power - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 5",
+      "title": "Sociology of Globalization and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

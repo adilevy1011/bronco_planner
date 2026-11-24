@@ -1,0 +1,327 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:25+00:00",
+  "id": "medical-laboratory-technology-fall-2026v2",
+  "name": "Associate in Arts (A.A.) Degree Medical Laboratory Technology",
+  "title_on_page": "Clinical Chemistry Practicum",
+  "department": "Medical Laboratory Technology",
+  "department_id": "medical-laboratory-technology",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/medical-laboratory-technology-fall-2026v2",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,medical-laboratory-technology-fall-2026v2?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 HTEC - Health Technologies Medical Laboratory Technology AA_Medical Laboratory Technology Go Back Print Associate in Arts (A.A.) Degree Medical Laboratory Technology New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The A.A. degree in Medical Laboratory Technology is a 24-month course of study (including summers) that prepares students for a career as a medical laboratory technician through classroom study and supervised clinical training. The MLT program provides students with a quality education that complies with the established standards and guidelines of an accredited laboratory training program. Graduates of the degree program are eligible to sit for a state-approved national MLT certification examination. Program Learning Outcomes Upon completion, students will be able to Pass a state approved national medical laboratory certification exam De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or higher Major Courses Each course listed as a program requirement (excluding GE requirements) must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepte",
+  "requirements": [
+    {
+      "name": "Prerequisite - List A: (16 Units)",
+      "courses": [],
+      "raw_text": "Prerequisite - List A: (16 Units)"
+    },
+    {
+      "name": "Option 1: (18 Units)",
+      "courses": [],
+      "raw_text": "Option 1: (18 Units)"
+    },
+    {
+      "name": "Option 2: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 2: (15 Units)"
+    },
+    {
+      "name": "Required Core: (57 Units)",
+      "courses": [
+        "BIOL 26",
+        "CHEM 30A",
+        "CHEM 30B",
+        "BIOL 6A",
+        "BIOL 6AH",
+        "BIOL 6B",
+        "BIOL 6C",
+        "BIOL 6CH",
+        "BIOL 40A",
+        "BIOL 40B",
+        "BIOL 40C",
+        "HTEC 80A",
+        "HTEC 80",
+        "HTEC 81A",
+        "HTEC 81",
+        "HTEC 82A",
+        "HTEC 82",
+        "HTEC 83A",
+        "HTEC 83",
+        "HTEC 84A",
+        "HTEC 84",
+        "HTEC 85C",
+        "HTEC 85A",
+        "HTEC 85D",
+        "HTEC 85B",
+        "HTEC 180",
+        "HTEC 183",
+        "HTEC 184",
+        "HTEC 185"
+      ],
+      "raw_text": "Required Core: (57 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BIOL 26",
+      "title": "Introductory Microbiology",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 30A",
+      "title": "Introduction to General, Organic and Biochemistry I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 30B",
+      "title": "Introduction to General, Organic and Biochemistry II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6A",
+      "title": "Form and Function in the Biological World",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6AH",
+      "title": "Form and Function in the Biological World - HONORS",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6B",
+      "title": "Cell and Molecular Biology",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6C",
+      "title": "Ecology and Evolution",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6CH",
+      "title": "Ecology and Evolution - HONORS",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40A",
+      "title": "Human Anatomy and Physiology I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40B",
+      "title": "Human Anatomy and Physiology II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40C",
+      "title": "Human Anatomy and Physiology III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 80A",
+      "title": "Clinical Hematology Lecture",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 80",
+      "title": "Clinical Hematology Laboratory",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 81A",
+      "title": "Clinical Urinalysis Lecture",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 81",
+      "title": "Clinical Urinalysis Laboratory",
+      "units": "0.75",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 82A",
+      "title": "Clinical Coagulation Lecture",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 82",
+      "title": "Clinical Coagulation Laboratory",
+      "units": "0.75",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 83A",
+      "title": "Clinical Microbiology Lecture",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 83",
+      "title": "Clinical Microbiology Laboratory",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 84A",
+      "title": "Clinical Immunology/Immunohematology Lecture",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 84",
+      "title": "Clinical Immunology/Immunohematology Laboratory",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 85C",
+      "title": "Clinical Chemistry Lecture: Analytical Chemistry and Quantitative Analysis I with Biochemistry",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 85A",
+      "title": "Clinical Chemistry Laboratory: Analytical Chemistry and Quantitative Analysis I with Biochemistry",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 85D",
+      "title": "Clinical Chemistry Lecture: Analytical Chemistry and Quantitative Analysis II with Automation",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 85B",
+      "title": "Clinical Chemistry Laboratory: Analytical Chemistry and Quantitative Analysis II with Automation",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 180",
+      "title": "Clinical Hematology/Urinalysis/Coagulation Practicum",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 183",
+      "title": "Clinical Microbiology Practicum",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 184",
+      "title": "Clinical Immunology/Immunohematology Practicum",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 185",
+      "title": "Clinical Chemistry Practicum",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

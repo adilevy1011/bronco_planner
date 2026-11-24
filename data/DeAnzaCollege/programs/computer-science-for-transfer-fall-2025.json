@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:08+00:00",
+  "id": "computer-science-for-transfer-fall-2025",
+  "name": "Associate in Science for Transfer (A.S.-T.) Degree Computer Science for Transfer",
+  "title_on_page": "Java Programming",
+  "department": "Computer Science and Information Systems",
+  "department_id": "computer-science-and-information-systems",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/computer-science-for-transfer-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,computer-science-for-transfer-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 CIS - Computer Sci and Info Systems Computer Science for Transfer AST_Associate in Science in Computer Science for Transfer Go Back Print Associate in Science for Transfer (A.S.-T.) Degree Computer Science for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Computer Science major consists of courses appropriate for the Associate in Science in Computer Science for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). It is a starting point for students who are preparing for careers in software engineering, network administration and data base management, where scientific and technical skills are in great demand. It also provides a foundation for majors in physical science, math and engineering. The Associate in Science in Computer Science for Transfer is intended for students who plan to complete a bachelor’s degree in Computer Science (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Create, design, implement and debug solutions for computing systems of different levels of complexity using an object orientated language Create, design, implement and debug solutions for low-level systems using assembly language De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least",
+  "requirements": [
+    {
+      "name": "Required Core: (36.5 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (36.5 Units)"
+    },
+    {
+      "name": "Option 1: (13.5 Units)",
+      "courses": [],
+      "raw_text": "Option 1: (13.5 Units)"
+    },
+    {
+      "name": "Option 2: (9 Units)",
+      "courses": [
+        "CIS 21JA",
+        "MATH 1A",
+        "MATH 1AH",
+        "MATH 1B",
+        "MATH 1BH",
+        "MATH 1C",
+        "MATH 1CH",
+        "MATH 22",
+        "MATH 22H",
+        "PHYS 4A",
+        "PHYS 4B",
+        "CIS 22A",
+        "CIS 22B",
+        "CIS 22BH",
+        "CIS 22C",
+        "CIS 22CH",
+        "CIS 35A"
+      ],
+      "raw_text": "Option 2: (9 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CIS 21JA",
+      "title": "Introduction to x86 Processor Assembly Language and Computer Architecture",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1A",
+      "title": "Calculus I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1AH",
+      "title": "Calculus I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1B",
+      "title": "Calculus II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1BH",
+      "title": "Calculus II - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1C",
+      "title": "Calculus III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1CH",
+      "title": "Calculus III - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 22",
+      "title": "Discrete Mathematics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 22H",
+      "title": "Discrete Mathematics - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4A",
+      "title": "Physics for Scientists and Engineers: Mechanics",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4B",
+      "title": "Physics for Scientists and Engineers: Electricity and Magnetism",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22A",
+      "title": "Beginning Programming Methodologies in C++",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22B",
+      "title": "Intermediate Programming Methodologies in C++",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22BH",
+      "title": "Intermediate Programming Methodologies in C++ - HONORS",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22C",
+      "title": "Data Abstraction and Structures",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22CH",
+      "title": "Data Abstraction and Structures - HONORS",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 35A",
+      "title": "Java Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

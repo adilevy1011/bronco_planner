@@ -1,0 +1,1162 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:46+00:00",
+  "id": "global-studies-fall-2026",
+  "name": "Associate in Arts (A.A.) Degree Global Studies",
+  "title_on_page": "Introduction to Linguistics",
+  "department": "Global Studies",
+  "department_id": "global-studies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/global-studies-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,global-studies-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 INTL - International Studies Global Studies AA_Global Studies Go Back Print Associate in Arts (A.A.) Degree Global Studies New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Global Studies A.A. degree is an interdisciplinary program that prepares students to be well-versed in world history, global issues and perspectives, geography and cultural competence as well as proficient in a foreign language. Elective options direct students to a course of study focused on world history, international business, globalization issues, language and culture and the arts and humanities in the global environment. Students can take electives within one area of study, or mix electives from the various areas. The program prepares students for careers as citizens of the world and to navigate and communicate in a global environment. Program Learning Outcomes Upon completion, students will be able to Integrate information about the environment, cultures, histories, politics, arts and economics of people around the world and explain their interdependence and interconnectedness Demonstrate cultural competence through the ability to interact effectively in international and multicultural settings based on an integrated understanding of global issues and perspectives Demonstrate proficiency in a foreign language De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENG",
+  "requirements": [
+    {
+      "name": "Required Core: (25 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (25 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [],
+      "raw_text": "List A: (4 Units)"
+    },
+    {
+      "name": "Option 1: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 1: (0 - 15 Units)"
+    },
+    {
+      "name": "Option 2: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 2: (0 - 15 Units)"
+    },
+    {
+      "name": "Option 3: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 3: (0 - 15 Units)"
+    },
+    {
+      "name": "Option 4: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 4: (0 - 15 Units)"
+    },
+    {
+      "name": "Option 5: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 5: (0 - 15 Units)"
+    },
+    {
+      "name": "Option 6: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 6: (0 - 15 Units)"
+    },
+    {
+      "name": "Option 7: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 7: (0 - 15 Units)"
+    },
+    {
+      "name": "Option 8: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 8: (0 - 15 Units)"
+    },
+    {
+      "name": "Option 9: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 9: (0 - 15 Units)"
+    },
+    {
+      "name": "Option 10: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 10: (0 - 15 Units)"
+    },
+    {
+      "name": "Option 11: (0 - 15 Units)",
+      "courses": [],
+      "raw_text": "Option 11: (0 - 15 Units)"
+    },
+    {
+      "name": "Arts and Humanities: (0 - 24 Units)",
+      "courses": [],
+      "raw_text": "Arts and Humanities: (0 - 24 Units)"
+    },
+    {
+      "name": "Global Environment: (0 - 18 Units)",
+      "courses": [],
+      "raw_text": "Global Environment: (0 - 18 Units)"
+    },
+    {
+      "name": "Globalization Issues: (0 - 21 Units)",
+      "courses": [],
+      "raw_text": "Globalization Issues: (0 - 21 Units)"
+    },
+    {
+      "name": "International Business: (0 - 24 Units)",
+      "courses": [],
+      "raw_text": "International Business: (0 - 24 Units)"
+    },
+    {
+      "name": "World History: (0 - 24 Units)",
+      "courses": [],
+      "raw_text": "World History: (0 - 24 Units)"
+    },
+    {
+      "name": "World Languages: (0 - 8 Units)",
+      "courses": [
+        "ANTH 2",
+        "ANTH 2H",
+        "COMM 7",
+        "COMM 7H",
+        "GEO 10",
+        "INTL 5",
+        "LIB 1",
+        "HIST 3A",
+        "HIST 3AH",
+        "HIST 3B",
+        "HIST 3BH",
+        "HIST 3C",
+        "HIST 3CH",
+        "FREN 1",
+        "FREN 2",
+        "FREN 3",
+        "GERM 1",
+        "GERM 2",
+        "GERM 3",
+        "GERM 4",
+        "HNDI 1",
+        "HNDI 2",
+        "HNDI 3",
+        "ITAL 1",
+        "ITAL 2",
+        "ITAL 3",
+        "JAPN 1",
+        "JAPN 2",
+        "JAPN 3",
+        "JAPN 4",
+        "JAPN 5",
+        "JAPN 6",
+        "KORE 1",
+        "KORE 2",
+        "KORE 3",
+        "KORE 4",
+        "MAND 1",
+        "MAND 2",
+        "MAND 3",
+        "MAND 4",
+        "MAND 5",
+        "MAND 6",
+        "RUSS 1",
+        "RUSS 2",
+        "RUSS 3",
+        "SIGN 1",
+        "SIGN 2",
+        "SIGN 3",
+        "SPAN 1",
+        "SPAN 2",
+        "SPAN 3",
+        "SPAN 4",
+        "SPAN 5",
+        "SPAN 6",
+        "VIET 1",
+        "VIET 2",
+        "VIET 3",
+        "VIET 4",
+        "VIET 5",
+        "VIET 6",
+        "ARTS 2A",
+        "ARTS 2B",
+        "ARTS 2C",
+        "ARTS 2D",
+        "ARTS 2H",
+        "ARTS 2J",
+        "ARTS 3TC",
+        "WMST 3C",
+        "ASAM 32",
+        "ASAM 40",
+        "ARTS 2G",
+        "ASAM 41",
+        "HUMI 13",
+        "HUMI 9",
+        "HUMI 9H",
+        "HUMI 10",
+        "MUSI 1C",
+        "ESCI 19",
+        "GEO 1",
+        "BUS 21",
+        "CIS 2",
+        "INTL 33",
+        "POLI 3",
+        "SOC 1",
+        "BUS 56",
+        "BUS 60",
+        "BUS 70",
+        "BUS 87",
+        "BUS 89",
+        "BUS 90",
+        "ANTH 4",
+        "HIST 6A",
+        "HIST 6AH",
+        "HIST 6B",
+        "HIST 6BH",
+        "HIST 6C",
+        "HIST 6CH",
+        "HIST 7A",
+        "HIST 7B",
+        "HIST 16A",
+        "HIST 16B",
+        "HIST 19A",
+        "HIST 19B",
+        "ANTH 6",
+        "LING 1"
+      ],
+      "raw_text": "World Languages: (0 - 8 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7",
+      "title": "Intercultural Communication",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7H",
+      "title": "Intercultural Communication - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 10",
+      "title": "World Regional Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 5",
+      "title": "Contemporary Global Issues",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "LIB 1",
+      "title": "Library Research Skills",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3A",
+      "title": "World History from Prehistory to 750 CE",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3AH",
+      "title": "World History from Prehistory to 750 CE - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3B",
+      "title": "World History from 750 to 1750 CE",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3BH",
+      "title": "World History from 750 to 1750 CE - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3C",
+      "title": "World History from 1750 CE to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3CH",
+      "title": "World History from 1750 CE to the Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "FREN 1",
+      "title": "Elementary French (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "FREN 2",
+      "title": "Elementary French (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "FREN 3",
+      "title": "Elementary French (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 1",
+      "title": "Elementary German (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 2",
+      "title": "Elementary German (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 3",
+      "title": "Elementary German (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 4",
+      "title": "Intermediate German (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 1",
+      "title": "Elementary Hindi (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 2",
+      "title": "Elementary Hindi (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 3",
+      "title": "Elementary Hindi (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 1",
+      "title": "Elementary Italian (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 2",
+      "title": "Elementary Italian (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 3",
+      "title": "Elementary Italian (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 1",
+      "title": "Elementary Japanese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 2",
+      "title": "Elementary Japanese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 3",
+      "title": "Elementary Japanese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 4",
+      "title": "Intermediate Japanese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 5",
+      "title": "Intermediate Japanese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 6",
+      "title": "Intermediate Japanese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 1",
+      "title": "Elementary Korean (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 2",
+      "title": "Elementary Korean (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 3",
+      "title": "Elementary Korean (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 4",
+      "title": "Intermediate Korean (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 1",
+      "title": "Elementary Mandarin (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 2",
+      "title": "Elementary Mandarin (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 3",
+      "title": "Elementary Mandarin (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 4",
+      "title": "Intermediate Mandarin (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 5",
+      "title": "Intermediate Mandarin (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 6",
+      "title": "Intermediate Mandarin (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 1",
+      "title": "Elementary Russian (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 2",
+      "title": "Elementary Russian (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 3",
+      "title": "Elementary Russian (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 1",
+      "title": "Elementary American Sign Language (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 2",
+      "title": "Elementary American Sign Language (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 3",
+      "title": "Elementary American Sign Language (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 1",
+      "title": "Elementary Spanish (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 2",
+      "title": "Elementary Spanish (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 3",
+      "title": "Elementary Spanish (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 4",
+      "title": "Intermediate Spanish (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 5",
+      "title": "Intermediate Spanish (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 6",
+      "title": "Intermediate Spanish (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 1",
+      "title": "Elementary Vietnamese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 2",
+      "title": "Elementary Vietnamese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 3",
+      "title": "Elementary Vietnamese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 4",
+      "title": "Intermediate Vietnamese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 5",
+      "title": "Intermediate Vietnamese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 6",
+      "title": "Intermediate Vietnamese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2A",
+      "title": "History of Art: Europe from Prehistory through Early Christianity",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2B",
+      "title": "History of Art: Europe During the Middle Ages and the Renaissance",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2C",
+      "title": "History of Art: Europe from the Baroque Period Through Impressionism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2D",
+      "title": "History of Art: Europe and the United States from Post-Impressionism to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2H",
+      "title": "History of Art: Native Arts of Mesoamerica and the Andes",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2J",
+      "title": "History of Art: Arts of Africa, Oceania and Native North America",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 3TC",
+      "title": "Women and Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 3C",
+      "title": "Women and Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 32",
+      "title": "Vietnamese Literature from Traditional to Asian American Expressions",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 40",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2G",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 41",
+      "title": "Introduction to Korean Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 13",
+      "title": "Introduction to Korean Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 9",
+      "title": "Introduction to Comparative Religion",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 9H",
+      "title": "Introduction to Comparative Religion - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 10",
+      "title": "Global Religious Perspectives: Judaism, Christianity and Islam",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 1C",
+      "title": "Music Appreciation: World Music in America",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ESCI 19",
+      "title": "Environmental Biology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 1",
+      "title": "Physical Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 21",
+      "title": "Business and Society",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 2",
+      "title": "Computers and the Internet in Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 33",
+      "title": "Introduction to Peace and Conflict Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 3",
+      "title": "International Relations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 1",
+      "title": "Introduction to Sociology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 56",
+      "title": "Human Relations in the Workplace",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 60",
+      "title": "International Business Management",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 70",
+      "title": "Principles of E-Commerce",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 87",
+      "title": "Introduction to Selling",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 89",
+      "title": "Advertising",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 90",
+      "title": "Principles of Marketing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 4",
+      "title": "World Prehistory",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6A",
+      "title": "History of Western Civilization: Pre-History to 750 C.E.",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6AH",
+      "title": "History of Western Civilization: Pre-History to 750 C.E. - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6B",
+      "title": "History of Western Civilization: 750 C.E. to 1750 C.E.",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6BH",
+      "title": "History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6C",
+      "title": "History of Western Civilization: 1750 C.E. to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6CH",
+      "title": "History of Western Civilization: 1750 C.E. to Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 7A",
+      "title": "Colonial Latin American History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 7B",
+      "title": "Modern Latin American History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 16A",
+      "title": "History of Africa to 1800",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 16B",
+      "title": "History of Africa from 1800 to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 19A",
+      "title": "History of Asian Civilization: China and Japan (to the 19th Century)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 19B",
+      "title": "History of Asian Civilization: China and Japan (19th - 21st Centuries)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 6",
+      "title": "Linguistic Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "LING 1",
+      "title": "Introduction to Linguistics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

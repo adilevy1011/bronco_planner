@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:57+00:00",
+  "id": "entrepreneurship-fall-2022",
+  "name": "Certificate of Achievement (COA) Entrepreneurship",
+  "title_on_page": "Social Media Marketing Strategies",
+  "department": "Business Administration",
+  "department_id": "business-administration",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/entrepreneurship-fall-2022",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,entrepreneurship-fall-2022?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 BUS - Business Entrepreneurship COA_Entrepreneurship Go Back Print Certificate of Achievement (COA) Entrepreneurship New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. Students pursuing the Certificate of Achievement in Entrepreneurship are taught the fundamentals of small business administration and business planning. The certificate is designed to prepare students for the challenges they are likely to encounter in starting and maintaining a small business. Program Learning Outcomes Upon completion, students will be able to Critically evaluate business plans and describe the processes required to start, operate and measure the results of a small business De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or higher Major Courses Each course listed as a program requirement (excluding GE requirements) must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than 22 quarter units from other academic institutions may be applied toward requirements for a specific major A.S. Degree Requirements for Nursing Proficiencies Stude",
+  "requirements": [
+    {
+      "name": "Required Core: (9 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (9 Units)"
+    },
+    {
+      "name": "Elective 1 (15 Units)",
+      "courses": [
+        "BUS 55",
+        "BUS 58",
+        "BUS 60",
+        "BUS 65",
+        "BUS 70",
+        "BUS 90",
+        "BUS 94"
+      ],
+      "raw_text": "Elective 1 (15 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BUS 55",
+      "title": "Introduction to Entrepreneurship",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 58",
+      "title": "The Business Plan",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 60",
+      "title": "International Business Management",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 65",
+      "title": "Leadership",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 70",
+      "title": "Principles of E-Commerce",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 90",
+      "title": "Principles of Marketing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 94",
+      "title": "Social Media Marketing Strategies",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

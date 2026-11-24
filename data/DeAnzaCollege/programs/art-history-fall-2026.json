@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:28+00:00",
+  "id": "art-history-fall-2026",
+  "name": "Certificate of Achievement-Advanced (COA-A) Art History",
+  "title_on_page": "Introduction to Graphic Design: Vector Illustration",
+  "department": "Art",
+  "department_id": "art",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/art-history-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,art-history-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ARTS - Visual Arts and Design Art History COAA_Art History Go Back Print Certificate of Achievement-Advanced (COA-A) Art History New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. Completion of the Art History Certificate of Achievement-Advanced provides students with a broad overview of the discipline of Art History from a global perspective. The program emphasizes visual literacy and research skills necessary for critical inquiry and analysis of art works, as well as knowledge of the technical processes of studio art relevant to the field of Art History. Program Learning Outcomes Upon completion, students will be able to Analyze artworks on the basis of social, cultural, political, economic and ethnic contexts and issues relevant to women’s and gender studies Demonstrate critical thinking and visual literacy skills through oral and written communication, including those used to analyze, evaluate and synthesize primary and secondary sources Analyze artistic traditions through a cross-cultural perspective and in a global context Apply technical processes of studio art in written assignments in the field of Art History De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy ",
+  "requirements": [
+    {
+      "name": "Required Core: (8 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (8 Units)"
+    },
+    {
+      "name": "List A: (12 Units)",
+      "courses": [],
+      "raw_text": "List A: (12 Units)"
+    },
+    {
+      "name": "List B: (12 Units)",
+      "courses": [],
+      "raw_text": "List B: (12 Units)"
+    },
+    {
+      "name": "List C: (4 Units)",
+      "courses": [],
+      "raw_text": "List C: (4 Units)"
+    },
+    {
+      "name": "List D: (8 Units)",
+      "courses": [
+        "ARTS 3TC",
+        "WMST 3C",
+        "CETH 13",
+        "ARTS 2F",
+        "ARTS 1B",
+        "ARTS 2H",
+        "ARTS 2J",
+        "ASAM 40",
+        "ARTS 2G",
+        "ARTS 2A",
+        "ARTS 2B",
+        "ARTS 2C",
+        "ARTS 2D",
+        "ARTS 3TE",
+        "ARTS 4A",
+        "ARTS 15A",
+        "ARTS 16A",
+        "ARTS 1C",
+        "ARTS 4C",
+        "ARTS 8",
+        "ARTS 10A",
+        "ARTS 12",
+        "ARTS 18B",
+        "ARTS 37A",
+        "ARTS 53"
+      ],
+      "raw_text": "List D: (8 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ARTS 3TC",
+      "title": "Women and Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 3C",
+      "title": "Women and Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 13",
+      "title": "History of Art (Multicultural Arts in the United States)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2F",
+      "title": "History of Art (Multicultural Arts in the United States)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 1B",
+      "title": "Architecture Past and Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2H",
+      "title": "History of Art: Native Arts of Mesoamerica and the Andes",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2J",
+      "title": "History of Art: Arts of Africa, Oceania and Native North America",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 40",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2G",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2A",
+      "title": "History of Art: Europe from Prehistory through Early Christianity",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2B",
+      "title": "History of Art: Europe During the Middle Ages and the Renaissance",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2C",
+      "title": "History of Art: Europe from the Baroque Period Through Impressionism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2D",
+      "title": "History of Art: Europe and the United States from Post-Impressionism to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 3TE",
+      "title": "Today's Art Scene",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4A",
+      "title": "Beginning Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 15A",
+      "title": "Acrylic Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 16A",
+      "title": "Oil Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 1C",
+      "title": "Introduction to Museum Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4C",
+      "title": "Life Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 8",
+      "title": "Two-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10A",
+      "title": "Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 12",
+      "title": "Design and Color",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18B",
+      "title": "Ceramics (Beginning Wheel Throwing)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 37A",
+      "title": "Sculpture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 53",
+      "title": "Introduction to Graphic Design: Vector Illustration",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

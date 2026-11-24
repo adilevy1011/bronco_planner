@@ -1,0 +1,397 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:32+00:00",
+  "id": "english-for-transfer-fall-2026",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree English for Transfer",
+  "title_on_page": "Ethnic Literature of the United States - HONORS",
+  "department": "English",
+  "department_id": "english",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/english-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,english-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 EWRT - English Writing English for Transfer AAT_Associate in Arts in English for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree English for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The English major consists of courses appropriate for the Associate in Arts in English for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Associate in Arts in English for Transfer is intended for students who plan to complete a bachelor’s degree in English (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Demonstrate awareness of diverse social, critical, historical and cultural perspectives by reading and responding to a range of literary texts Analyze texts representing a wide range of genres including poetry, drama, fiction and film Identify and make relevant connections between texts of various historical periods Write well developed and effectively organized essays including in-class essays, interpretive arguments and essays incorporating research Synthesize historical, formal and critical ideas in interpreting a text De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and",
+  "requirements": [
+    {
+      "name": "Option 1: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 1: (10 Units)"
+    },
+    {
+      "name": "Option 2: (5 Units)",
+      "courses": [],
+      "raw_text": "Option 2: (5 Units)"
+    },
+    {
+      "name": "Group 1: (8 Units)",
+      "courses": [],
+      "raw_text": "Group 1: (8 Units)"
+    },
+    {
+      "name": "Group 2: (8 Units)",
+      "courses": [],
+      "raw_text": "Group 2: (8 Units)"
+    },
+    {
+      "name": "Group 3: (4 Units)",
+      "courses": [],
+      "raw_text": "Group 3: (4 Units)"
+    },
+    {
+      "name": "Group 4: (8 Units)",
+      "courses": [],
+      "raw_text": "Group 4: (8 Units)"
+    },
+    {
+      "name": "List B - Complete one course if Required Core - Option 1 is selected or two courses if Required Core - Option 2 is selected: (4 - 10 Units)",
+      "courses": [],
+      "raw_text": "List B - Complete one course if Required Core - Option 1 is selected or two courses if Required Core - Option 2 is selected: (4 - 10 Units)"
+    },
+    {
+      "name": "List C - Complete from below or from List A or List B (not already taken): (4 Units)",
+      "courses": [
+        "ELIT 46A",
+        "ELIT 46AH",
+        "ELIT 46B",
+        "ELIT 46BH",
+        "ELIT 46C",
+        "ELIT 46CH",
+        "ELIT 48A",
+        "ELIT 48AH",
+        "ELIT 48B",
+        "ELIT 48BH",
+        "ELIT 48C",
+        "ELIT 48CH",
+        "ELIT 10",
+        "ELIT 10H",
+        "ELIT 11",
+        "ELIT 17",
+        "ELIT 17H",
+        "EWRT 30",
+        "EWRT 40",
+        "EWRT 41",
+        "ANTH 6",
+        "ASAM 20",
+        "ELIT 24",
+        "ELIT 8",
+        "ELIT 19",
+        "ELIT 21",
+        "WMST 21",
+        "ELIT 22",
+        "ELIT 28",
+        "ELIT 38",
+        "ELIT 39",
+        "ELIT 40",
+        "ELIT 41",
+        "ELIT 41H"
+      ],
+      "raw_text": "List C - Complete from below or from List A or List B (not already taken): (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ELIT 46A",
+      "title": "Major British Writers (Medieval and Renaissance)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46AH",
+      "title": "Major British Writers (Medieval and Renaissance) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46B",
+      "title": "Major British Writers (Neo-Classical and Romantic)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46BH",
+      "title": "Major British Writers (Neo-Classical and Romantic) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46C",
+      "title": "Major British Writers (Victorian and Modern)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 46CH",
+      "title": "Major British Writers (Victorian and Modern) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48A",
+      "title": "Major American Writers (Colonial to Romantic, 1620-1865)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48AH",
+      "title": "Major American Writers (Colonial to Romantic, 1620-1865) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48B",
+      "title": "Major American Writers (The Advent of Realism, 1865-1914)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48BH",
+      "title": "Major American Writers (The Advent of Realism, 1865-1914) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48C",
+      "title": "Major American Writers (The Modern Age, 1914-the Present)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 48CH",
+      "title": "Major American Writers (The Modern Age, 1914-the Present) - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 10",
+      "title": "Introduction to Fiction",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 10H",
+      "title": "Introduction to Fiction - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 11",
+      "title": "Introduction to Poetry",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 17",
+      "title": "Introduction to Shakespeare",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 17H",
+      "title": "Introduction to Shakespeare - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 30",
+      "title": "Introduction to Creative Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 40",
+      "title": "Fiction Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 41",
+      "title": "Poetry Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 6",
+      "title": "Linguistic Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 20",
+      "title": "Asian American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 24",
+      "title": "Asian American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 8",
+      "title": "Children's Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 19",
+      "title": "Introduction to the Bible as Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 21",
+      "title": "Women in Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 21",
+      "title": "Women in Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 22",
+      "title": "Mythology and Folklore",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 28",
+      "title": "Young Adult Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 38",
+      "title": "Utopian/Dystopian Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 39",
+      "title": "Contemporary Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 40",
+      "title": "African American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 41",
+      "title": "Ethnic Literature of the United States",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 41H",
+      "title": "Ethnic Literature of the United States - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

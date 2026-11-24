@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:02+00:00",
+  "id": "early-intervention-special-education-assistant-fall-2026",
+  "name": "Certificate of Achievement-Advanced (COA-A) Early Intervention/Special Education Assistant",
+  "title_on_page": "Basic Student Teaching Practicum",
+  "department": "Child Development",
+  "department_id": "child-development",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/early-intervention-special-education-assistant-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,early-intervention-special-education-assistant-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 C D - Child Development Early Intervention/Special Education Assistant COAA_Early Intervention/Special Education Assistant Go Back Print Certificate of Achievement-Advanced (COA-A) Early Intervention/Special Education Assistant New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. This vocational training program prepares future early childhood workers and educators to work with children with disabilities and special needs in public and private early intervention, special education and educational settings that serve typical and atypical developing young children and their families. Students are taught practical skills in early intervention and early childhood special education from a culturally responsive perspective. Students learn to integrate early intervention/special education practices and apply them to teaching young children with special needs. Certificate requirements include student participation in field experiences with community-based, inclusive educational programs. The Certificate of Achievement-Advancement prepares students for two career paths: early intervention assistant and early childhood teacher. It is the equivalent of the Teacher level permit on the California Child Development Matrix. The Teacher level permit also requires 24 quarter units (equivalent of 16 semester units) of General Education courses. Program Learning Outcomes Upon completion, students will be able to Demonstrate the ability to work in a variety of settings with children and families with a commitment to uphold ethical standards Recognize the importance of community engagement and their role as local, national and global advocates for children, families and the community Integrate early intervention/special education practices and their application to teaching young children with special needs Demonstrate skills in building relationships with children and families De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major co",
+  "requirements": [
+    {
+      "name": "Required Core: (37 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (37 Units)"
+    },
+    {
+      "name": "List A: (3 Units)",
+      "courses": [],
+      "raw_text": "List A: (3 Units)"
+    },
+    {
+      "name": "List B - Practicum Requirement: (5 Units)",
+      "courses": [
+        "PSYC 10G",
+        "PSYC 10H"
+      ],
+      "raw_text": "List B - Practicum Requirement: (5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PSYC 10G",
+      "title": "Child Development (The Early Years)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 10H",
+      "title": "Child Growth and Development (Middle Childhood and Adolescence)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

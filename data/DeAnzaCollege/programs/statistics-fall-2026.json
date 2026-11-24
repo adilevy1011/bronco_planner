@@ -1,0 +1,97 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:24+00:00",
+  "id": "statistics-fall-2026",
+  "name": "Certificate of Achievement (COA) Statistics",
+  "title_on_page": "Special Projects in Probability and Statistics",
+  "department": "Mathematics",
+  "department_id": "mathematics",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/statistics-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,statistics-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 MATH - Mathematics Statistics COA_Statistics Go Back Print Certificate of Achievement (COA) Statistics New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Statistics is designed for students aiming to develop strong statistical skills for various professional and academic pursuits. It prepares students for roles in statistics, data analysis, research and related fields or as a foundation for further education in mathematics, business or data science. The program is also ideal for professionals seeking to upgrade their quantitative and analytical capabilities in their respective careers. Program Learning Outcomes Upon completion, students will be able to Interpret and summarize univariate and multivariate data using appropriate descriptive statistics and graphical displays Apply statistical methods such as hypothesis testing, confidence intervals, regression and ANOVA to analyze data in scientific, social and engineering contexts Use computational tools and statistical software to perform data analysis and simulation, emphasizing reproducibility and accuracy Design and execute a statistical investigation, including data collection, cleaning, modeling and interpretation, demonstrating awareness of ethical considerations Evaluate critically the statistical arguments presented in academic studies, media or professional reports by identifying assumptions, limitations and potential sources of bias Communicate statistical findings clearly and effectively in written, visual and oral formats to both technical and nontechnical audiences De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students mu",
+  "requirements": [
+    {
+      "name": "Required Core: (21.5 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (21.5 Units)"
+    },
+    {
+      "name": "List A: (1 - 3 Units)",
+      "courses": [
+        "CIS 11",
+        "CIS 111X",
+        "MATH 4",
+        "MATH 23",
+        "MATH 76",
+        "MATH 76X",
+        "MATH 76Y"
+      ],
+      "raw_text": "List A: (1 - 3 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CIS 11",
+      "title": "Foundations of Data Science for All",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 111X",
+      "title": "Support for Foundations of Data Science for All",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 4",
+      "title": "Computational Statistics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 23",
+      "title": "Engineering Statistics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 76",
+      "title": "Special Projects in Probability and Statistics",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 76X",
+      "title": "Special Projects in Probability and Statistics",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 76Y",
+      "title": "Special Projects in Probability and Statistics",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

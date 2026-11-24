@@ -1,0 +1,512 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:30+00:00",
+  "id": "paralegal-studies-fall-2026",
+  "name": "Certificate of Achievement-Advanced (COA-A) Paralegal Studies",
+  "title_on_page": "Legal Aspects of Real Estate",
+  "department": "Paralegal Studies",
+  "department_id": "paralegal-studies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/paralegal-studies-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,paralegal-studies-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 PARA - Paralegal Studies Paralegal Studies COAA_Paralegal Studies Go Back Print Certificate of Achievement-Advanced (COA-A) Paralegal Studies New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Paralegal Studies Certificate of Achievement-Advanced program prepares students to work in the legal field as paralegals under the supervision of attorneys. This program provides graduates with a well-rounded education in a range of legal practice areas, including litigation and corporate law, and elective courses that include intellectual property and other legal practice specialties. Paralegal duties include performing factual and legal research; drafting legal documents and correspondence; interviewing clients and witnesses; assisting attorneys in pretrial work, including document discovery and analysis, and at trials and hearings; organizing and maintaining case files; and coordinating the use of technology in the legal work. Program Learning Outcomes Upon completion, students will be able to Evaluate, critique and analyze legal and factual information Synthesize and analyze legal and factual information through effective written and oral communication Compare and contrast the American and California legal systems within a global legal environment Research legally relevant facts from diverse source materials Assess the quality of information and utilize appropriate informational resources to evaluate a legal issue De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE req",
+  "requirements": [
+    {
+      "name": "Required Core: (32 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (32 Units)"
+    },
+    {
+      "name": "List A: (12 Units)",
+      "courses": [],
+      "raw_text": "List A: (12 Units)"
+    },
+    {
+      "name": "List B - Complete from below or from List A (not already taken): (4 Units)",
+      "courses": [
+        "PARA 9",
+        "ADMJ 9",
+        "POLI 9",
+        "PARA 67",
+        "PARA 86",
+        "PARA 88",
+        "PARA 92A",
+        "PARA 94",
+        "PARA 96A",
+        "PARA 97A",
+        "PARA 97B",
+        "PARA 65Z",
+        "PARA 72",
+        "PARA 85",
+        "PARA 87",
+        "PARA 89",
+        "PARA 91A",
+        "PARA 92B",
+        "PARA 96C",
+        "PARA 98",
+        "PARA 99",
+        "ADMJ 3",
+        "PARA 3",
+        "POLI 13",
+        "ADMJ 11",
+        "PARA 11",
+        "POLI 11",
+        "ADMJ 25",
+        "PARA 25",
+        "ADMJ 54",
+        "ADMJ 61",
+        "ADMJ 74A",
+        "PARA 74A",
+        "PSYC 74A",
+        "ADMJ 75",
+        "PARA 75",
+        "POLI 75",
+        "ADMJ 84",
+        "ADMJ 90A",
+        "PARA 90A",
+        "BUS 18",
+        "CETH 29",
+        "ADMJ 29",
+        "PARA 64",
+        "PARA 64X",
+        "PARA 64Y",
+        "PARA 64Z",
+        "REST 52A"
+      ],
+      "raw_text": "List B - Complete from below or from List A (not already taken): (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PARA 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 67",
+      "title": "Law Office Management for Paralegals",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 86",
+      "title": "Legal Analysis",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 88",
+      "title": "The Paralegal and Professional Responsibility",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 92A",
+      "title": "Partnerships and Corporations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 94",
+      "title": "Introduction to California Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 96A",
+      "title": "Introduction to Legal Research and Writing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 97A",
+      "title": "Civil Litigation Procedures",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 97B",
+      "title": "Advanced Civil Litigation Procedures",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 65Z",
+      "title": "Current Paralegal Topics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 72",
+      "title": "Trademarks Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 85",
+      "title": "Intellectual Property Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 87",
+      "title": "Personal Injury and Tort Litigation",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 89",
+      "title": "Landlord Tenant Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 91A",
+      "title": "California Family Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 92B",
+      "title": "Corporate Securities Regulations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 96C",
+      "title": "Computer Assisted Legal Research and Investigation",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 98",
+      "title": "Drafting Wills and Trusts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 99",
+      "title": "California Probate Law and Procedures",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 3",
+      "title": "Concepts of Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 3",
+      "title": "Concepts of Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 13",
+      "title": "Concepts of Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 11",
+      "title": "Federal Courts and Constitutional Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 11",
+      "title": "Federal Courts and Constitutional Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 11",
+      "title": "Federal Courts and Constitutional Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 25",
+      "title": "Law and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 25",
+      "title": "Law and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 54",
+      "title": "Youth and the Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 61",
+      "title": "Criminal Investigation",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 74A",
+      "title": "Interviewing, Interrogation and Crisis Intervention",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 74A",
+      "title": "Interviewing, Interrogation and Crisis Intervention",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 74A",
+      "title": "Interviewing, Interrogation and Crisis Intervention",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 84",
+      "title": "Forensic Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 90A",
+      "title": "Legal Aspects of Evidence (CP 4)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 90A",
+      "title": "Legal Aspects of Evidence (CP 4)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 18",
+      "title": "Business Law I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 64",
+      "title": "Paralegal Internship",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 64X",
+      "title": "Paralegal Internship",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 64Y",
+      "title": "Paralegal Internship",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 64Z",
+      "title": "Paralegal Internship",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "REST 52A",
+      "title": "Legal Aspects of Real Estate",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

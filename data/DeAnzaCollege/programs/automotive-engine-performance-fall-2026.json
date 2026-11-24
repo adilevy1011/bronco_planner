@@ -1,0 +1,112 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:50+00:00",
+  "id": "automotive-engine-performance-fall-2026",
+  "name": "Associate in Science (A.S.) Degree Automotive Engine Performance",
+  "title_on_page": "Intermediate Engine Performance Diagnostic Procedures",
+  "department": "Automotive Technology",
+  "department_id": "automotive-technology",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-engine-performance-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,automotive-engine-performance-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 AUTO - Automotive Technology Automotive Engine Performance AS_Automotive Engine Performance Go Back Print Associate in Science (A.S.) Degree Automotive Engine Performance New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. This A.S. degree prepares students for an entry-level position in the automotive repair industry. Program Learning Outcomes Upon completion, students will be able to Diagnose basic electrical, engine performance and emissions systems Identify basic electrical circuits and diagnose automotive electrical circuit systems Apply the basic principles of physics as they work in the automotive industry De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or higher Major Courses Each course listed as a program requirement (excluding GE requirements) must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than 22 quarter units from other academic institutions may be applied toward requirements for a specific major A.S. Degree Requirements for Nursing Proficiencies Students must demonstrate proficiency in reading,",
+  "requirements": [
+    {
+      "name": "Required Core: (57 Units)",
+      "courses": [
+        "AUTO 53A",
+        "AUTO 57A",
+        "AUTO 60",
+        "AUTO 99A",
+        "AUTO 99B",
+        "AUTO 99C",
+        "AUTO 99D",
+        "AUTO 99E",
+        "AUTO 99F"
+      ],
+      "raw_text": "Required Core: (57 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AUTO 53A",
+      "title": "Automotive Mechanisms",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 57A",
+      "title": "Career Research and Employment in the Automotive Industry",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 60",
+      "title": "Automotive Electrical Systems",
+      "units": "9",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 99A",
+      "title": "Automotive Electricity, Battery and Cranking Systems",
+      "units": "7",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 99B",
+      "title": "Automotive Charging, Ignition and Accessory Systems",
+      "units": "7",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 99C",
+      "title": "Introduction to Engine Performance Systems",
+      "units": "7",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 99D",
+      "title": "Intermediate Engine Performance Systems",
+      "units": "7",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 99E",
+      "title": "Basic Engine Performance Diagnostic Procedures",
+      "units": "7",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 99F",
+      "title": "Intermediate Engine Performance Diagnostic Procedures",
+      "units": "7",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

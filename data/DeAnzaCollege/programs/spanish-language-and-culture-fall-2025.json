@@ -1,0 +1,247 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:12+00:00",
+  "id": "spanish-language-and-culture-fall-2025",
+  "name": "Certificate of Achievement (COA) Spanish Language and Culture",
+  "title_on_page": "Intermediate Spanish (First Quarter)",
+  "department": "Languages",
+  "department_id": "languages",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/spanish-language-and-culture-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,spanish-language-and-culture-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 SPAN - Spanish Spanish Language and Culture COA_Spanish Language and Culture Go Back Print Certificate of Achievement (COA) Spanish Language and Culture New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Spanish Language and Culture provides opportunities to engage in the many Latinx and Spanish-speaking communities of the Bay Area, along with the potential to engage with travel, law, business and nongovernmental organizations in the United States, Latin America and Spain. For students who already speak Spanish with their families, the certificate will provide the opportunity to extend their linguistic repertoires and validate their knowledges, particularly as applied to their careers. Spanish is an excellent major or minor for those who plan to pursue undergraduate or graduate work in areas such as Anthropology, History, Law, Chicanx Studies or Business. Understanding the diversity of cultural, historical and social contexts in the Spanish-speaking world will provide new insights and a critical lens. The Certificate of Achievement in Spanish Language and Culture will satisfy a transfer language requirement and offers additional benefits for those engaging in future study or work in civil service or the private sector. Program Learning Outcomes Upon completion, students will be able to Engage in communicative tasks that require describing personal experiences in the present with some references to the past; expressing basic opinions about issues of relevance in one´s life; understanding main ideas and supporting details in aural and written discourse; producing discourse-level writing related to one´s life experiences Demonstrate an understanding of the diversity of cultural, historical, and regional contexts of Spanish-speaking peoples and cultures Engage critically with constructions of cultural and social differences (as expressed through language) while examining one´s own cultural positionings and assumptions De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units ",
+  "requirements": [
+    {
+      "name": "Required Core: (10 - 15 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (10 - 15 Units)"
+    },
+    {
+      "name": "List A - Complete one course if 15 units completed above OR two courses if 10 units completed above: (4 - 10 Units)",
+      "courses": [
+        "SPAN 1",
+        "SPAN 2",
+        "SPAN 3",
+        "ANTH 2",
+        "ANTH 2H",
+        "ANTH 6",
+        "CHLX 10",
+        "CHLX 11",
+        "CHLX 12",
+        "CHLX 13",
+        "CHLX 26",
+        "WMST 26",
+        "CHLX 35",
+        "COMM 7",
+        "COMM 7H",
+        "COMM 16",
+        "COMM 16H",
+        "GEO 4",
+        "INTL 5",
+        "JOUR 2",
+        "LING 1",
+        "SPAN 4"
+      ],
+      "raw_text": "List A - Complete one course if 15 units completed above OR two courses if 10 units completed above: (4 - 10 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "SPAN 1",
+      "title": "Elementary Spanish (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 2",
+      "title": "Elementary Spanish (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 3",
+      "title": "Elementary Spanish (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 6",
+      "title": "Linguistic Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 10",
+      "title": "Introduction to Chicanx and Latinx Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 11",
+      "title": "Chicanx Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 12",
+      "title": "Chicanx and Latinx History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 13",
+      "title": "The Chicanx and Latinx and the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 26",
+      "title": "La Mujer: Latina Life and Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 26",
+      "title": "La Mujer: Latina Life and Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 35",
+      "title": "Chicano/a, Latino/a Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7",
+      "title": "Intercultural Communication",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7H",
+      "title": "Intercultural Communication - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 16",
+      "title": "Interpersonal Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 16H",
+      "title": "Interpersonal Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 4",
+      "title": "Cultural Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 5",
+      "title": "Contemporary Global Issues",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 2",
+      "title": "Media and Its Impact On Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "LING 1",
+      "title": "Introduction to Linguistics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 4",
+      "title": "Intermediate Spanish (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

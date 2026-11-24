@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:29+00:00",
+  "id": "quality-control-technician-fall-2022",
+  "name": "Certificate of Achievement (COA) Quality Control Technician",
+  "title_on_page": "Introduction to Quality Assurance",
+  "department": "Design and Manufacturing Technologies",
+  "department_id": "design-and-manufacturing-technologies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/quality-control-technician-fall-2022",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,quality-control-technician-fall-2022?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 DMT - Design and Mfg. Tech. Quality Control Technician COA_Quality Control Technician Go Back Print Certificate of Achievement (COA) Quality Control Technician New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Quality Control Technician Certificate of Achievement prepares students in the fundamentals of machining techniques, dimensional metrology, interpretation of multi-view engineering prints and applied geometric inspection dimensioning and tolerancing (ASME Y14.5m). Students also learn the correct operation of coordinate measuring machines (CMM) and the principles of manufacturing quality control and associated standards. Students in the Quality Control Technician program are instructed on how to inspect parts using various inspection methods; interpret drawings used in manufacturing; and record, analyze and document findings using various quality assurance procedures. Program students also learn the safe setup and operation of CMM and related measuring instruments. Upon completion of the certificate requirements, students are prepared for employment in manufacturing facilities as quality control inspectors and technicians. Program Learning Outcomes Upon completion, students will be able to Analyze, construct and inspect assigned machined projects using the introductory principles of machining Demonstrate the ability to interpret multi-view drawings and prints Demonstrate the ability to utilize common gauges, measurement instruments and calibration tools Apply geometric dimensioning and tolerancing standards to interpret drawings and inspect manufactured parts Demonstrate basic operation of the coordinate measuring machine (CMM) to inspect manufactured parts Demonstrate a working knowledge of calibration systems, inspection methodology, statistical process control indices and quality sampling techniques De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 9",
+  "requirements": [
+    {
+      "name": "Required Core: (22 Units)",
+      "courses": [
+        "DMT 80",
+        "DMT 90",
+        "DMT 91",
+        "DMT 92",
+        "DMT 93"
+      ],
+      "raw_text": "Required Core: (22 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "DMT 80",
+      "title": "Introduction to Machining and CNC Processes",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 90",
+      "title": "Print Reading and Machine Shop Calculations",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 91",
+      "title": "Dimensional Metrology",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 92",
+      "title": "Applied GD&T (ASME Y14.5m); Coordinate Measuring Machines (CMM)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 93",
+      "title": "Introduction to Quality Assurance",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

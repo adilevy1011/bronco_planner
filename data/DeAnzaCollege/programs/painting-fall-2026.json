@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:32+00:00",
+  "id": "painting-fall-2026",
+  "name": "Associate in Arts (A.A.) Degree Painting",
+  "title_on_page": "Oil Painting III",
+  "department": "Art",
+  "department_id": "art",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/painting-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,painting-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ARTS - Visual Arts and Design Painting AA_Painting Go Back Print Associate in Arts (A.A.) Degree Painting New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. This A.A. degree provides a comprehensive foundation in the areas of design, color theory, multiple painting processes, and professional software and hardware used by artists and designers. Students gain the skills and experience necessary to demonstrate a complete understanding of aesthetics, techniques and philosophy in the creative process. Program Learning Outcomes Upon completion, students will be able to Critically analyze and assess diverse historical and contemporary works of art, architecture and design Create art that engages and builds on historical and contemporary practices, theories and materials Translate concepts and visual experience into images and tactile forms Present finished artwork for peer, professional or academic review Evaluate and critique artwork and receive criticism from others Express artistic concepts and intents in written and oral formats De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or",
+  "requirements": [
+    {
+      "name": "Required Core: (20 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (20 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [],
+      "raw_text": "List A: (4 Units)"
+    },
+    {
+      "name": "List B: (4 Units)",
+      "courses": [],
+      "raw_text": "List B: (4 Units)"
+    },
+    {
+      "name": "List C: (24 Units)",
+      "courses": [
+        "ARTS 4A",
+        "ARTS 4B",
+        "ARTS 4C",
+        "ARTS 8",
+        "ARTS 12",
+        "ARTS 1A",
+        "ARTS 2D",
+        "ARTS 3TE",
+        "ARTS 4D",
+        "ARTS 10A",
+        "ARTS 14A",
+        "ARTS 14B",
+        "ARTS 14C",
+        "ARTS 15A",
+        "ARTS 15B",
+        "ARTS 15C",
+        "ARTS 16A",
+        "ARTS 16B",
+        "ARTS 16C"
+      ],
+      "raw_text": "List C: (24 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ARTS 4A",
+      "title": "Beginning Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4B",
+      "title": "Intermediate Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4C",
+      "title": "Life Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 8",
+      "title": "Two-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 12",
+      "title": "Design and Color",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 1A",
+      "title": "Introduction to the Visual Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2D",
+      "title": "History of Art: Europe and the United States from Post-Impressionism to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 3TE",
+      "title": "Today's Art Scene",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4D",
+      "title": "Representational Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10A",
+      "title": "Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 14A",
+      "title": "Watercolor Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 14B",
+      "title": "Watercolor Painting II",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 14C",
+      "title": "Watercolor Painting III",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 15A",
+      "title": "Acrylic Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 15B",
+      "title": "Acrylic Painting II",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 15C",
+      "title": "Acrylic Painting III",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 16A",
+      "title": "Oil Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 16B",
+      "title": "Oil Painting II",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 16C",
+      "title": "Oil Painting III",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

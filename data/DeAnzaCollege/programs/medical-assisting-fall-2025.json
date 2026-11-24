@@ -1,0 +1,352 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:53+00:00",
+  "id": "medical-assisting-fall-2025",
+  "name": "Certificate of Achievement-Advanced (COA-A) Medical Assisting",
+  "title_on_page": "Health Technologies Medical Assistant Refresher Course",
+  "department": "Health Technologies",
+  "department_id": "health-technologies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/medical-assisting-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,medical-assisting-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 HTEC - Health Technologies Medical Assisting COAA_Medical Assisting Go Back Print Certificate of Achievement-Advanced (COA-A) Medical Assisting New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Health Technologies Department developed the Medical Assisting Certificate of Achievement-Advanced to train students in the fundamental clinical skills of reading vital signs, assisting with minor surgery, performing routine lab procedures, administering medication and the administrative skills of medical coding and medical records management. Students also participate in administrative skills externships in local clinical sites as part of the program. Program Learning Outcomes Upon completion, students will be able to Be prepared to pass the State Medical Assisting Certification Examination De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or higher Major Courses Each course listed as a program requirement (excluding GE requirements) must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than 22 quarter units from other ",
+  "requirements": [
+    {
+      "name": "Required Core: (61 Units)",
+      "courses": [
+        "BIOL 54G",
+        "BIOL 54H",
+        "BIOL 54I",
+        "BIOL 54J",
+        "CIS 99",
+        "HLTH 57A",
+        "HTEC 50",
+        "HTEC 60A",
+        "HTEC 60G",
+        "HTEC 60H",
+        "HTEC 61",
+        "HTEC 64A",
+        "HTEC 64B",
+        "HTEC 68",
+        "HTEC 71",
+        "HTEC 72",
+        "HTEC 73",
+        "HTEC 74A",
+        "HTEC 75",
+        "HTEC 90G",
+        "HTEC 90H",
+        "HTEC 91",
+        "HTEC 93",
+        "HTEC 94",
+        "HTEC 96A",
+        "HTEC 101A",
+        "HTEC 101B",
+        "HTEC 101C",
+        "HTEC 101D",
+        "HTEC 101E",
+        "HTEC 101F",
+        "HTEC 101H",
+        "HTEC 110"
+      ],
+      "raw_text": "Required Core: (61 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BIOL 54G",
+      "title": "Applied Human Anatomy and Physiology: Levels of Organization",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 54H",
+      "title": "Applied Human Anatomy and Physiology: Support, Movement, and Integration",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 54I",
+      "title": "Applied Human Anatomy and Physiology: Coordination and Transport",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 54J",
+      "title": "Applied Human Anatomy and Physiology: Absorption, Excretion, and Reproduction",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 99",
+      "title": "Office Software Applications",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HLTH 57A",
+      "title": "First Aid for the Community, Home, Wilderness, and Disasters",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 50",
+      "title": "Introduction to Health Technologies",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 60A",
+      "title": "Basic Medical Terminology",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 60G",
+      "title": "Advanced Medical Terminology I",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 60H",
+      "title": "Advanced Medical Terminology II",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 61",
+      "title": "Medical Communications",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 64A",
+      "title": "Clinical Laboratory Procedures I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 64B",
+      "title": "Clinical Laboratory Procedures II",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 68",
+      "title": "Medical Reception Externship",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 71",
+      "title": "Medical Office Reception",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 72",
+      "title": "Medical Office Financial Procedures",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 73",
+      "title": "Medical Law and Ethics",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 74A",
+      "title": "Medical Transcription with Editing I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 75",
+      "title": "Electronic Health Records",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 90G",
+      "title": "Basic Patient Care",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 90H",
+      "title": "Medical Office Sterile Technique",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 91",
+      "title": "Introduction to EKG",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 93",
+      "title": "Pharmacology for Medical Assistants",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 94",
+      "title": "Administration of Medications",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 96A",
+      "title": "Medical Assisting Externship",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 101A",
+      "title": "Skill Building in Clinical Laboratory Procedures II",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 101B",
+      "title": "Skill Building in Basic Patient Care",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 101C",
+      "title": "Skill Building in Medical Communications",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 101D",
+      "title": "Skill Building in Medical Office Financial Procedures",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 101E",
+      "title": "Skill Building in Medical Office Sterile Technique",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 101F",
+      "title": "Skill Building in Introduction to EKG",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 101H",
+      "title": "Skill Building in Medical Transcription and Editing I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HTEC 110",
+      "title": "Health Technologies Medical Assistant Refresher Course",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

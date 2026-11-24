@@ -1,0 +1,292 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:36+00:00",
+  "id": "political-science-for-transfer-fall-2026",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree Political Science for Transfer",
+  "title_on_page": "Sociology of Globalization and Social Change",
+  "department": "Political Science",
+  "department_id": "political-science",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/political-science-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,political-science-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 POLI - Political Science Political Science for Transfer AAT_Associate in Arts in Political Science for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree Political Science for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Political Science major consists of courses appropriate for the Associate in Arts in Political Science for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Associate in Arts in Political Science for Transfer is intended for students who plan to complete a bachelor’s degree in Political Science (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Evaluate how political decisions are shaped by institutions and processes Assess the impact of political decisions on individuals and groups Demonstrate the capacity to critically analyze and apply political values Demonstrate the capacity to participate effectively in the political process De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, ",
+  "requirements": [
+    {
+      "name": "Required Core: (17 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (17 Units)"
+    },
+    {
+      "name": "List A: (8 - 9 Units)",
+      "courses": [],
+      "raw_text": "List A: (8 - 9 Units)"
+    },
+    {
+      "name": "List B - Complete from below or from List A (not already taken): (4 - 5 Units)",
+      "courses": [
+        "POLI 2",
+        "POLI 3",
+        "POLI 5",
+        "POLI 15",
+        "ICS 25",
+        "POLI 16",
+        "ICS 36",
+        "POLI 17",
+        "ICS 27",
+        "POLI 17H",
+        "ICS 27H",
+        "POLI 20",
+        "PSYC 15",
+        "SOC 15",
+        "ANTH 2",
+        "ANTH 2H",
+        "CETH 10",
+        "CETH 29",
+        "ADMJ 29",
+        "GEO 10",
+        "HIST 3C",
+        "HIST 3CH",
+        "ICS 17",
+        "ICS 17H",
+        "ICS 19",
+        "SOC 5"
+      ],
+      "raw_text": "List B - Complete from below or from List A (not already taken): (4 - 5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "POLI 2",
+      "title": "Comparative Politics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 3",
+      "title": "International Relations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 5",
+      "title": "Introduction to Political Thought and Theory",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 15",
+      "title": "Grassroots Democracy: Race, Politics and the American Promise",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 25",
+      "title": "Grassroots Democracy: Race, Politics and the American Promise",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 16",
+      "title": "Grassroots Democracy: Social Movements Since the 1960s",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 36",
+      "title": "Grassroots Democracy: Social Movements Since the 1960s",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 17",
+      "title": "Grassroots Democracy: Leadership and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 27",
+      "title": "Grassroots Democracy: Leadership and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 17H",
+      "title": "Grassroots Democracy: Leadership and Power - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 27H",
+      "title": "Grassroots Democracy: Leadership and Power - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 20",
+      "title": "Introduction to Statistics for the Behavioral and Social Sciences",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 10",
+      "title": "Introduction to Ethnic Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 10",
+      "title": "World Regional Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3C",
+      "title": "World History from 1750 CE to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3CH",
+      "title": "World History from 1750 CE to the Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 17",
+      "title": "Critical Consciousness and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 17H",
+      "title": "Critical Consciousness and Social Change - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 19",
+      "title": "Making a Difference: Transforming Relations of Nature, Community, and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 5",
+      "title": "Sociology of Globalization and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

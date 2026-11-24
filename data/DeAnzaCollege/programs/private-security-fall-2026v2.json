@@ -1,0 +1,367 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:27+00:00",
+  "id": "private-security-fall-2026v2",
+  "name": "Associate in Arts (A.A.) Degree Private Security",
+  "title_on_page": "Overview of American Law",
+  "department": "Administration of Justice",
+  "department_id": "admin-of-justice",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/private-security-fall-2026v2",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,private-security-fall-2026v2?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ADMJ - Admin. of Justice Private Security AA_Private Security Go Back Print Associate in Arts (A.A.) Degree Private Security New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The A.A. degree in Private Security provides the foundational education required for an individual’s career pathway into the private security field. The courses range from the concepts of criminal law, evidence, investigations and reporting to patrol procedures and criminology. Program Learning Outcomes Upon completion, students will be able to Identify the components of the criminal justice system and describe how each is fundamental to criminology procedures Identify the elements of a crime based on a factual situation Construct a professional report of a crime utilizing report criteria De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or higher Major Courses Each course listed as a program requirement (excluding GE requirements) must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than 22 quarter units from other academic institutions may ",
+  "requirements": [
+    {
+      "name": "Required Core: (16 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (16 Units)"
+    },
+    {
+      "name": "List A: (22 Units)",
+      "courses": [
+        "ADMJ 1",
+        "POLI 10",
+        "ADMJ 3",
+        "PARA 3",
+        "POLI 13",
+        "ADMJ 56",
+        "ADMJ 75",
+        "PARA 75",
+        "POLI 75",
+        "ADMJ 6",
+        "ADMJ 10",
+        "SOC 10",
+        "ADMJ 11",
+        "PARA 11",
+        "POLI 11",
+        "ADMJ 53",
+        "ADMJ 54",
+        "ADMJ 55",
+        "ADMJ 61",
+        "ADMJ 64X",
+        "ADMJ 64Y",
+        "ADMJ 64Z",
+        "ADMJ 69",
+        "ADMJ 74A",
+        "PARA 74A",
+        "PSYC 74A",
+        "ADMJ 84",
+        "ADMJ 90A",
+        "PARA 90A",
+        "CETH 29",
+        "ADMJ 29",
+        "PARA 9",
+        "ADMJ 9",
+        "POLI 9"
+      ],
+      "raw_text": "List A: (22 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ADMJ 1",
+      "title": "Introduction to Administration of Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 10",
+      "title": "Introduction to Administration of Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 3",
+      "title": "Concepts of Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 3",
+      "title": "Concepts of Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 13",
+      "title": "Concepts of Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 56",
+      "title": "Practical Writing for Administration of Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 6",
+      "title": "Crime, Correction and Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 10",
+      "title": "Crime and Criminology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 10",
+      "title": "Crime and Criminology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 11",
+      "title": "Federal Courts and Constitutional Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 11",
+      "title": "Federal Courts and Constitutional Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 11",
+      "title": "Federal Courts and Constitutional Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 53",
+      "title": "California-Specific Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 54",
+      "title": "Youth and the Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 55",
+      "title": "Alcohol, Narcotics and Drug Abuse",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 61",
+      "title": "Criminal Investigation",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 64X",
+      "title": "Administration of Justice Internship",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 64Y",
+      "title": "Administration of Justice Internship",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 64Z",
+      "title": "Administration of Justice Internship",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 69",
+      "title": "Administration of Justice Field Trips",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 74A",
+      "title": "Interviewing, Interrogation and Crisis Intervention",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 74A",
+      "title": "Interviewing, Interrogation and Crisis Intervention",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 74A",
+      "title": "Interviewing, Interrogation and Crisis Intervention",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 84",
+      "title": "Forensic Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 90A",
+      "title": "Legal Aspects of Evidence (CP 4)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 90A",
+      "title": "Legal Aspects of Evidence (CP 4)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

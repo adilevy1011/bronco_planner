@@ -1,0 +1,252 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:29+00:00",
+  "id": "computer-aided-design-mechanical-fall-2025",
+  "name": "Certificate of Achievement (COA) Computer Aided Design - Mechanical",
+  "title_on_page": "Creo Parametric (Intermediate)",
+  "department": "Design and Manufacturing Technologies",
+  "department_id": "design-and-manufacturing-technologies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/computer-aided-design-mechanical-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,computer-aided-design-mechanical-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 DMT - Design and Mfg. Tech. Computer Aided Design - Mechanical COA_Computer Aided Design - Mechanical Go Back Print Certificate of Achievement (COA) Computer Aided Design - Mechanical New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. Students pursuing De Anza College’s Computer Aided Design - Mechanical Certificate of Achievement will receive an education in the fundamentals of CAD that combines the use of two types of design graphic software packages. Students will learn substantive job skills in Creo and SolidWorks CAD systems that will make them employable in industrial and mechanical engineering and design. Program Learning Outcomes Upon completion, students will be able to Solve basic and complex drafting and design application problems using industry standard two-dimensional and three-dimensional software and feature-based parametric design software Apply the fundamentals of computer-aided drafting and design to disciplines such as architectural, mechanical and industrial design and engineering Utilize industry standard microcomputer CAD software and the hardware, operating systems and peripherals used to facilitate it Create engineering notes and scaled drawings using ASME or International Standards Organization (ISO) specifications Satisfy a prospective employer with quality technical expertise in the use of two CAD tools (SolidWorks and Creo) at a level commensurate with entry- to mid-level usage in industry design and engineering De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirem",
+  "requirements": [
+    {
+      "name": "Required Core: (2 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (2 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [],
+      "raw_text": "List A: (4 Units)"
+    },
+    {
+      "name": "List B: (4 Units)",
+      "courses": [],
+      "raw_text": "List B: (4 Units)"
+    },
+    {
+      "name": "List C: (4 Units)",
+      "courses": [],
+      "raw_text": "List C: (4 Units)"
+    },
+    {
+      "name": "List D: (4 Units)",
+      "courses": [
+        "DMT 52",
+        "DMT 60A",
+        "DMT 60B",
+        "DMT 60C",
+        "DMT 60D",
+        "DMT 60E",
+        "DMT 61A",
+        "DMT 61B",
+        "DMT 61C",
+        "DMT 61D",
+        "DMT 61E",
+        "DMT 65A",
+        "DMT 65B",
+        "DMT 65C",
+        "DMT 65D",
+        "DMT 65E",
+        "DMT 66A",
+        "DMT 66B",
+        "DMT 66C",
+        "DMT 66D",
+        "DMT 66E"
+      ],
+      "raw_text": "List D: (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "DMT 52",
+      "title": "Geometric Dimensioning and Tolerancing: CAD Applications",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60A",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60B",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60C",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60D",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60E",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 61A",
+      "title": "SolidWorks (Intermediate)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 61B",
+      "title": "SolidWorks (Intermediate)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 61C",
+      "title": "SolidWorks (Intermediate)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 61D",
+      "title": "SolidWorks (Intermediate)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 61E",
+      "title": "SolidWorks (Intermediate)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65A",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65B",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65C",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65D",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65E",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 66A",
+      "title": "Creo Parametric (Intermediate)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 66B",
+      "title": "Creo Parametric (Intermediate)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 66C",
+      "title": "Creo Parametric (Intermediate)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 66D",
+      "title": "Creo Parametric (Intermediate)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 66E",
+      "title": "Creo Parametric (Intermediate)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

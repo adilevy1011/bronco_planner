@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:21+00:00",
+  "id": "applied-mathematics-fall-2026",
+  "name": "Certificate of Achievement (COA) Applied Mathematics",
+  "title_on_page": "Special Projects in Applied Mathematics",
+  "department": "Mathematics",
+  "department_id": "mathematics",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/applied-mathematics-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,applied-mathematics-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 MATH - Mathematics Applied Mathematics COA_Applied Mathematics Go Back Print Certificate of Achievement (COA) Applied Mathematics New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Applied Mathematics provides students with the mathematical background necessary to succeed in subsequent coursework and careers in fields such as physics, computer science, engineering, economics and data science. This certificate emphasizes practical applications of mathematics through courses like Differential Equations and Engineering Statistics, which equip students with tools for solving real-world problems. By earning this certificate, students demonstrate their ability to apply mathematical concepts to analyze and solve problems in diverse disciplines. The curriculum also prepares students for transfer to four-year institutions, where they can pursue advanced coursework in applied mathematics and related fields. This certificate highlights a student’s capability to integrate mathematical techniques with real-world applications, making them valuable in both academic and professional settings. Program Learning Outcomes Upon completion, students will be able to Apply statistical and probabilistic methods to model and analyze real-world phenomena in science, engineering and technology Solve first- and higher-order differential equations using analytical, numerical and qualitative techniques relevant to modeling dynamic systems Analyze complex data sets using techniques from engineering statistics, including control charts, design of experiments and quality improvement tools Integrate concepts from statistics and differential equations to formulate mathematical models and interpret their solutions in applied contexts Design and complete a special project in applied mathematics that involves mathematical modeling, computational tools and critical evaluation of results Communicate applied mathematical reasoning, findings and modeling outcomes effectively using appropriate terminology, notation and software tools De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demons",
+  "requirements": [
+    {
+      "name": "Required Core: (20 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (20 Units)"
+    },
+    {
+      "name": "List A: (1 - 3 Units)",
+      "courses": [
+        "MATH 1D",
+        "MATH 1DH",
+        "MATH 2A",
+        "MATH 2AH",
+        "MATH 23",
+        "MATH 79",
+        "MATH 79X",
+        "MATH 79Y"
+      ],
+      "raw_text": "List A: (1 - 3 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MATH 1D",
+      "title": "Calculus IV",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1DH",
+      "title": "Calculus IV - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Differential Equations",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 2AH",
+      "title": "Differential Equations - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 23",
+      "title": "Engineering Statistics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 79",
+      "title": "Special Projects in Applied Mathematics",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 79X",
+      "title": "Special Projects in Applied Mathematics",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 79Y",
+      "title": "Special Projects in Applied Mathematics",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

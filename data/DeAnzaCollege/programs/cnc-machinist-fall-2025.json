@@ -1,0 +1,237 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:26+00:00",
+  "id": "cnc-machinist-fall-2025",
+  "name": "Associate in Science (A.S.) Degree CNC Machinist",
+  "title_on_page": "Special Projects in Manufacturing and CNC/Mastercam Certification Level 3",
+  "department": "Design and Manufacturing Technologies",
+  "department_id": "design-and-manufacturing-technologies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cnc-machinist-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,cnc-machinist-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 DMT - Design and Mfg. Tech. CNC Machinist AS_CNC Machinist Go Back Print Associate in Science (A.S.) Degree CNC Machinist New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The CNC Machinist A.S. degree teaches students the fundamentals of CNC machine tools. Students learn safe setup, editing and operation of CNC equipment, including vertical and horizontal mills, lathes and rotary multi-axis components. Students are taught to dimension and inspect parts using various inspection methods and to analyze materials and processes used in manufacturing. Upon completion, students are prepared for employment in manufacturing facilities as CNC setup persons and machine operators. Program Learning Outcomes Upon completion, students will be able to Construct and inspect machined projects using CNC equipment with word address programs Apply geometric dimensioning and tolerance standards to inspect drawings and inspect parts using a coordinate measuring machine Differentiate and analyze the materials and processes used in manufacturing Produce tool paths with constructed and imported geometry using Mastercam Apply advanced machining skills by independently contracting projects De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of",
+  "requirements": [
+    {
+      "name": "Required Core: (32.5 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (32.5 Units)"
+    },
+    {
+      "name": "List A: (5 Units)",
+      "courses": [],
+      "raw_text": "List A: (5 Units)"
+    },
+    {
+      "name": "List B: (5 Units)",
+      "courses": [],
+      "raw_text": "List B: (5 Units)"
+    },
+    {
+      "name": "List C: (5 Units)",
+      "courses": [],
+      "raw_text": "List C: (5 Units)"
+    },
+    {
+      "name": "List D: (5 Units)",
+      "courses": [],
+      "raw_text": "List D: (5 Units)"
+    },
+    {
+      "name": "List E: (2 Units)",
+      "courses": [
+        "DMT 80",
+        "DMT 84A",
+        "DMT 84B",
+        "DMT 84C",
+        "DMT 90",
+        "DMT 92",
+        "DMT 95",
+        "DMT 87E",
+        "DMT 87K",
+        "DMT 87P",
+        "DMT 87Q",
+        "DMT 89A",
+        "DMT 89B",
+        "DMT 89C",
+        "DMT 89D",
+        "DMT 89E",
+        "DMT 77A",
+        "DMT 77B",
+        "DMT 77C"
+      ],
+      "raw_text": "List E: (2 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "DMT 80",
+      "title": "Introduction to Machining and CNC Processes",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 84A",
+      "title": "Introduction to CNC Programming and Operation; Mill",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 84B",
+      "title": "CNC Programming and Operation; Intermediate Mill",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 84C",
+      "title": "CNC Lathes-Horizontal Mill-4th Axis Rotary-Programming Operations",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 90",
+      "title": "Print Reading and Machine Shop Calculations",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 92",
+      "title": "Applied GD&T (ASME Y14.5m); Coordinate Measuring Machines (CMM)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 95",
+      "title": "Manufacturing Materials and Processes",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 87E",
+      "title": "CAD/CAM Programming Using Mastercam",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 87K",
+      "title": "CAD/CAM Based CNC Surface Contouring Programming Using Mastercam",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 87P",
+      "title": "CAD/CAM Based CNC 4 and 5 Axis Mill/Lathe Programming Using Mastercam",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 87Q",
+      "title": "CAD/CAM Based CNC 4 and 5 Axis Mill/Lathe Programming Using Mastercam",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 89A",
+      "title": "CAM Based CNC Multi-Axis Programming Using NX",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 89B",
+      "title": "CAM Based CNC Multi-Axis Programming Using NX",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 89C",
+      "title": "CAM Based CNC Multi-Axis Programming Using NX",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 89D",
+      "title": "CAM Based CNC Multi-Axis Programming Using NX",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 89E",
+      "title": "CAM Based CNC Multi-Axis Programming Using NX",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 77A",
+      "title": "Special Projects in Manufacturing and CNC/Mastercam Certification Level 1",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 77B",
+      "title": "Special Projects in Manufacturing and CNC/Mastercam Certification Level 2",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 77C",
+      "title": "Special Projects in Manufacturing and CNC/Mastercam Certification Level 3",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

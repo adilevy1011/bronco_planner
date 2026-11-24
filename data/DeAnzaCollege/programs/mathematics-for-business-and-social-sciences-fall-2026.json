@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:23+00:00",
+  "id": "mathematics-for-business-and-social-sciences-fall-2026",
+  "name": "Certificate of Achievement (COA) Mathematics for Business and Social Sciences",
+  "title_on_page": "Special Projects in Mathematics",
+  "department": "Mathematics",
+  "department_id": "mathematics",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/mathematics-for-business-and-social-sciences-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,mathematics-for-business-and-social-sciences-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 MATH - Mathematics Mathematics for Business and Social Sciences COA_Mathematics for Business and Social Sciences Go Back Print Certificate of Achievement (COA) Mathematics for Business and Social Sciences New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Mathematics for Business and Social Sciences equips students with the mathematical skills essential for success in academic and professional pathways related to business, economics, social sciences and data analysis. This certificate emphasizes the practical application of mathematical concepts to solve real-world problems in these fields. By earning this certificate, students will demonstrate their proficiency in mathematical reasoning, problem-solving and quantitative analysis. The program also prepares students to transfer to four-year institutions or enter careers that value strong mathematical and analytical skills, such as business analytics, market research, public policy or management. This certificate elevates a student’s ability to apply mathematics effectively in business and social sciences contexts, enhancing their value in both academic and professional environments. Program Learning Outcomes Upon completion, students will be able to Apply statistical techniques to analyze data and make informed decisions in business and social science contexts Solve problems involving systems of equations, linear programming, matrices and logic as they relate to business and social sciences Use concepts from business calculus—including marginal analysis, optimization and exponential growth/decay—to model and interpret real-world scenarios Integrate quantitative methods from multiple disciplines to develop and interpret models relevant to finance, economics, management or social policy Complete a capstone project involving a real-world application of mathematical tools to a business or social science problem, including data analysis and modeling Communicate quantitative reasoning, findings and recommendations clearly in both oral and written formats for diverse audiences De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Profi",
+  "requirements": [
+    {
+      "name": "Required Core: (21.5 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (21.5 Units)"
+    },
+    {
+      "name": "List A: (1 - 3 Units)",
+      "courses": [
+        "CIS 11",
+        "CIS 111X",
+        "MATH 11",
+        "MATH 11H",
+        "MATH 12",
+        "MATH 77",
+        "MATH 77X",
+        "MATH 77Y"
+      ],
+      "raw_text": "List A: (1 - 3 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CIS 11",
+      "title": "Foundations of Data Science for All",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 111X",
+      "title": "Support for Foundations of Data Science for All",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 11",
+      "title": "Finite Mathematics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 11H",
+      "title": "Finite Mathematics - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 12",
+      "title": "Introductory Calculus for Business and Social Science",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 77",
+      "title": "Special Projects in Mathematics",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 77X",
+      "title": "Special Projects in Mathematics",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 77Y",
+      "title": "Special Projects in Mathematics",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

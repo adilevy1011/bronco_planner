@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:53+00:00",
+  "id": "automotive-technology-management-fall-2025",
+  "name": "Bachelor of Science (B.S.) Degree Automotive Technology Management",
+  "title_on_page": "Professional Writing in the Workplace",
+  "department": "Automotive Technology Management",
+  "department_id": "automotive-technology-management",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-technology-management-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,automotive-technology-management-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ATMG - Automotive Technology Management Automotive Technology Management BS_Automotive Technology Management Go Back Print Bachelor of Science (B.S.) Degree Automotive Technology Management New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Bachelor of Science in Automotive Technology Management will offer students opportunities for employment and career growth within the automotive industry, by helping fill the entry-level management needs of dealerships, independent repair shops, municipalities and privately-owned fleets – including those in the new and growing field of autonomous and electric vehicles. The degree will also contribute to the mission of economic growth and global competitiveness that guides California Community Colleges. The program is designed for students who have earned an A.A./A.S. degree in an automotive-related program at any California Community College or a regionally accredited higher education institution. All upper division major courses must be completed with a grade of “C” (or “P”) or better for each course in the major. Program Learning Outcomes Upon completion, students will be able to Demonstrate the required skills for effective entry-level management in the automotive repair industry Demonstrate knowledge of leadership, ethics, critical thinking, and all forms of communication in business and life Recognize and value the intricacies of working and living in a multicultural world by demonstrating gratefulness of diversity De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/arti",
+  "requirements": [
+    {
+      "name": "Required Core - Upper-Division Major: (45 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Upper-Division Major: (45 Units)"
+    },
+    {
+      "name": "Required Core - Upper-Division General Education: (15 Units)",
+      "courses": [
+        "ATMG 601",
+        "ATMG 602",
+        "ATMG 603",
+        "ATMG 604",
+        "ATMG 605",
+        "ATMG 606",
+        "ATMG 607",
+        "ATMG 608",
+        "ATMG 609",
+        "BUS 615",
+        "BUS 620",
+        "EWRT 610"
+      ],
+      "raw_text": "Required Core - Upper-Division General Education: (15 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ATMG 601",
+      "title": "Automotive Management Principles",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ATMG 602",
+      "title": "Automotive Planning and Small Business Management",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ATMG 603",
+      "title": "Automotive Service Management",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ATMG 604",
+      "title": "Automotive Parts Management",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ATMG 605",
+      "title": "Automotive Fleet Management",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ATMG 606",
+      "title": "Human Resources in the Automotive Industry",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ATMG 607",
+      "title": "Automotive Sales, Finance, and Leasing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ATMG 608",
+      "title": "Automotive Digital Marketing and E-Commerce",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ATMG 609",
+      "title": "Automotive Regulations and Law",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 615",
+      "title": "Ethics and Sustainability",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 620",
+      "title": "Leadership and Team Dynamics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 610",
+      "title": "Professional Writing in the Workplace",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

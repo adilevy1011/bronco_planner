@@ -1,0 +1,557 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:30+00:00",
+  "id": "art-history-for-transfer-fall-2026",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree Art History for Transfer",
+  "title_on_page": "Intermediate Vietnamese (First Quarter)",
+  "department": "Art",
+  "department_id": "art",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/art-history-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,art-history-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ARTS - Visual Arts and Design Art History for Transfer AAT_Associate in Arts in Art History for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree Art History for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Art History major consists of courses appropriate for the Art History for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline, and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Art History for Transfer is intended for students who plan to complete a bachelor’s degree in Art History (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Differentiate between, collect, and analyze primary and secondary source information related to analysis of works of art Analyze the social experiences of artists, demonstrating how artists’ relationships with their patrons were defining factors in producing works of art Investigate the different techniques, materials, and tools utilized in production, through written analysis based on observation of original works of art De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be c",
+  "requirements": [
+    {
+      "name": "Required Core: (20 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (20 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [],
+      "raw_text": "List A: (4 Units)"
+    },
+    {
+      "name": "List B: (3 - 4 Units)",
+      "courses": [],
+      "raw_text": "List B: (3 - 4 Units)"
+    },
+    {
+      "name": "List C - Complete from below or from List A or List B (not already taken): (4 - 5 Units)",
+      "courses": [
+        "ARTS 2A",
+        "ARTS 2B",
+        "ARTS 2C",
+        "ARTS 2D",
+        "ARTS 4A",
+        "ASAM 40",
+        "ARTS 2G",
+        "ARTS 2J",
+        "ARTS 4C",
+        "ARTS 8",
+        "ARTS 10A",
+        "ARTS 18A",
+        "ARTS 37A",
+        "ARTS 53",
+        "PHTG 1",
+        "ANTH 2",
+        "ANTH 2H",
+        "ANTH 3",
+        "ANTH 4",
+        "ARTS 1A",
+        "ARTS 1B",
+        "ARTS 1C",
+        "ARTS 3TC",
+        "WMST 3C",
+        "ARTS 3TE",
+        "CETH 13",
+        "ARTS 2F",
+        "GERM 4",
+        "HIST 3A",
+        "HIST 3AH",
+        "HIST 3B",
+        "HIST 3BH",
+        "HIST 3C",
+        "HIST 3CH",
+        "HUMI 1",
+        "HUMI 1H",
+        "HUMI 2",
+        "HUMI 6",
+        "HUMI 7",
+        "HUMI 9",
+        "HUMI 9H",
+        "HUMI 10",
+        "HUMI 15",
+        "HUMI 18",
+        "HUMI 18H",
+        "HUMI 20",
+        "JAPN 4",
+        "MAND 4",
+        "PHTG 7",
+        "PHTG 21",
+        "SPAN 4",
+        "VIET 4"
+      ],
+      "raw_text": "List C - Complete from below or from List A or List B (not already taken): (4 - 5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ARTS 2A",
+      "title": "History of Art: Europe from Prehistory through Early Christianity",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2B",
+      "title": "History of Art: Europe During the Middle Ages and the Renaissance",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2C",
+      "title": "History of Art: Europe from the Baroque Period Through Impressionism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2D",
+      "title": "History of Art: Europe and the United States from Post-Impressionism to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4A",
+      "title": "Beginning Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 40",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2G",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2J",
+      "title": "History of Art: Arts of Africa, Oceania and Native North America",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4C",
+      "title": "Life Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 8",
+      "title": "Two-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10A",
+      "title": "Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18A",
+      "title": "Ceramics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 37A",
+      "title": "Sculpture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 53",
+      "title": "Introduction to Graphic Design: Vector Illustration",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 1",
+      "title": "Basic Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 3",
+      "title": "Introduction to Archaeology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 4",
+      "title": "World Prehistory",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 1A",
+      "title": "Introduction to the Visual Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 1B",
+      "title": "Architecture Past and Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 1C",
+      "title": "Introduction to Museum Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 3TC",
+      "title": "Women and Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 3C",
+      "title": "Women and Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 3TE",
+      "title": "Today's Art Scene",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 13",
+      "title": "History of Art (Multicultural Arts in the United States)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2F",
+      "title": "History of Art (Multicultural Arts in the United States)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 4",
+      "title": "Intermediate German (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3A",
+      "title": "World History from Prehistory to 750 CE",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3AH",
+      "title": "World History from Prehistory to 750 CE - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3B",
+      "title": "World History from 750 to 1750 CE",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3BH",
+      "title": "World History from 750 to 1750 CE - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3C",
+      "title": "World History from 1750 CE to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3CH",
+      "title": "World History from 1750 CE to the Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1",
+      "title": "Creative Minds",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1H",
+      "title": "Creative Minds - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 2",
+      "title": "But is it Art? Questions and Criticism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 6",
+      "title": "Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 7",
+      "title": "The Arts and the Human Spirit",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 9",
+      "title": "Introduction to Comparative Religion",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 9H",
+      "title": "Introduction to Comparative Religion - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 10",
+      "title": "Global Religious Perspectives: Judaism, Christianity and Islam",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 15",
+      "title": "Discussion on the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 18",
+      "title": "History as Mystery: A Critique of Western Perspectives in a Global Context",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 18H",
+      "title": "History as Mystery: A Critique of Western Perspectives in a Global Context - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 20",
+      "title": "The Greek Achievement",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 4",
+      "title": "Intermediate Japanese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 4",
+      "title": "Intermediate Mandarin (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 7",
+      "title": "Exploring Visual Expression",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 21",
+      "title": "Contemporary Trends in Photography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 4",
+      "title": "Intermediate Spanish (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 4",
+      "title": "Intermediate Vietnamese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

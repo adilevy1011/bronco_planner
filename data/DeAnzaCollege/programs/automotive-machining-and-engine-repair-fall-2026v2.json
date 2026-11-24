@@ -1,0 +1,102 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:52+00:00",
+  "id": "automotive-machining-and-engine-repair-fall-2026v2",
+  "name": "Associate in Science (A.S.) Degree Automotive Machining and Engine Repair",
+  "title_on_page": "Performance Engine Theory",
+  "department": "Automotive Technology",
+  "department_id": "automotive-technology",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-machining-and-engine-repair-fall-2026v2",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,automotive-machining-and-engine-repair-fall-2026v2?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 AUTO - Automotive Technology Automotive Machining and Engine Repair AS_Automotive Machining and Engine Repair Go Back Print Associate in Science (A.S.) Degree Automotive Machining and Engine Repair New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. This A.S. degree prepares students for an entry-level position in the automotive repair industry in engine diagnostics. Program Learning Outcomes Upon completion, students will be able to Demonstrate an application of four-stroke engine theory Identify basic electrical circuits and diagnose automotive electrical circuit systems Apply the basic principles of physics as they work in the automotive industry Demonstrate knowledge of the job procurement process in the automotive industry Demonstrate basic safe machining practices Demonstrate knowledge of estimates and repair orders Demonstrate knowledge of hazardous materials handling in the automotive industry De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or higher Major Courses Each course listed as a program requirement (excluding GE requirements) must be completed with a letter gra",
+  "requirements": [
+    {
+      "name": "Required Core: (42 Units)",
+      "courses": [
+        "AUTO 53A",
+        "AUTO 57A",
+        "AUTO 94A",
+        "AUTO 94B",
+        "AUTO 94C",
+        "AUTO 94D",
+        "AUTO 94E",
+        "AUTO 94F"
+      ],
+      "raw_text": "Required Core: (42 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "AUTO 53A",
+      "title": "Automotive Mechanisms",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 57A",
+      "title": "Career Research and Employment in the Automotive Industry",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 94A",
+      "title": "Automotive Machining and Engine Service",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 94B",
+      "title": "Mechanical Engine Diagnostics",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 94C",
+      "title": "Introductory Automotive Machining",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 94D",
+      "title": "Intermediate Automotive Machining",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 94E",
+      "title": "Advanced Automotive Machining",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AUTO 94F",
+      "title": "Performance Engine Theory",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

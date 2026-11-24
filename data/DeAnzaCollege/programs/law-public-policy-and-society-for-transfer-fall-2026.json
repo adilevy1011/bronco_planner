@@ -1,0 +1,402 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:25+00:00",
+  "id": "law-public-policy-and-society-for-transfer-fall-2026",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree Law, Public Policy, and Society for Transfer",
+  "title_on_page": "Life Skills for Higher Education",
+  "department": "Administration of Justice",
+  "department_id": "admin-of-justice",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/law-public-policy-and-society-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,law-public-policy-and-society-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ADMJ - Admin. of Justice Law, Public Policy, and Society for Transfer AAT_Associate in Arts in Law, Public Policy, and Society for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree Law, Public Policy, and Society for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Law, Public Policy, and Society major consists of courses appropriate for the Associate in Arts in Law, Public Policy, and Society for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline, and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Associate in Arts in Law, Public Policy, and Society for Transfer degree is intended for students who plan to complete a bachelor’s degree in Law, Public Policy, and Society (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Define and analyze the discipline of philosophy with a sustained focus on the ethics branch of philosophy Compare and analyze the key aspects of political systems within the concepts of state, state and society, political culture and political economy Identify and evaluate the process of economic decision-making within the context of social science Describe and explain the roles of major ethnic, cultural, social and gender groups in the development of United States political institutions and traditions Define and assess the critical role of both group and individual action in democratic decision-making Identify and evaluate how laws and the legal system affect the development and implementation of public policy and social control De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: Th",
+  "requirements": [
+    {
+      "name": "Required Core - Understanding the Law: (4 - 5 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Understanding the Law: (4 - 5 Units)"
+    },
+    {
+      "name": "Required Core - Ethics: (4 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Ethics: (4 Units)"
+    },
+    {
+      "name": "Required Core - Oral Communication: (5 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Oral Communication: (5 Units)"
+    },
+    {
+      "name": "Required Core - Written Communication: (5 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Written Communication: (5 Units)"
+    },
+    {
+      "name": "Required Core - Critical Thinking: (4 - 5 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Critical Thinking: (4 - 5 Units)"
+    },
+    {
+      "name": "Required Core - Quantitative Reasoning: (4 - 5 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Quantitative Reasoning: (4 - 5 Units)"
+    },
+    {
+      "name": "Required Core - US History: (8 Units)",
+      "courses": [],
+      "raw_text": "Required Core - US History: (8 Units)"
+    },
+    {
+      "name": "Required Core - Introduction to American Government: (5 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Introduction to American Government: (5 Units)"
+    },
+    {
+      "name": "Area 1 - Administrative of Justice/Criminal Justice/Criminology: (4 Units)",
+      "courses": [],
+      "raw_text": "Area 1 - Administrative of Justice/Criminal Justice/Criminology: (4 Units)"
+    },
+    {
+      "name": "Area 2 - Business: (5 Units)",
+      "courses": [],
+      "raw_text": "Area 2 - Business: (5 Units)"
+    },
+    {
+      "name": "Area 3 - Economics: (4 Units)",
+      "courses": [],
+      "raw_text": "Area 3 - Economics: (4 Units)"
+    },
+    {
+      "name": "Area 4 - Political Science: (4 Units)",
+      "courses": [],
+      "raw_text": "Area 4 - Political Science: (4 Units)"
+    },
+    {
+      "name": "Area 5 - Public Policy: (4 Units)",
+      "courses": [],
+      "raw_text": "Area 5 - Public Policy: (4 Units)"
+    },
+    {
+      "name": "Area 6 - Diversity: (4 Units)",
+      "courses": [],
+      "raw_text": "Area 6 - Diversity: (4 Units)"
+    },
+    {
+      "name": "Area 7 - College Success: (4 Units)",
+      "courses": [
+        "ADMJ 1",
+        "POLI 10",
+        "ADMJ 75",
+        "PARA 75",
+        "POLI 75",
+        "BUS 18",
+        "PHIL 8",
+        "PHIL 8H",
+        "COMM 8",
+        "COMM 8H",
+        "COMM 10",
+        "COMM 10H",
+        "COMM 15",
+        "COMM 15H",
+        "PHIL 7",
+        "PHIL 7H",
+        "PSYC 15",
+        "SOC 15",
+        "HIST 17B",
+        "HIST 17BH",
+        "HIST 17C",
+        "HIST 17CH",
+        "ADMJ 6",
+        "POLI 2",
+        "POLI 5",
+        "SOC 20",
+        "ANTH 2",
+        "ANTH 2H",
+        "CETH 10",
+        "SOC 29",
+        "HUMA 20"
+      ],
+      "raw_text": "Area 7 - College Success: (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ADMJ 1",
+      "title": "Introduction to Administration of Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 10",
+      "title": "Introduction to Administration of Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 18",
+      "title": "Business Law I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 8",
+      "title": "Ethics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 8H",
+      "title": "Ethics - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 8",
+      "title": "Argumentation and Critical Inquiry in Oral Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 8H",
+      "title": "Argumentation and Critical Inquiry in Oral Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 10",
+      "title": "Fundamentals of Oral Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 10H",
+      "title": "Fundamentals of Oral Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 15",
+      "title": "Critical Decision-Making in Groups",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 15H",
+      "title": "Critical Decision-Making in Groups - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 7",
+      "title": "Deductive Logic",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 7H",
+      "title": "Deductive Logic - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 17B",
+      "title": "History of the United States from 1800 to 1900",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 17BH",
+      "title": "History of the United States from 1800 to 1900 - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 17C",
+      "title": "History of the United States from 1900 to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 17CH",
+      "title": "History of the United States from 1900 to the Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 6",
+      "title": "Crime, Correction and Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 2",
+      "title": "Comparative Politics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 5",
+      "title": "Introduction to Political Thought and Theory",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 20",
+      "title": "Social Problems",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 10",
+      "title": "Introduction to Ethnic Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 29",
+      "title": "Sociology of Structural Racism in the United States",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMA 20",
+      "title": "Life Skills for Higher Education",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

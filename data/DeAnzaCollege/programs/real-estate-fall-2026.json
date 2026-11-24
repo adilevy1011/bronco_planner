@@ -1,0 +1,217 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:40+00:00",
+  "id": "real-estate-fall-2026",
+  "name": "Certificate of Achievement (COA) Real Estate",
+  "title_on_page": "Real Estate Licensing Exam Preparation",
+  "department": "Real Estate",
+  "department_id": "real-estate",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/real-estate-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,real-estate-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 REST - Real Estate Real Estate COA_Real Estate Go Back Print Certificate of Achievement (COA) Real Estate New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Real Estate provides the student with a thorough understanding of the California residential real estate market from a buyer’s, seller’s and real estate professional’s perspective. In addition, students completing the program meet the minimum requirements to sit for the California Real Estate Sales License exam. Program Learning Outcomes Upon completion, students will be able to Demonstrate knowledge of how real property is described, acquired, appraised, financed, encumbered and leased and how title to real property is held in California Demonstrate knowledge of the risks, returns, legal issues and ethical issues involved in the purchase, holding and sale of California real estate Qualify to take the California Department of Real Estate salesperson examination De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or higher Major Courses Each course listed as a program requirement (excluding GE ",
+  "requirements": [
+    {
+      "name": "Required Core: (20 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (20 Units)"
+    },
+    {
+      "name": "List A: (3 - 5 Units)",
+      "courses": [
+        "REST 50",
+        "REST 51",
+        "REST 52A",
+        "REST 53",
+        "REST 61",
+        "ACCT 1A",
+        "ACCT 1AH",
+        "ACCT 1B",
+        "ACCT 1BH",
+        "ACCT 1C",
+        "ACCT 1CH",
+        "BUS 10",
+        "BUS 18",
+        "BUS 21",
+        "BUS 58",
+        "BUS 90",
+        "BUS 94",
+        "REST 55",
+        "REST 62"
+      ],
+      "raw_text": "List A: (3 - 5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "REST 50",
+      "title": "Real Estate Principles",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "REST 51",
+      "title": "Real Estate Practices",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "REST 52A",
+      "title": "Legal Aspects of Real Estate",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "REST 53",
+      "title": "Real Estate Finance",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "REST 61",
+      "title": "Real Estate Investments",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1A",
+      "title": "Financial Accounting I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1AH",
+      "title": "Financial Accounting I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1B",
+      "title": "Financial Accounting II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1BH",
+      "title": "Financial Accounting II - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1C",
+      "title": "Managerial Accounting",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1CH",
+      "title": "Managerial Accounting - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 10",
+      "title": "Introduction to Business",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 18",
+      "title": "Business Law I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 21",
+      "title": "Business and Society",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 58",
+      "title": "The Business Plan",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 90",
+      "title": "Principles of Marketing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 94",
+      "title": "Social Media Marketing Strategies",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "REST 55",
+      "title": "Real Estate Property Management",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "REST 62",
+      "title": "Real Estate Licensing Exam Preparation",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

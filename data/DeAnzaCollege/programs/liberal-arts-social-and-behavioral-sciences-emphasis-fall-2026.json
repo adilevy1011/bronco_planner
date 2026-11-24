@@ -1,0 +1,2052 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:17+00:00",
+  "id": "liberal-arts-social-and-behavioral-sciences-emphasis-fall-2026",
+  "name": "Associate in Arts (A.A.) Degree Liberal Arts (Social and Behavioral Sciences Emphasis)",
+  "title_on_page": "Women and Popular Culture",
+  "department": "Liberal Arts",
+  "department_id": "liberal-arts",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/liberal-arts-social-and-behavioral-sciences-emphasis-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,liberal-arts-social-and-behavioral-sciences-emphasis-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 COUN - Counseling Liberal Arts (Social and Behavioral Sciences Emphasis) AA_Liberal Arts (Social and Behavioral Sciences Emphasis) Go Back Print Associate in Arts (A.A.) Degree Liberal Arts (Social and Behavioral Sciences Emphasis) New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. Designed primarily for students who plan on transferring to the University of California or California State University, the associate degree in Liberal Arts represents the completion of a broad area of study with an emphasis in one of the following four areas: Arts and Letters; Business and Computer Information Systems; Science, Math and Engineering; or Social and Behavioral Sciences. The degree allows the student to develop a broad set of essential life and work competencies such as communication, critical thinking, problem solving, quantitative reasoning and multicultural skills. Students complete a minimum of 27 units from one of the four emphasis areas, the A.A. degree General Education requirements and the A.A./A.S. degree requirements noted in the campus catalog. Courses used for the 27-unit emphasis area requirement may not be used to satisfy the General Education requirements. Note: Students are limited to earning one Liberal Arts degree. Program Learning Outcomes Upon completion, students will be able to Demonstrate the use of effective language and speech communication skills Analyze and solve problems by using thoughtful and logical reasoning skills Recognize and value the complexities of living in a multicultural world by demonstrating an appreciation of diversity in its many forms Display behaviors that promote the mental and physical well-being of self and others Identify basic and foundational theories, concepts and practices in the comprehensive area of emphasis De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza ",
+  "requirements": [
+    {
+      "name": "Administration of Justice: (0 Units)",
+      "courses": [],
+      "raw_text": "Administration of Justice: (0 Units)"
+    },
+    {
+      "name": "African American Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "African American Studies: (0 Units)"
+    },
+    {
+      "name": "Anthropology: (0 Units)",
+      "courses": [],
+      "raw_text": "Anthropology: (0 Units)"
+    },
+    {
+      "name": "Arts: (0 Units)",
+      "courses": [],
+      "raw_text": "Arts: (0 Units)"
+    },
+    {
+      "name": "Asian American Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Asian American Studies: (0 Units)"
+    },
+    {
+      "name": "Business: (0 Units)",
+      "courses": [],
+      "raw_text": "Business: (0 Units)"
+    },
+    {
+      "name": "Career Life Planning: (0 Units)",
+      "courses": [],
+      "raw_text": "Career Life Planning: (0 Units)"
+    },
+    {
+      "name": "Chicanx/Latinx Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Chicanx/Latinx Studies: (0 Units)"
+    },
+    {
+      "name": "Child Development: (0 Units)",
+      "courses": [],
+      "raw_text": "Child Development: (0 Units)"
+    },
+    {
+      "name": "Communication Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Communication Studies: (0 Units)"
+    },
+    {
+      "name": "Comparative Ethnic Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Comparative Ethnic Studies: (0 Units)"
+    },
+    {
+      "name": "Computer Information Systems: (0 Units)",
+      "courses": [],
+      "raw_text": "Computer Information Systems: (0 Units)"
+    },
+    {
+      "name": "Economics: (0 Units)",
+      "courses": [],
+      "raw_text": "Economics: (0 Units)"
+    },
+    {
+      "name": "Education: (0 Units)",
+      "courses": [],
+      "raw_text": "Education: (0 Units)"
+    },
+    {
+      "name": "Environmental Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Environmental Studies: (0 Units)"
+    },
+    {
+      "name": "Film and Television Production: (0 Units)",
+      "courses": [],
+      "raw_text": "Film and Television Production: (0 Units)"
+    },
+    {
+      "name": "Geography: (0 Units)",
+      "courses": [],
+      "raw_text": "Geography: (0 Units)"
+    },
+    {
+      "name": "History: (0 Units)",
+      "courses": [],
+      "raw_text": "History: (0 Units)"
+    },
+    {
+      "name": "Human Development: (0 Units)",
+      "courses": [],
+      "raw_text": "Human Development: (0 Units)"
+    },
+    {
+      "name": "Intercultural Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Intercultural Studies: (0 Units)"
+    },
+    {
+      "name": "International Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "International Studies: (0 Units)"
+    },
+    {
+      "name": "Journalism: (0 Units)",
+      "courses": [],
+      "raw_text": "Journalism: (0 Units)"
+    },
+    {
+      "name": "Mathematics: (0 Units)",
+      "courses": [],
+      "raw_text": "Mathematics: (0 Units)"
+    },
+    {
+      "name": "Native American and Indigenous Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Native American and Indigenous Studies: (0 Units)"
+    },
+    {
+      "name": "Paralegal: (0 Units)",
+      "courses": [],
+      "raw_text": "Paralegal: (0 Units)"
+    },
+    {
+      "name": "Political Science: (0 Units)",
+      "courses": [],
+      "raw_text": "Political Science: (0 Units)"
+    },
+    {
+      "name": "Psychology: (0 Units)",
+      "courses": [],
+      "raw_text": "Psychology: (0 Units)"
+    },
+    {
+      "name": "Sociology: (0 Units)",
+      "courses": [],
+      "raw_text": "Sociology: (0 Units)"
+    },
+    {
+      "name": "Women’s Studies: (0 Units)",
+      "courses": [
+        "ADMJ 1",
+        "ADMJ 3",
+        "ADMJ 4",
+        "ADMJ 5",
+        "ADMJ 6",
+        "ADMJ 7",
+        "ADMJ 9",
+        "ADMJ 10",
+        "ADMJ 11",
+        "ADMJ 25",
+        "ADMJ 29",
+        "ADMJ 51",
+        "ADMJ 53",
+        "ADMJ 54",
+        "ADMJ 55",
+        "ADMJ 56",
+        "ADMJ 61",
+        "ADMJ 62",
+        "ADMJ 74A",
+        "ADMJ 75",
+        "ADMJ 78",
+        "ADMJ 84",
+        "ADMJ 90A",
+        "AFAM 10",
+        "AFAM 11",
+        "AFAM 12A",
+        "AFAM 12B",
+        "AFAM 25",
+        "ANTH 2",
+        "ANTH 2H",
+        "ANTH 3",
+        "ANTH 4",
+        "ANTH 6",
+        "ANTH 8",
+        "ANTH 12",
+        "ANTH 14",
+        "ANTH 68",
+        "ARTS 3TC",
+        "ASAM 1",
+        "ASAM 10",
+        "ASAM 11",
+        "ASAM 12",
+        "ASAM 13",
+        "ASAM 21",
+        "ASAM 22",
+        "ASAM 30",
+        "ASAM 33",
+        "BUS 21",
+        "CLP 5",
+        "CLP 7",
+        "CHLX 10",
+        "CHLX 11",
+        "CHLX 12",
+        "CHLX 26",
+        "COMM 7",
+        "COMM 7H",
+        "COMM 16",
+        "COMM 16H",
+        "COMM 17",
+        "COMM 17H",
+        "CETH 8",
+        "CETH 10",
+        "CETH 11",
+        "CETH 19",
+        "CETH 29",
+        "CETH 50",
+        "CIS 2",
+        "ECON 3",
+        "ECON 3H",
+        "ECON 4",
+        "ECON 5",
+        "EDUC 1",
+        "EDUC 46",
+        "GEO 1",
+        "GEO 4",
+        "GEO 5",
+        "GEO 6",
+        "GEO 10",
+        "HIST 3A",
+        "HIST 3AH",
+        "HIST 3B",
+        "HIST 3BH",
+        "HIST 3C",
+        "HIST 3CH",
+        "HIST 6A",
+        "HIST 6AH",
+        "HIST 6B",
+        "HIST 6BH",
+        "HIST 6C",
+        "HIST 6CH",
+        "HIST 7A",
+        "HIST 7B",
+        "HIST 9",
+        "HIST 9H",
+        "HIST 10",
+        "HIST 10H",
+        "HIST 16A",
+        "HIST 16B",
+        "HIST 17A",
+        "HIST 17AH",
+        "HIST 17B",
+        "HIST 17BH",
+        "HIST 17C",
+        "HIST 17CH",
+        "HIST 19A",
+        "HIST 19B",
+        "HUMA 10",
+        "HUMA 10H",
+        "HUMA 20",
+        "HUMA 30",
+        "ICS 2A",
+        "ICS 17",
+        "ICS 17H",
+        "ICS 19",
+        "ICS 25",
+        "ICS 26",
+        "ICS 27",
+        "ICS 27H",
+        "ICS 36",
+        "INTL 1",
+        "INTL 5",
+        "INTL 33",
+        "JOUR 2",
+        "MATH 17",
+        "MATH 46",
+        "NAIS 11",
+        "NAIS 12",
+        "NAIS 14",
+        "NAIS 16",
+        "NAIS 31",
+        "PARA 3",
+        "PARA 9",
+        "PARA 11",
+        "PARA 25",
+        "PARA 67",
+        "PARA 74A",
+        "PARA 75",
+        "PARA 90A",
+        "POLI 2",
+        "POLI 3",
+        "POLI 5",
+        "POLI 9",
+        "POLI 10",
+        "POLI 11",
+        "POLI 13",
+        "POLI 15",
+        "POLI 16",
+        "POLI 17",
+        "POLI 17H",
+        "POLI 20",
+        "POLI 75",
+        "PSYC 2",
+        "PSYC 3",
+        "PSYC 4",
+        "PSYC 5",
+        "PSYC 9",
+        "PSYC 10G",
+        "PSYC 10H",
+        "PSYC 11",
+        "PSYC 12",
+        "PSYC 14",
+        "PSYC 15",
+        "PSYC 24",
+        "PSYC 63",
+        "PSYC 74A",
+        "SOC 1",
+        "SOC 5",
+        "SOC 10",
+        "SOC 14",
+        "SOC 15",
+        "SOC 20",
+        "SOC 28",
+        "SOC 29",
+        "SOC 35",
+        "SOC 51",
+        "WMST 1",
+        "WMST 3C",
+        "WMST 8",
+        "WMST 9",
+        "WMST 9H",
+        "WMST 12",
+        "WMST 22",
+        "WMST 24",
+        "WMST 25",
+        "WMST 26",
+        "WMST 27",
+        "WMST 28",
+        "WMST 29",
+        "WMST 31"
+      ],
+      "raw_text": "Women’s Studies: (0 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ADMJ 1",
+      "title": "Introduction to Administration of Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 3",
+      "title": "Concepts of Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 4",
+      "title": "Introduction to Corrections, Probation and Parole",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 5",
+      "title": "Community Relations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 6",
+      "title": "Crime, Correction and Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 7",
+      "title": "Ethics and Leadership in Criminal Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 10",
+      "title": "Crime and Criminology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 11",
+      "title": "Federal Courts and Constitutional Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 25",
+      "title": "Law and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 51",
+      "title": "Women in Crime",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 53",
+      "title": "California-Specific Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 54",
+      "title": "Youth and the Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 55",
+      "title": "Alcohol, Narcotics and Drug Abuse",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 56",
+      "title": "Practical Writing for Administration of Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 61",
+      "title": "Criminal Investigation",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 62",
+      "title": "Sexual Assault, Police and Community Response",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 74A",
+      "title": "Interviewing, Interrogation and Crisis Intervention",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 78",
+      "title": "Correctional Investigation",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 84",
+      "title": "Forensic Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 90A",
+      "title": "Legal Aspects of Evidence (CP 4)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 10",
+      "title": "An Introduction to African American Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 11",
+      "title": "Sankofa: Roots of the African American Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 12A",
+      "title": "African American History of the U.S. to Reconstruction",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 12B",
+      "title": "African American History Since Reconstruction",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 25",
+      "title": "Introduction to Black Feminism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 3",
+      "title": "Introduction to Archaeology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 4",
+      "title": "World Prehistory",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 6",
+      "title": "Linguistic Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 8",
+      "title": "Medical Anthropology: Methods and Practice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 12",
+      "title": "Introduction to Applied Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 14",
+      "title": "Anthropology of Globalization",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 68",
+      "title": "Anthropology and Museums",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 3TC",
+      "title": "Women and Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 1",
+      "title": "Asian American Experiences Past to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 10",
+      "title": "Contemporary Asian American Communities",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 11",
+      "title": "Asian Americans and Racism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 12",
+      "title": "Asian Americans and American Ideals, Institutions and Politics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 13",
+      "title": "Asian Americans and Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 21",
+      "title": "Asian Pacific Americans Make Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 22",
+      "title": "Asian American Women",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 30",
+      "title": "Filipinx American History and Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 33",
+      "title": "Filipinx American Community Issues",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 21",
+      "title": "Business and Society",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CLP 5",
+      "title": "Overview of College, Majors, and Career Options",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CLP 7",
+      "title": "Self-Assessment",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 10",
+      "title": "Introduction to Chicanx and Latinx Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 11",
+      "title": "Chicanx Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 12",
+      "title": "Chicanx and Latinx History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 26",
+      "title": "La Mujer: Latina Life and Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7",
+      "title": "Intercultural Communication",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7H",
+      "title": "Intercultural Communication - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 16",
+      "title": "Interpersonal Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 16H",
+      "title": "Interpersonal Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 17",
+      "title": "Organizational Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 17H",
+      "title": "Organizational Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 8",
+      "title": "Women of Color in the USA",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 10",
+      "title": "Introduction to Ethnic Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 11",
+      "title": "Race and Ethnicity: Belonging and Exclusion in the U.S.",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 19",
+      "title": "Masculinities in U.S. Culture and Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 50",
+      "title": "Civic Leadership for Community Empowerment",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 2",
+      "title": "Computers and the Internet in Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ECON 3",
+      "title": "Environmental Economics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ECON 3H",
+      "title": "Environmental Economics - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ECON 4",
+      "title": "Economics of Public Issues",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ECON 5",
+      "title": "Behavioral Economics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EDUC 1",
+      "title": "Introduction to Elementary Education in a Diverse Society",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EDUC 46",
+      "title": "Mathematics for Elementary Education",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 1",
+      "title": "Physical Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 4",
+      "title": "Cultural Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 5",
+      "title": "A Geography of California",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 6",
+      "title": "Introduction to Geographic Information System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 10",
+      "title": "World Regional Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3A",
+      "title": "World History from Prehistory to 750 CE",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3AH",
+      "title": "World History from Prehistory to 750 CE - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3B",
+      "title": "World History from 750 to 1750 CE",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3BH",
+      "title": "World History from 750 to 1750 CE - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3C",
+      "title": "World History from 1750 CE to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3CH",
+      "title": "World History from 1750 CE to the Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6A",
+      "title": "History of Western Civilization: Pre-History to 750 C.E.",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6AH",
+      "title": "History of Western Civilization: Pre-History to 750 C.E. - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6B",
+      "title": "History of Western Civilization: 750 C.E. to 1750 C.E.",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6BH",
+      "title": "History of Western Civilization: 750 C.E. to 1750 C.E. - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6C",
+      "title": "History of Western Civilization: 1750 C.E. to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6CH",
+      "title": "History of Western Civilization: 1750 C.E. to Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 7A",
+      "title": "Colonial Latin American History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 7B",
+      "title": "Modern Latin American History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 9",
+      "title": "Women in American History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 9H",
+      "title": "Women in American History - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 10",
+      "title": "History of California",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 10H",
+      "title": "History of California - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 16A",
+      "title": "History of Africa to 1800",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 16B",
+      "title": "History of Africa from 1800 to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 17A",
+      "title": "History of the United States to Early National Era",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 17AH",
+      "title": "History of the United States to Early National Era - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 17B",
+      "title": "History of the United States from 1800 to 1900",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 17BH",
+      "title": "History of the United States from 1800 to 1900 - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 17C",
+      "title": "History of the United States from 1900 to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 17CH",
+      "title": "History of the United States from 1900 to the Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 19A",
+      "title": "History of Asian Civilization: China and Japan (to the 19th Century)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 19B",
+      "title": "History of Asian Civilization: China and Japan (19th - 21st Centuries)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMA 10",
+      "title": "Human Sexuality",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMA 10H",
+      "title": "Human Sexuality - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMA 20",
+      "title": "Life Skills for Higher Education",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMA 30",
+      "title": "Understanding and Managing Stress",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 2A",
+      "title": "Introduction to Peer Mentoring, Leadership, and Community Building",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 17",
+      "title": "Critical Consciousness and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 17H",
+      "title": "Critical Consciousness and Social Change - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 19",
+      "title": "Making a Difference: Transforming Relations of Nature, Community, and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 25",
+      "title": "Grassroots Democracy: Race, Politics and the American Promise",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 26",
+      "title": "Introduction to Lesbian, Gay, Bisexual, Transgender and Queer Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 27",
+      "title": "Grassroots Democracy: Leadership and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 27H",
+      "title": "Grassroots Democracy: Leadership and Power - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 36",
+      "title": "Grassroots Democracy: Social Movements Since the 1960s",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 1",
+      "title": "Introduction to Global Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 5",
+      "title": "Contemporary Global Issues",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 33",
+      "title": "Introduction to Peace and Conflict Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 2",
+      "title": "Media and Its Impact On Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 17",
+      "title": "Integrated Statistics 2",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 46",
+      "title": "Mathematics for Elementary Education",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 11",
+      "title": "Ethnic Studies and Native American Contemporary Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 12",
+      "title": "Ethnic Studies and the Historical Experiences of Native Americans",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 14",
+      "title": "Ethnic Studies and the Religious Traditions of Native Americans",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 16",
+      "title": "California Native Americans",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 31",
+      "title": "Ethnic Studies: Native Hawaiian and Pacific Islander Experiences",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 3",
+      "title": "Concepts of Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 11",
+      "title": "Federal Courts and Constitutional Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 25",
+      "title": "Law and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 67",
+      "title": "Law Office Management for Paralegals",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 74A",
+      "title": "Interviewing, Interrogation and Crisis Intervention",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 90A",
+      "title": "Legal Aspects of Evidence (CP 4)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 2",
+      "title": "Comparative Politics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 3",
+      "title": "International Relations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 5",
+      "title": "Introduction to Political Thought and Theory",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 10",
+      "title": "Introduction to Administration of Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 11",
+      "title": "Federal Courts and Constitutional Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 13",
+      "title": "Concepts of Criminal Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 15",
+      "title": "Grassroots Democracy: Race, Politics and the American Promise",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 16",
+      "title": "Grassroots Democracy: Social Movements Since the 1960s",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 17",
+      "title": "Grassroots Democracy: Leadership and Power",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 17H",
+      "title": "Grassroots Democracy: Leadership and Power - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 20",
+      "title": "Introduction to Statistics for the Behavioral and Social Sciences",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 75",
+      "title": "Principles and Procedures of the Justice System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 2",
+      "title": "Research Methods in Psychology",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 3",
+      "title": "An Introduction to Cognitive Psychology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 4",
+      "title": "Abnormal Psychology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 5",
+      "title": "Introduction to Theories of Personality",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 9",
+      "title": "Psychology of Human Relationships and Normal Adjustment",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 10G",
+      "title": "Child Development (The Early Years)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 10H",
+      "title": "Child Growth and Development (Middle Childhood and Adolescence)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 11",
+      "title": "Psychology of Wellness",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 12",
+      "title": "Psychology of Gender",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 14",
+      "title": "Developmental Aspects of Psychology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 24",
+      "title": "Introduction to Psychobiology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 63",
+      "title": "Sexual Assault, Police and Community Response",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 74A",
+      "title": "Interviewing, Interrogation and Crisis Intervention",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 1",
+      "title": "Introduction to Sociology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 5",
+      "title": "Sociology of Globalization and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 10",
+      "title": "Crime and Criminology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 14",
+      "title": "The Process of Social Research",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 20",
+      "title": "Social Problems",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 28",
+      "title": "Sociology of Gender",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 29",
+      "title": "Sociology of Structural Racism in the United States",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 35",
+      "title": "Marriage, Family, and Intimate Relationships",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 51",
+      "title": "Women in Crime",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 1",
+      "title": "Introduction to Women's Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 3C",
+      "title": "Women and Art",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 8",
+      "title": "Women of Color in the USA",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 9",
+      "title": "Women in American History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 9H",
+      "title": "Women in American History - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 12",
+      "title": "Psychology of Gender",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 22",
+      "title": "Asian American Women",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 24",
+      "title": "Women and Gender in Global Perspectives",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 25",
+      "title": "Introduction to Black Feminism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 26",
+      "title": "La Mujer: Latina Life and Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 27",
+      "title": "Women and Gendered Violence",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 28",
+      "title": "Sociology of Gender",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 29",
+      "title": "Masculinities in U.S. Culture and Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 31",
+      "title": "Women and Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

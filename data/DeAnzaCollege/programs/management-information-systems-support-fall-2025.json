@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:58+00:00",
+  "id": "management-information-systems-support-fall-2025",
+  "name": "Certificate of Achievement (COA) Management Information Systems Support",
+  "title_on_page": "Personal Computer Security Basics",
+  "department": "Business Administration",
+  "department_id": "business-administration",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/management-information-systems-support-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,management-information-systems-support-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 BUS - Business Management Information Systems Support COA_Management Information Systems Support Go Back Print Certificate of Achievement (COA) Management Information Systems Support New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in MIS Support prepares students for employment within business as an MIS Support Specialist. Students will be introduced to the primary functions of a business, professional conduct, and concepts in software programming, business information systems and computer support. The courses incorporated in this certificate program are also transferrable toward a Bachelor of Science degree in Business Administration, with a concentration in Management Information Systems. Program Learning Outcomes Upon completion, students will be able to Communicate effectively with business professionals, understand fundamental programming concepts, and track computer systems problems related to a variety of technical areas, such as software applications, database management systems, web sites and comput De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with ",
+  "requirements": [
+    {
+      "name": "Required Core: (14.5 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (14.5 Units)"
+    },
+    {
+      "name": "List A: (4.5 Units)",
+      "courses": [],
+      "raw_text": "List A: (4.5 Units)"
+    },
+    {
+      "name": "List B: (4.5 - 5 Units)",
+      "courses": [
+        "BUS 10",
+        "BUS 56",
+        "CIS 3",
+        "CIS 36A",
+        "CIS 40",
+        "BUS 70",
+        "BUS 86",
+        "BUS 94",
+        "CIS 44A",
+        "CIS 108"
+      ],
+      "raw_text": "List B: (4.5 - 5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BUS 10",
+      "title": "Introduction to Business",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 56",
+      "title": "Human Relations in the Workplace",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 3",
+      "title": "Business Information Systems",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 36A",
+      "title": "Introduction to Computer Programming Using Java",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 40",
+      "title": "Introduction to Programming in Python",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 70",
+      "title": "Principles of E-Commerce",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 86",
+      "title": "Business Analytics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 94",
+      "title": "Social Media Marketing Strategies",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 44A",
+      "title": "Database Management Systems",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 108",
+      "title": "Personal Computer Security Basics",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

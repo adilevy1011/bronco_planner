@@ -1,0 +1,387 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:34+00:00",
+  "id": "photographic-arts-film-and-digital-fall-2025",
+  "name": "Associate in Arts (A.A.) Degree Photographic Arts (Film and Digital)",
+  "title_on_page": "Commercial Lighting I",
+  "department": "Photography",
+  "department_id": "photography",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/photographic-arts-film-and-digital-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,photographic-arts-film-and-digital-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 PHTG - Photography Photographic Arts (Film and Digital) AA_Photographic Arts (Film and Digital) Go Back Print Associate in Arts (A.A.) Degree Photographic Arts (Film and Digital) New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. This A.A. degree provides a comprehensive foundation in contemporary and traditional methods of photography. Digital imaging, traditional processing and printing, alternative processes, lighting, history and the visual language of photography are studied. Emphasis is on personal expression through creative process and technical excellence. Program Learning Outcomes Upon completion, students will be able to Demonstrate accomplished skill in both dry (digital) and wet (analog) darkroom methods Create photographs that visually communicate ideas and concepts while engaging in the practices, theories and materials of the medium Critically analyze and assess diverse historical and contemporary photographic works Present finished photographic works for peer, professional or academic review Express artistic concepts and intent in written and oral formats Evaluate and critique photographic artwork and receive criticism from others De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the",
+  "requirements": [
+    {
+      "name": "Required Core: (25 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (25 Units)"
+    },
+    {
+      "name": "List A - Option 1: (8 Units)",
+      "courses": [],
+      "raw_text": "List A - Option 1: (8 Units)"
+    },
+    {
+      "name": "List A - Option 2: (8 Units)",
+      "courses": [],
+      "raw_text": "List A - Option 2: (8 Units)"
+    },
+    {
+      "name": "List A - Option 3: (4 Units)",
+      "courses": [],
+      "raw_text": "List A - Option 3: (4 Units)"
+    },
+    {
+      "name": "List B - Option 1: (4 Units)",
+      "courses": [],
+      "raw_text": "List B - Option 1: (4 Units)"
+    },
+    {
+      "name": "List B - Option 2: (8 Units)",
+      "courses": [],
+      "raw_text": "List B - Option 2: (8 Units)"
+    },
+    {
+      "name": "List B - Option 3: (8 Units)",
+      "courses": [],
+      "raw_text": "List B - Option 3: (8 Units)"
+    },
+    {
+      "name": "List C: (7 Units)",
+      "courses": [
+        "ARTS 4A",
+        "ARTS 8",
+        "ARTS 10A",
+        "ARTS 10B",
+        "PHTG 1",
+        "PHTG 4",
+        "PHTG 58A",
+        "ARTS 2A",
+        "ARTS 2B",
+        "ARTS 2C",
+        "ASAM 40",
+        "ARTS 2G",
+        "ARTS 4D",
+        "ARTS 15A",
+        "ARTS 16A",
+        "ARTS 18A",
+        "ARTS 18B",
+        "ARTS 2D",
+        "ARTS 4B",
+        "ARTS 14A",
+        "ARTS 53",
+        "ARTS 54",
+        "ARTS 55A",
+        "ARTS 55B",
+        "HUMI 1",
+        "HUMI 1H",
+        "HUMI 15",
+        "PHTG 2",
+        "PHTG 5",
+        "PHTG 7",
+        "PHTG 21",
+        "PHTG 54",
+        "PHTG 57A"
+      ],
+      "raw_text": "List C: (7 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ARTS 4A",
+      "title": "Beginning Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 8",
+      "title": "Two-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10A",
+      "title": "Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10B",
+      "title": "Intermediate Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 1",
+      "title": "Basic Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 4",
+      "title": "Introduction to Digital Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 58A",
+      "title": "Photographic Photoshop I",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2A",
+      "title": "History of Art: Europe from Prehistory through Early Christianity",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2B",
+      "title": "History of Art: Europe During the Middle Ages and the Renaissance",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2C",
+      "title": "History of Art: Europe from the Baroque Period Through Impressionism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 40",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2G",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4D",
+      "title": "Representational Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 15A",
+      "title": "Acrylic Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 16A",
+      "title": "Oil Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18A",
+      "title": "Ceramics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18B",
+      "title": "Ceramics (Beginning Wheel Throwing)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2D",
+      "title": "History of Art: Europe and the United States from Post-Impressionism to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4B",
+      "title": "Intermediate Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 14A",
+      "title": "Watercolor Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 53",
+      "title": "Introduction to Graphic Design: Vector Illustration",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 54",
+      "title": "Introduction to Graphic Design: Digital Imaging",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 55A",
+      "title": "Graphic Design-Visual Communication I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 55B",
+      "title": "Graphic Design-Visual Communication II",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1",
+      "title": "Creative Minds",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1H",
+      "title": "Creative Minds - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 15",
+      "title": "Discussion on the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 2",
+      "title": "Intermediate Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 5",
+      "title": "Intermediate Digital Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 7",
+      "title": "Exploring Visual Expression",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 21",
+      "title": "Contemporary Trends in Photography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 54",
+      "title": "Experimental Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 57A",
+      "title": "Commercial Lighting I",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:59+00:00",
+  "id": "intercultural-studies-fall-2026v2",
+  "name": "Certificate of Achievement-Advanced (COA-A) Intercultural Studies",
+  "title_on_page": "California Native Americans",
+  "department": "Intercultural Studies",
+  "department_id": "intercultural-studies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/intercultural-studies-fall-2026v2",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,intercultural-studies-fall-2026v2?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ICS - Intercultural Studies Intercultural Studies COAA_Intercultural Studies Go Back Print Certificate of Achievement-Advanced (COA-A) Intercultural Studies New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement-Advanced is an interdisciplinary program that provide both focused study of one or more ethnic groups and coursework that examines the social constructs and dynamics that govern our interactions with others. Students pursuing the Certificate of Achievement-Advanced in Intercultural Studies gain the knowledge and skills necessary for increasing their cultural sensitivity, cultural competence and social equity. This program enables them to work with confidence and increased effectiveness in a wide variety of international and multicultural settings. Program Learning Outcomes Upon completion, students will be able to Critically analyze social and political phenomena based on social constructs of race, class, ethnicity, gender, sexuality and identity to express cultural competence in local and global contexts Articulate the values, experiences and contributions of historically marginalized populations Demonstrate ability to interact in the workplace, community and other social contexts with sensitivity to individual and group-dynamic issues arising from political, economic and cultural experiences and positions De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning ",
+  "requirements": [
+    {
+      "name": "Required Core: (16 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (16 Units)"
+    },
+    {
+      "name": "African American Area: (0 - 24 Units)",
+      "courses": [],
+      "raw_text": "African American Area: (0 - 24 Units)"
+    },
+    {
+      "name": "Asian American Area: (0 - 24 Units)",
+      "courses": [],
+      "raw_text": "Asian American Area: (0 - 24 Units)"
+    },
+    {
+      "name": "Chicano Area: (0 - 20 Units)",
+      "courses": [],
+      "raw_text": "Chicano Area: (0 - 20 Units)"
+    },
+    {
+      "name": "Latin American Area: (0 - 8 Units)",
+      "courses": [],
+      "raw_text": "Latin American Area: (0 - 8 Units)"
+    },
+    {
+      "name": "Multicultural Area: (0 - 24 Units)",
+      "courses": [],
+      "raw_text": "Multicultural Area: (0 - 24 Units)"
+    },
+    {
+      "name": "Native American Area: (0 - 24 Units)",
+      "courses": [
+        "CETH 10",
+        "CETH 11",
+        "CETH 13",
+        "ARTS 2F",
+        "COMM 7",
+        "COMM 7H",
+        "AFAM 10",
+        "AFAM 11",
+        "AFAM 12A",
+        "AFAM 12B",
+        "HIST 16A",
+        "HIST 16B",
+        "ASAM 1",
+        "ASAM 10",
+        "ASAM 11",
+        "ASAM 12",
+        "ASAM 13",
+        "ASAM 20",
+        "ELIT 24",
+        "ASAM 21",
+        "ASAM 30",
+        "HIST 19A",
+        "HIST 19B",
+        "NAIS 31",
+        "CHLX 10",
+        "CHLX 11",
+        "CHLX 12",
+        "CHLX 13",
+        "CHLX 35",
+        "HIST 7A",
+        "HIST 7B",
+        "CETH 29",
+        "ADMJ 29",
+        "HIST 3A",
+        "HIST 3AH",
+        "HIST 3B",
+        "HIST 3BH",
+        "HIST 3C",
+        "HIST 3CH",
+        "ICS 2A",
+        "ICS 2B",
+        "ICS 17",
+        "ICS 17H",
+        "ICS 26",
+        "ICS 77",
+        "ICS 77X",
+        "ICS 77Y",
+        "ICS 77Z",
+        "ICS 78",
+        "ICS 78W",
+        "ICS 78X",
+        "ICS 78Y",
+        "ICS 78Z",
+        "WMST 8",
+        "CETH 8",
+        "NAIS 11",
+        "NAIS 12",
+        "NAIS 13",
+        "NAIS 14",
+        "NAIS 15",
+        "NAIS 16"
+      ],
+      "raw_text": "Native American Area: (0 - 24 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CETH 10",
+      "title": "Introduction to Ethnic Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 11",
+      "title": "Race and Ethnicity: Belonging and Exclusion in the U.S.",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 13",
+      "title": "History of Art (Multicultural Arts in the United States)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2F",
+      "title": "History of Art (Multicultural Arts in the United States)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7",
+      "title": "Intercultural Communication",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7H",
+      "title": "Intercultural Communication - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 10",
+      "title": "An Introduction to African American Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 11",
+      "title": "Sankofa: Roots of the African American Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 12A",
+      "title": "African American History of the U.S. to Reconstruction",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 12B",
+      "title": "African American History Since Reconstruction",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 16A",
+      "title": "History of Africa to 1800",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 16B",
+      "title": "History of Africa from 1800 to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 1",
+      "title": "Asian American Experiences Past to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 10",
+      "title": "Contemporary Asian American Communities",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 11",
+      "title": "Asian Americans and Racism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 12",
+      "title": "Asian Americans and American Ideals, Institutions and Politics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 13",
+      "title": "Asian Americans and Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 20",
+      "title": "Asian American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 24",
+      "title": "Asian American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 21",
+      "title": "Asian Pacific Americans Make Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 30",
+      "title": "Filipinx American History and Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 19A",
+      "title": "History of Asian Civilization: China and Japan (to the 19th Century)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 19B",
+      "title": "History of Asian Civilization: China and Japan (19th - 21st Centuries)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 31",
+      "title": "Ethnic Studies: Native Hawaiian and Pacific Islander Experiences",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 10",
+      "title": "Introduction to Chicanx and Latinx Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 11",
+      "title": "Chicanx Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 12",
+      "title": "Chicanx and Latinx History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 13",
+      "title": "The Chicanx and Latinx and the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 35",
+      "title": "Chicano/a, Latino/a Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 7A",
+      "title": "Colonial Latin American History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 7B",
+      "title": "Modern Latin American History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3A",
+      "title": "World History from Prehistory to 750 CE",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3AH",
+      "title": "World History from Prehistory to 750 CE - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3B",
+      "title": "World History from 750 to 1750 CE",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3BH",
+      "title": "World History from 750 to 1750 CE - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3C",
+      "title": "World History from 1750 CE to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3CH",
+      "title": "World History from 1750 CE to the Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 2A",
+      "title": "Introduction to Peer Mentoring, Leadership, and Community Building",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 2B",
+      "title": "Practicum in Peer Mentoring, Leadership, and Community Building",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 17",
+      "title": "Critical Consciousness and Social Change",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 17H",
+      "title": "Critical Consciousness and Social Change - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 26",
+      "title": "Introduction to Lesbian, Gay, Bisexual, Transgender and Queer Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 77",
+      "title": "Special Projects in Intercultural Studies",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 77X",
+      "title": "Special Projects in Intercultural Studies",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 77Y",
+      "title": "Special Projects in Intercultural Studies",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 77Z",
+      "title": "Special Projects in Intercultural Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 78",
+      "title": "Special Group Projects in Intercultural Studies",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 78W",
+      "title": "Special Group Projects in Intercultural Studies",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 78X",
+      "title": "Special Group Projects in Intercultural Studies",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 78Y",
+      "title": "Special Group Projects in Intercultural Studies",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ICS 78Z",
+      "title": "Special Group Projects in Intercultural Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 8",
+      "title": "Women of Color in the USA",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 8",
+      "title": "Women of Color in the USA",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 11",
+      "title": "Ethnic Studies and Native American Contemporary Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 12",
+      "title": "Ethnic Studies and the Historical Experiences of Native Americans",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 13",
+      "title": "Survey of Native American Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 14",
+      "title": "Ethnic Studies and the Religious Traditions of Native Americans",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 15",
+      "title": "Ethnic Studies and Native American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 16",
+      "title": "California Native Americans",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

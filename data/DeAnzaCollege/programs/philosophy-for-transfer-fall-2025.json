@@ -1,0 +1,202 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:33+00:00",
+  "id": "philosophy-for-transfer-fall-2025",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree Philosophy for Transfer",
+  "title_on_page": "Women and Philosophy",
+  "department": "Philosophy",
+  "department_id": "philosophy",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/philosophy-for-transfer-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,philosophy-for-transfer-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 PHIL - Philosophy Philosophy for Transfer AAT_Associate in Arts in Philosophy for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree Philosophy for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Philosophy major consists of courses appropriate for the Philosophy for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline, and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Philosophy for Transfer is intended for students who plan to complete a bachelor’s degree in Philosophy (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Analyze and evaluate a broad range of figures, texts, ideas, theories and problems within philosophy Apply philosophical methods to the development and defense of original critical theses De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patter",
+  "requirements": [
+    {
+      "name": "Area 1: (4 Units)",
+      "courses": [],
+      "raw_text": "Area 1: (4 Units)"
+    },
+    {
+      "name": "Area 2: (4 Units)",
+      "courses": [],
+      "raw_text": "Area 2: (4 Units)"
+    },
+    {
+      "name": "List A - Complete from below or from Required Core (not already taken): (8 Units)",
+      "courses": [],
+      "raw_text": "List A - Complete from below or from Required Core (not already taken): (8 Units)"
+    },
+    {
+      "name": "List B - Complete from below or from List A (not already taken): (8 Units)",
+      "courses": [],
+      "raw_text": "List B - Complete from below or from List A (not already taken): (8 Units)"
+    },
+    {
+      "name": "List C - Complete from below or from List A or List B (not already taken): (4 - 5 Units)",
+      "courses": [
+        "PHIL 1",
+        "PHIL 8",
+        "PHIL 8H",
+        "PHIL 7",
+        "PHIL 7H",
+        "PHIL 20A",
+        "PHIL 20B",
+        "PHIL 20C",
+        "PHIL 2",
+        "PHIL 3",
+        "PHIL 4",
+        "PHIL 11",
+        "PHIL 24",
+        "PHIL 30",
+        "PHIL 49",
+        "WMST 49"
+      ],
+      "raw_text": "List C - Complete from below or from List A or List B (not already taken): (4 - 5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PHIL 1",
+      "title": "Introduction to Philosophy",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 8",
+      "title": "Ethics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 8H",
+      "title": "Ethics - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 7",
+      "title": "Deductive Logic",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 7H",
+      "title": "Deductive Logic - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 20A",
+      "title": "History of Western Philosophy - Ancient Greece",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 20B",
+      "title": "History of Western Philosophy - 1400-1800",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 20C",
+      "title": "History of Western Philosophy - 1800-the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 2",
+      "title": "Social and Political Philosophy",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 3",
+      "title": "Critical Thinking and Writing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 4",
+      "title": "Critical Thinking",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 11",
+      "title": "Asian Philosophy",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 24",
+      "title": "Philosophy of Religion",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 30",
+      "title": "Introduction to Existentialism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHIL 49",
+      "title": "Women and Philosophy",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 49",
+      "title": "Women and Philosophy",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

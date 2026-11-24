@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:59+00:00",
+  "id": "child-development-fall-2025",
+  "name": "Associate in Arts (A.A.) Degree Child Development",
+  "title_on_page": "Advanced Student Teaching Practicum",
+  "department": "Child Development",
+  "department_id": "child-development",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/child-development-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,child-development-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 C D - Child Development Child Development AA_Child Development Go Back Print Associate in Arts (A.A.) Degree Child Development New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The A.A. degree vocational training program prepares future early childhood workers and educators to work with diverse children in early childhood settings. The program prepares students for entry-level careers or entrance into a bachelor’s degree program in Child Development studies. The degree program focuses on integrating developmentally appropriate knowledge and practice, and developing professional competencies and job skills. Students learn how to build partnerships with local, national and international resource organizations in order to advocate effectively for the needs of children and families. The degree fulfills the Child Development course requirements to qualify for the Child Development Permit Site Supervisor on the California Child Development Matrix. Students who wish to qualify as a site supervisor must also take CD 59G “Supervision and Administration of Child Development Programs (Management Systems)”, CD 59H “Supervision and Administration of Child Development Programs (Leadership Skills)” and CD 67 “Supervision and Administration of Child Development Programs (Adult Supervision)”. Program Learning Outcomes Upon completion, students will be able to Demonstrate the ability to work in a variety of settings with children and families with a commitment to uphold ethical standards Build partnerships with local, national and international resource organizations in order to advocate effectively for the needs of children and families Integrate developmentally appropriate practices and their application to teaching young children Demonstrate skills in building relationships with children and families De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed ",
+  "requirements": [
+    {
+      "name": "Required Core: (38 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (38 Units)"
+    },
+    {
+      "name": "List A: (3 Units)",
+      "courses": [],
+      "raw_text": "List A: (3 Units)"
+    },
+    {
+      "name": "Area 1: (5 Units)",
+      "courses": [],
+      "raw_text": "Area 1: (5 Units)"
+    },
+    {
+      "name": "Area 2: (5 Units)",
+      "courses": [
+        "PSYC 10G",
+        "PSYC 10H",
+        "EDUC 1"
+      ],
+      "raw_text": "Area 2: (5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PSYC 10G",
+      "title": "Child Development (The Early Years)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 10H",
+      "title": "Child Growth and Development (Middle Childhood and Adolescence)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EDUC 1",
+      "title": "Introduction to Elementary Education in a Diverse Society",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

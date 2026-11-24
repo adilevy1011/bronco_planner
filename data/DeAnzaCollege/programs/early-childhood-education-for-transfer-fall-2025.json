@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:01+00:00",
+  "id": "early-childhood-education-for-transfer-fall-2025",
+  "name": "Associate in Science for Transfer (A.S.-T.) Degree Early Childhood Education for Transfer",
+  "title_on_page": "Teaching in a Diverse Society",
+  "department": "Child Development",
+  "department_id": "child-development",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/early-childhood-education-for-transfer-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,early-childhood-education-for-transfer-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 C D - Child Development Early Childhood Education for Transfer AST_Associate in Science in Early Childhood Education for Transfer Go Back Print Associate in Science for Transfer (A.S.-T.) Degree Early Childhood Education for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Early Childhood Education major consists of courses appropriate for the Associate in Science in Early Childhood Education for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The degree will facilitate the student’s successful transfer to certain CSU campuses that prepare them for advanced study in a variety of graduate programs, as well as a variety of careers such as teaching, child development specialist, program directors and child life specialists or paraprofessionals in early special education. With a B.A. in ECE/Child Development, students are eligible for the Master Teacher and Site Supervisor levels of the California Child Development Permit, using the Alternative Qualifications category. The Associate in Science in Early Childhood Education for Transfer is intended for students who plan to complete a bachelor’s degree in Early Childhood Education (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Synthesize child development research with principles and practices for early childhood teaching to create early learning environments that are respectful, supportive and challenging for all children, from infancy through adolescence Design inclusive, culturally and linguistically appropriate learning environments, based on child development, child observations, family information and knowledge of culturally diverse child rearing practices Incorporate strategies for building respectful, reciprocal family and community relationships in order to support families with their children’s development and learning Assess children’s learning through observation, documentation and interpretation, using results to guide curriculum and teaching strategies Recommend developmentally appropriate and culturally relevant approaches to teaching and learning that include respectful, supportive relationships with children and families, and curriculum that support foundational skills and concepts in language, math, art, and social relationships Demonstrate practices that maintain standards of health, nutrition and safety in group care early childhood settings Apply ethical standards of behavior accepted by the profession of early childhood education De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are",
+  "requirements": [
+    {
+      "name": "Required Core: (37 Units)",
+      "courses": [
+        "PSYC 10G",
+        "PSYC 10H"
+      ],
+      "raw_text": "Required Core: (37 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PSYC 10G",
+      "title": "Child Development (The Early Years)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 10H",
+      "title": "Child Growth and Development (Middle Childhood and Adolescence)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

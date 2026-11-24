@@ -1,0 +1,107 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:38+00:00",
+  "id": "project-management-practitioner-fall-2022",
+  "name": "Certificate of Achievement (COA) Project Management Practitioner",
+  "title_on_page": "Agile Project Management - A Practicum",
+  "department": "Project Management Practitioner",
+  "department_id": "project-management-practitioner",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/project-management-practitioner-fall-2022",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,project-management-practitioner-fall-2022?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 CIS - Computer Info. Systems Project Management Practitioner COA_Project Management Practitioner Go Back Print Certificate of Achievement (COA) Project Management Practitioner New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. This Certificate of Achievement is designed for individuals who want to become project managers in their respective industries. Project management is an important responsibility as more organizations use teams and project-based methods to get work done. Using a practicum-based approach, students apply the Project Management Book of Knowledge (PMBOK) to develop skills to enhance teamwork and communication, as well as project management skills to balance scope, quality, budget and scheduling for each project. This certificate program introduces students to a career in project management and further prepares professionals who are already working in the field. Program Learning Outcomes Upon completion, students will be able to Manage projects by applying project management theory as defined by the Project Management Institute’s (PMI) Project Management Book of Knowledge (PMBOK) Lead the creation of a project plan for an organization’s large-scale project with a large budget Apply risk management techniques to a project to balance scope, quality, budget, scheduling and team morale Write a vendor solicitation plan and use a collaborative approach for selecting vendors Successfully manage a vendor through a project’s completion while providing all project participants with a clear picture of scope, quality, budget and schedule De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all r",
+  "requirements": [
+    {
+      "name": "Required Core: (16 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (16 Units)"
+    },
+    {
+      "name": "List A: (4 - 4.5 Units)",
+      "courses": [
+        "CIS 95A",
+        "CIS 95B",
+        "CIS 95C",
+        "CIS 95D",
+        "CIS 79",
+        "CIS 95E",
+        "CIS 95F",
+        "CIS 95G"
+      ],
+      "raw_text": "List A: (4 - 4.5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CIS 95A",
+      "title": "Project Management - A Practicum",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 95B",
+      "title": "Project Planning and Control - A Practicum",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 95C",
+      "title": "Risk Assessment and Mitigation - A Practicum",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 95D",
+      "title": "Managing Outsourcing - A Practicum",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 79",
+      "title": "Managing Technology Projects",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 95E",
+      "title": "CAPM and PMP Exam Preparation",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 95F",
+      "title": "Managing Cloud Projects",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 95G",
+      "title": "Agile Project Management - A Practicum",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

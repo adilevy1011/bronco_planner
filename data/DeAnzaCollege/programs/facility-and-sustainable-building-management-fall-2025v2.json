@@ -1,0 +1,87 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:37+00:00",
+  "id": "facility-and-sustainable-building-management-fall-2025v2",
+  "name": "Certificate of Achievement-Advanced (COA-A) Facility and Sustainable Building Management",
+  "title_on_page": "Energy Management Return on Investment",
+  "department": "Environmental Studies",
+  "department_id": "environmental-studies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/facility-and-sustainable-building-management-fall-2025v2",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,facility-and-sustainable-building-management-fall-2025v2?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 E S - Environmental Studies Facility and Sustainable Building Management COAA_Facility and Sustainable Building Management Go Back Print Certificate of Achievement-Advanced (COA-A) Facility and Sustainable Building Management New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The interdisciplinary Facility and Sustainable Building Management certificate aligns with the requirements set by the facility management industry for qualified facility management professionals. Students will be educated and provided on-the-job work experience. Students will understand the cross-functional aspects of a successful facility manager and will be further educated on the roles facility managers play, the basics of building operations and maintenance, building sustainability and work management within the facility manager job function. The International Facility Management Association (IFMA) estimates the average age of practicing facility managers is more than 49 years old. IFMA also forecasts that 30% to 50% of practicing facility managers will retire within the next 10 years. This indicates a pending employment gap and a need for younger, well-educated and qualified facility management professionals. IFMA has turned to California community colleges to help fill this gap. The Facility and Sustainable Building Management certificates and degrees will prepare students for careers in building sustainability, space planning, environmental health and safety, energy efficiency, sustainable landscaping, real estate, property management, human resources and other business-related job functions such as marketing, sales and accounting. Program Learning Outcomes Upon completion, students will be able to Assess the roles and responsibilities of Facility Managers and understand the technical and business skills required in the Facility Management profession Analyze and understand the basics of building management and energy efficiency systems De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 9",
+  "requirements": [
+    {
+      "name": "Required Core - Certificate of Achievement: (25 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Certificate of Achievement: (25 Units)"
+    },
+    {
+      "name": "Required Core: (15 Units)",
+      "courses": [
+        "BUS 56",
+        "BUS 65",
+        "BUS 85",
+        "ACCT 1A",
+        "ACCT 1AH",
+        "BUS 10"
+      ],
+      "raw_text": "Required Core: (15 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BUS 56",
+      "title": "Human Relations in the Workplace",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 65",
+      "title": "Leadership",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 85",
+      "title": "Business Communication",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1A",
+      "title": "Financial Accounting I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1AH",
+      "title": "Financial Accounting I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 10",
+      "title": "Introduction to Business",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:09+00:00",
+  "id": "cybersecurity-fall-2025v2v3",
+  "name": "Certificate of Achievement-Advanced (COA-A) Cybersecurity",
+  "title_on_page": "Cloud Security Fundamentals",
+  "department": "Computer Science and Information Systems",
+  "department_id": "computer-science-and-information-systems",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cybersecurity-fall-2025v2v3",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,cybersecurity-fall-2025v2v3?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 CIS - Computer Sci and Info Systems Cybersecurity COAA_Cybersecurity Go Back Print Certificate of Achievement-Advanced (COA-A) Cybersecurity New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. This Certificate of Achievement-Advanced prepares students to become cybersecurity technicians in a networking environment. In this program, students learn network security basics, emergency response planning, internet protocols, and more advanced-level security policies and procedures, network monitoring and risk analysis and assessment based on network security. Program Learning Outcomes Upon completion, students will be able to Describe network components, protocols, architectures and the application of current communication and networking technologies Define properties of all modern network types Detect and stop security breaches in network and application layers Help organizations increase awareness of security policies and procedures De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or higher Major Courses Each course listed as a program requirement (excluding GE requirements) must be",
+  "requirements": [
+    {
+      "name": "Prerequisite: (4.5 Units)",
+      "courses": [],
+      "raw_text": "Prerequisite: (4.5 Units)"
+    },
+    {
+      "name": "Required Core: (18 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (18 Units)"
+    },
+    {
+      "name": "List A: (5 Units)",
+      "courses": [],
+      "raw_text": "List A: (5 Units)"
+    },
+    {
+      "name": "List B: (4.5 Units)",
+      "courses": [
+        "CIS 108",
+        "CIS 18A",
+        "CIS 46",
+        "CIS 102",
+        "CIS 170F",
+        "CIS 6",
+        "CIS 45A",
+        "CIS 104",
+        "CIS 105"
+      ],
+      "raw_text": "List B: (4.5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CIS 108",
+      "title": "Personal Computer Security Basics",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 18A",
+      "title": "Introduction to Unix/Linux",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 46",
+      "title": "Fundamentals of Digital Security",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 102",
+      "title": "Ethical Hacking",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 170F",
+      "title": "Windows Administration",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 6",
+      "title": "Introduction to Data Communication and Networking",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 45A",
+      "title": "Internet Concepts and TCP/IP Protocols",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 104",
+      "title": "Digital Forensics and Hacking Investigation",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 105",
+      "title": "Cloud Security Fundamentals",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

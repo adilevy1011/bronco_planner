@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:23+00:00",
+  "id": "additive-manufacturing-technology-3d-design-and-production-fall-2024",
+  "name": "Certificate of Achievement (COA) Additive Manufacturing Technology: 3D Design and Production",
+  "title_on_page": "Creo Parametric (Introduction)",
+  "department": "Design and Manufacturing Technologies",
+  "department_id": "design-and-manufacturing-technologies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/additive-manufacturing-technology-3d-design-and-production-fall-2024",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,additive-manufacturing-technology-3d-design-and-production-fall-2024?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 DMT - Design and Mfg. Tech. Additive Manufacturing Technology: 3D Design and Production COA_Additive Manufacturing Technology: 3D Design and Production Go Back Print Certificate of Achievement (COA) Additive Manufacturing Technology: 3D Design and Production New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Additive Manufacturing Technology: 3D Design and Production provides knowledge of the fundamentals of computer-aided design (CAD), design for additive manufacturing (DfAM), reverse engineering principles, rapid 3D printing prototyping, and the required knowledge, skills, and abilities for additive manufacturing lab technicians. Students learn industry-standard practices for the most commonly utilized 3D printing materials and technologies, including fused deposition modeling (FDM), stereolithography (SLA), material jetting, selective laser sintering (SLS), and direct metal laser sintering (DMLS). In addition, students in this program will master the fundamental of 3D printing systems operation, maintenance and service. The certificate curriculum focuses on considerations and rapid prototyping applications of Additive Manufacturing (AM) through a combination of lecture, demonstration and project-based learning. Students will explore the design and material considerations within AM, configure systems, build prototypes and create functional parts. The certificate prepares individuals for a range of existing and emerging occupations in the advanced manufacturing sector, including CAD designers, additive manufacturing technicians, and applications engineering technicians. Program Learning Outcomes Upon completion, students will be able to Apply knowledge of additive manufacturing (AM)/3D printing to analyze, compare, and utilize multiple 3D printing processes and materials to design, prototype, and fabricate components and products for industry Analyze AM/3D printing design and production considerations to evaluate and determine the optimal processes and materials to meet industry standards and client specifications Demonstrate the skills required for each of the different roles within an AM product development and production facility: CAD designer, AM technician, applications engineer, and quality control Produce prototypes and components for fabrication utilizing Design for Additive Manufacturing (DfAM) concepts based on current industry standards and practices De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred ",
+  "requirements": [
+    {
+      "name": "Required Core: (17 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (17 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [
+        "DMT 53",
+        "DMT 54",
+        "DMT 56",
+        "DMT 57",
+        "DMT 60A",
+        "DMT 60B",
+        "DMT 60C",
+        "DMT 60D",
+        "DMT 60E",
+        "DMT 65A",
+        "DMT 65B",
+        "DMT 65C",
+        "DMT 65D",
+        "DMT 65E"
+      ],
+      "raw_text": "List A: (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "DMT 53",
+      "title": "Introduction to 3D Printing/Additive Manufacturing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 54",
+      "title": "3D Printing/Additive Manufacturing: Applications and Practice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 56",
+      "title": "3D Printing for AM Support Technicians and Operators",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 57",
+      "title": "Design for Additive Manufacturing (DfAM)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60A",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60B",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60C",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60D",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 60E",
+      "title": "SolidWorks (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65A",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65B",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65C",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65D",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DMT 65E",
+      "title": "Creo Parametric (Introduction)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

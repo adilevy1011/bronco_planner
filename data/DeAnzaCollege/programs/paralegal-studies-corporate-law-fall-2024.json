@@ -1,0 +1,122 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:31+00:00",
+  "id": "paralegal-studies-corporate-law-fall-2024",
+  "name": "Certificate of Achievement-Advanced (COA-A) Paralegal Studies - Corporate Law",
+  "title_on_page": "Introduction to Legal Research and Writing",
+  "department": "Paralegal Studies",
+  "department_id": "paralegal-studies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/paralegal-studies-corporate-law-fall-2024",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,paralegal-studies-corporate-law-fall-2024?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 PARA - Paralegal Studies Paralegal Studies - Corporate Law COAA_Paralegal Studies - Corporate Law Go Back Print Certificate of Achievement-Advanced (COA-A) Paralegal Studies - Corporate Law New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Paralegal Studies - Corporate Law Certificate of Achievement-Advanced sequence prepares students to work under the supervision of an attorney in a corporate law practice, including in-house legal departments, government agencies and nonprofit organizations. Paralegal duties in a corporate practice include performing factual and legal research; drafting legal documents and correspondence; interviewing clients and witnesses; organizing and maintaining case files; coordinating the use of technology in legal work; and assisting lawyers with substantive legal work related to mergers and acquisitions, company formation, technology transactions, securities transactions, venture funds, startup enterprises and other specific corporate practice legal work. Program Learning Outcomes Upon completion, students will be able to Evaluate, critique and analyze legal and factual information Synthesize and analyze legal and factual information through effective written and oral communication Compare and contrast the American and California legal systems within a global legal environment Research legally relevant facts from diverse source materials Compare and contrast the different types of California business organizations Outline the processes for formation and dissolution of each type of California business organization Compare federal and state registration requirements and key forms Explain the sanctions and remedies for violations of securities regulations Assess the quality of information and utilize appropriate informational resources to evaluate a legal issue De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be complet",
+  "requirements": [
+    {
+      "name": "Required Core: (28 Units)",
+      "courses": [
+        "PARA 9",
+        "ADMJ 9",
+        "POLI 9",
+        "PARA 67",
+        "PARA 86",
+        "PARA 88",
+        "PARA 92A",
+        "PARA 92B",
+        "PARA 94",
+        "PARA 96A"
+      ],
+      "raw_text": "Required Core: (28 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PARA 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 67",
+      "title": "Law Office Management for Paralegals",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 86",
+      "title": "Legal Analysis",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 88",
+      "title": "The Paralegal and Professional Responsibility",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 92A",
+      "title": "Partnerships and Corporations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 92B",
+      "title": "Corporate Securities Regulations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 94",
+      "title": "Introduction to California Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 96A",
+      "title": "Introduction to Legal Research and Writing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

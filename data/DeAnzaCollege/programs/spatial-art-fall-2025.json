@@ -1,0 +1,277 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:34+00:00",
+  "id": "spatial-art-fall-2025",
+  "name": "Associate in Arts (A.A.) Degree Spatial Art",
+  "title_on_page": "Advanced Furniture Design",
+  "department": "Art",
+  "department_id": "art",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/spatial-art-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,spatial-art-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ARTS - Visual Arts and Design Spatial Art AA_Spatial Art Go Back Print Associate in Arts (A.A.) Degree Spatial Art New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Spatial Art degree will help De Anza students smoothly transfer to San José State University’s third-year Spatial Art program. The acquired knowledge may be transferred into areas such as teaching, studio art production, product design, museum work, architectural design and model making. Program Learning Outcomes Upon completion, students will be able to Demonstrate competency in hand- and wheel-forming techniques Develop expertise in clay selection for different types of expression and surface embellishment Demonstrate competency in advanced technical skills associated with ring techniques Demonstrate loading and ring kilns for different temperature aesthetics and function Emphasize idea development, visual investigation and the sculpture making process on an advanced level Practice critical thinking and problem solving skills Employ materials appropriate to advanced sculptural work Apply knowledge of safe and proper use of all shop tools De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requireme",
+  "requirements": [
+    {
+      "name": "Required Core: (31 Units)",
+      "courses": [
+        "ARTS 4A",
+        "ARTS 8",
+        "ARTS 10A",
+        "ARTS 10B",
+        "ARTS 18A",
+        "ARTS 18B",
+        "ARTS 37A",
+        "PHTG 1"
+      ],
+      "raw_text": "Required Core: (31 Units)"
+    },
+    {
+      "name": "Option 1: (8 Units)",
+      "courses": [
+        "ARTS 2A",
+        "ARTS 2B"
+      ],
+      "raw_text": "Option 1: (8 Units)"
+    },
+    {
+      "name": "Option 2: (8 Units)",
+      "courses": [
+        "ARTS 2B",
+        "ARTS 2C"
+      ],
+      "raw_text": "Option 2: (8 Units)"
+    },
+    {
+      "name": "Option 3: (4 Units)",
+      "courses": [
+        "ASAM 40",
+        "ARTS 2G"
+      ],
+      "raw_text": "Option 3: (4 Units)"
+    },
+    {
+      "name": "List B: (12 Units)",
+      "courses": [
+        "ARTS 18C",
+        "ARTS 18D",
+        "ARTS 19J",
+        "ARTS 19K",
+        "ARTS 19M",
+        "ARTS 37B",
+        "ARTS 37C",
+        "ARTS 58A",
+        "ARTS 58B",
+        "ARTS 58C"
+      ],
+      "raw_text": "List B: (12 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ARTS 4A",
+      "title": "Beginning Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 8",
+      "title": "Two-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10A",
+      "title": "Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10B",
+      "title": "Intermediate Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18A",
+      "title": "Ceramics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18B",
+      "title": "Ceramics (Beginning Wheel Throwing)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 37A",
+      "title": "Sculpture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 1",
+      "title": "Basic Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2A",
+      "title": "History of Art: Europe from Prehistory through Early Christianity",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2B",
+      "title": "History of Art: Europe During the Middle Ages and the Renaissance",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2C",
+      "title": "History of Art: Europe from the Baroque Period Through Impressionism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 40",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2G",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18C",
+      "title": "Ceramics (Intermediate Wheel Throwing)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 18D",
+      "title": "Ceramics Hand Building",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 19J",
+      "title": "Ceramics Techniques",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 19K",
+      "title": "Ceramics Decoration",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 19M",
+      "title": "Ceramics Low Fire",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 37B",
+      "title": "Intermediate Sculpture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 37C",
+      "title": "Advanced Sculpture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 58A",
+      "title": "Furniture Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 58B",
+      "title": "Intermediate Furniture Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 58C",
+      "title": "Advanced Furniture Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

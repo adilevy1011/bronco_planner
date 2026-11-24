@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:32+00:00",
+  "id": "paralegal-studies-intellectual-property-fall-2024",
+  "name": "Certificate of Achievement-Advanced (COA-A) Paralegal Studies - Intellectual Property",
+  "title_on_page": "Civil Litigation Procedures",
+  "department": "Paralegal Studies",
+  "department_id": "paralegal-studies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/paralegal-studies-intellectual-property-fall-2024",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,paralegal-studies-intellectual-property-fall-2024?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 PARA - Paralegal Studies Paralegal Studies - Intellectual Property COAA_Paralegal Studies - Intellectual Property Go Back Print Certificate of Achievement-Advanced (COA-A) Paralegal Studies - Intellectual Property New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Paralegal Studies - Intellectual Property Certificate of Achievement-Advanced sequence prepares students to work under the supervision of an attorney in an intellectual property law practice, including in-house (corporate), government agencies or nonprofit organizations. Paralegal duties in an intellectual property practice include performing factual and legal research; drafting and preparing correspondence and documents for filing with the U.S. and foreign governments; preparing information disclosure statements; interviewing clients and witnesses; organizing and maintaining case files; coordinating the use of technology in legal work; assisting attorneys with work related to due diligence; and in an intellectual property litigation practice, assisting attorneys in pretrial work, including document discovery and analysis, and during trials and hearings. Program Learning Outcomes Upon completion, students will be able to Evaluate, critique and analyze legal and factual information Synthesize and analyze legal and factual information through effective written and oral communication Compare and contrast the American and California legal systems within a global legal environment Research legally relevant facts from diverse source materials Explain general legal principles protecting all types of Intellectual Property Outline the procedures to obtain and maintain trademarks under California and Federal law Outline the procedures to obtain and maintain United States patents Outline the procedures to obtain and maintain common law and United States copyright Assess the quality of information and utilize appropriate informational resources to evaluate a legal issue De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at ",
+  "requirements": [
+    {
+      "name": "Required Core: (24 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (24 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [
+        "PARA 9",
+        "ADMJ 9",
+        "POLI 9",
+        "PARA 67",
+        "PARA 85",
+        "PARA 86",
+        "PARA 88",
+        "PARA 94",
+        "PARA 96A",
+        "PARA 72",
+        "PARA 97A"
+      ],
+      "raw_text": "List A: (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PARA 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 9",
+      "title": "Overview of American Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 67",
+      "title": "Law Office Management for Paralegals",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 85",
+      "title": "Intellectual Property Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 86",
+      "title": "Legal Analysis",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 88",
+      "title": "The Paralegal and Professional Responsibility",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 94",
+      "title": "Introduction to California Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 96A",
+      "title": "Introduction to Legal Research and Writing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 72",
+      "title": "Trademarks Law",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PARA 97A",
+      "title": "Civil Litigation Procedures",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

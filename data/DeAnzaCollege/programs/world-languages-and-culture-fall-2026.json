@@ -1,0 +1,617 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:14+00:00",
+  "id": "world-languages-and-culture-fall-2026",
+  "name": "Certificate of Achievement-Advanced (COA-A) World Languages and Culture",
+  "title_on_page": "Intermediate Spanish (First Quarter)",
+  "department": "Languages",
+  "department_id": "languages",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/world-languages-and-culture-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,world-languages-and-culture-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 INTL - International Studies World Languages and Culture COAA_World Languages and Culture Go Back Print Certificate of Achievement-Advanced (COA-A) World Languages and Culture New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement-Advanced in World Languages and Culture provides students with the opportunity to strengthen their multilingual abilities and deepen their understanding of multicultural perspectives. This foundation equips them to effectively engage with non-English-speaking communities in the Bay Area, as well as in global contexts such as international travel, law, business, and nonprofit or nongovernmental organizations. This certificate demonstrates high beginner proficiency (above Level 2) in two world languages. Given De Anza College’s richly diverse and multilingual community, the program supports students by offering a formal path to expand their language skills and cultural knowledge. Understanding linguistic and cultural diversity offers a critical lens through which to view global and local issues, making this certificate an excellent complement to undergraduate or graduate studies in fields such as Anthropology, History, Law, Chicanx Studies, Linguistics, or Business. In addition to fulfilling the transfer language requirement, the Certificate of Achievement-Advanced in World Languages and Culture enhances students’ academic and professional profiles, particularly for careers in civil service, international work, or the private sector. Program Learning Outcomes Upon completion, students will be able to Demonstrate the ability to engage in communicative tasks that require describing personal experiences in the present with some references to the past; expressing basic opinions about issues of relevance in one´s life; understanding main ideas and supporting details in aural and written discourse; producing discourse-level writing related to one´s life experiences Demonstrate an understanding of the diversity of cultural, historical, and regional contexts of the peoples and cultures of the world Analyze constructions of cultural and social differences (as expressed through language) while examining one´s own cultural positionings and assumptions De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate",
+  "requirements": [
+    {
+      "name": "Option 1: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 1: (10 Units)"
+    },
+    {
+      "name": "Option 2: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 2: (10 Units)"
+    },
+    {
+      "name": "Option 3: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 3: (10 Units)"
+    },
+    {
+      "name": "Option 4: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 4: (10 Units)"
+    },
+    {
+      "name": "Option 5: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 5: (10 Units)"
+    },
+    {
+      "name": "Option 6: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 6: (10 Units)"
+    },
+    {
+      "name": "Option 7: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 7: (10 Units)"
+    },
+    {
+      "name": "Option 8: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 8: (10 Units)"
+    },
+    {
+      "name": "Option 9: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 9: (10 Units)"
+    },
+    {
+      "name": "Option 10: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 10: (10 Units)"
+    },
+    {
+      "name": "Option 11: (10 Units)",
+      "courses": [],
+      "raw_text": "Option 11: (10 Units)"
+    },
+    {
+      "name": "List A: (12 - 15 Units)",
+      "courses": [
+        "FREN 2",
+        "FREN 3",
+        "GERM 2",
+        "GERM 3",
+        "HNDI 2",
+        "HNDI 3",
+        "ITAL 2",
+        "ITAL 3",
+        "JAPN 2",
+        "JAPN 3",
+        "KORE 2",
+        "KORE 3",
+        "MAND 2",
+        "MAND 3",
+        "RUSS 2",
+        "RUSS 3",
+        "SIGN 2",
+        "SIGN 3",
+        "SPAN 2",
+        "SPAN 3",
+        "VIET 2",
+        "VIET 3",
+        "ANTH 2",
+        "ANTH 2H",
+        "ANTH 6",
+        "ARTS 2B",
+        "ARTS 2C",
+        "ASAM 1",
+        "ASAM 13",
+        "ASAM 40",
+        "ARTS 2G",
+        "ASAM 41",
+        "HUMI 13",
+        "CHLX 10",
+        "CHLX 11",
+        "CHLX 12",
+        "CHLX 13",
+        "CHLX 26",
+        "WMST 26",
+        "CHLX 35",
+        "COMM 7",
+        "COMM 7H",
+        "COMM 16",
+        "COMM 16H",
+        "GEO 4",
+        "HIST 6C",
+        "HIST 6CH",
+        "HIST 19A",
+        "HIST 19B",
+        "INTL 5",
+        "JOUR 2",
+        "LING 1",
+        "MAND 4",
+        "SPAN 4"
+      ],
+      "raw_text": "List A: (12 - 15 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "FREN 2",
+      "title": "Elementary French (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "FREN 3",
+      "title": "Elementary French (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 2",
+      "title": "Elementary German (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 3",
+      "title": "Elementary German (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 2",
+      "title": "Elementary Hindi (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 3",
+      "title": "Elementary Hindi (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 2",
+      "title": "Elementary Italian (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 3",
+      "title": "Elementary Italian (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 2",
+      "title": "Elementary Japanese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 3",
+      "title": "Elementary Japanese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 2",
+      "title": "Elementary Korean (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 3",
+      "title": "Elementary Korean (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 2",
+      "title": "Elementary Mandarin (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 3",
+      "title": "Elementary Mandarin (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 2",
+      "title": "Elementary Russian (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 3",
+      "title": "Elementary Russian (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 2",
+      "title": "Elementary American Sign Language (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 3",
+      "title": "Elementary American Sign Language (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 2",
+      "title": "Elementary Spanish (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 3",
+      "title": "Elementary Spanish (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 2",
+      "title": "Elementary Vietnamese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 3",
+      "title": "Elementary Vietnamese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 6",
+      "title": "Linguistic Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2B",
+      "title": "History of Art: Europe During the Middle Ages and the Renaissance",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2C",
+      "title": "History of Art: Europe from the Baroque Period Through Impressionism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 1",
+      "title": "Asian American Experiences Past to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 13",
+      "title": "Asian Americans and Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 40",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2G",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 41",
+      "title": "Introduction to Korean Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 13",
+      "title": "Introduction to Korean Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 10",
+      "title": "Introduction to Chicanx and Latinx Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 11",
+      "title": "Chicanx Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 12",
+      "title": "Chicanx and Latinx History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 13",
+      "title": "The Chicanx and Latinx and the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 26",
+      "title": "La Mujer: Latina Life and Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 26",
+      "title": "La Mujer: Latina Life and Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 35",
+      "title": "Chicano/a, Latino/a Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7",
+      "title": "Intercultural Communication",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7H",
+      "title": "Intercultural Communication - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 16",
+      "title": "Interpersonal Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 16H",
+      "title": "Interpersonal Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 4",
+      "title": "Cultural Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6C",
+      "title": "History of Western Civilization: 1750 C.E. to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 6CH",
+      "title": "History of Western Civilization: 1750 C.E. to Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 19A",
+      "title": "History of Asian Civilization: China and Japan (to the 19th Century)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 19B",
+      "title": "History of Asian Civilization: China and Japan (19th - 21st Centuries)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 5",
+      "title": "Contemporary Global Issues",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 2",
+      "title": "Media and Its Impact On Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "LING 1",
+      "title": "Introduction to Linguistics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 4",
+      "title": "Intermediate Mandarin (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 4",
+      "title": "Intermediate Spanish (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

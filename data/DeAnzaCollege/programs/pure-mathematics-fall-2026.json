@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:23+00:00",
+  "id": "pure-mathematics-fall-2026",
+  "name": "Certificate of Achievement (COA) Pure Mathematics",
+  "title_on_page": "Special Projects in Pure Mathematics",
+  "department": "Mathematics",
+  "department_id": "mathematics",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/pure-mathematics-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,pure-mathematics-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 MATH - Mathematics Pure Mathematics COA_Pure Mathematics Go Back Print Certificate of Achievement (COA) Pure Mathematics New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Pure Mathematics provides students with the mathematical background required to succeed in subsequent courses in math, physics, computer science and engineering. This certificate includes a Linear Algebra course, providing students with their first exposure to the theoretical math seen in upper-division courses. Students who earn this certificate show they have the mathematical skills necessary to begin upper-division coursework in pure mathematics. Program Learning Outcomes Upon completion, students will be able to Analyze and solve mathematical problems using concepts and techniques from differential and integral calculus, sequences and series, and multivariable calculus Apply the principles of linear algebra—including vector spaces, matrices, linear transformations and eigenvalues—to abstract and applied problems Demonstrate proficiency in logic, proof techniques and set theory to construct and validate mathematical arguments in discrete structures Construct rigorous mathematical proofs and justify conclusions using definitions, theorems and logical reasoning across various areas of pure mathematics Synthesize mathematical ideas across multiple topics (e.g., calculus, algebra and discrete math) to explore open-ended problems or original investigations in a special project Communicate mathematical reasoning and solutions clearly in both written and oral form, using appropriate notation and formal structure De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed wit",
+  "requirements": [
+    {
+      "name": "Required Core: (20 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (20 Units)"
+    },
+    {
+      "name": "List A: (1 - 3 Units)",
+      "courses": [
+        "MATH 1C",
+        "MATH 1CH",
+        "MATH 1D",
+        "MATH 1DH",
+        "MATH 2B",
+        "MATH 2BH",
+        "MATH 22",
+        "MATH 22H",
+        "MATH 78",
+        "MATH 78X",
+        "MATH 78Y"
+      ],
+      "raw_text": "List A: (1 - 3 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MATH 1C",
+      "title": "Calculus III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1CH",
+      "title": "Calculus III - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1D",
+      "title": "Calculus IV",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1DH",
+      "title": "Calculus IV - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Linear Algebra",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 2BH",
+      "title": "Linear Algebra - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 22",
+      "title": "Discrete Mathematics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 22H",
+      "title": "Discrete Mathematics - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 78",
+      "title": "Special Projects in Pure Mathematics",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 78X",
+      "title": "Special Projects in Pure Mathematics",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 78Y",
+      "title": "Special Projects in Pure Mathematics",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

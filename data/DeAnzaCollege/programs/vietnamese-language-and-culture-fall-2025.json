@@ -1,0 +1,197 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:13+00:00",
+  "id": "vietnamese-language-and-culture-fall-2025",
+  "name": "Certificate of Achievement (COA) Vietnamese Language and Culture",
+  "title_on_page": "Introduction to Linguistics",
+  "department": "Languages",
+  "department_id": "languages",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/vietnamese-language-and-culture-fall-2025",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,vietnamese-language-and-culture-fall-2025?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 VIET - Vietnamese Vietnamese Language and Culture COA_Vietnamese Language and Culture Go Back Print Certificate of Achievement (COA) Vietnamese Language and Culture New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Vietnamese is designed to offer students opportunities to engage with the local communities in the Bay Area, where a great deal of business and trade is conducted with Vietnam. For students who already speak Vietnamese with their families, the certificate will provide the opportunity to extend their linguistic repertoire and validate their knowledge, particularly as applied to their careers. This certificate not only satisfies the language requirement for students applying to transfer to UC or CSU but also provides additional benefits for those wishing to pursue further studies or entering the workforce, particularly in areas such as local, state or federal civil service or in the private sector. The Certificate of Achievement in Vietnamese is designed to immerse students in a rich language experience, equipping them with practical language skills necessary to function in an increasingly global and competitive marketplace. This program not only builds students’ language proficiency in Vietnamese in speaking, listening, reading and writing, but also provides valuable insights into Vietnamese culture, history and socio-politics. The certificate serves students who would like to or need to have their language competency recognized as an add-on to their job skills. Some of our students may be interested in teaching English in Vietnam or in Vietnamese private companies. This certificate program enhances students’ job opportunities in Vietnamese-related companies. At the same time, the Vietnamese language courses fulfill the language requirement and are transferrable to UC and CSU. Program Learning Outcomes Upon completion, students will be able to Demonstrate a working command of a core vocabulary of approximately 1500 Vietnamese words and essential sentence structures necessary to request and provide information, both orally and in writing, and to engage in meaningful communication with native Vietnamese speakers, using appropriate language, style, sensitivity and respectfulness in high-frequency situations within familiar contexts Demonstrate an increasingly accurate grasp of social protocols and contributions of Vietnamese-speaking cultures by analyzing and comparing them to their own cultures De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more",
+  "requirements": [
+    {
+      "name": "Required Core: (15 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (15 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [
+        "VIET 1",
+        "VIET 2",
+        "VIET 3",
+        "ANTH 2",
+        "ANTH 2H",
+        "ANTH 6",
+        "ASAM 1",
+        "ASAM 13",
+        "ASAM 32",
+        "ASAM 40",
+        "ARTS 2G",
+        "COMM 7",
+        "COMM 7H",
+        "GEO 4",
+        "INTL 5",
+        "JOUR 2",
+        "LING 1"
+      ],
+      "raw_text": "List A: (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "VIET 1",
+      "title": "Elementary Vietnamese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 2",
+      "title": "Elementary Vietnamese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 3",
+      "title": "Elementary Vietnamese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 6",
+      "title": "Linguistic Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 1",
+      "title": "Asian American Experiences Past to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 13",
+      "title": "Asian Americans and Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 32",
+      "title": "Vietnamese Literature from Traditional to Asian American Expressions",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 40",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2G",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7",
+      "title": "Intercultural Communication",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7H",
+      "title": "Intercultural Communication - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 4",
+      "title": "Cultural Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 5",
+      "title": "Contemporary Global Issues",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 2",
+      "title": "Media and Its Impact On Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "LING 1",
+      "title": "Introduction to Linguistics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

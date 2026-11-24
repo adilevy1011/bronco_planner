@@ -1,0 +1,482 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:35+00:00",
+  "id": "asian-american-studies-fall-2026",
+  "name": "Certificate of Achievement (COA) Asian American Studies",
+  "title_on_page": "Intermediate Vietnamese (Third Quarter)",
+  "department": "Asian American and Asian Studies",
+  "department_id": "asian-american-and-asian-studies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/asian-american-studies-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,asian-american-studies-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ASAM - Asian American Studies Asian American Studies COA_Asian American Studies Go Back Print Certificate of Achievement (COA) Asian American Studies New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Asian American Studies prepares students to be historically informed and equity-minded participants and leaders in the multi-ethnic and multiracial communities in which they live, work, learn, and play — especially in settings that directly impact Asian Americans and Pacific Islanders. Students who complete the certificate will gain the skills and knowledge to assess and affect the social conditions and institutional settings that shape the lives of Asian Americans and Pacific Islanders, with particular attention to the cross-cutting forces of race, gender, class and sexuality. For students with professional pursuits in mind, completion of the certificate will increase leadership capacity to research, understand, communicate and work with various Asian American and Pacific Islander communities, whether through community organizing, nonprofit organizations, public policy, public service or business. For students with transfer pursuits in mind, completion of the certificate includes transferable general education credits to universities and colleges, and also greater academic preparation for the social sciences and humanities, including an Asian American Studies or Ethnic Studies major. Colleges that offer a baccalaureate major in Asian American Studies include the University of California campuses at Berkeley, Davis, Irvine, Los Angeles, Riverside and Santa Barbara, and the California State University campuses at Long Beach, Los Angeles, Northridge and San Francisco. Program Learning Outcomes Upon completion, students will be able to Analyze concerns that animate Asian American and Pacific Islander communities in the context of social relations of power as well as Asian American and Pacific Islander histories Assess the strategies, tactics, and complexities of community formation and community empowerment for Asian Americans and Pacific Islanders pan-ethnically and for specific populations Employ analytical skills of the social sciences, interpretive methods of the humanities, leadership resources of community organizing, and the creative impulses of social change toward promoting greater social justice and equity, with particular attention to Asian American and Pacific Islander communities De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter ",
+  "requirements": [
+    {
+      "name": "Required Core: (4 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (4 Units)"
+    },
+    {
+      "name": "List A - Complete two-three courses: (8 - 12 Units)",
+      "courses": [],
+      "raw_text": "List A - Complete two-three courses: (8 - 12 Units)"
+    },
+    {
+      "name": "List B - Complete two courses if two courses selected above OR one course if three courses selected above: (4 - 9 Units)",
+      "courses": [
+        "ASAM 1",
+        "ASAM 10",
+        "ASAM 11",
+        "ASAM 12",
+        "ASAM 13",
+        "ASAM 20",
+        "ELIT 24",
+        "ASAM 21",
+        "CETH 50",
+        "ASAM 22",
+        "WMST 22",
+        "ASAM 30",
+        "ASAM 32",
+        "ASAM 33",
+        "ASAM 40",
+        "ARTS 2G",
+        "ASAM 41",
+        "HUMI 13",
+        "HIST 19A",
+        "HIST 19B",
+        "HNDI 1",
+        "HNDI 2",
+        "HNDI 3",
+        "JAPN 1",
+        "JAPN 2",
+        "JAPN 3",
+        "JAPN 4",
+        "JAPN 5",
+        "JAPN 6",
+        "KORE 1",
+        "KORE 2",
+        "KORE 3",
+        "MAND 1",
+        "MAND 2",
+        "MAND 3",
+        "MAND 4",
+        "MAND 5",
+        "MAND 6",
+        "NAIS 31",
+        "VIET 1",
+        "VIET 2",
+        "VIET 3",
+        "VIET 4",
+        "VIET 5",
+        "VIET 6"
+      ],
+      "raw_text": "List B - Complete two courses if two courses selected above OR one course if three courses selected above: (4 - 9 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ASAM 1",
+      "title": "Asian American Experiences Past to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 10",
+      "title": "Contemporary Asian American Communities",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 11",
+      "title": "Asian Americans and Racism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 12",
+      "title": "Asian Americans and American Ideals, Institutions and Politics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 13",
+      "title": "Asian Americans and Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 20",
+      "title": "Asian American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 24",
+      "title": "Asian American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 21",
+      "title": "Asian Pacific Americans Make Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 50",
+      "title": "Civic Leadership for Community Empowerment",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 22",
+      "title": "Asian American Women",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 22",
+      "title": "Asian American Women",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 30",
+      "title": "Filipinx American History and Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 32",
+      "title": "Vietnamese Literature from Traditional to Asian American Expressions",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 33",
+      "title": "Filipinx American Community Issues",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 40",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 2G",
+      "title": "History of Art: Arts of Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 41",
+      "title": "Introduction to Korean Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 13",
+      "title": "Introduction to Korean Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 19A",
+      "title": "History of Asian Civilization: China and Japan (to the 19th Century)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 19B",
+      "title": "History of Asian Civilization: China and Japan (19th - 21st Centuries)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 1",
+      "title": "Elementary Hindi (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 2",
+      "title": "Elementary Hindi (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 3",
+      "title": "Elementary Hindi (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 1",
+      "title": "Elementary Japanese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 2",
+      "title": "Elementary Japanese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 3",
+      "title": "Elementary Japanese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 4",
+      "title": "Intermediate Japanese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 5",
+      "title": "Intermediate Japanese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 6",
+      "title": "Intermediate Japanese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 1",
+      "title": "Elementary Korean (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 2",
+      "title": "Elementary Korean (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 3",
+      "title": "Elementary Korean (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 1",
+      "title": "Elementary Mandarin (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 2",
+      "title": "Elementary Mandarin (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 3",
+      "title": "Elementary Mandarin (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 4",
+      "title": "Intermediate Mandarin (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 5",
+      "title": "Intermediate Mandarin (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 6",
+      "title": "Intermediate Mandarin (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 31",
+      "title": "Ethnic Studies: Native Hawaiian and Pacific Islander Experiences",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 1",
+      "title": "Elementary Vietnamese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 2",
+      "title": "Elementary Vietnamese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 3",
+      "title": "Elementary Vietnamese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 4",
+      "title": "Intermediate Vietnamese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 5",
+      "title": "Intermediate Vietnamese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 6",
+      "title": "Intermediate Vietnamese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:37+00:00",
+  "id": "environmental-science-for-transfer-fall-2026",
+  "name": "Associate in Science for Transfer (A.S.-T.) Degree Environmental Science for Transfer",
+  "title_on_page": "Physics for Scientists and Engineers: Electricity and Magnetism",
+  "department": "Environmental Studies",
+  "department_id": "environmental-studies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/environmental-science-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,environmental-science-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ESCI - Environmental Science Environmental Science for Transfer AST_Associate in Science in Environmental Science for Transfer Go Back Print Associate in Science for Transfer (A.S.-T.) Degree Environmental Science for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Environmental Science major consists of courses appropriate for the Associate in Science in Environmental Science for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Associate in Science in Environmental Science for Transfer is intended for students who plan to complete a bachelor’s degree in Environmental Science (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Demonstrate knowledge of how human activities impact the environment through the use of scientific skills De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete al",
+  "requirements": [
+    {
+      "name": "Science Option 1: (28 Units)",
+      "courses": [],
+      "raw_text": "Science Option 1: (28 Units)"
+    },
+    {
+      "name": "Science Option 2: (21 Units)",
+      "courses": [],
+      "raw_text": "Science Option 2: (21 Units)"
+    },
+    {
+      "name": "Required Core: (18 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (18 Units)"
+    },
+    {
+      "name": "Math Option 1: (10 Units)",
+      "courses": [],
+      "raw_text": "Math Option 1: (10 Units)"
+    },
+    {
+      "name": "Math Option 2: (5 Units)",
+      "courses": [],
+      "raw_text": "Math Option 2: (5 Units)"
+    },
+    {
+      "name": "Physics Option 1: (15 Units)",
+      "courses": [],
+      "raw_text": "Physics Option 1: (15 Units)"
+    },
+    {
+      "name": "Physics Option 2: (12 Units)",
+      "courses": [
+        "BIOL 6A",
+        "BIOL 6AH",
+        "BIOL 6B",
+        "BIOL 6C",
+        "BIOL 6CH",
+        "CHEM 1A",
+        "CHEM 1AH",
+        "CHEM 1B",
+        "CHEM 1BH",
+        "CHEM 1C",
+        "CHEM 1CH",
+        "ESCI 1",
+        "GEOL 10",
+        "MATH 1A",
+        "MATH 1AH",
+        "MATH 1B",
+        "MATH 1BH",
+        "MATH 12",
+        "PHYS 2A",
+        "PHYS 2B",
+        "PHYS 2C",
+        "PHYS 4A",
+        "PHYS 4B"
+      ],
+      "raw_text": "Physics Option 2: (12 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BIOL 6A",
+      "title": "Form and Function in the Biological World",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6AH",
+      "title": "Form and Function in the Biological World - HONORS",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6B",
+      "title": "Cell and Molecular Biology",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6C",
+      "title": "Ecology and Evolution",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6CH",
+      "title": "Ecology and Evolution - HONORS",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1A",
+      "title": "General Chemistry I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1AH",
+      "title": "General Chemistry I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1B",
+      "title": "General Chemistry II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1BH",
+      "title": "General Chemistry II - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1C",
+      "title": "General Chemistry III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1CH",
+      "title": "General Chemistry III - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ESCI 1",
+      "title": "Environmental Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEOL 10",
+      "title": "Introductory Geology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1A",
+      "title": "Calculus I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1AH",
+      "title": "Calculus I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1B",
+      "title": "Calculus II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1BH",
+      "title": "Calculus II - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 12",
+      "title": "Introductory Calculus for Business and Social Science",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 2A",
+      "title": "General Physics I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 2B",
+      "title": "General Physics II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 2C",
+      "title": "General Physics III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4A",
+      "title": "Physics for Scientists and Engineers: Mechanics",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4B",
+      "title": "Physics for Scientists and Engineers: Electricity and Magnetism",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

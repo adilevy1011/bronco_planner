@@ -1,0 +1,212 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:30+00:00",
+  "id": "engineering-electrical-engineering-track-fall-2026",
+  "name": "Associate in Science (A.S.) Degree Engineering (Electrical Engineering Track)",
+  "title_on_page": "Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics",
+  "department": "Engineering",
+  "department_id": "engineering",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/engineering-electrical-engineering-track-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,engineering-electrical-engineering-track-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ENGR - Engineering Engineering (Electrical Engineering Track) AS_Engineering (Electrical Engineering Track) Go Back Print Associate in Science (A.S.) Degree Engineering (Electrical Engineering Track) New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. This program is designed to provide students with a comprehensive academic foundation in electrical engineering principles, preparing them for seamless transfer to four-year institutions. This program ensures that students acquire the necessary theoretical knowledge and practical skills to successfully continue their education in a bachelor's degree program in electrical engineering or related fields. In addition to preparing students for academic advancement, the program also supports local career pathways by equipping them with fundamental technical skills essential for various engineering-related professions. Students will gain hands-on experience and problem-solving abilities that align with industry needs, enabling them to pursue opportunities in sectors such as electronics, power systems, telecommunications and automation. With a flexible curriculum, the program caters to students with diverse career goals. Whether they choose to continue their education at a university or seek entry-level engineering roles, graduates of this program will be well-prepared to meet the demands of the evolving engineering industry. Program Learning Outcomes Upon completion, students will be able to Apply foundational electrical engineering principles, analytical reasoning and hands-on techniques to identify and solve basic engineering problems Apply knowledge of mathematics, physics, chemistry and engineering to formulate, model and analyze problems involving electrical and electronic systems Demonstrate programming, algorithmic thinking and computational problem-solving in the context of engineering applications Communicate and collaborate effectively in team-based engineering projects by presenting technical work through written reports, oral presentations and design documentation Demonstrate the ability to transfer engineering knowledge and skills to real-world or simulated industry scenarios, preparing for upper-division coursework and entry-level roles in electrical engineering fields De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is ",
+  "requirements": [
+    {
+      "name": "Required Core: (64 Units)",
+      "courses": [
+        "CHEM 1A",
+        "CHEM 1AH",
+        "CIS 22A",
+        "ENGR 10",
+        "ENGR 37",
+        "ENGR 37L",
+        "MATH 1A",
+        "MATH 1AH",
+        "MATH 1B",
+        "MATH 1BH",
+        "MATH 1C",
+        "MATH 1CH",
+        "MATH 1D",
+        "MATH 1DH",
+        "MATH 2A",
+        "MATH 2AH",
+        "PHYS 4A",
+        "PHYS 4B",
+        "PHYS 4C"
+      ],
+      "raw_text": "Required Core: (64 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CHEM 1A",
+      "title": "General Chemistry I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1AH",
+      "title": "General Chemistry I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22A",
+      "title": "Beginning Programming Methodologies in C++",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ENGR 10",
+      "title": "Introduction to Engineering",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ENGR 37",
+      "title": "Introduction to Circuit Analysis",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ENGR 37L",
+      "title": "Introduction to Circuit Analysis Laboratory",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1A",
+      "title": "Calculus I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1AH",
+      "title": "Calculus I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1B",
+      "title": "Calculus II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1BH",
+      "title": "Calculus II - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1C",
+      "title": "Calculus III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1CH",
+      "title": "Calculus III - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1D",
+      "title": "Calculus IV",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1DH",
+      "title": "Calculus IV - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Differential Equations",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 2AH",
+      "title": "Differential Equations - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4A",
+      "title": "Physics for Scientists and Engineers: Mechanics",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4B",
+      "title": "Physics for Scientists and Engineers: Electricity and Magnetism",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4C",
+      "title": "Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:00+00:00",
+  "id": "journalism-fall-2026",
+  "name": "Associate in Arts (A.A.) Degree Journalism",
+  "title_on_page": "American Government and Politics - HONORS",
+  "department": "Journalism",
+  "department_id": "journalism",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/journalism-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,journalism-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 JOUR - Journalism Journalism AA_Journalism Go Back Print Associate in Arts (A.A.) Degree Journalism New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Journalism A.A. degree prepares students to transfer to a four-year university in journalism, mass communications, public relations, advertising or related disciplines and offers students sufficient training to obtain an internship at a media outlet in print or electronic journalism or within the field of new media. Program Learning Outcomes Upon completion, students will be able to Demonstrate competency in the basics of journalistic writing, including grammar, punctuation, story structure and journalistic styles Demonstrate competency in research, information gathering and critical analysis of information using techniques such as observation, researching sources and interviewing Compile a portfolio of print, electronic and/or multimedia projects that tell journalistic stories Apply media literacy skills to explain the communication process and detect media bias Summarize steps appropriate to gain employment in a mass communications industry De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except ",
+  "requirements": [
+    {
+      "name": "Required Core: (16 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (16 Units)"
+    },
+    {
+      "name": "List A: (5 Units)",
+      "courses": [],
+      "raw_text": "List A: (5 Units)"
+    },
+    {
+      "name": "List B: (2 - 8 Units)",
+      "courses": [],
+      "raw_text": "List B: (2 - 8 Units)"
+    },
+    {
+      "name": "List C: (4 Units)",
+      "courses": [
+        "JOUR 2",
+        "JOUR 21A",
+        "JOUR 21B",
+        "JOUR 61A",
+        "PHTG 4",
+        "JOUR 61B",
+        "JOUR 61C",
+        "JOUR 62A",
+        "JOUR 62B",
+        "JOUR 62C",
+        "JOUR 62D",
+        "JOUR 62E",
+        "JOUR 62F",
+        "JOUR 77W",
+        "JOUR 78W",
+        "JOUR 78X",
+        "JOUR 80",
+        "JOUR 90",
+        "ARTS 53",
+        "ARTS 56",
+        "CETH 29",
+        "ADMJ 29",
+        "CIS 89A",
+        "COMM 7",
+        "COMM 7H",
+        "COMM 9",
+        "COMM 9H",
+        "EWRT 65A",
+        "EWRT 65AX",
+        "EWRT 68A",
+        "EWRT 68AX",
+        "JOUR 50",
+        "LIB 1"
+      ],
+      "raw_text": "List C: (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "JOUR 2",
+      "title": "Media and Its Impact On Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 21A",
+      "title": "News Writing and Reporting",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 21B",
+      "title": "Feature Writing and Reporting",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 61A",
+      "title": "Student News Media Production I",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 4",
+      "title": "Introduction to Digital Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 61B",
+      "title": "Student News Media Production II",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 61C",
+      "title": "Editorial Leadership for Student News Media",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 62A",
+      "title": "Freelance Reporting for Student Media",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 62B",
+      "title": "Freelance Photography for Student Media",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 62C",
+      "title": "Freelance Video Production for Student Media",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 62D",
+      "title": "Freelance Digital Production for Student Media",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 62E",
+      "title": "Freelance Graphic Production for Student Media",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 62F",
+      "title": "Freelance Copy Editing for Student Media",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 77W",
+      "title": "Special Projects in Journalism",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 78W",
+      "title": "Special Topics in Journalism",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 78X",
+      "title": "Special Topics in Journalism",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 80",
+      "title": "Introduction to Public Relations",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 90",
+      "title": "Introduction to Multimedia Reporting",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 53",
+      "title": "Introduction to Graphic Design: Vector Illustration",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 56",
+      "title": "Graphic Design: UI Prototyping and Digital Publishing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 89A",
+      "title": "Web Page Development",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7",
+      "title": "Intercultural Communication",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7H",
+      "title": "Intercultural Communication - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 9",
+      "title": "Argumentation: Analysis of Oral and Written Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 9H",
+      "title": "Argumentation: Analysis of Oral and Written Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 65A",
+      "title": "Literary Magazine I, National Edition",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 65AX",
+      "title": "Literary Magazine I, National Edition",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 68A",
+      "title": "Literary Magazine I, Student Edition",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EWRT 68AX",
+      "title": "Literary Magazine I, Student Edition",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 50",
+      "title": "Social Media Strategies for Journalists and Content Creators",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "LIB 1",
+      "title": "Library Research Skills",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

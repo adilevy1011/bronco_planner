@@ -1,0 +1,687 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:45+00:00",
+  "id": "global-studies-fall-2026v2",
+  "name": "Certificate of Achievement-Advanced (COA-A) Global Studies",
+  "title_on_page": "Intermediate Vietnamese (Third Quarter)",
+  "department": "Global Studies",
+  "department_id": "global-studies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/global-studies-fall-2026v2",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,global-studies-fall-2026v2?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 INTL - International Studies Global Studies COAA_Global Studies Go Back Print Certificate of Achievement-Advanced (COA-A) Global Studies New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Global Studies Certificate of Achievement-Advanced is an interdisciplinary program that prepares students to be well-versed in world history, global issues and perspectives, geography and cultural competence as well as proficient in a foreign language. Elective options direct students to a course of study focused on world history, international business, globalization issues, language and culture and the arts and humanities in the global environment. Students can take electives within one area of study, or mix electives from the various areas. The program prepares students for careers as citizens of the world and to navigate and communicate in a global environment. Program Learning Outcomes Upon completion, students will be able to Integrate information about the environment, cultures, histories, politics, arts and economics of people around the world and explain their interdependence and interconnectedness Demonstrate cultural competence through the ability to interact effectively in international and multicultural settings based on an integrated understanding of global issues and perspectives Demonstrate proficiency in a foreign language De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S",
+  "requirements": [
+    {
+      "name": "Required Core: (13 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (13 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [],
+      "raw_text": "List A: (4 Units)"
+    },
+    {
+      "name": "List B: (4 Units)",
+      "courses": [],
+      "raw_text": "List B: (4 Units)"
+    },
+    {
+      "name": "Option 1: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 1: (15 Units)"
+    },
+    {
+      "name": "Option 2: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 2: (15 Units)"
+    },
+    {
+      "name": "Option 3: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 3: (15 Units)"
+    },
+    {
+      "name": "Option 4: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 4: (15 Units)"
+    },
+    {
+      "name": "Option 5: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 5: (15 Units)"
+    },
+    {
+      "name": "Option 6: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 6: (15 Units)"
+    },
+    {
+      "name": "Option 7: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 7: (15 Units)"
+    },
+    {
+      "name": "Option 8: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 8: (15 Units)"
+    },
+    {
+      "name": "Option 9: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 9: (15 Units)"
+    },
+    {
+      "name": "Option 10: (15 Units)",
+      "courses": [],
+      "raw_text": "Option 10: (15 Units)"
+    },
+    {
+      "name": "Option 11: (15 Units)",
+      "courses": [
+        "COMM 7",
+        "COMM 7H",
+        "INTL 5",
+        "LIB 1",
+        "HIST 3A",
+        "HIST 3AH",
+        "HIST 3B",
+        "HIST 3BH",
+        "HIST 3C",
+        "HIST 3CH",
+        "ANTH 2",
+        "ANTH 2H",
+        "GEO 10",
+        "FREN 1",
+        "FREN 2",
+        "FREN 3",
+        "GERM 1",
+        "GERM 2",
+        "GERM 3",
+        "GERM 4",
+        "HNDI 1",
+        "HNDI 2",
+        "HNDI 3",
+        "ITAL 1",
+        "ITAL 2",
+        "ITAL 3",
+        "JAPN 1",
+        "JAPN 2",
+        "JAPN 3",
+        "JAPN 4",
+        "JAPN 5",
+        "JAPN 6",
+        "KORE 1",
+        "KORE 2",
+        "KORE 3",
+        "KORE 4",
+        "MAND 1",
+        "MAND 2",
+        "MAND 3",
+        "MAND 4",
+        "MAND 5",
+        "MAND 6",
+        "RUSS 1",
+        "RUSS 2",
+        "RUSS 3",
+        "SIGN 1",
+        "SIGN 2",
+        "SIGN 3",
+        "SPAN 1",
+        "SPAN 2",
+        "SPAN 3",
+        "SPAN 4",
+        "SPAN 5",
+        "SPAN 6",
+        "VIET 1",
+        "VIET 2",
+        "VIET 3",
+        "VIET 4",
+        "VIET 5",
+        "VIET 6"
+      ],
+      "raw_text": "Option 11: (15 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "COMM 7",
+      "title": "Intercultural Communication",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 7H",
+      "title": "Intercultural Communication - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 5",
+      "title": "Contemporary Global Issues",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "LIB 1",
+      "title": "Library Research Skills",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3A",
+      "title": "World History from Prehistory to 750 CE",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3AH",
+      "title": "World History from Prehistory to 750 CE - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3B",
+      "title": "World History from 750 to 1750 CE",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3BH",
+      "title": "World History from 750 to 1750 CE - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3C",
+      "title": "World History from 1750 CE to the Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HIST 3CH",
+      "title": "World History from 1750 CE to the Present - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 10",
+      "title": "World Regional Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "FREN 1",
+      "title": "Elementary French (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "FREN 2",
+      "title": "Elementary French (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "FREN 3",
+      "title": "Elementary French (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 1",
+      "title": "Elementary German (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 2",
+      "title": "Elementary German (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 3",
+      "title": "Elementary German (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 4",
+      "title": "Intermediate German (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 1",
+      "title": "Elementary Hindi (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 2",
+      "title": "Elementary Hindi (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HNDI 3",
+      "title": "Elementary Hindi (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 1",
+      "title": "Elementary Italian (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 2",
+      "title": "Elementary Italian (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ITAL 3",
+      "title": "Elementary Italian (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 1",
+      "title": "Elementary Japanese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 2",
+      "title": "Elementary Japanese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 3",
+      "title": "Elementary Japanese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 4",
+      "title": "Intermediate Japanese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 5",
+      "title": "Intermediate Japanese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JAPN 6",
+      "title": "Intermediate Japanese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 1",
+      "title": "Elementary Korean (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 2",
+      "title": "Elementary Korean (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 3",
+      "title": "Elementary Korean (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KORE 4",
+      "title": "Intermediate Korean (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 1",
+      "title": "Elementary Mandarin (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 2",
+      "title": "Elementary Mandarin (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 3",
+      "title": "Elementary Mandarin (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 4",
+      "title": "Intermediate Mandarin (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 5",
+      "title": "Intermediate Mandarin (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MAND 6",
+      "title": "Intermediate Mandarin (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 1",
+      "title": "Elementary Russian (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 2",
+      "title": "Elementary Russian (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "RUSS 3",
+      "title": "Elementary Russian (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 1",
+      "title": "Elementary American Sign Language (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 2",
+      "title": "Elementary American Sign Language (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SIGN 3",
+      "title": "Elementary American Sign Language (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 1",
+      "title": "Elementary Spanish (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 2",
+      "title": "Elementary Spanish (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 3",
+      "title": "Elementary Spanish (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 4",
+      "title": "Intermediate Spanish (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 5",
+      "title": "Intermediate Spanish (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SPAN 6",
+      "title": "Intermediate Spanish (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 1",
+      "title": "Elementary Vietnamese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 2",
+      "title": "Elementary Vietnamese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 3",
+      "title": "Elementary Vietnamese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 4",
+      "title": "Intermediate Vietnamese (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 5",
+      "title": "Intermediate Vietnamese (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "VIET 6",
+      "title": "Intermediate Vietnamese (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

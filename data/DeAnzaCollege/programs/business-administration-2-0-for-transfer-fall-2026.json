@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:56+00:00",
+  "id": "business-administration-2-0-for-transfer-fall-2026",
+  "name": "Associate in Science for Transfer (A.S.-T.) Degree Business Administration 2.0 for Transfer",
+  "title_on_page": "Introductory Calculus for Business and Social Science",
+  "department": "Business Administration",
+  "department_id": "business-administration",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/business-administration-2-0-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,business-administration-2-0-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 BUS - Business Business Administration 2.0 for Transfer AST_Associate in Science in Business Administration for Transfer 2.0 Go Back Print Associate in Science for Transfer (A.S.-T.) Degree Business Administration 2.0 for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Business Administration major consists of courses appropriate for the Associate in Science in Business Administration 2.0 for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). Potential careers students may enter upon completion of this program include: payroll administrator, warehouse associate, accounts receivable administrator, accounts payable administrator, retail sales, customer service, executive assistant or contracts administrator. The Associate in Science in Business Administration 2.0 for Transfer is intended for students who plan to complete a bachelor’s degree in Business Administration (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Important information: See deanza.edu/articulation/business-ast.html for details on catalog rights and transfer advising for students who are completing or have completed version 1.0 of the Business Administration A.S.-T. degree. Program Learning Outcomes Upon completion, students will be able to Explain the interactions among the primary functions within business (such as marketing, management, operations, human resources, accounting, finance and business law) to achieve organizational goals De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The req",
+  "requirements": [
+    {
+      "name": "Required Core: (33 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (33 Units)"
+    },
+    {
+      "name": "Required Core - Additional Math: (5 Units)",
+      "courses": [
+        "ACCT 1B",
+        "ACCT 1BH",
+        "ACCT 1C",
+        "ACCT 1CH",
+        "BUS 10",
+        "BUS 18",
+        "MATH 1A",
+        "MATH 1AH",
+        "MATH 11",
+        "MATH 11H",
+        "MATH 12"
+      ],
+      "raw_text": "Required Core - Additional Math: (5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ACCT 1B",
+      "title": "Financial Accounting II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1BH",
+      "title": "Financial Accounting II - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1C",
+      "title": "Managerial Accounting",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1CH",
+      "title": "Managerial Accounting - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 10",
+      "title": "Introduction to Business",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 18",
+      "title": "Business Law I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1A",
+      "title": "Calculus I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1AH",
+      "title": "Calculus I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 11",
+      "title": "Finite Mathematics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 11H",
+      "title": "Finite Mathematics - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 12",
+      "title": "Introductory Calculus for Business and Social Science",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

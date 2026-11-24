@@ -1,0 +1,147 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:04+00:00",
+  "id": "german-language-and-culture-fall-2026",
+  "name": "Certificate of Achievement (COA) German Language and Culture",
+  "title_on_page": "Introduction to Linguistics",
+  "department": "Languages",
+  "department_id": "languages",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/german-language-and-culture-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,german-language-and-culture-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 GERM - German German Language and Culture COA_German Language and Culture Go Back Print Certificate of Achievement (COA) German Language and Culture New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in German Language and Culture offers opportunities for students to engage with the growing first- and second-generation German immigrant communities in the Bay Area, and to become global citizens. German is also an excellent major or minor for those who plan to pursue graduate work in areas such as philosophy, anthropology, history, linguistics or business. Understanding the diversity of cultural, historical and social contexts in the German-speaking world will provide new insights and a critical lens. This certificate will not only satisfy a language requirement but could also help students prepare for competing and cooperating in the international arena, since Germany is the largest economy in the European Union. The certificate can also promote multicultural understanding and spur personal and intellectual growth. It may open up additional opportunities for students who pursue studying abroad, since Germany is among the top non-English speaking countries in sponsoring academic exchanges through programs like Fulbright. Program Learning Outcomes Upon completion, students will be able to Engage in communicative tasks that require describing personal experiences in the present with some references to the past; expressing basic opinions about abstract topics; understanding main ideas and supporting textual details; producing discourse level writing related to personal experiences Demonstrate an understanding of the diversity of cultural, historical, and regional contexts of German-speaking peoples and cultures Engage critically with constructions of cultural and social differences (as expressed through language) while examining one’s own cultural positioning and assumptions De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applic",
+  "requirements": [
+    {
+      "name": "Required Core: (15 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (15 Units)"
+    },
+    {
+      "name": "List A: (4 - 5 Units)",
+      "courses": [
+        "GERM 1",
+        "GERM 2",
+        "GERM 3",
+        "ANTH 2",
+        "ANTH 2H",
+        "ANTH 6",
+        "COMM 16",
+        "COMM 16H",
+        "GEO 4",
+        "INTL 5",
+        "JOUR 2",
+        "LING 1"
+      ],
+      "raw_text": "List A: (4 - 5 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "GERM 1",
+      "title": "Elementary German (First Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 2",
+      "title": "Elementary German (Second Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GERM 3",
+      "title": "Elementary German (Third Quarter)",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 6",
+      "title": "Linguistic Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 16",
+      "title": "Interpersonal Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 16H",
+      "title": "Interpersonal Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 4",
+      "title": "Cultural Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "INTL 5",
+      "title": "Contemporary Global Issues",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 2",
+      "title": "Media and Its Impact On Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "LING 1",
+      "title": "Introduction to Linguistics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

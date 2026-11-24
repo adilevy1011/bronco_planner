@@ -1,0 +1,32 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:01+00:00",
+  "id": "early-childhood-mental-health-fall-2026",
+  "name": "Certificate of Achievement (COA) Early Childhood Mental Health",
+  "title_on_page": "Social Emotional Development in Early Childhood",
+  "department": "Child Development",
+  "department_id": "child-development",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/early-childhood-mental-health-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,early-childhood-mental-health-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 C D - Child Development Early Childhood Mental Health COA_Early Childhood Mental Health Go Back Print Certificate of Achievement (COA) Early Childhood Mental Health New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. De Anza College’s Child Development and Education Department developed the Early Childhood Mental Health Certificate of Achievement to train mental health professionals at the entry and advanced level, ECE educators at the beginning and advanced level, and professionals working in early education, mental health and community services settings or programs. Certificate requirements include student participation in field experiences with community-based, early childhood mental health programs. Students develop skills to work with both children and their families. The Certificate of Achievement is designed to meet Child Development course requirements for a Child Development Master Teacher level as specialization units. The Child Development Master Teacher permit requires 36 quarter units (equivalent to 24 semester units) ECE/CD including core courses. The permit also requires 24 quarter units (equivalent to 16 semester units) of General Education courses plus 3 quarter units (equivalent to 2 semester units) of adult supervision. Program Learning Outcomes Upon completion, students will be able to Recognize the importance of community engagement and their role as local, national and global advocates for children, families and the community Integrate early childhood mental health practices to support the development of social and emotional skills in young children Demonstrate skills in building relationships with children and families De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other inst",
+  "requirements": [
+    {
+      "name": "Required Core: (21 Units)",
+      "courses": [
+        "PSYC 10G"
+      ],
+      "raw_text": "Required Core: (21 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PSYC 10G",
+      "title": "Child Development (The Early Years)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

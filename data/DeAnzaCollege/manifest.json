@@ -1,0 +1,2607 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:22:15+00:00",
+  "institution": "De Anza College",
+  "departments": [
+    {
+      "id": "accounting",
+      "name": "Accounting",
+      "subject_code": "ACCT",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/accounting-courses",
+      "file": "departments/accounting.json",
+      "course_count": 25
+    },
+    {
+      "id": "admj-administration-of-justice",
+      "name": "Administration of Justice",
+      "subject_code": "ADMJ",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/admj-administration-of-justice-courses",
+      "file": "departments/admj-administration-of-justice.json",
+      "course_count": 28
+    },
+    {
+      "id": "afam-african-american-studies",
+      "name": "African American Studies",
+      "subject_code": "AFAM",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/afam-african-american-studies-courses",
+      "file": "departments/afam-african-american-studies.json",
+      "course_count": 5
+    },
+    {
+      "id": "anth-anthropology",
+      "name": "Anthropology",
+      "subject_code": "ANTH",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/anth-anthropology-courses",
+      "file": "departments/anth-anthropology.json",
+      "course_count": 15
+    },
+    {
+      "id": "aprn-automotive-apprenticeship",
+      "name": "Automotive Apprenticeship",
+      "subject_code": "APRN",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/aprn-automotive-apprenticeship-courses",
+      "file": "departments/aprn-automotive-apprenticeship.json",
+      "course_count": 33
+    },
+    {
+      "id": "arts-art",
+      "name": "Visual Arts and Design",
+      "subject_code": "ARTS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/arts-art-courses",
+      "file": "departments/arts-art.json",
+      "course_count": 56
+    },
+    {
+      "id": "asam-asian-american-and-asian-studies",
+      "name": "Asian American and Asian Studies",
+      "subject_code": "ASAM",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/asam-asian-american-and-asian-studies-courses",
+      "file": "departments/asam-asian-american-and-asian-studies.json",
+      "course_count": 13
+    },
+    {
+      "id": "astr-astronomy",
+      "name": "Astronomy",
+      "subject_code": "ASTR",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/astr-astronomy-courses",
+      "file": "departments/astr-astronomy.json",
+      "course_count": 3
+    },
+    {
+      "id": "atmg-auto-management",
+      "name": "Auto Management",
+      "subject_code": "ATMG",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/atmg-auto-management-courses",
+      "file": "departments/atmg-auto-management.json",
+      "course_count": 9
+    },
+    {
+      "id": "automotive-technology",
+      "name": "Automotive Technology",
+      "subject_code": "AUTO",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/automotive-technology-courses",
+      "file": "departments/automotive-technology.json",
+      "course_count": 180
+    },
+    {
+      "id": "biol-biology",
+      "name": "Biology",
+      "subject_code": "BIOL",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/biol-biology-courses",
+      "file": "departments/biol-biology.json",
+      "course_count": 27
+    },
+    {
+      "id": "bus-business",
+      "name": "Business",
+      "subject_code": "BUS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/bus-business-courses",
+      "file": "departments/bus-business.json",
+      "course_count": 30
+    },
+    {
+      "id": "cd-child-development",
+      "name": "Child Development",
+      "subject_code": "CD",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/cd-child-development-courses",
+      "file": "departments/cd-child-development.json",
+      "course_count": 47
+    },
+    {
+      "id": "ceth-comparative-ethnic-studies",
+      "name": "Comparative Ethnic Studies",
+      "subject_code": "CETH",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/ceth-comparative-ethnic-studies-courses",
+      "file": "departments/ceth-comparative-ethnic-studies.json",
+      "course_count": 7
+    },
+    {
+      "id": "chem-chemistry",
+      "name": "Chemistry",
+      "subject_code": "CHEM",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/chem-chemistry-courses",
+      "file": "departments/chem-chemistry.json",
+      "course_count": 16
+    },
+    {
+      "id": "chlx-chicanx-latinx-studies",
+      "name": "Chicanx/Latinx Studies",
+      "subject_code": "CHLX",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/chlx-chicanx-latinx-studies-courses",
+      "file": "departments/chlx-chicanx-latinx-studies.json",
+      "course_count": 6
+    },
+    {
+      "id": "cis-computer-science-and-information-systems",
+      "name": "Computer Science and Information Systems",
+      "subject_code": "CIS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/cis-computer-science-and-information-systems-courses",
+      "file": "departments/cis-computer-science-and-information-systems.json",
+      "course_count": 248
+    },
+    {
+      "id": "clp-career-life-planning",
+      "name": "Career Life Planning",
+      "subject_code": "CLP",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/clp-career-life-planning-courses",
+      "file": "departments/clp-career-life-planning.json",
+      "course_count": 2
+    },
+    {
+      "id": "comm-communication-studies",
+      "name": "Communication Studies",
+      "subject_code": "COMM",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/comm-communication-studies-courses",
+      "file": "departments/comm-communication-studies.json",
+      "course_count": 22
+    },
+    {
+      "id": "coun-counseling",
+      "name": "Counseling",
+      "subject_code": "COUN",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/coun-counseling-courses",
+      "file": "departments/coun-counseling.json",
+      "course_count": 4
+    },
+    {
+      "id": "cte-career-training",
+      "name": "Career Training",
+      "subject_code": "CTE",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/cte-career-training-courses",
+      "file": "departments/cte-career-training.json",
+      "course_count": 1
+    },
+    {
+      "id": "danc-dance",
+      "name": "Dance",
+      "subject_code": "DANC",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/danc-dance-courses",
+      "file": "departments/danc-dance.json",
+      "course_count": 19
+    },
+    {
+      "id": "dmt-design-and-manufacturing-technologies",
+      "name": "Design and Manufacturing Technologies",
+      "subject_code": "DMT",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/dmt-design-and-manufacturing-technologies-courses",
+      "file": "departments/dmt-design-and-manufacturing-technologies.json",
+      "course_count": 113
+    },
+    {
+      "id": "econ-economics",
+      "name": "Economics",
+      "subject_code": "ECON",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/econ-economics-courses",
+      "file": "departments/econ-economics.json",
+      "course_count": 8
+    },
+    {
+      "id": "edac-educational-access",
+      "name": "Educational Access",
+      "subject_code": "EDAC",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/edac-educational-access-courses",
+      "file": "departments/edac-educational-access.json",
+      "course_count": 24
+    },
+    {
+      "id": "educ-education",
+      "name": "Education",
+      "subject_code": "EDUC",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/educ-education-courses",
+      "file": "departments/educ-education.json",
+      "course_count": 2
+    },
+    {
+      "id": "elit-english-literature",
+      "name": "English Literature",
+      "subject_code": "ELIT",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/elit-english-literature-courses",
+      "file": "departments/elit-english-literature.json",
+      "course_count": 34
+    },
+    {
+      "id": "engl-english",
+      "name": "English",
+      "subject_code": "ENGL",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/engl-english-courses",
+      "file": "departments/engl-english.json",
+      "course_count": 7
+    },
+    {
+      "id": "engr-engineering",
+      "name": "Engineering",
+      "subject_code": "ENGR",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/engr-engineering-courses",
+      "file": "departments/engr-engineering.json",
+      "course_count": 15
+    },
+    {
+      "id": "es-environmental-studies",
+      "name": "Environmental Studies",
+      "subject_code": "ES",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/es-environmental-studies-courses",
+      "file": "departments/es-environmental-studies.json",
+      "course_count": 34
+    },
+    {
+      "id": "esci-environmental-science",
+      "name": "Environmental Science",
+      "subject_code": "ESCI",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/esci-environmental-science-courses",
+      "file": "departments/esci-environmental-science.json",
+      "course_count": 6
+    },
+    {
+      "id": "esl-english-as-a-second-language",
+      "name": "English as a Second Language",
+      "subject_code": "ESL",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/esl-english-as-a-second-language-courses",
+      "file": "departments/esl-english-as-a-second-language.json",
+      "course_count": 28
+    },
+    {
+      "id": "ewrt-english-writing",
+      "name": "English Writing",
+      "subject_code": "EWRT",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/ewrt-english-writing-courses",
+      "file": "departments/ewrt-english-writing.json",
+      "course_count": 22
+    },
+    {
+      "id": "fren-french",
+      "name": "French",
+      "subject_code": "FREN",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/fren-french-courses",
+      "file": "departments/fren-french.json",
+      "course_count": 3
+    },
+    {
+      "id": "ftv-film-and-television-production",
+      "name": "F/TV - Film and Television Production Courses",
+      "subject_code": "",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/ftv-film-and-television-production-courses",
+      "file": "departments/ftv-film-and-television-production.json",
+      "course_count": 71
+    },
+    {
+      "id": "geo-geography",
+      "name": "Geography",
+      "subject_code": "GEO",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/geo-geography-courses",
+      "file": "departments/geo-geography.json",
+      "course_count": 5
+    },
+    {
+      "id": "geol-geology",
+      "name": "Geology",
+      "subject_code": "GEOL",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/geol-geology-courses",
+      "file": "departments/geol-geology.json",
+      "course_count": 4
+    },
+    {
+      "id": "germ-german",
+      "name": "German",
+      "subject_code": "GERM",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/germ-german-courses",
+      "file": "departments/germ-german.json",
+      "course_count": 4
+    },
+    {
+      "id": "hist-history",
+      "name": "History",
+      "subject_code": "HIST",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/hist-history-courses",
+      "file": "departments/hist-history.json",
+      "course_count": 28
+    },
+    {
+      "id": "hlth-health",
+      "name": "Health",
+      "subject_code": "HLTH",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/hlth-health-courses",
+      "file": "departments/hlth-health.json",
+      "course_count": 2
+    },
+    {
+      "id": "hndi-hindi",
+      "name": "Hindi",
+      "subject_code": "HNDI",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/hndi-hindi-courses",
+      "file": "departments/hndi-hindi.json",
+      "course_count": 3
+    },
+    {
+      "id": "htec-health-technologies",
+      "name": "Health Technologies",
+      "subject_code": "HTEC",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/htec-health-technologies-courses",
+      "file": "departments/htec-health-technologies.json",
+      "course_count": 82
+    },
+    {
+      "id": "huma-human-development",
+      "name": "Human Development",
+      "subject_code": "HUMA",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/huma-human-development-courses",
+      "file": "departments/huma-human-development.json",
+      "course_count": 4
+    },
+    {
+      "id": "humi-humanities",
+      "name": "Humanities",
+      "subject_code": "HUMI",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/humi-humanities-courses",
+      "file": "departments/humi-humanities.json",
+      "course_count": 18
+    },
+    {
+      "id": "ics-intercultural-studies",
+      "name": "Intercultural Studies",
+      "subject_code": "ICS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/ics-intercultural-studies-courses",
+      "file": "departments/ics-intercultural-studies.json",
+      "course_count": 34
+    },
+    {
+      "id": "intl-international-studies",
+      "name": "International Studies",
+      "subject_code": "INTL",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/intl-international-studies-courses",
+      "file": "departments/intl-international-studies.json",
+      "course_count": 3
+    },
+    {
+      "id": "ital-italian",
+      "name": "Italian",
+      "subject_code": "ITAL",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/ital-italian-courses",
+      "file": "departments/ital-italian.json",
+      "course_count": 3
+    },
+    {
+      "id": "japn-japanese",
+      "name": "Japanese",
+      "subject_code": "JAPN",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/japn-japanese-courses",
+      "file": "departments/japn-japanese.json",
+      "course_count": 6
+    },
+    {
+      "id": "jour-journalism",
+      "name": "Journalism",
+      "subject_code": "JOUR",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/jour-journalism-courses",
+      "file": "departments/jour-journalism.json",
+      "course_count": 27
+    },
+    {
+      "id": "knes-kinesiology",
+      "name": "Kinesiology",
+      "subject_code": "KNES",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/knes-kinesiology-courses",
+      "file": "departments/knes-kinesiology.json",
+      "course_count": 132
+    },
+    {
+      "id": "kore-korean",
+      "name": "Korean",
+      "subject_code": "KORE",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/kore-korean-courses",
+      "file": "departments/kore-korean.json",
+      "course_count": 4
+    },
+    {
+      "id": "lart-language-arts",
+      "name": "Language Arts",
+      "subject_code": "LART",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/lart-language-arts-courses",
+      "file": "departments/lart-language-arts.json",
+      "course_count": 1
+    },
+    {
+      "id": "lib-library",
+      "name": "Library",
+      "subject_code": "LIB",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/lib-library-courses",
+      "file": "departments/lib-library.json",
+      "course_count": 2
+    },
+    {
+      "id": "ling-linguistics",
+      "name": "Linguistics",
+      "subject_code": "LING",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/ling-linguistics-courses",
+      "file": "departments/ling-linguistics.json",
+      "course_count": 1
+    },
+    {
+      "id": "lrna-learning-assistance",
+      "name": "Learning Assistance",
+      "subject_code": "LRNA",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/lrna-learning-assistance-courses",
+      "file": "departments/lrna-learning-assistance.json",
+      "course_count": 7
+    },
+    {
+      "id": "ls-learning-strategies",
+      "name": "Learning Strategies",
+      "subject_code": "LS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/ls-learning-strategies-courses",
+      "file": "departments/ls-learning-strategies.json",
+      "course_count": 3
+    },
+    {
+      "id": "mand-mandarin",
+      "name": "Mandarin",
+      "subject_code": "MAND",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/mand-mandarin-courses",
+      "file": "departments/mand-mandarin.json",
+      "course_count": 28
+    },
+    {
+      "id": "math-mathematics",
+      "name": "Mathematics",
+      "subject_code": "MATH",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/math-mathematics-courses",
+      "file": "departments/math-mathematics.json",
+      "course_count": 57
+    },
+    {
+      "id": "met-meteorology",
+      "name": "Meteorology",
+      "subject_code": "MET",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/met-meteorology-courses",
+      "file": "departments/met-meteorology.json",
+      "course_count": 4
+    },
+    {
+      "id": "musi-music",
+      "name": "Music",
+      "subject_code": "MUSI",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/musi-music-courses",
+      "file": "departments/musi-music.json",
+      "course_count": 53
+    },
+    {
+      "id": "nais-native-american-and-indigenous-studies",
+      "name": "Native American and Indigenous Studies",
+      "subject_code": "NAIS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/nais-native-american-and-indigenous-studies-courses",
+      "file": "departments/nais-native-american-and-indigenous-studies.json",
+      "course_count": 8
+    },
+    {
+      "id": "nurs-nursing",
+      "name": "Nursing",
+      "subject_code": "NURS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/nurs-nursing-courses",
+      "file": "departments/nurs-nursing.json",
+      "course_count": 31
+    },
+    {
+      "id": "nutr-nutrition",
+      "name": "Nutrition",
+      "subject_code": "NUTR",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/nutr-nutrition-courses",
+      "file": "departments/nutr-nutrition.json",
+      "course_count": 3
+    },
+    {
+      "id": "para-paralegal-studies",
+      "name": "Paralegal Studies",
+      "subject_code": "PARA",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/para-paralegal-studies-courses",
+      "file": "departments/para-paralegal-studies.json",
+      "course_count": 29
+    },
+    {
+      "id": "pe-physical-education",
+      "name": "Physical Education",
+      "subject_code": "PE",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/pe-physical-education-courses",
+      "file": "departments/pe-physical-education.json",
+      "course_count": 60
+    },
+    {
+      "id": "pea-physical-education-adapted",
+      "name": "Physical Education Adapted",
+      "subject_code": "PEA",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/pea-physical-education-adapted-courses",
+      "file": "departments/pea-physical-education-adapted.json",
+      "course_count": 12
+    },
+    {
+      "id": "pers-persian",
+      "name": "Persian",
+      "subject_code": "PERS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/pers-persian-courses",
+      "file": "departments/pers-persian.json",
+      "course_count": 1
+    },
+    {
+      "id": "phil-philosophy",
+      "name": "Philosophy",
+      "subject_code": "PHIL",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/phil-philosophy-courses",
+      "file": "departments/phil-philosophy.json",
+      "course_count": 18
+    },
+    {
+      "id": "phtg-photography",
+      "name": "Photography",
+      "subject_code": "PHTG",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/phtg-photography-courses",
+      "file": "departments/phtg-photography.json",
+      "course_count": 24
+    },
+    {
+      "id": "phys-physics",
+      "name": "Physics",
+      "subject_code": "PHYS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/phys-physics-courses",
+      "file": "departments/phys-physics.json",
+      "course_count": 12
+    },
+    {
+      "id": "poli-political-science",
+      "name": "Political Science",
+      "subject_code": "POLI",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/poli-political-science-courses",
+      "file": "departments/poli-political-science.json",
+      "course_count": 17
+    },
+    {
+      "id": "pols-political-science",
+      "name": "Political Science",
+      "subject_code": "POLS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/pols-political-science-courses",
+      "file": "departments/pols-political-science.json",
+      "course_count": 2
+    },
+    {
+      "id": "psyc-psychology",
+      "name": "Psychology",
+      "subject_code": "PSYC",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/psyc-psychology-courses",
+      "file": "departments/psyc-psychology.json",
+      "course_count": 20
+    },
+    {
+      "id": "read-reading",
+      "name": "Reading",
+      "subject_code": "READ",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/read-reading-courses",
+      "file": "departments/read-reading.json",
+      "course_count": 2
+    },
+    {
+      "id": "rest-real-estate",
+      "name": "Real Estate",
+      "subject_code": "REST",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/rest-real-estate-courses",
+      "file": "departments/rest-real-estate.json",
+      "course_count": 14
+    },
+    {
+      "id": "russ-russian",
+      "name": "Russian",
+      "subject_code": "RUSS",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/russ-russian-courses",
+      "file": "departments/russ-russian.json",
+      "course_count": 3
+    },
+    {
+      "id": "sign-sign-language",
+      "name": "Sign Language",
+      "subject_code": "SIGN",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/sign-sign-language-courses",
+      "file": "departments/sign-sign-language.json",
+      "course_count": 3
+    },
+    {
+      "id": "soc-sociology",
+      "name": "Sociology",
+      "subject_code": "SOC",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/soc-sociology-courses",
+      "file": "departments/soc-sociology.json",
+      "course_count": 12
+    },
+    {
+      "id": "sosc-social-science",
+      "name": "Social Science",
+      "subject_code": "SOSC",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/sosc-social-science-courses",
+      "file": "departments/sosc-social-science.json",
+      "course_count": 15
+    },
+    {
+      "id": "span-spanish",
+      "name": "Spanish",
+      "subject_code": "SPAN",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/span-spanish-courses",
+      "file": "departments/span-spanish.json",
+      "course_count": 6
+    },
+    {
+      "id": "stat-statistics",
+      "name": "Statistics",
+      "subject_code": "STAT",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/stat-statistics-courses",
+      "file": "departments/stat-statistics.json",
+      "course_count": 2
+    },
+    {
+      "id": "thea-theatre-arts",
+      "name": "Theatre Arts",
+      "subject_code": "THEA",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/thea-theatre-arts-courses",
+      "file": "departments/thea-theatre-arts.json",
+      "course_count": 6
+    },
+    {
+      "id": "viet-vietnamese-language",
+      "name": "Vietnamese Language",
+      "subject_code": "VIET",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/viet-vietnamese-language-courses",
+      "file": "departments/viet-vietnamese-language.json",
+      "course_count": 6
+    },
+    {
+      "id": "wmst-womens-studies",
+      "name": "Women's Studies",
+      "subject_code": "WMST",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/wmst-womens-studies-courses",
+      "file": "departments/wmst-womens-studies.json",
+      "course_count": 16
+    }
+  ],
+  "programs": [
+    {
+      "id": "accounting-fall-2026",
+      "name": "Certificate of Achievement (COA) Accounting",
+      "department": "Accounting",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/accounting-fall-2026",
+      "file": "programs/accounting-fall-2026.json",
+      "course_count": 21,
+      "requirement_count": 2
+    },
+    {
+      "id": "accounting-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Accounting",
+      "department": "Accounting",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/accounting-fall-2026v2",
+      "file": "programs/accounting-fall-2026v2.json",
+      "course_count": 23,
+      "requirement_count": 2
+    },
+    {
+      "id": "accounting-fall-2026v2v3",
+      "name": "Certificate of Achievement-Advanced (COA-A) Accounting",
+      "department": "Accounting",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/accounting-fall-2026v2v3",
+      "file": "programs/accounting-fall-2026v2v3.json",
+      "course_count": 23,
+      "requirement_count": 2
+    },
+    {
+      "id": "additive-manufacturing-technology-3d-design-and-production-fall-2024",
+      "name": "Certificate of Achievement (COA) Additive Manufacturing Technology: 3D Design and Production",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/additive-manufacturing-technology-3d-design-and-production-fall-2024",
+      "file": "programs/additive-manufacturing-technology-3d-design-and-production-fall-2024.json",
+      "course_count": 14,
+      "requirement_count": 2
+    },
+    {
+      "id": "administration-of-justice-for-transfer-fall-2026",
+      "name": "Associate in Science for Transfer (A.S.-T.) Degree Administration of Justice for Transfer",
+      "department": "Administration of Justice",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/administration-of-justice-for-transfer-fall-2026",
+      "file": "programs/administration-of-justice-for-transfer-fall-2026.json",
+      "course_count": 20,
+      "requirement_count": 3
+    },
+    {
+      "id": "advanced-automotive-technology-fall-2022",
+      "name": "Certificate of Achievement (COA) Advanced Automotive Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/advanced-automotive-technology-fall-2022",
+      "file": "programs/advanced-automotive-technology-fall-2022.json",
+      "course_count": 5,
+      "requirement_count": 1
+    },
+    {
+      "id": "advanced-engine-performance-technology-fall-2022",
+      "name": "Certificate of Achievement (COA) Advanced Engine Performance Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/advanced-engine-performance-technology-fall-2022",
+      "file": "programs/advanced-engine-performance-technology-fall-2022.json",
+      "course_count": 4,
+      "requirement_count": 1
+    },
+    {
+      "id": "advanced-engine-performance-technology-fall-2022v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Advanced Engine Performance Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/advanced-engine-performance-technology-fall-2022v2",
+      "file": "programs/advanced-engine-performance-technology-fall-2022v2.json",
+      "course_count": 11,
+      "requirement_count": 1
+    },
+    {
+      "id": "advanced-engine-performance-technology-fall-2025",
+      "name": "Associate in Science (A.S.) Degree Advanced Engine Performance Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/advanced-engine-performance-technology-fall-2025",
+      "file": "programs/advanced-engine-performance-technology-fall-2025.json",
+      "course_count": 11,
+      "requirement_count": 1
+    },
+    {
+      "id": "advanced-manufacturing-and-prototyping-technician-fall-2024",
+      "name": "Certificate of Achievement-Advanced (COA-A) Advanced Manufacturing and Prototyping Technician",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/advanced-manufacturing-and-prototyping-technician-fall-2024",
+      "file": "programs/advanced-manufacturing-and-prototyping-technician-fall-2024.json",
+      "course_count": 19,
+      "requirement_count": 4
+    },
+    {
+      "id": "advanced-manufacturing-and-prototyping-technician-fall-2025",
+      "name": "Associate in Science (A.S.) Degree Advanced Manufacturing and Prototyping Technician",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/advanced-manufacturing-and-prototyping-technician-fall-2025",
+      "file": "programs/advanced-manufacturing-and-prototyping-technician-fall-2025.json",
+      "course_count": 19,
+      "requirement_count": 4
+    },
+    {
+      "id": "anthropology-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Anthropology for Transfer",
+      "department": "Anthropology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/anthropology-for-transfer-fall-2026",
+      "file": "programs/anthropology-for-transfer-fall-2026.json",
+      "course_count": 15,
+      "requirement_count": 4
+    },
+    {
+      "id": "applied-artificial-intelligence-fall-2026v2",
+      "name": "Certificate of Achievement (COA) Applied Artificial Intelligence",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/applied-artificial-intelligence-fall-2026v2",
+      "file": "programs/applied-artificial-intelligence-fall-2026v2.json",
+      "course_count": 6,
+      "requirement_count": 3
+    },
+    {
+      "id": "applied-artificial-intelligence-fall-2026v2v3",
+      "name": "Certificate of Achievement-Advanced (COA-A) Applied Artificial Intelligence",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/applied-artificial-intelligence-fall-2026v2v3",
+      "file": "programs/applied-artificial-intelligence-fall-2026v2v3.json",
+      "course_count": 21,
+      "requirement_count": 7
+    },
+    {
+      "id": "applied-artificial-intelligence-fall-2026v2v3v4",
+      "name": "Associate in Science (A.S.) Degree Applied Artificial Intelligence",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/applied-artificial-intelligence-fall-2026v2v3v4",
+      "file": "programs/applied-artificial-intelligence-fall-2026v2v3v4.json",
+      "course_count": 21,
+      "requirement_count": 7
+    },
+    {
+      "id": "applied-mathematics-fall-2026",
+      "name": "Certificate of Achievement (COA) Applied Mathematics",
+      "department": "Mathematics",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/applied-mathematics-fall-2026",
+      "file": "programs/applied-mathematics-fall-2026.json",
+      "course_count": 8,
+      "requirement_count": 2
+    },
+    {
+      "id": "art-history-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Art History",
+      "department": "Art",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/art-history-fall-2026",
+      "file": "programs/art-history-fall-2026.json",
+      "course_count": 25,
+      "requirement_count": 5
+    },
+    {
+      "id": "art-history-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Art History",
+      "department": "Art",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/art-history-fall-2026v2",
+      "file": "programs/art-history-fall-2026v2.json",
+      "course_count": 25,
+      "requirement_count": 5
+    },
+    {
+      "id": "art-history-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Art History for Transfer",
+      "department": "Art",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/art-history-for-transfer-fall-2026",
+      "file": "programs/art-history-for-transfer-fall-2026.json",
+      "course_count": 52,
+      "requirement_count": 4
+    },
+    {
+      "id": "asian-american-studies-fall-2026",
+      "name": "Certificate of Achievement (COA) Asian American Studies",
+      "department": "Asian American and Asian Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/asian-american-studies-fall-2026",
+      "file": "programs/asian-american-studies-fall-2026.json",
+      "course_count": 45,
+      "requirement_count": 3
+    },
+    {
+      "id": "automotive-chassis-and-powertrain-fall-2026",
+      "name": "Associate in Science (A.S.) Degree Automotive Chassis and Powertrain",
+      "department": "Automotive Technology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-chassis-and-powertrain-fall-2026",
+      "file": "programs/automotive-chassis-and-powertrain-fall-2026.json",
+      "course_count": 12,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-chassis-and-powertrain-fall-2026v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Automotive Chassis and Powertrain",
+      "department": "Automotive Technology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-chassis-and-powertrain-fall-2026v2",
+      "file": "programs/automotive-chassis-and-powertrain-fall-2026v2.json",
+      "course_count": 12,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-chassis-technology-fall-2022",
+      "name": "Certificate of Achievement (COA) Automotive Chassis Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-chassis-technology-fall-2022",
+      "file": "programs/automotive-chassis-technology-fall-2022.json",
+      "course_count": 3,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-chassis-technology-fall-2025",
+      "name": "Certificate of Achievement-Advanced (COA-A) Automotive Chassis Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-chassis-technology-fall-2025",
+      "file": "programs/automotive-chassis-technology-fall-2025.json",
+      "course_count": 8,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-chassis-technology-fall-2025v2",
+      "name": "Associate in Science (A.S.) Degree Automotive Chassis Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-chassis-technology-fall-2025v2",
+      "file": "programs/automotive-chassis-technology-fall-2025v2.json",
+      "course_count": 8,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-engine-performance-fall-2026",
+      "name": "Associate in Science (A.S.) Degree Automotive Engine Performance",
+      "department": "Automotive Technology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-engine-performance-fall-2026",
+      "file": "programs/automotive-engine-performance-fall-2026.json",
+      "course_count": 9,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-engine-performance-fall-2026v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Automotive Engine Performance",
+      "department": "Automotive Technology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-engine-performance-fall-2026v2",
+      "file": "programs/automotive-engine-performance-fall-2026v2.json",
+      "course_count": 9,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-general-service-technician-fall-2022",
+      "name": "Certificate of Achievement (COA) Automotive General Service Technician",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-general-service-technician-fall-2022",
+      "file": "programs/automotive-general-service-technician-fall-2022.json",
+      "course_count": 5,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-machining-and-engine-repair-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Automotive Machining and Engine Repair",
+      "department": "Automotive Technology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-machining-and-engine-repair-fall-2026",
+      "file": "programs/automotive-machining-and-engine-repair-fall-2026.json",
+      "course_count": 8,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-machining-and-engine-repair-fall-2026v2",
+      "name": "Associate in Science (A.S.) Degree Automotive Machining and Engine Repair",
+      "department": "Automotive Technology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-machining-and-engine-repair-fall-2026v2",
+      "file": "programs/automotive-machining-and-engine-repair-fall-2026v2.json",
+      "course_count": 8,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-machining-and-engine-repair-technology-fall-2022",
+      "name": "Certificate of Achievement (COA) Automotive Machining and Engine Repair Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-machining-and-engine-repair-technology-fall-2022",
+      "file": "programs/automotive-machining-and-engine-repair-technology-fall-2022.json",
+      "course_count": 2,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-machining-and-engine-repair-technology-fall-2022v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Automotive Machining and Engine Repair Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-machining-and-engine-repair-technology-fall-2022v2",
+      "file": "programs/automotive-machining-and-engine-repair-technology-fall-2022v2.json",
+      "course_count": 7,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-machining-and-engine-repair-technology-fall-2025",
+      "name": "Associate in Science (A.S.) Degree Automotive Machining and Engine Repair Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-machining-and-engine-repair-technology-fall-2025",
+      "file": "programs/automotive-machining-and-engine-repair-technology-fall-2025.json",
+      "course_count": 7,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-powertrain-technology-fall-2025",
+      "name": "Associate in Science (A.S.) Degree Automotive Powertrain Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-powertrain-technology-fall-2025",
+      "file": "programs/automotive-powertrain-technology-fall-2025.json",
+      "course_count": 7,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-powertrain-technology-fall-2025v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Automotive Powertrain Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-powertrain-technology-fall-2025v2",
+      "file": "programs/automotive-powertrain-technology-fall-2025v2.json",
+      "course_count": 7,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-powertrain-technology-fall-2025v2v3",
+      "name": "Certificate of Achievement (COA) Automotive Powertrain Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-powertrain-technology-fall-2025v2v3",
+      "file": "programs/automotive-powertrain-technology-fall-2025v2v3.json",
+      "course_count": 3,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-service-and-repair-spring-2026",
+      "name": "Associate in Science (A.S.) Degree Automotive Service and Repair",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-service-and-repair-spring-2026",
+      "file": "programs/automotive-service-and-repair-spring-2026.json",
+      "course_count": 9,
+      "requirement_count": 1
+    },
+    {
+      "id": "automotive-technology-management-fall-2025",
+      "name": "Bachelor of Science (B.S.) Degree Automotive Technology Management",
+      "department": "Automotive Technology Management",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/automotive-technology-management-fall-2025",
+      "file": "programs/automotive-technology-management-fall-2025.json",
+      "course_count": 12,
+      "requirement_count": 2
+    },
+    {
+      "id": "autonomous-and-electric-vehicle-technician-level-1-fall-2024",
+      "name": "Certificate of Achievement-Advanced (COA-A) Autonomous and Electric Vehicle Technician (Level 1)",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/autonomous-and-electric-vehicle-technician-level-1-fall-2024",
+      "file": "programs/autonomous-and-electric-vehicle-technician-level-1-fall-2024.json",
+      "course_count": 5,
+      "requirement_count": 1
+    },
+    {
+      "id": "autonomous-and-electric-vehicle-technician-level-2-fall-2024",
+      "name": "Certificate of Achievement (COA) Autonomous and Electric Vehicle Technician (Level 2)",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/autonomous-and-electric-vehicle-technician-level-2-fall-2024",
+      "file": "programs/autonomous-and-electric-vehicle-technician-level-2-fall-2024.json",
+      "course_count": 5,
+      "requirement_count": 1
+    },
+    {
+      "id": "autonomous-and-electric-vehicle-technology-level-1-fall-2024",
+      "name": "Certificate of Achievement-Advanced (COA-A) Autonomous and Electric Vehicle Technology (Level 1)",
+      "department": "Automotive Technology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/autonomous-and-electric-vehicle-technology-level-1-fall-2024",
+      "file": "programs/autonomous-and-electric-vehicle-technology-level-1-fall-2024.json",
+      "course_count": 6,
+      "requirement_count": 1
+    },
+    {
+      "id": "basic-engine-performance-technology-fall-2022",
+      "name": "Certificate of Achievement (COA) Basic Engine Performance Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/basic-engine-performance-technology-fall-2022",
+      "file": "programs/basic-engine-performance-technology-fall-2022.json",
+      "course_count": 4,
+      "requirement_count": 1
+    },
+    {
+      "id": "biological-sciences-fall-2025",
+      "name": "Associate in Science (A.S.) Degree Biological Sciences",
+      "department": "Biological Sciences",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/biological-sciences-fall-2025",
+      "file": "programs/biological-sciences-fall-2025.json",
+      "course_count": 20,
+      "requirement_count": 4
+    },
+    {
+      "id": "biology-for-transfer-fall-2025",
+      "name": "Associate in Science for Transfer (A.S.-T.) Degree Biology for Transfer",
+      "department": "Biological Sciences",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/biology-for-transfer-fall-2025",
+      "file": "programs/biology-for-transfer-fall-2025.json",
+      "course_count": 20,
+      "requirement_count": 4
+    },
+    {
+      "id": "business-administration-2-0-for-transfer-fall-2026",
+      "name": "Associate in Science for Transfer (A.S.-T.) Degree Business Administration 2.0 for Transfer",
+      "department": "Business Administration",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/business-administration-2-0-for-transfer-fall-2026",
+      "file": "programs/business-administration-2-0-for-transfer-fall-2026.json",
+      "course_count": 11,
+      "requirement_count": 2
+    },
+    {
+      "id": "business-administration-fall-2026",
+      "name": "Certificate of Achievement (COA) Business Administration",
+      "department": "Business Administration",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/business-administration-fall-2026",
+      "file": "programs/business-administration-fall-2026.json",
+      "course_count": 20,
+      "requirement_count": 2
+    },
+    {
+      "id": "business-administration-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Business Administration",
+      "department": "Business Administration",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/business-administration-fall-2026v2",
+      "file": "programs/business-administration-fall-2026v2.json",
+      "course_count": 28,
+      "requirement_count": 2
+    },
+    {
+      "id": "business-office-clerk-fall-2022",
+      "name": "Certificate of Achievement (COA) Business Office Clerk",
+      "department": "Health Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/business-office-clerk-fall-2022",
+      "file": "programs/business-office-clerk-fall-2022.json",
+      "course_count": 9,
+      "requirement_count": 1
+    },
+    {
+      "id": "business-programming-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Business Programming",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/business-programming-fall-2026",
+      "file": "programs/business-programming-fall-2026.json",
+      "course_count": 18,
+      "requirement_count": 3
+    },
+    {
+      "id": "business-programming-fall-2026v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Business Programming",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/business-programming-fall-2026v2",
+      "file": "programs/business-programming-fall-2026v2.json",
+      "course_count": 18,
+      "requirement_count": 3
+    },
+    {
+      "id": "cal-getc-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Cal-GETC",
+      "department": "Transfer Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cal-getc-fall-2026",
+      "file": "programs/cal-getc-fall-2026.json",
+      "course_count": 0,
+      "requirement_count": 0
+    },
+    {
+      "id": "ceramics-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Ceramics",
+      "department": "Art",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/ceramics-fall-2026",
+      "file": "programs/ceramics-fall-2026.json",
+      "course_count": 12,
+      "requirement_count": 2
+    },
+    {
+      "id": "child-and-adolescent-development-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Child and Adolescent Development for Transfer",
+      "department": "Child Development",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/child-and-adolescent-development-for-transfer-fall-2026",
+      "file": "programs/child-and-adolescent-development-for-transfer-fall-2026.json",
+      "course_count": 17,
+      "requirement_count": 4
+    },
+    {
+      "id": "child-development-fall-2022",
+      "name": "Certificate of Achievement-Advanced (COA-A) Child Development",
+      "department": "Child Development",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/child-development-fall-2022",
+      "file": "programs/child-development-fall-2022.json",
+      "course_count": 3,
+      "requirement_count": 3
+    },
+    {
+      "id": "child-development-fall-2022v2",
+      "name": "Certificate of Achievement (COA) Child Development",
+      "department": "Child Development",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/child-development-fall-2022v2",
+      "file": "programs/child-development-fall-2022v2.json",
+      "course_count": 2,
+      "requirement_count": 3
+    },
+    {
+      "id": "child-development-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Child Development",
+      "department": "Child Development",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/child-development-fall-2025",
+      "file": "programs/child-development-fall-2025.json",
+      "course_count": 3,
+      "requirement_count": 4
+    },
+    {
+      "id": "clinical-laboratory-assistant-fall-2026",
+      "name": "Certificate of Achievement (COA) Clinical Laboratory Assistant",
+      "department": "Medical Laboratory Technology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/clinical-laboratory-assistant-fall-2026",
+      "file": "programs/clinical-laboratory-assistant-fall-2026.json",
+      "course_count": 8,
+      "requirement_count": 1
+    },
+    {
+      "id": "cnc-machinist-fall-2022",
+      "name": "Certificate of Achievement (COA) CNC Machinist",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cnc-machinist-fall-2022",
+      "file": "programs/cnc-machinist-fall-2022.json",
+      "course_count": 4,
+      "requirement_count": 1
+    },
+    {
+      "id": "cnc-machinist-fall-2024",
+      "name": "Certificate of Achievement-Advanced (COA-A) CNC Machinist",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cnc-machinist-fall-2024",
+      "file": "programs/cnc-machinist-fall-2024.json",
+      "course_count": 19,
+      "requirement_count": 6
+    },
+    {
+      "id": "cnc-machinist-fall-2025",
+      "name": "Associate in Science (A.S.) Degree CNC Machinist",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cnc-machinist-fall-2025",
+      "file": "programs/cnc-machinist-fall-2025.json",
+      "course_count": 19,
+      "requirement_count": 6
+    },
+    {
+      "id": "cnc-programming-cad-cam-fall-2024",
+      "name": "Certificate of Achievement (COA) CNC Programming - CAD/CAM",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cnc-programming-cad-cam-fall-2024",
+      "file": "programs/cnc-programming-cad-cam-fall-2024.json",
+      "course_count": 9,
+      "requirement_count": 4
+    },
+    {
+      "id": "cnc-research-and-development-machinist-fall-2025",
+      "name": "Associate in Science (A.S.) Degree CNC Research and Development Machinist",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cnc-research-and-development-machinist-fall-2025",
+      "file": "programs/cnc-research-and-development-machinist-fall-2025.json",
+      "course_count": 15,
+      "requirement_count": 5
+    },
+    {
+      "id": "cnc-research-and-development-machinist-fall-2025v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) CNC Research and Development Machinist",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cnc-research-and-development-machinist-fall-2025v2",
+      "file": "programs/cnc-research-and-development-machinist-fall-2025v2.json",
+      "course_count": 15,
+      "requirement_count": 5
+    },
+    {
+      "id": "communication-studies-2-0-for-transfer-fall-2025",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Communication Studies 2.0 for Transfer",
+      "department": "Communication Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/communication-studies-2-0-for-transfer-fall-2025",
+      "file": "programs/communication-studies-2-0-for-transfer-fall-2025.json",
+      "course_count": 16,
+      "requirement_count": 3
+    },
+    {
+      "id": "communication-studies-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Communication Studies",
+      "department": "Communication Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/communication-studies-fall-2025",
+      "file": "programs/communication-studies-fall-2025.json",
+      "course_count": 16,
+      "requirement_count": 3
+    },
+    {
+      "id": "communication-studies-fall-2026",
+      "name": "Certificate of Achievement (COA) Communication Studies",
+      "department": "Communication Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/communication-studies-fall-2026",
+      "file": "programs/communication-studies-fall-2026.json",
+      "course_count": 21,
+      "requirement_count": 3
+    },
+    {
+      "id": "community-impact-fall-2026",
+      "name": "Certificate of Achievement (COA) Community Impact",
+      "department": "Social Justice, Leadership and Engagement",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/community-impact-fall-2026",
+      "file": "programs/community-impact-fall-2026.json",
+      "course_count": 96,
+      "requirement_count": 4
+    },
+    {
+      "id": "community-service-officer-fall-2024",
+      "name": "Certificate of Achievement-Advanced (COA-A) Community Service Officer",
+      "department": "Administration of Justice",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/community-service-officer-fall-2024",
+      "file": "programs/community-service-officer-fall-2024.json",
+      "course_count": 14,
+      "requirement_count": 2
+    },
+    {
+      "id": "computer-aided-design-mechanical-fall-2025",
+      "name": "Certificate of Achievement (COA) Computer Aided Design - Mechanical",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/computer-aided-design-mechanical-fall-2025",
+      "file": "programs/computer-aided-design-mechanical-fall-2025.json",
+      "course_count": 21,
+      "requirement_count": 5
+    },
+    {
+      "id": "computer-science-for-transfer-fall-2025",
+      "name": "Associate in Science for Transfer (A.S.-T.) Degree Computer Science for Transfer",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/computer-science-for-transfer-fall-2025",
+      "file": "programs/computer-science-for-transfer-fall-2025.json",
+      "course_count": 17,
+      "requirement_count": 3
+    },
+    {
+      "id": "corrections-probation-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Corrections/Probation",
+      "department": "Administration of Justice",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/corrections-probation-fall-2026",
+      "file": "programs/corrections-probation-fall-2026.json",
+      "course_count": 41,
+      "requirement_count": 2
+    },
+    {
+      "id": "cyber-forensics-and-investigations-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Cyber Forensics and Investigations",
+      "department": "Administration of Justice",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cyber-forensics-and-investigations-fall-2026",
+      "file": "programs/cyber-forensics-and-investigations-fall-2026.json",
+      "course_count": 12,
+      "requirement_count": 2
+    },
+    {
+      "id": "cybersecurity-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Cybersecurity",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cybersecurity-fall-2025",
+      "file": "programs/cybersecurity-fall-2025.json",
+      "course_count": 9,
+      "requirement_count": 4
+    },
+    {
+      "id": "cybersecurity-fall-2025v2",
+      "name": "Certificate of Achievement (COA) Cybersecurity",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cybersecurity-fall-2025v2",
+      "file": "programs/cybersecurity-fall-2025v2.json",
+      "course_count": 6,
+      "requirement_count": 3
+    },
+    {
+      "id": "cybersecurity-fall-2025v2v3",
+      "name": "Certificate of Achievement-Advanced (COA-A) Cybersecurity",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/cybersecurity-fall-2025v2v3",
+      "file": "programs/cybersecurity-fall-2025v2v3.json",
+      "course_count": 9,
+      "requirement_count": 4
+    },
+    {
+      "id": "database-development-practitioner-fall-2025",
+      "name": "Certificate of Achievement (COA) Database Development Practitioner",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/database-development-practitioner-fall-2025",
+      "file": "programs/database-development-practitioner-fall-2025.json",
+      "course_count": 8,
+      "requirement_count": 2
+    },
+    {
+      "id": "database-development-practitioner-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Database Development Practitioner",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/database-development-practitioner-fall-2026",
+      "file": "programs/database-development-practitioner-fall-2026.json",
+      "course_count": 17,
+      "requirement_count": 6
+    },
+    {
+      "id": "database-development-practitioner-fall-2026v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Database Development Practitioner",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/database-development-practitioner-fall-2026v2",
+      "file": "programs/database-development-practitioner-fall-2026v2.json",
+      "course_count": 17,
+      "requirement_count": 6
+    },
+    {
+      "id": "early-childhood-education-for-transfer-fall-2025",
+      "name": "Associate in Science for Transfer (A.S.-T.) Degree Early Childhood Education for Transfer",
+      "department": "Child Development",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/early-childhood-education-for-transfer-fall-2025",
+      "file": "programs/early-childhood-education-for-transfer-fall-2025.json",
+      "course_count": 2,
+      "requirement_count": 1
+    },
+    {
+      "id": "early-childhood-mental-health-fall-2026",
+      "name": "Certificate of Achievement (COA) Early Childhood Mental Health",
+      "department": "Child Development",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/early-childhood-mental-health-fall-2026",
+      "file": "programs/early-childhood-mental-health-fall-2026.json",
+      "course_count": 1,
+      "requirement_count": 1
+    },
+    {
+      "id": "early-intervention-special-education-assistant-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Early Intervention/Special Education Assistant",
+      "department": "Child Development",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/early-intervention-special-education-assistant-fall-2026",
+      "file": "programs/early-intervention-special-education-assistant-fall-2026.json",
+      "course_count": 2,
+      "requirement_count": 3
+    },
+    {
+      "id": "economics-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Economics for Transfer",
+      "department": "Economics",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/economics-for-transfer-fall-2026",
+      "file": "programs/economics-for-transfer-fall-2026.json",
+      "course_count": 23,
+      "requirement_count": 8
+    },
+    {
+      "id": "elementary-mathematics-education-fall-2026",
+      "name": "Certificate of Achievement (COA) Elementary Mathematics Education",
+      "department": "Mathematics",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/elementary-mathematics-education-fall-2026",
+      "file": "programs/elementary-mathematics-education-fall-2026.json",
+      "course_count": 5,
+      "requirement_count": 1
+    },
+    {
+      "id": "energy-management-and-building-science-fall-2024",
+      "name": "Certificate of Achievement (COA) Energy Management and Building Science",
+      "department": "Environmental Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/energy-management-and-building-science-fall-2024",
+      "file": "programs/energy-management-and-building-science-fall-2024.json",
+      "course_count": 0,
+      "requirement_count": 1
+    },
+    {
+      "id": "energy-management-and-building-science-fall-2025",
+      "name": "Certificate of Achievement-Advanced (COA-A) Energy Management and Building Science",
+      "department": "Environmental Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/energy-management-and-building-science-fall-2025",
+      "file": "programs/energy-management-and-building-science-fall-2025.json",
+      "course_count": 0,
+      "requirement_count": 2
+    },
+    {
+      "id": "energy-management-and-building-science-fall-2025v2",
+      "name": "Associate in Science (A.S.) Degree Energy Management and Building Science",
+      "department": "Environmental Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/energy-management-and-building-science-fall-2025v2",
+      "file": "programs/energy-management-and-building-science-fall-2025v2.json",
+      "course_count": 6,
+      "requirement_count": 3
+    },
+    {
+      "id": "engineering-electrical-engineering-track-fall-2026",
+      "name": "Associate in Science (A.S.) Degree Engineering (Electrical Engineering Track)",
+      "department": "Engineering",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/engineering-electrical-engineering-track-fall-2026",
+      "file": "programs/engineering-electrical-engineering-track-fall-2026.json",
+      "course_count": 19,
+      "requirement_count": 1
+    },
+    {
+      "id": "english-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree English",
+      "department": "English",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/english-fall-2026",
+      "file": "programs/english-fall-2026.json",
+      "course_count": 36,
+      "requirement_count": 5
+    },
+    {
+      "id": "english-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree English for Transfer",
+      "department": "English",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/english-for-transfer-fall-2026",
+      "file": "programs/english-for-transfer-fall-2026.json",
+      "course_count": 34,
+      "requirement_count": 8
+    },
+    {
+      "id": "entrepreneurship-fall-2022",
+      "name": "Certificate of Achievement (COA) Entrepreneurship",
+      "department": "Business Administration",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/entrepreneurship-fall-2022",
+      "file": "programs/entrepreneurship-fall-2022.json",
+      "course_count": 7,
+      "requirement_count": 2
+    },
+    {
+      "id": "environmental-resource-management-and-pollution-prevention-fall-2022",
+      "name": "Certificate of Achievement (COA) Environmental Resource Management and Pollution Prevention",
+      "department": "Environmental Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/environmental-resource-management-and-pollution-prevention-fall-2022",
+      "file": "programs/environmental-resource-management-and-pollution-prevention-fall-2022.json",
+      "course_count": 0,
+      "requirement_count": 2
+    },
+    {
+      "id": "environmental-resource-management-and-pollution-prevention-fall-2022v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Environmental Resource Management and Pollution Prevention",
+      "department": "Environmental Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/environmental-resource-management-and-pollution-prevention-fall-2022v2",
+      "file": "programs/environmental-resource-management-and-pollution-prevention-fall-2022v2.json",
+      "course_count": 0,
+      "requirement_count": 1
+    },
+    {
+      "id": "environmental-resource-management-and-pollution-prevention-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Environmental Resource Management and Pollution Prevention",
+      "department": "Environmental Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/environmental-resource-management-and-pollution-prevention-fall-2025",
+      "file": "programs/environmental-resource-management-and-pollution-prevention-fall-2025.json",
+      "course_count": 2,
+      "requirement_count": 2
+    },
+    {
+      "id": "environmental-science-for-transfer-fall-2026",
+      "name": "Associate in Science for Transfer (A.S.-T.) Degree Environmental Science for Transfer",
+      "department": "Environmental Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/environmental-science-for-transfer-fall-2026",
+      "file": "programs/environmental-science-for-transfer-fall-2026.json",
+      "course_count": 23,
+      "requirement_count": 7
+    },
+    {
+      "id": "ethnic-studies-fall-2026",
+      "name": "Certificate of Achievement (COA) Ethnic Studies",
+      "department": "Ethnic Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/ethnic-studies-fall-2026",
+      "file": "programs/ethnic-studies-fall-2026.json",
+      "course_count": 42,
+      "requirement_count": 3
+    },
+    {
+      "id": "facility-and-sustainable-building-management-fall-2025",
+      "name": "Certificate of Achievement (COA) Facility and Sustainable Building Management",
+      "department": "Environmental Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/facility-and-sustainable-building-management-fall-2025",
+      "file": "programs/facility-and-sustainable-building-management-fall-2025.json",
+      "course_count": 3,
+      "requirement_count": 1
+    },
+    {
+      "id": "facility-and-sustainable-building-management-fall-2025v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Facility and Sustainable Building Management",
+      "department": "Environmental Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/facility-and-sustainable-building-management-fall-2025v2",
+      "file": "programs/facility-and-sustainable-building-management-fall-2025v2.json",
+      "course_count": 6,
+      "requirement_count": 2
+    },
+    {
+      "id": "facility-and-sustainable-building-management-fall-2025v2v3",
+      "name": "Associate in Science (A.S.) Degree Facility and Sustainable Building Management",
+      "department": "Environmental Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/facility-and-sustainable-building-management-fall-2025v2v3",
+      "file": "programs/facility-and-sustainable-building-management-fall-2025v2v3.json",
+      "course_count": 13,
+      "requirement_count": 3
+    },
+    {
+      "id": "film-television-and-electronic-media-for-transfer-fall-2026",
+      "name": "Associate in Science for Transfer (A.S.-T.) Degree Film, Television, and Electronic Media for Transfer",
+      "department": "Film/TV",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/film-television-and-electronic-media-for-transfer-fall-2026",
+      "file": "programs/film-television-and-electronic-media-for-transfer-fall-2026.json",
+      "course_count": 0,
+      "requirement_count": 5
+    },
+    {
+      "id": "film-tv-animation-fall-2024",
+      "name": "Certificate of Achievement (COA) Film/TV: Animation",
+      "department": "Film/TV",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/film-tv-animation-fall-2024",
+      "file": "programs/film-tv-animation-fall-2024.json",
+      "course_count": 0,
+      "requirement_count": 2
+    },
+    {
+      "id": "film-tv-animation-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Film/TV: Animation",
+      "department": "Film/TV",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/film-tv-animation-fall-2026",
+      "file": "programs/film-tv-animation-fall-2026.json",
+      "course_count": 13,
+      "requirement_count": 4
+    },
+    {
+      "id": "film-tv-production-fall-2025",
+      "name": "Certificate of Achievement (COA) Film/TV: Production",
+      "department": "Film/TV",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/film-tv-production-fall-2025",
+      "file": "programs/film-tv-production-fall-2025.json",
+      "course_count": 0,
+      "requirement_count": 2
+    },
+    {
+      "id": "film-tv-production-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Film/TV: Production",
+      "department": "Film/TV",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/film-tv-production-fall-2026",
+      "file": "programs/film-tv-production-fall-2026.json",
+      "course_count": 5,
+      "requirement_count": 4
+    },
+    {
+      "id": "film-tv-production-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Film/TV: Production",
+      "department": "Film/TV",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/film-tv-production-fall-2026v2",
+      "file": "programs/film-tv-production-fall-2026v2.json",
+      "course_count": 5,
+      "requirement_count": 4
+    },
+    {
+      "id": "film-tv-screenwriting-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Film/TV: Screenwriting",
+      "department": "Film/TV",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/film-tv-screenwriting-fall-2026",
+      "file": "programs/film-tv-screenwriting-fall-2026.json",
+      "course_count": 7,
+      "requirement_count": 2
+    },
+    {
+      "id": "forensic-criminal-investigation-technician-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Forensic Criminal Investigation Technician",
+      "department": "Administration of Justice",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/forensic-criminal-investigation-technician-fall-2026",
+      "file": "programs/forensic-criminal-investigation-technician-fall-2026.json",
+      "course_count": 15,
+      "requirement_count": 2
+    },
+    {
+      "id": "foundations-of-data-science-fall-2026v2",
+      "name": "Certificate of Achievement (COA) Foundations of Data Science",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/foundations-of-data-science-fall-2026v2",
+      "file": "programs/foundations-of-data-science-fall-2026v2.json",
+      "course_count": 5,
+      "requirement_count": 1
+    },
+    {
+      "id": "french-language-and-culture-fall-2025",
+      "name": "Certificate of Achievement (COA) French Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/french-language-and-culture-fall-2025",
+      "file": "programs/french-language-and-culture-fall-2025.json",
+      "course_count": 11,
+      "requirement_count": 2
+    },
+    {
+      "id": "german-language-and-culture-fall-2026",
+      "name": "Certificate of Achievement (COA) German Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/german-language-and-culture-fall-2026",
+      "file": "programs/german-language-and-culture-fall-2026.json",
+      "course_count": 12,
+      "requirement_count": 2
+    },
+    {
+      "id": "global-studies-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Global Studies",
+      "department": "Global Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/global-studies-fall-2026",
+      "file": "programs/global-studies-fall-2026.json",
+      "course_count": 105,
+      "requirement_count": 19
+    },
+    {
+      "id": "global-studies-fall-2026v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Global Studies",
+      "department": "Global Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/global-studies-fall-2026v2",
+      "file": "programs/global-studies-fall-2026v2.json",
+      "course_count": 60,
+      "requirement_count": 14
+    },
+    {
+      "id": "global-studies-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Global Studies for Transfer",
+      "department": "Global Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/global-studies-for-transfer-fall-2026",
+      "file": "programs/global-studies-for-transfer-fall-2026.json",
+      "course_count": 25,
+      "requirement_count": 6
+    },
+    {
+      "id": "graphic-design-fall-2024",
+      "name": "Certificate of Achievement-Advanced (COA-A) Graphic Design",
+      "department": "Graphic and Interactive Design",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/graphic-design-fall-2024",
+      "file": "programs/graphic-design-fall-2024.json",
+      "course_count": 20,
+      "requirement_count": 3
+    },
+    {
+      "id": "graphic-design-fall-2024v2",
+      "name": "Certificate of Achievement (COA) Graphic Design",
+      "department": "Graphic and Interactive Design",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/graphic-design-fall-2024v2",
+      "file": "programs/graphic-design-fall-2024v2.json",
+      "course_count": 6,
+      "requirement_count": 1
+    },
+    {
+      "id": "graphic-design-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Graphic Design",
+      "department": "Graphic and Interactive Design",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/graphic-design-fall-2025",
+      "file": "programs/graphic-design-fall-2025.json",
+      "course_count": 20,
+      "requirement_count": 3
+    },
+    {
+      "id": "hindi-language-and-culture-fall-2026",
+      "name": "Certificate of Achievement (COA) Hindi Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/hindi-language-and-culture-fall-2026",
+      "file": "programs/hindi-language-and-culture-fall-2026.json",
+      "course_count": 16,
+      "requirement_count": 2
+    },
+    {
+      "id": "history-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree History for Transfer",
+      "department": "History",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/history-for-transfer-fall-2026",
+      "file": "programs/history-for-transfer-fall-2026.json",
+      "course_count": 32,
+      "requirement_count": 5
+    },
+    {
+      "id": "humanities-fall-2022",
+      "name": "Certificate of Achievement (COA) Humanities",
+      "department": "Humanities",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/humanities-fall-2022",
+      "file": "programs/humanities-fall-2022.json",
+      "course_count": 14,
+      "requirement_count": 1
+    },
+    {
+      "id": "illustration-fall-2025",
+      "name": "Certificate of Achievement-Advanced (COA-A) Illustration",
+      "department": "Art",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/illustration-fall-2025",
+      "file": "programs/illustration-fall-2025.json",
+      "course_count": 19,
+      "requirement_count": 3
+    },
+    {
+      "id": "illustration-fall-2025v2",
+      "name": "Associate in Arts (A.A.) Degree Illustration",
+      "department": "Art",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/illustration-fall-2025v2",
+      "file": "programs/illustration-fall-2025v2.json",
+      "course_count": 19,
+      "requirement_count": 3
+    },
+    {
+      "id": "information-technology-technical-support-fall-2025",
+      "name": "Certificate of Achievement (COA) Information Technology Technical Support",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/information-technology-technical-support-fall-2025",
+      "file": "programs/information-technology-technical-support-fall-2025.json",
+      "course_count": 5,
+      "requirement_count": 1
+    },
+    {
+      "id": "insurance-and-coding-fall-2022",
+      "name": "Certificate of Achievement (COA) Insurance and Coding",
+      "department": "Health Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/insurance-and-coding-fall-2022",
+      "file": "programs/insurance-and-coding-fall-2022.json",
+      "course_count": 12,
+      "requirement_count": 1
+    },
+    {
+      "id": "intercultural-studies-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Intercultural Studies",
+      "department": "Intercultural Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/intercultural-studies-fall-2026",
+      "file": "programs/intercultural-studies-fall-2026.json",
+      "course_count": 61,
+      "requirement_count": 7
+    },
+    {
+      "id": "intercultural-studies-fall-2026v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Intercultural Studies",
+      "department": "Intercultural Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/intercultural-studies-fall-2026v2",
+      "file": "programs/intercultural-studies-fall-2026v2.json",
+      "course_count": 61,
+      "requirement_count": 7
+    },
+    {
+      "id": "intermediate-engine-performance-technology-fall-2022",
+      "name": "Certificate of Achievement (COA) Intermediate Engine Performance Technology",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/intermediate-engine-performance-technology-fall-2022",
+      "file": "programs/intermediate-engine-performance-technology-fall-2022.json",
+      "course_count": 3,
+      "requirement_count": 1
+    },
+    {
+      "id": "italian-language-and-culture-fall-2025",
+      "name": "Certificate of Achievement (COA) Italian Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/italian-language-and-culture-fall-2025",
+      "file": "programs/italian-language-and-culture-fall-2025.json",
+      "course_count": 18,
+      "requirement_count": 2
+    },
+    {
+      "id": "japanese-language-and-culture-fall-2025",
+      "name": "Certificate of Achievement (COA) Japanese Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/japanese-language-and-culture-fall-2025",
+      "file": "programs/japanese-language-and-culture-fall-2025.json",
+      "course_count": 18,
+      "requirement_count": 2
+    },
+    {
+      "id": "journalism-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Journalism",
+      "department": "Journalism",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/journalism-fall-2026",
+      "file": "programs/journalism-fall-2026.json",
+      "course_count": 33,
+      "requirement_count": 4
+    },
+    {
+      "id": "journalism-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Journalism for Transfer",
+      "department": "Journalism",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/journalism-for-transfer-fall-2026",
+      "file": "programs/journalism-for-transfer-fall-2026.json",
+      "course_count": 15,
+      "requirement_count": 5
+    },
+    {
+      "id": "kinesiology-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Kinesiology for Transfer",
+      "department": "Kinesiology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/kinesiology-for-transfer-fall-2026",
+      "file": "programs/kinesiology-for-transfer-fall-2026.json",
+      "course_count": 112,
+      "requirement_count": 8
+    },
+    {
+      "id": "korean-language-and-culture-fall-2025",
+      "name": "Certificate of Achievement (COA) Korean Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/korean-language-and-culture-fall-2025",
+      "file": "programs/korean-language-and-culture-fall-2025.json",
+      "course_count": 21,
+      "requirement_count": 2
+    },
+    {
+      "id": "lab-assisting-fall-2024",
+      "name": "Certificate of Achievement (COA) Lab Assisting",
+      "department": "Health Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/lab-assisting-fall-2024",
+      "file": "programs/lab-assisting-fall-2024.json",
+      "course_count": 12,
+      "requirement_count": 1
+    },
+    {
+      "id": "law-enforcement-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Law Enforcement",
+      "department": "Administration of Justice",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/law-enforcement-fall-2026",
+      "file": "programs/law-enforcement-fall-2026.json",
+      "course_count": 43,
+      "requirement_count": 2
+    },
+    {
+      "id": "law-public-policy-and-society-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Law, Public Policy, and Society for Transfer",
+      "department": "Administration of Justice",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/law-public-policy-and-society-for-transfer-fall-2026",
+      "file": "programs/law-public-policy-and-society-for-transfer-fall-2026.json",
+      "course_count": 31,
+      "requirement_count": 15
+    },
+    {
+      "id": "leadership-and-social-change-fall-2026",
+      "name": "Certificate of Achievement (COA) Leadership and Social Change",
+      "department": "Social Justice, Leadership and Engagement",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/leadership-and-social-change-fall-2026",
+      "file": "programs/leadership-and-social-change-fall-2026.json",
+      "course_count": 76,
+      "requirement_count": 4
+    },
+    {
+      "id": "liberal-arts-arts-and-letters-emphasis-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Liberal Arts (Arts and Letters Emphasis)",
+      "department": "Liberal Arts",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/liberal-arts-arts-and-letters-emphasis-fall-2026",
+      "file": "programs/liberal-arts-arts-and-letters-emphasis-fall-2026.json",
+      "course_count": 275,
+      "requirement_count": 35
+    },
+    {
+      "id": "liberal-arts-business-and-computer-information-systems-emphasis-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Liberal Arts (Business and Computer Information Systems Emphasis)",
+      "department": "Liberal Arts",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/liberal-arts-business-and-computer-information-systems-emphasis-fall-2026",
+      "file": "programs/liberal-arts-business-and-computer-information-systems-emphasis-fall-2026.json",
+      "course_count": 119,
+      "requirement_count": 9
+    },
+    {
+      "id": "liberal-arts-science-math-and-engineering-emphasis-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Liberal Arts (Science, Math and Engineering Emphasis)",
+      "department": "Liberal Arts",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/liberal-arts-science-math-and-engineering-emphasis-fall-2026",
+      "file": "programs/liberal-arts-science-math-and-engineering-emphasis-fall-2026.json",
+      "course_count": 139,
+      "requirement_count": 17
+    },
+    {
+      "id": "liberal-arts-social-and-behavioral-sciences-emphasis-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Liberal Arts (Social and Behavioral Sciences Emphasis)",
+      "department": "Liberal Arts",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/liberal-arts-social-and-behavioral-sciences-emphasis-fall-2026",
+      "file": "programs/liberal-arts-social-and-behavioral-sciences-emphasis-fall-2026.json",
+      "course_count": 189,
+      "requirement_count": 29
+    },
+    {
+      "id": "lvn-transition-to-rn-fall-2026",
+      "name": "Associate in Science (A.S.) Degree LVN Transition to RN",
+      "department": "Nursing",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/lvn-transition-to-rn-fall-2026",
+      "file": "programs/lvn-transition-to-rn-fall-2026.json",
+      "course_count": 21,
+      "requirement_count": 6
+    },
+    {
+      "id": "management-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Management",
+      "department": "Management",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/management-fall-2026",
+      "file": "programs/management-fall-2026.json",
+      "course_count": 20,
+      "requirement_count": 2
+    },
+    {
+      "id": "management-fall-2026v2",
+      "name": "Certificate of Achievement (COA) Management",
+      "department": "Management",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/management-fall-2026v2",
+      "file": "programs/management-fall-2026v2.json",
+      "course_count": 9,
+      "requirement_count": 2
+    },
+    {
+      "id": "management-information-systems-support-fall-2025",
+      "name": "Certificate of Achievement (COA) Management Information Systems Support",
+      "department": "Business Administration",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/management-information-systems-support-fall-2025",
+      "file": "programs/management-information-systems-support-fall-2025.json",
+      "course_count": 10,
+      "requirement_count": 3
+    },
+    {
+      "id": "mandarin-language-and-culture-fall-2025",
+      "name": "Certificate of Achievement (COA) Mandarin Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/mandarin-language-and-culture-fall-2025",
+      "file": "programs/mandarin-language-and-culture-fall-2025.json",
+      "course_count": 18,
+      "requirement_count": 2
+    },
+    {
+      "id": "mandarin-language-and-culture-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Mandarin Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/mandarin-language-and-culture-fall-2026",
+      "file": "programs/mandarin-language-and-culture-fall-2026.json",
+      "course_count": 21,
+      "requirement_count": 3
+    },
+    {
+      "id": "mandarin-language-and-culture-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Mandarin Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/mandarin-language-and-culture-fall-2026v2",
+      "file": "programs/mandarin-language-and-culture-fall-2026v2.json",
+      "course_count": 21,
+      "requirement_count": 3
+    },
+    {
+      "id": "mandarin-translation-and-interpretation-fall-2025",
+      "name": "Certificate of Achievement-Advanced (COA-A) Mandarin Translation and Interpretation",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/mandarin-translation-and-interpretation-fall-2025",
+      "file": "programs/mandarin-translation-and-interpretation-fall-2025.json",
+      "course_count": 8,
+      "requirement_count": 2
+    },
+    {
+      "id": "mandarin-translation-and-interpretation-fall-2025v2",
+      "name": "Certificate of Achievement (COA) Mandarin Translation and Interpretation",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/mandarin-translation-and-interpretation-fall-2025v2",
+      "file": "programs/mandarin-translation-and-interpretation-fall-2025v2.json",
+      "course_count": 4,
+      "requirement_count": 1
+    },
+    {
+      "id": "marketing-management-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Marketing Management",
+      "department": "Marketing Management",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/marketing-management-fall-2026",
+      "file": "programs/marketing-management-fall-2026.json",
+      "course_count": 17,
+      "requirement_count": 2
+    },
+    {
+      "id": "marketing-management-fall-2026v2",
+      "name": "Certificate of Achievement (COA) Marketing Management",
+      "department": "Marketing Management",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/marketing-management-fall-2026v2",
+      "file": "programs/marketing-management-fall-2026v2.json",
+      "course_count": 8,
+      "requirement_count": 2
+    },
+    {
+      "id": "mathematics-2-0-for-transfer-fall-2026",
+      "name": "Associate in Science for Transfer (A.S.-T.) Degree Mathematics 2.0 for Transfer",
+      "department": "Mathematics",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/mathematics-2-0-for-transfer-fall-2026",
+      "file": "programs/mathematics-2-0-for-transfer-fall-2026.json",
+      "course_count": 18,
+      "requirement_count": 2
+    },
+    {
+      "id": "mathematics-for-business-and-social-sciences-fall-2026",
+      "name": "Certificate of Achievement (COA) Mathematics for Business and Social Sciences",
+      "department": "Mathematics",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/mathematics-for-business-and-social-sciences-fall-2026",
+      "file": "programs/mathematics-for-business-and-social-sciences-fall-2026.json",
+      "course_count": 8,
+      "requirement_count": 2
+    },
+    {
+      "id": "medical-assisting-fall-2025",
+      "name": "Certificate of Achievement-Advanced (COA-A) Medical Assisting",
+      "department": "Health Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/medical-assisting-fall-2025",
+      "file": "programs/medical-assisting-fall-2025.json",
+      "course_count": 33,
+      "requirement_count": 1
+    },
+    {
+      "id": "medical-assisting-fall-2025v2",
+      "name": "Associate in Science (A.S.) Degree Medical Assisting",
+      "department": "Health Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/medical-assisting-fall-2025v2",
+      "file": "programs/medical-assisting-fall-2025v2.json",
+      "course_count": 33,
+      "requirement_count": 1
+    },
+    {
+      "id": "medical-file-clerk-fall-2022",
+      "name": "Certificate of Achievement (COA) Medical File Clerk",
+      "department": "Health Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/medical-file-clerk-fall-2022",
+      "file": "programs/medical-file-clerk-fall-2022.json",
+      "course_count": 7,
+      "requirement_count": 1
+    },
+    {
+      "id": "medical-laboratory-technology-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Medical Laboratory Technology",
+      "department": "Medical Laboratory Technology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/medical-laboratory-technology-fall-2026",
+      "file": "programs/medical-laboratory-technology-fall-2026.json",
+      "course_count": 29,
+      "requirement_count": 4
+    },
+    {
+      "id": "medical-laboratory-technology-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Medical Laboratory Technology",
+      "department": "Medical Laboratory Technology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/medical-laboratory-technology-fall-2026v2",
+      "file": "programs/medical-laboratory-technology-fall-2026v2.json",
+      "course_count": 29,
+      "requirement_count": 4
+    },
+    {
+      "id": "medical-reception-fall-2025",
+      "name": "Certificate of Achievement (COA) Medical Reception",
+      "department": "Health Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/medical-reception-fall-2025",
+      "file": "programs/medical-reception-fall-2025.json",
+      "course_count": 12,
+      "requirement_count": 1
+    },
+    {
+      "id": "medical-records-clerk-fall-2022",
+      "name": "Certificate of Achievement (COA) Medical Records Clerk",
+      "department": "Health Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/medical-records-clerk-fall-2022",
+      "file": "programs/medical-records-clerk-fall-2022.json",
+      "course_count": 8,
+      "requirement_count": 1
+    },
+    {
+      "id": "medical-transcribing-with-editing-fall-2022",
+      "name": "Certificate of Achievement (COA) Medical Transcribing with Editing",
+      "department": "Health Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/medical-transcribing-with-editing-fall-2022",
+      "file": "programs/medical-transcribing-with-editing-fall-2022.json",
+      "course_count": 14,
+      "requirement_count": 1
+    },
+    {
+      "id": "music-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Music",
+      "department": "Music",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/music-fall-2026",
+      "file": "programs/music-fall-2026.json",
+      "course_count": 52,
+      "requirement_count": 4
+    },
+    {
+      "id": "music-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Music for Transfer New",
+      "department": "Music",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/music-for-transfer-fall-2026",
+      "file": "programs/music-for-transfer-fall-2026.json",
+      "course_count": 13,
+      "requirement_count": 4
+    },
+    {
+      "id": "network-administration-fall-2025",
+      "name": "Certificate of Achievement (COA) Network Administration",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/network-administration-fall-2025",
+      "file": "programs/network-administration-fall-2025.json",
+      "course_count": 5,
+      "requirement_count": 1
+    },
+    {
+      "id": "network-administration-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Network Administration",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/network-administration-fall-2026",
+      "file": "programs/network-administration-fall-2026.json",
+      "course_count": 11,
+      "requirement_count": 2
+    },
+    {
+      "id": "network-administration-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Network Administration",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/network-administration-fall-2026v2",
+      "file": "programs/network-administration-fall-2026v2.json",
+      "course_count": 11,
+      "requirement_count": 2
+    },
+    {
+      "id": "network-basics-fall-2025",
+      "name": "Certificate of Achievement (COA) Network Basics",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/network-basics-fall-2025",
+      "file": "programs/network-basics-fall-2025.json",
+      "course_count": 4,
+      "requirement_count": 1
+    },
+    {
+      "id": "network-programming-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Network Programming",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/network-programming-fall-2026",
+      "file": "programs/network-programming-fall-2026.json",
+      "course_count": 16,
+      "requirement_count": 2
+    },
+    {
+      "id": "network-programming-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Network Programming",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/network-programming-fall-2026v2",
+      "file": "programs/network-programming-fall-2026v2.json",
+      "course_count": 16,
+      "requirement_count": 2
+    },
+    {
+      "id": "painting-fall-2026",
+      "name": "Associate in Arts (A.A.) Degree Painting",
+      "department": "Art",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/painting-fall-2026",
+      "file": "programs/painting-fall-2026.json",
+      "course_count": 19,
+      "requirement_count": 4
+    },
+    {
+      "id": "paralegal-studies-corporate-law-fall-2024",
+      "name": "Certificate of Achievement-Advanced (COA-A) Paralegal Studies - Corporate Law",
+      "department": "Paralegal Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/paralegal-studies-corporate-law-fall-2024",
+      "file": "programs/paralegal-studies-corporate-law-fall-2024.json",
+      "course_count": 10,
+      "requirement_count": 1
+    },
+    {
+      "id": "paralegal-studies-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Paralegal Studies",
+      "department": "Paralegal Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/paralegal-studies-fall-2026",
+      "file": "programs/paralegal-studies-fall-2026.json",
+      "course_count": 48,
+      "requirement_count": 3
+    },
+    {
+      "id": "paralegal-studies-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Paralegal Studies",
+      "department": "Paralegal Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/paralegal-studies-fall-2026v2",
+      "file": "programs/paralegal-studies-fall-2026v2.json",
+      "course_count": 48,
+      "requirement_count": 3
+    },
+    {
+      "id": "paralegal-studies-intellectual-property-fall-2024",
+      "name": "Certificate of Achievement-Advanced (COA-A) Paralegal Studies - Intellectual Property",
+      "department": "Paralegal Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/paralegal-studies-intellectual-property-fall-2024",
+      "file": "programs/paralegal-studies-intellectual-property-fall-2024.json",
+      "course_count": 11,
+      "requirement_count": 2
+    },
+    {
+      "id": "paralegal-studies-litigation-fall-2024",
+      "name": "Certificate of Achievement-Advanced (COA-A) Paralegal Studies - Litigation",
+      "department": "Paralegal Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/paralegal-studies-litigation-fall-2024",
+      "file": "programs/paralegal-studies-litigation-fall-2024.json",
+      "course_count": 10,
+      "requirement_count": 1
+    },
+    {
+      "id": "philosophy-for-transfer-fall-2025",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Philosophy for Transfer",
+      "department": "Philosophy",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/philosophy-for-transfer-fall-2025",
+      "file": "programs/philosophy-for-transfer-fall-2025.json",
+      "course_count": 16,
+      "requirement_count": 5
+    },
+    {
+      "id": "phlebotomy-technician-i-fall-2022",
+      "name": "Certificate of Achievement (COA) Phlebotomy Technician I",
+      "department": "Health Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/phlebotomy-technician-i-fall-2022",
+      "file": "programs/phlebotomy-technician-i-fall-2022.json",
+      "course_count": 9,
+      "requirement_count": 1
+    },
+    {
+      "id": "photographic-arts-film-and-digital-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Photographic Arts (Film and Digital)",
+      "department": "Photography",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/photographic-arts-film-and-digital-fall-2025",
+      "file": "programs/photographic-arts-film-and-digital-fall-2025.json",
+      "course_count": 33,
+      "requirement_count": 8
+    },
+    {
+      "id": "political-science-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Political Science for Transfer",
+      "department": "Political Science",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/political-science-for-transfer-fall-2026",
+      "file": "programs/political-science-for-transfer-fall-2026.json",
+      "course_count": 26,
+      "requirement_count": 3
+    },
+    {
+      "id": "private-security-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Private Security",
+      "department": "Administration of Justice",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/private-security-fall-2026",
+      "file": "programs/private-security-fall-2026.json",
+      "course_count": 29,
+      "requirement_count": 2
+    },
+    {
+      "id": "private-security-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Private Security",
+      "department": "Administration of Justice",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/private-security-fall-2026v2",
+      "file": "programs/private-security-fall-2026v2.json",
+      "course_count": 34,
+      "requirement_count": 2
+    },
+    {
+      "id": "professional-photography-film-and-digital-fall-2022",
+      "name": "Certificate of Achievement (COA) Professional Photography (Film and Digital)",
+      "department": "Photography",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/professional-photography-film-and-digital-fall-2022",
+      "file": "programs/professional-photography-film-and-digital-fall-2022.json",
+      "course_count": 10,
+      "requirement_count": 2
+    },
+    {
+      "id": "professional-photography-film-and-digital-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Professional Photography (Film and Digital)",
+      "department": "Photography",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/professional-photography-film-and-digital-fall-2025",
+      "file": "programs/professional-photography-film-and-digital-fall-2025.json",
+      "course_count": 16,
+      "requirement_count": 2
+    },
+    {
+      "id": "programming-in-c-c-fall-2025",
+      "name": "Certificate of Achievement (COA) Programming in C/C++",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/programming-in-c-c-fall-2025",
+      "file": "programs/programming-in-c-c-fall-2025.json",
+      "course_count": 8,
+      "requirement_count": 2
+    },
+    {
+      "id": "programming-in-java-fall-2025",
+      "name": "Certificate of Achievement (COA) Programming in Java",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/programming-in-java-fall-2025",
+      "file": "programs/programming-in-java-fall-2025.json",
+      "course_count": 6,
+      "requirement_count": 1
+    },
+    {
+      "id": "programming-in-python-fall-2026",
+      "name": "Certificate of Achievement (COA) Programming in Python",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/programming-in-python-fall-2026",
+      "file": "programs/programming-in-python-fall-2026.json",
+      "course_count": 15,
+      "requirement_count": 3
+    },
+    {
+      "id": "project-management-practitioner-fall-2022",
+      "name": "Certificate of Achievement (COA) Project Management Practitioner",
+      "department": "Project Management Practitioner",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/project-management-practitioner-fall-2022",
+      "file": "programs/project-management-practitioner-fall-2022.json",
+      "course_count": 8,
+      "requirement_count": 2
+    },
+    {
+      "id": "project-management-practitioner-fall-2022v2",
+      "name": "Certificate of Achievement-Advanced (COA-A) Project Management Practitioner",
+      "department": "Project Management Practitioner",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/project-management-practitioner-fall-2022v2",
+      "file": "programs/project-management-practitioner-fall-2022v2.json",
+      "course_count": 12,
+      "requirement_count": 2
+    },
+    {
+      "id": "project-management-practitioner-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Project Management Practitioner",
+      "department": "Project Management Practitioner",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/project-management-practitioner-fall-2025",
+      "file": "programs/project-management-practitioner-fall-2025.json",
+      "course_count": 12,
+      "requirement_count": 2
+    },
+    {
+      "id": "psychology-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Psychology for Transfer",
+      "department": "Psychology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/psychology-for-transfer-fall-2026",
+      "file": "programs/psychology-for-transfer-fall-2026.json",
+      "course_count": 23,
+      "requirement_count": 5
+    },
+    {
+      "id": "public-relations-fall-2022",
+      "name": "Certificate of Achievement (COA) Public Relations",
+      "department": "Journalism",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/public-relations-fall-2022",
+      "file": "programs/public-relations-fall-2022.json",
+      "course_count": 7,
+      "requirement_count": 2
+    },
+    {
+      "id": "public-relations-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Public Relations",
+      "department": "Journalism",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/public-relations-fall-2026",
+      "file": "programs/public-relations-fall-2026.json",
+      "course_count": 13,
+      "requirement_count": 2
+    },
+    {
+      "id": "pure-mathematics-fall-2026",
+      "name": "Certificate of Achievement (COA) Pure Mathematics",
+      "department": "Mathematics",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/pure-mathematics-fall-2026",
+      "file": "programs/pure-mathematics-fall-2026.json",
+      "course_count": 11,
+      "requirement_count": 2
+    },
+    {
+      "id": "quality-control-technician-fall-2022",
+      "name": "Certificate of Achievement (COA) Quality Control Technician",
+      "department": "Design and Manufacturing Technologies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/quality-control-technician-fall-2022",
+      "file": "programs/quality-control-technician-fall-2022.json",
+      "course_count": 5,
+      "requirement_count": 1
+    },
+    {
+      "id": "real-estate-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Real Estate",
+      "department": "Real Estate",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/real-estate-fall-2025",
+      "file": "programs/real-estate-fall-2025.json",
+      "course_count": 18,
+      "requirement_count": 2
+    },
+    {
+      "id": "real-estate-fall-2026",
+      "name": "Certificate of Achievement (COA) Real Estate",
+      "department": "Real Estate",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/real-estate-fall-2026",
+      "file": "programs/real-estate-fall-2026.json",
+      "course_count": 19,
+      "requirement_count": 2
+    },
+    {
+      "id": "registered-nurse-rn-fall-2026",
+      "name": "Associate in Science (A.S.) Degree Registered Nurse (RN)",
+      "department": "Nursing",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/registered-nurse-rn-fall-2026",
+      "file": "programs/registered-nurse-rn-fall-2026.json",
+      "course_count": 35,
+      "requirement_count": 6
+    },
+    {
+      "id": "russian-language-and-culture-fall-2025",
+      "name": "Certificate of Achievement (COA) Russian Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/russian-language-and-culture-fall-2025",
+      "file": "programs/russian-language-and-culture-fall-2025.json",
+      "course_count": 14,
+      "requirement_count": 2
+    },
+    {
+      "id": "sculpture-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Sculpture",
+      "department": "Art",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/sculpture-fall-2025",
+      "file": "programs/sculpture-fall-2025.json",
+      "course_count": 13,
+      "requirement_count": 2
+    },
+    {
+      "id": "smog-technician-fall-2022",
+      "name": "Certificate of Achievement (COA) Smog Technician",
+      "department": "Automotive Technician",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/smog-technician-fall-2022",
+      "file": "programs/smog-technician-fall-2022.json",
+      "course_count": 3,
+      "requirement_count": 1
+    },
+    {
+      "id": "social-justice-studies-general-studies-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Social Justice Studies: General Studies for Transfer",
+      "department": "Social Justice, Leadership and Engagement",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/social-justice-studies-general-studies-for-transfer-fall-2026",
+      "file": "programs/social-justice-studies-general-studies-for-transfer-fall-2026.json",
+      "course_count": 90,
+      "requirement_count": 8
+    },
+    {
+      "id": "sociology-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Sociology for Transfer",
+      "department": "Sociology",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/sociology-for-transfer-fall-2026",
+      "file": "programs/sociology-for-transfer-fall-2026.json",
+      "course_count": 25,
+      "requirement_count": 4
+    },
+    {
+      "id": "spanish-language-and-culture-fall-2025",
+      "name": "Certificate of Achievement (COA) Spanish Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/spanish-language-and-culture-fall-2025",
+      "file": "programs/spanish-language-and-culture-fall-2025.json",
+      "course_count": 22,
+      "requirement_count": 2
+    },
+    {
+      "id": "spatial-art-fall-2025",
+      "name": "Associate in Arts (A.A.) Degree Spatial Art",
+      "department": "Art",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/spatial-art-fall-2025",
+      "file": "programs/spatial-art-fall-2025.json",
+      "course_count": 23,
+      "requirement_count": 5
+    },
+    {
+      "id": "statistics-fall-2026",
+      "name": "Certificate of Achievement (COA) Statistics",
+      "department": "Mathematics",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/statistics-fall-2026",
+      "file": "programs/statistics-fall-2026.json",
+      "course_count": 7,
+      "requirement_count": 2
+    },
+    {
+      "id": "studio-arts-for-transfer-fall-2026",
+      "name": "Associate in Arts for Transfer (A.A.-T.) Degree Studio Arts for Transfer",
+      "department": "Art",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/studio-arts-for-transfer-fall-2026",
+      "file": "programs/studio-arts-for-transfer-fall-2026.json",
+      "course_count": 28,
+      "requirement_count": 10
+    },
+    {
+      "id": "systems-programming-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) Systems Programming",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/systems-programming-fall-2026",
+      "file": "programs/systems-programming-fall-2026.json",
+      "course_count": 17,
+      "requirement_count": 3
+    },
+    {
+      "id": "systems-programming-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree Systems Programming",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/systems-programming-fall-2026v2",
+      "file": "programs/systems-programming-fall-2026v2.json",
+      "course_count": 17,
+      "requirement_count": 3
+    },
+    {
+      "id": "ui-ux-user-interface-user-experience-design-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) UI/UX: User Interface/User Experience Design",
+      "department": "Graphic and Interactive Design",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/ui-ux-user-interface-user-experience-design-fall-2026",
+      "file": "programs/ui-ux-user-interface-user-experience-design-fall-2026.json",
+      "course_count": 19,
+      "requirement_count": 3
+    },
+    {
+      "id": "ui-ux-user-interface-user-experience-design-fall-2026v2",
+      "name": "Associate in Arts (A.A.) Degree UI/UX: User Interface/User Experience Design",
+      "department": "Graphic and Interactive Design",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/ui-ux-user-interface-user-experience-design-fall-2026v2",
+      "file": "programs/ui-ux-user-interface-user-experience-design-fall-2026v2.json",
+      "course_count": 19,
+      "requirement_count": 3
+    },
+    {
+      "id": "unix-linux-operating-system-fall-2026",
+      "name": "Certificate of Achievement (COA) UNIX/LINUX Operating System",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/unix-linux-operating-system-fall-2026",
+      "file": "programs/unix-linux-operating-system-fall-2026.json",
+      "course_count": 5,
+      "requirement_count": 1
+    },
+    {
+      "id": "vietnamese-language-and-culture-fall-2025",
+      "name": "Certificate of Achievement (COA) Vietnamese Language and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/vietnamese-language-and-culture-fall-2025",
+      "file": "programs/vietnamese-language-and-culture-fall-2025.json",
+      "course_count": 17,
+      "requirement_count": 2
+    },
+    {
+      "id": "web-development-fall-2025",
+      "name": "Certificate of Achievement (COA) Web Development",
+      "department": "Computer Science and Information Systems",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/web-development-fall-2025",
+      "file": "programs/web-development-fall-2025.json",
+      "course_count": 12,
+      "requirement_count": 2
+    },
+    {
+      "id": "women-s-studies-fall-2025",
+      "name": "Certificate of Achievement (COA) Women's Studies",
+      "department": "Women's Studies",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/women-s-studies-fall-2025",
+      "file": "programs/women-s-studies-fall-2025.json",
+      "course_count": 29,
+      "requirement_count": 2
+    },
+    {
+      "id": "world-languages-and-culture-fall-2026",
+      "name": "Certificate of Achievement-Advanced (COA-A) World Languages and Culture",
+      "department": "Languages",
+      "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/world-languages-and-culture-fall-2026",
+      "file": "programs/world-languages-and-culture-fall-2026.json",
+      "course_count": 54,
+      "requirement_count": 12
+    }
+  ]
+}

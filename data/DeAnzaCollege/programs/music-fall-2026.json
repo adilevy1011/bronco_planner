@@ -1,0 +1,557 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:27+00:00",
+  "id": "music-fall-2026",
+  "name": "Associate in Arts (A.A.) Degree Music",
+  "title_on_page": "Special Projects in Music",
+  "department": "Music",
+  "department_id": "music",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/music-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,music-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 MUSI - Music Music AA_Music Go Back Print Associate in Arts (A.A.) Degree Music New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. This A.A. degree program provides a foundation in music for students interested in a career in the musical entertainment industry or pursuing a bachelor's degree in Music. Students are encouraged to take private instruction (not provided by the college) each term along with classes in their specialization. Program Learning Outcomes Upon completion, students will be able to Demonstrate, through successful public performance, a synthesis of technique, memory, musicality and stage presence in both group and solo presentations Demonstrate proficiency equivalent to national lower-division curriculum standards in music literacy for all historical periods, ear training and keyboard harmony Distinguish musical cultures, historical periods, forms and composers from each other while demonstrating an understanding of the roles of music in human culture Produce, notate and perform music using contemporary technologies De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade",
+  "requirements": [
+    {
+      "name": "Required Core: (24 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (24 Units)"
+    },
+    {
+      "name": "List A: (4 Units)",
+      "courses": [],
+      "raw_text": "List A: (4 Units)"
+    },
+    {
+      "name": "List B: (12 Units)",
+      "courses": [],
+      "raw_text": "List B: (12 Units)"
+    },
+    {
+      "name": "List C: (6 Units)",
+      "courses": [
+        "MUSI 3A",
+        "MUSI 3B",
+        "MUSI 3C",
+        "MUSI 4A",
+        "MUSI 4B",
+        "MUSI 4C",
+        "MUSI 1A",
+        "MUSI 1B",
+        "MUSI 1C",
+        "MUSI 1D",
+        "MUSI 5",
+        "MUSI 20",
+        "MUSI 21",
+        "MUSI 22",
+        "MUSI 31",
+        "MUSI 34",
+        "MUSI 35",
+        "MUSI 41W",
+        "MUSI 42",
+        "MUSI 45",
+        "MUSI 6A",
+        "MUSI 6B",
+        "MUSI 6C",
+        "MUSI 8",
+        "MUSI 9A",
+        "MUSI 9B",
+        "MUSI 9C",
+        "MUSI 12A",
+        "MUSI 12B",
+        "MUSI 12C",
+        "MUSI 13A",
+        "MUSI 13B",
+        "MUSI 13C",
+        "MUSI 14A",
+        "MUSI 14B",
+        "MUSI 14C",
+        "MUSI 14D",
+        "MUSI 16A",
+        "MUSI 16B",
+        "MUSI 17",
+        "MUSI 18A",
+        "MUSI 18B",
+        "MUSI 18C",
+        "MUSI 25",
+        "MUSI 44A",
+        "MUSI 50A",
+        "MUSI 50B",
+        "MUSI 50C",
+        "MUSI 51",
+        "MUSI 53",
+        "MUSI 77",
+        "MUSI 77X"
+      ],
+      "raw_text": "List C: (6 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MUSI 3A",
+      "title": "Comprehensive Musicianship (First Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 3B",
+      "title": "Comprehensive Musicianship (Second Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 3C",
+      "title": "Comprehensive Musicianship (Third Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 4A",
+      "title": "Comprehensive Musicianship II (First Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 4B",
+      "title": "Comprehensive Musicianship II (Second Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 4C",
+      "title": "Comprehensive Musicianship II (Third Quarter)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 1A",
+      "title": "Music Appreciation: Music in Western Cultures",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 1B",
+      "title": "Music Appreciation: Jazz Styles",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 1C",
+      "title": "Music Appreciation: World Music in America",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 1D",
+      "title": "Music Appreciation: Rock - From Roots to Rap",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 5",
+      "title": "Music for Video Games and Film: History and Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 20",
+      "title": "De Anza Chorale",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 21",
+      "title": "Vintage Singers",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 22",
+      "title": "Early Music Study and Performance",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 31",
+      "title": "Chamber Orchestra",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 34",
+      "title": "Jazz Ensemble",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 35",
+      "title": "Mariachi Ensemble",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 41W",
+      "title": "Rehearsal and Performance",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 42",
+      "title": "Concert Band",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 45",
+      "title": "Jazz Combos",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 6A",
+      "title": "Beginning Songwriting I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 6B",
+      "title": "Beginning Songwriting II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 6C",
+      "title": "Beginning Songwriting III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 8",
+      "title": "Intermediate Electronic Music",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 9A",
+      "title": "Jazz Piano I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 9B",
+      "title": "Jazz Piano II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 9C",
+      "title": "Jazz Piano III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 12A",
+      "title": "Class Piano I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 12B",
+      "title": "Class Piano II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 12C",
+      "title": "Class Piano III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 13A",
+      "title": "Beginning Singing I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 13B",
+      "title": "Beginning Singing II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 13C",
+      "title": "Beginning Singing III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 14A",
+      "title": "Classical Guitar I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 14B",
+      "title": "Classical Guitar II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 14C",
+      "title": "Classical Guitar III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 14D",
+      "title": "Classical Guitar IV",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 16A",
+      "title": "Beginning Acoustic Guitar",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 16B",
+      "title": "Jazz, Blues and Popular Guitar",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 17",
+      "title": "Beginning Guitar",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 18A",
+      "title": "Intermediate Piano I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 18B",
+      "title": "Intermediate Piano II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 18C",
+      "title": "Intermediate Piano III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 25",
+      "title": "Applied Music",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 44A",
+      "title": "Composition and Arranging",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 50A",
+      "title": "Conducting I",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 50B",
+      "title": "Conducting II",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 50C",
+      "title": "Conducting III",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 51",
+      "title": "Introduction to Electronic Music",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 53",
+      "title": "Music Business",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 77",
+      "title": "Special Projects in Music",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MUSI 77X",
+      "title": "Special Projects in Music",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

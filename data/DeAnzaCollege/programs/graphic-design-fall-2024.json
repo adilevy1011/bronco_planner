@@ -1,0 +1,232 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:47+00:00",
+  "id": "graphic-design-fall-2024",
+  "name": "Certificate of Achievement-Advanced (COA-A) Graphic Design",
+  "title_on_page": "Freelance Graphic Production for Student Media",
+  "department": "Graphic and Interactive Design",
+  "department_id": "graphic-and-interactive-design",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/graphic-design-fall-2024",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,graphic-design-fall-2024?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ARTS - Visual Arts and Design Graphic Design COAA_Graphic Design Go Back Print Certificate of Achievement-Advanced (COA-A) Graphic Design New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Graphic and Interactive Design program emphasizes the elements and principles of design in combination with the use of computers, software and other design peripherals to produce graphic design projects. Focus is placed on the creative integration and selection of type styles and images as they relate to the printed page, film/video output, web-based design, user interface design and multimedia applications. The Graphic and Interactive Design program is designed to prepare students for the workforce. Program Learning Outcomes Upon completion, students will be able to Demonstrate awareness of the computer as an effective and important mode of visual communication used by artists and designers today Demonstrate the creative potential of art and design software Analyze and interpret the elements and principles of graphic design as applied to the practice of visual communication and current graphic production techniques Demonstrate an understanding of the design process Analyze styles in typographic design, type selection and type specification in relation to new computer technology and the internet Demonstrate an understanding of the range of business practices currently used by artists and designers in the visual communications industry De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses appl",
+  "requirements": [
+    {
+      "name": "Required Core - Certificate of Achievement: (23 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Certificate of Achievement: (23 Units)"
+    },
+    {
+      "name": "List A: (24 Units)",
+      "courses": [],
+      "raw_text": "List A: (24 Units)"
+    },
+    {
+      "name": "List B: (3 Units)",
+      "courses": [
+        "ARTS 8",
+        "ARTS 12",
+        "ARTS 53",
+        "ARTS 54",
+        "ARTS 55A",
+        "PHTG 4",
+        "ARTS 55B",
+        "ARTS 56",
+        "ARTS 57",
+        "ARTS 63",
+        "ARTS 65",
+        "ARTS 85",
+        "ARTS 86",
+        "ARTS 4A",
+        "ARTS 55C",
+        "CIS 89A",
+        "JOUR 61A",
+        "JOUR 62B",
+        "JOUR 62D",
+        "JOUR 62E"
+      ],
+      "raw_text": "List B: (3 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ARTS 8",
+      "title": "Two-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 12",
+      "title": "Design and Color",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 53",
+      "title": "Introduction to Graphic Design: Vector Illustration",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 54",
+      "title": "Introduction to Graphic Design: Digital Imaging",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 55A",
+      "title": "Graphic Design-Visual Communication I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 4",
+      "title": "Introduction to Digital Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 55B",
+      "title": "Graphic Design-Visual Communication II",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 56",
+      "title": "Graphic Design: UI Prototyping and Digital Publishing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 57",
+      "title": "Graphic Design-Visual Communication: Typography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 63",
+      "title": "Graphic Design: Portfolio and Business Practices",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 65",
+      "title": "Graphic Design: UI/UX",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 85",
+      "title": "Graphic Design: Motion Graphics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 86",
+      "title": "Graphic Design: Digital Illustration Techniques",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4A",
+      "title": "Beginning Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 55C",
+      "title": "Graphic Design-Visual Communication III: Production Techniques",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 89A",
+      "title": "Web Page Development",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 61A",
+      "title": "Student News Media Production I",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 62B",
+      "title": "Freelance Photography for Student Media",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 62D",
+      "title": "Freelance Digital Production for Student Media",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "JOUR 62E",
+      "title": "Freelance Graphic Production for Student Media",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

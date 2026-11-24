@@ -1,0 +1,1177 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:03+00:00",
+  "id": "kinesiology-for-transfer-fall-2026",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree Kinesiology for Transfer",
+  "title_on_page": "Introduction to Statistics - HONORS",
+  "department": "Kinesiology",
+  "department_id": "kinesiology",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/kinesiology-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,kinesiology-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 KNES - Kinesiology Kinesiology for Transfer AAT_Associate in Arts in Kinesiology for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree Kinesiology for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Kinesiology major consists of courses appropriate for the Associate in Arts in Kinesiology for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Associate in Arts in Kinesiology for Transfer is intended for students who plan to complete a bachelor’s degree in Kinesiology (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Display increasing confidence in the ability to use a range of speaking, listening and collaboration skills Apply fitness concepts to individuals seeking training programs Analyze, evaluate and respond to requests for individualized fitness programs by weighing research, examining evidence and critical reasoning Display competence in a variety of sports and activities De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum G",
+  "requirements": [
+    {
+      "name": "Required Core: (20 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (20 Units)"
+    },
+    {
+      "name": "Area 1 - Aquatics: (1 Units)",
+      "courses": [],
+      "raw_text": "Area 1 - Aquatics: (1 Units)"
+    },
+    {
+      "name": "Area 2 - Combatives: (1 Units)",
+      "courses": [],
+      "raw_text": "Area 2 - Combatives: (1 Units)"
+    },
+    {
+      "name": "Area 3 - Dance: (1 Units)",
+      "courses": [],
+      "raw_text": "Area 3 - Dance: (1 Units)"
+    },
+    {
+      "name": "Area 4 - Fitness: (1 Units)",
+      "courses": [],
+      "raw_text": "Area 4 - Fitness: (1 Units)"
+    },
+    {
+      "name": "Area 5 - Individual Sports: (1 Units)",
+      "courses": [],
+      "raw_text": "Area 5 - Individual Sports: (1 Units)"
+    },
+    {
+      "name": "Area 6 - Team Sports: (1 Units)",
+      "courses": [],
+      "raw_text": "Area 6 - Team Sports: (1 Units)"
+    },
+    {
+      "name": "List B: (10 Units)",
+      "courses": [
+        "BIOL 40A",
+        "BIOL 40B",
+        "BIOL 40C",
+        "KNES 45",
+        "KNES 1A",
+        "KNES 1B",
+        "KNES 1C",
+        "KNES 1CX",
+        "KNES 1D",
+        "KNES 1DX",
+        "KNES 2A",
+        "KNES 2AX",
+        "KNES 12D",
+        "KNES 12DX",
+        "KNES 12E",
+        "KNES 12EX",
+        "DANC 22K",
+        "DANC 22L",
+        "DANC 22M",
+        "DANC 23A",
+        "DANC 23B",
+        "DANC 23C",
+        "DANC 23L",
+        "DANC 23M",
+        "DANC 24A",
+        "DANC 24B",
+        "DANC 25A",
+        "DANC 25B",
+        "DANC 37A",
+        "DANC 37B",
+        "DANC 37C",
+        "DANC 22",
+        "KNES 2B",
+        "KNES 2BX",
+        "KNES 5A",
+        "KNES 5AX",
+        "KNES 5B",
+        "KNES 5BX",
+        "KNES 6A",
+        "KNES 6AX",
+        "KNES 11A",
+        "KNES 11AX",
+        "KNES 15A",
+        "KNES 15AX",
+        "KNES 15C",
+        "KNES 15CX",
+        "KNES 15E",
+        "KNES 15EX",
+        "KNES 16A",
+        "KNES 16AX",
+        "KNES 19A",
+        "KNES 19AX",
+        "KNES 19D",
+        "KNES 19DX",
+        "KNES 19E",
+        "KNES 19EX",
+        "KNES 19G",
+        "KNES 19GX",
+        "KNES 22A",
+        "KNES 22AX",
+        "KNES 22B",
+        "KNES 22BX",
+        "KNES 22C",
+        "KNES 22CX",
+        "KNES 22D",
+        "KNES 22DX",
+        "KNES 22E",
+        "KNES 22EX",
+        "KNES 25A",
+        "KNES 25AX",
+        "KNES 26A",
+        "KNES 26AX",
+        "KNES 26B",
+        "KNES 26BX",
+        "KNES 29A",
+        "KNES 29B",
+        "KNES 31A",
+        "KNES 31AX",
+        "KNES 31B",
+        "KNES 31BX",
+        "KNES 31C",
+        "KNES 31CX",
+        "KNES 32A",
+        "KNES 32AX",
+        "KNES 32B",
+        "KNES 32BX",
+        "KNES 32C",
+        "KNES 32CX",
+        "KNES 32D",
+        "KNES 32DX",
+        "KNES 36A",
+        "KNES 36AX",
+        "KNES 37A",
+        "KNES 37AX",
+        "KNES 37B",
+        "KNES 37BX",
+        "KNES 37C",
+        "KNES 37CX",
+        "KNES 37E",
+        "KNES 38A",
+        "KNES 38AX",
+        "KNES 38B",
+        "KNES 38BX",
+        "KNES 38C",
+        "KNES 38CX",
+        "KNES 39A",
+        "KNES 39AX",
+        "KNES 39B",
+        "KNES 39BX",
+        "KNES 39C",
+        "KNES 39CX",
+        "CHEM 30A"
+      ],
+      "raw_text": "List B: (10 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BIOL 40A",
+      "title": "Human Anatomy and Physiology I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40B",
+      "title": "Human Anatomy and Physiology II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40C",
+      "title": "Human Anatomy and Physiology III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 45",
+      "title": "Introduction to Kinesiology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 1A",
+      "title": "Novice Swimming",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 1B",
+      "title": "Beginning Swimming",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 1C",
+      "title": "Intermediate Swimming",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 1CX",
+      "title": "Intermediate Swimming",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 1D",
+      "title": "Advanced Swimming",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 1DX",
+      "title": "Advanced Swimming",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 2A",
+      "title": "Aerobic Swimming",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 2AX",
+      "title": "Aerobic Swimming",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 12D",
+      "title": "Beginning Karate",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 12DX",
+      "title": "Beginning Karate",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 12E",
+      "title": "Intermediate Karate",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 12EX",
+      "title": "Intermediate Karate",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 22K",
+      "title": "Theory and Technique of Ballet I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 22L",
+      "title": "Theory and Technique of Ballet II",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 22M",
+      "title": "Theory and Technique of Ballet III",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 23A",
+      "title": "Theory and Technique of Contemporary (Modern) Dance I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 23B",
+      "title": "Theory and Technique of Contemporary (Modern) Dance II",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 23C",
+      "title": "Theory and Technique of Contemporary (Modern) Dance III",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 23L",
+      "title": "Theory and Technique of Hip-Hop I (Popular American Dance)",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 23M",
+      "title": "Theory and Technique of Hip-Hop II (Popular American Dance II)",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 24A",
+      "title": "Theory and Technique of Social Dance I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 24B",
+      "title": "Theory and Technique of Social Dance II",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 25A",
+      "title": "Theory and Technique of Salsa Dance I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 25B",
+      "title": "Theory and Technique of Salsa Dance II",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 37A",
+      "title": "Theory and Technique of Jazz Dance I",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 37B",
+      "title": "Theory and Technique of Jazz Dance II",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 37C",
+      "title": "Theory and Technique of Jazz Dance III",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "DANC 22",
+      "title": "Body Awareness and Conditioning for Dancers",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 2B",
+      "title": "Deep Water Running",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 2BX",
+      "title": "Deep Water Running",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 5A",
+      "title": "Indoor Cycling",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 5AX",
+      "title": "Indoor Cycling",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 5B",
+      "title": "High Intensity Indoor Cycling",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 5BX",
+      "title": "High Intensity Indoor Cycling",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 6A",
+      "title": "Aerobic Power Walking",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 6AX",
+      "title": "Aerobic Power Walking",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 11A",
+      "title": "Cardio Kick",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 11AX",
+      "title": "Cardio Kick",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 15A",
+      "title": "Cross Training",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 15AX",
+      "title": "Cross Training",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 15C",
+      "title": "Total Fitness",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 15CX",
+      "title": "Total Fitness",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 15E",
+      "title": "Cardiovascular and Strength Training",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 15EX",
+      "title": "Cardiovascular and Strength Training",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 16A",
+      "title": "Fit Camp",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 16AX",
+      "title": "Fit Camp",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 19A",
+      "title": "Strength Development",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 19AX",
+      "title": "Strength Development",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 19D",
+      "title": "Resistance Training 1",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 19DX",
+      "title": "Resistance Training 1",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 19E",
+      "title": "Body Sculpting",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 19EX",
+      "title": "Body Sculpting",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 19G",
+      "title": "Core Conditioning",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 19GX",
+      "title": "Core Conditioning",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 22A",
+      "title": "Hatha Yoga",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 22AX",
+      "title": "Hatha Yoga",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 22B",
+      "title": "Yoga for Relaxation",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 22BX",
+      "title": "Yoga for Relaxation",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 22C",
+      "title": "Power Yoga",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 22CX",
+      "title": "Power Yoga",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 22D",
+      "title": "Flow Yoga",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 22DX",
+      "title": "Flow Yoga",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 22E",
+      "title": "Yoga/Pilates Combo",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 22EX",
+      "title": "Yoga/Pilates Combo",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 25A",
+      "title": "Stretching",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 25AX",
+      "title": "Stretching",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 26A",
+      "title": "Basic Pilates Mat Exercise",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 26AX",
+      "title": "Basic Pilates Mat Exercise",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 26B",
+      "title": "Integrated Pilates Mat Exercise",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 26BX",
+      "title": "Integrated Pilates Mat Exercise",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 29A",
+      "title": "Fencing Level 1",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 29B",
+      "title": "Fencing Level 2",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 31A",
+      "title": "Beginning Badminton",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 31AX",
+      "title": "Beginning Badminton",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 31B",
+      "title": "Intermediate Badminton",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 31BX",
+      "title": "Intermediate Badminton",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 31C",
+      "title": "Advanced Badminton",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 31CX",
+      "title": "Advanced Badminton",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 32A",
+      "title": "Beginning Tennis",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 32AX",
+      "title": "Beginning Tennis",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 32B",
+      "title": "Advanced Beginning Tennis",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 32BX",
+      "title": "Advanced Beginning Tennis",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 32C",
+      "title": "Intermediate Tennis",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 32CX",
+      "title": "Intermediate Tennis",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 32D",
+      "title": "Advanced Tennis",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 32DX",
+      "title": "Advanced Tennis",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 36A",
+      "title": "Team Sport - Basketball Level 1",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 36AX",
+      "title": "Team Sport - Basketball Level 1",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 37A",
+      "title": "Soccer",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 37AX",
+      "title": "Soccer",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 37B",
+      "title": "Soccer Level 2",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 37BX",
+      "title": "Soccer Level 2",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 37C",
+      "title": "Soccer Level 3",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 37CX",
+      "title": "Soccer Level 3",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 37E",
+      "title": "Indoor Soccer",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 38A",
+      "title": "Futsal Level 1",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 38AX",
+      "title": "Futsal Level 1",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 38B",
+      "title": "Futsal Level 2",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 38BX",
+      "title": "Futsal Level 2",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 38C",
+      "title": "Futsal Level 3",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 38CX",
+      "title": "Futsal Level 3",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 39A",
+      "title": "Volleyball Level 1",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 39AX",
+      "title": "Volleyball Level 1",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 39B",
+      "title": "Volleyball Level 2",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 39BX",
+      "title": "Volleyball Level 2",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 39C",
+      "title": "Volleyball Level 3",
+      "units": "0.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 39CX",
+      "title": "Volleyball Level 3",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 30A",
+      "title": "Introduction to General, Organic and Biochemistry I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

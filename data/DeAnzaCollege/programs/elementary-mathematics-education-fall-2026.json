@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:21+00:00",
+  "id": "elementary-mathematics-education-fall-2026",
+  "name": "Certificate of Achievement (COA) Elementary Mathematics Education",
+  "title_on_page": "Introduction to Statistics - HONORS",
+  "department": "Mathematics",
+  "department_id": "mathematics",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/elementary-mathematics-education-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,elementary-mathematics-education-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 MATH - Mathematics Elementary Mathematics Education COA_Elementary Mathematics Education Go Back Print Certificate of Achievement (COA) Elementary Mathematics Education New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Elementary Mathematics Education is designed to prepare students for careers in mathematics education at the elementary level. This program focuses on building a solid foundation in mathematical concepts, critical thinking and teaching methodologies, equipping students with the skills necessary to inspire and support learners in understanding math. Program Learning Outcomes Upon completion, students will be able to Display increasing confidence in their ability to use a range of speaking, listening and collaboration skills Explain fundamental mathematical concepts—including number systems, operations, algebra, geometry and probability—in a way that supports conceptual understanding for elementary learners Design and relate messages clearly for effective and appropriate oral communication Apply problem-solving strategies and mathematical reasoning to real-world scenarios relevant to elementary education and everyday decision-making Analyze, evaluate and respond competently to discourse by weighing research, examining evidence and using critical reasoning; use visual models, manipulatives and representations to support mathematical thinking and communication, particularly in the context of elementary math instruction Demonstrate fluency with key topics from finite mathematics and liberal arts math, including logic, set theory, combinatorics and basic financial mathematics Interpret and analyze data using basic statistical techniques relevant to classroom assessment and educational research Communicate mathematical ideas clearly and accurately using appropriate language, notation and pedagogical techniques for diverse learners De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, includin",
+  "requirements": [
+    {
+      "name": "Required Core: (20 Units)",
+      "courses": [
+        "MATH 11",
+        "MATH 11H",
+        "MATH 44",
+        "MATH 46",
+        "EDUC 46"
+      ],
+      "raw_text": "Required Core: (20 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "MATH 11",
+      "title": "Finite Mathematics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 11H",
+      "title": "Finite Mathematics - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 44",
+      "title": "Mathematics in Art, Culture, and Society: A Liberal Arts Math Class",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 46",
+      "title": "Mathematics for Elementary Education",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EDUC 46",
+      "title": "Mathematics for Elementary Education",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:18+00:00",
+  "id": "management-fall-2026",
+  "name": "Associate in Arts (A.A.) Degree Management",
+  "title_on_page": "Principles of Macroeconomics - HONORS",
+  "department": "Management",
+  "department_id": "management",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/management-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,management-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 BUS - Business Management AA_Management Go Back Print Associate in Arts (A.A.) Degree Management New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The A.A. degree in Management prepares students for a career managing and leading employees in positions such as service manager, retail sales manager, customer service supervisor, office manager, human resources coordinator, employee benefits associate, construction project manager, hotel or hospitality supervisor or management trainee. Students learn the fundamentals of general business administration, with an emphasis on management, leadership and human resource management. Program Learning Outcomes Upon completion, students will be able to Analyze management issues, develop solutions and compare leadership styles for a given organizational environment De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be completed with minimum grade of C Courses in the major can be used to satisfy GE requirements (except for Liberal Arts degrees), but must be completed with a grade of C or higher Major Courses Each course listed as a program requirement (excluding GE requirements) must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than 22 quarter uni",
+  "requirements": [
+    {
+      "name": "Required Core: (40 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (40 Units)"
+    },
+    {
+      "name": "List A: (14 Units)",
+      "courses": [
+        "BUS 10",
+        "BUS 18",
+        "BUS 21",
+        "BUS 49",
+        "BUS 56",
+        "BUS 57",
+        "BUS 60",
+        "BUS 65",
+        "ACCT 1A",
+        "ACCT 1AH",
+        "BUS 50",
+        "BUS 54",
+        "BUS 55",
+        "BUS 58",
+        "BUS 70",
+        "BUS 86",
+        "BUS 87",
+        "BUS 90",
+        "COMM 17",
+        "COMM 17H"
+      ],
+      "raw_text": "List A: (14 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BUS 10",
+      "title": "Introduction to Business",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 18",
+      "title": "Business Law I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 21",
+      "title": "Business and Society",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 49",
+      "title": "Management",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 56",
+      "title": "Human Relations in the Workplace",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 57",
+      "title": "Human Resource Management",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 60",
+      "title": "International Business Management",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 65",
+      "title": "Leadership",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1A",
+      "title": "Financial Accounting I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ACCT 1AH",
+      "title": "Financial Accounting I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 50",
+      "title": "Nonprofit Organizations",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 54",
+      "title": "Business Mathematics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 55",
+      "title": "Introduction to Entrepreneurship",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 58",
+      "title": "The Business Plan",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 70",
+      "title": "Principles of E-Commerce",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 86",
+      "title": "Business Analytics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 87",
+      "title": "Introduction to Selling",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BUS 90",
+      "title": "Principles of Marketing",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 17",
+      "title": "Organizational Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 17H",
+      "title": "Organizational Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:19:58+00:00",
+  "id": "child-and-adolescent-development-for-transfer-fall-2026",
+  "name": "Associate in Arts for Transfer (A.A.-T.) Degree Child and Adolescent Development for Transfer",
+  "title_on_page": "Introduction to Elementary Education in a Diverse Society",
+  "department": "Child Development",
+  "department_id": "child-development",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/child-and-adolescent-development-for-transfer-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,child-and-adolescent-development-for-transfer-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 C D - Child Development Child and Adolescent Development for Transfer AAT_Associate in Arts in Child and Adolescent Development for Transfer Go Back Print Associate in Arts for Transfer (A.A.-T.) Degree Child and Adolescent Development for Transfer New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Child and Adolescent Development major consists of courses appropriate for the Associate in Arts in Child and Adolescent Development for Transfer degree, which provides a foundational understanding of the discipline, a breadth of coursework in the discipline and preparation for transfer to any CSU that accepts the Transfer Model Curriculum (TMC). The Associate in Arts in Child and Adolescent Development for Transfer is intended for students who plan to complete a bachelor’s degree in Child and Adolescent Development (or an approved similar major) at a CSU campus. Students completing this degree are guaranteed admission to the CSU system, but not to a particular campus or major. Students transferring to a CSU campus that does accept this degree will be required to complete no more than 60 (semester) units after transfer to earn a bachelor’s degree. This degree may not be the best option for students intending to transfer to a particular CSU campus or to a university or college that is not part of the CSU system. In all cases, students should consult with a counselor for more information on university admission and transfer requirements. Program Learning Outcomes Upon completion, students will be able to Analyze and explain the physical, cognitive, emotional, social and moral development of children and adolescents, identifying typical and atypical patterns across different stages Evaluate how family, peer, cultural and societal factors influence children’s and adolescents’ development and well-being Design or recommend evidence-based strategies, interventions or programs that support healthy growth, resilience and learning for children and adolescents in diverse settings Demonstrate culturally responsive, ethical and reflective practices when working with children, adolescents and families Communicate effectively with caregivers, educators and professionals to promote understanding of developmental needs, advocate for youth and support positive outcomes Use current research, data and technology to inform decisions, evaluate developmental programs and contribute to evidence-based practices supporting children and adolescents De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter",
+  "requirements": [
+    {
+      "name": "Required Core: (12 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (12 Units)"
+    },
+    {
+      "name": "Required Core - Complete one Statistics course: (4 - 5 Units)",
+      "courses": [],
+      "raw_text": "Required Core - Complete one Statistics course: (4 - 5 Units)"
+    },
+    {
+      "name": "List A: (11 - 16 Units)",
+      "courses": [],
+      "raw_text": "List A: (11 - 16 Units)"
+    },
+    {
+      "name": "Maximum of two courses below can be counted towards List A: (0 Units)",
+      "courses": [
+        "PSYC 10G",
+        "PSYC 10H",
+        "POLI 20",
+        "PSYC 15",
+        "SOC 15",
+        "ANTH 2",
+        "ANTH 2H",
+        "BIOL 6A",
+        "BIOL 6AH",
+        "BIOL 10",
+        "BIOL 10H",
+        "CETH 10",
+        "SOC 29",
+        "PSYC 14",
+        "SOC 1",
+        "SOC 35",
+        "EDUC 1"
+      ],
+      "raw_text": "Maximum of two courses below can be counted towards List A: (0 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "PSYC 10G",
+      "title": "Child Development (The Early Years)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 10H",
+      "title": "Child Growth and Development (Middle Childhood and Adolescence)",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "POLI 20",
+      "title": "Introduction to Statistics for the Behavioral and Social Sciences",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 15",
+      "title": "Statistics and Research Methods in Social Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6A",
+      "title": "Form and Function in the Biological World",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6AH",
+      "title": "Form and Function in the Biological World - HONORS",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 10",
+      "title": "Introductory Biology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 10H",
+      "title": "Introductory Biology - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 10",
+      "title": "Introduction to Ethnic Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 29",
+      "title": "Sociology of Structural Racism in the United States",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PSYC 14",
+      "title": "Developmental Aspects of Psychology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 1",
+      "title": "Introduction to Sociology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 35",
+      "title": "Marriage, Family, and Intimate Relationships",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EDUC 1",
+      "title": "Introduction to Elementary Education in a Diverse Society",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

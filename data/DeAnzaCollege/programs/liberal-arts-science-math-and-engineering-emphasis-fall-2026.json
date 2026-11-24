@@ -1,0 +1,1492 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:16+00:00",
+  "id": "liberal-arts-science-math-and-engineering-emphasis-fall-2026",
+  "name": "Associate in Arts (A.A.) Degree Liberal Arts (Science, Math and Engineering Emphasis)",
+  "title_on_page": "Preparatory Physics",
+  "department": "Liberal Arts",
+  "department_id": "liberal-arts",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/liberal-arts-science-math-and-engineering-emphasis-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,liberal-arts-science-math-and-engineering-emphasis-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 COUN - Counseling Liberal Arts (Science, Math and Engineering Emphasis) AA_Liberal Arts (Science, Math and Engineering Emphasis) Go Back Print Associate in Arts (A.A.) Degree Liberal Arts (Science, Math and Engineering Emphasis) New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. Designed primarily for students who plan on transferring to the University of California or California State University, the associate degree in Liberal Arts represents the completion of a broad area of study with an emphasis in one of the following four areas: Arts and Letters; Business and Computer Information Systems; Science, Math and Engineering; or Social and Behavioral Sciences. The degree allows the student to develop a broad set of essential life and work competencies such as communication, critical thinking, problem solving, quantitative reasoning and multicultural skills. Students complete a minimum of 27 units from one of the four emphasis areas, the A.A. degree General Education requirements and the A.A./A.S. degree requirements noted in the campus catalog. Courses used for the 27-unit emphasis area requirement may not be used to satisfy the General Education requirements. Note: Students are limited to earning one Liberal Arts degree. Program Learning Outcomes Upon completion, students will be able to Demonstrate the use of effective language and speech communication skills Analyze and solve problems by using thoughtful and logical reasoning skills Recognize and value the complexities of living in a multicultural world by demonstrating an appreciation of diversity in its many forms Display behaviors that promote the mental and physical well-being of self and others Identify basic and foundational theories, concepts and practices in the comprehensive area of emphasis De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza cou",
+  "requirements": [
+    {
+      "name": "Anthropology: (0 Units)",
+      "courses": [],
+      "raw_text": "Anthropology: (0 Units)"
+    },
+    {
+      "name": "Astronomy: (0 Units)",
+      "courses": [],
+      "raw_text": "Astronomy: (0 Units)"
+    },
+    {
+      "name": "Biology: (0 Units)",
+      "courses": [],
+      "raw_text": "Biology: (0 Units)"
+    },
+    {
+      "name": "Chemistry: (0 Units)",
+      "courses": [],
+      "raw_text": "Chemistry: (0 Units)"
+    },
+    {
+      "name": "Computer Information Systems: (0 Units)",
+      "courses": [],
+      "raw_text": "Computer Information Systems: (0 Units)"
+    },
+    {
+      "name": "Education: (0 Units)",
+      "courses": [],
+      "raw_text": "Education: (0 Units)"
+    },
+    {
+      "name": "Engineering: (0 Units)",
+      "courses": [],
+      "raw_text": "Engineering: (0 Units)"
+    },
+    {
+      "name": "Environmental Science: (0 Units)",
+      "courses": [],
+      "raw_text": "Environmental Science: (0 Units)"
+    },
+    {
+      "name": "Environmental Studies: (0 Units)",
+      "courses": [],
+      "raw_text": "Environmental Studies: (0 Units)"
+    },
+    {
+      "name": "Geography: (0 Units)",
+      "courses": [],
+      "raw_text": "Geography: (0 Units)"
+    },
+    {
+      "name": "Geology: (0 Units)",
+      "courses": [],
+      "raw_text": "Geology: (0 Units)"
+    },
+    {
+      "name": "Health: (0 Units)",
+      "courses": [],
+      "raw_text": "Health: (0 Units)"
+    },
+    {
+      "name": "Kinesiology: (0 Units)",
+      "courses": [],
+      "raw_text": "Kinesiology: (0 Units)"
+    },
+    {
+      "name": "Mathematics: (0 Units)",
+      "courses": [],
+      "raw_text": "Mathematics: (0 Units)"
+    },
+    {
+      "name": "Meteorology: (0 Units)",
+      "courses": [],
+      "raw_text": "Meteorology: (0 Units)"
+    },
+    {
+      "name": "Nutrition: (0 Units)",
+      "courses": [],
+      "raw_text": "Nutrition: (0 Units)"
+    },
+    {
+      "name": "Physics: (0 Units)",
+      "courses": [
+        "ANTH 1",
+        "ANTH 1H",
+        "ANTH 1L",
+        "ANTH 5",
+        "ASTR 4",
+        "ASTR 10",
+        "BIOL 6A",
+        "BIOL 6AH",
+        "BIOL 6B",
+        "BIOL 6C",
+        "BIOL 6CH",
+        "BIOL 10",
+        "BIOL 10H",
+        "BIOL 11",
+        "BIOL 13",
+        "BIOL 26",
+        "BIOL 40A",
+        "BIOL 40B",
+        "BIOL 40C",
+        "BIOL 45",
+        "BIOL 54G",
+        "BIOL 54H",
+        "BIOL 54I",
+        "BIOL 54J",
+        "CHEM 1A",
+        "CHEM 1AH",
+        "CHEM 1B",
+        "CHEM 1BH",
+        "CHEM 1C",
+        "CHEM 1CH",
+        "CHEM 10",
+        "CHEM 12A",
+        "CHEM 12B",
+        "CHEM 12C",
+        "CHEM 25",
+        "CHEM 30A",
+        "CHEM 30B",
+        "CIS 2",
+        "CIS 3",
+        "CIS 5",
+        "CIS 6",
+        "CIS 14A",
+        "CIS 18A",
+        "CIS 18B",
+        "CIS 18C",
+        "CIS 21JA",
+        "CIS 22A",
+        "CIS 22B",
+        "CIS 22BH",
+        "CIS 22C",
+        "CIS 22CH",
+        "CIS 26A",
+        "CIS 26B",
+        "CIS 26BH",
+        "CIS 28",
+        "CIS 29",
+        "CIS 30A",
+        "CIS 30B",
+        "CIS 31",
+        "CIS 35A",
+        "CIS 35B",
+        "CIS 36A",
+        "CIS 36B",
+        "CIS 37",
+        "CIS 40",
+        "CIS 41A",
+        "CIS 41B",
+        "CIS 43",
+        "CIS 44A",
+        "CIS 45A",
+        "CIS 57",
+        "CIS 64B",
+        "CIS 64C",
+        "CIS 67A",
+        "CIS 67B",
+        "CIS 75B",
+        "CIS 79",
+        "CIS 89A",
+        "CIS 89C",
+        "EDUC 46",
+        "ENGR 10",
+        "ENGR 11",
+        "ENGR 35",
+        "ENGR 37",
+        "ENGR 37L",
+        "ENGR 45",
+        "ESCI 1",
+        "ESCI 1L",
+        "ESCI 19",
+        "GEO 1",
+        "GEO 5",
+        "GEO 6",
+        "GEOL 10",
+        "GEOL 11",
+        "GEOL 20",
+        "GEOL 51",
+        "HLTH 21",
+        "KNES 45",
+        "KNES 53",
+        "MATH 1A",
+        "MATH 1AH",
+        "MATH 1B",
+        "MATH 1BH",
+        "MATH 1C",
+        "MATH 1CH",
+        "MATH 1D",
+        "MATH 1DH",
+        "MATH 2A",
+        "MATH 2AH",
+        "MATH 2B",
+        "MATH 2BH",
+        "MATH 4",
+        "MATH 11",
+        "MATH 11H",
+        "MATH 12",
+        "MATH 17",
+        "MATH 22",
+        "MATH 22H",
+        "MATH 23",
+        "MATH 31",
+        "MATH 31H",
+        "MATH 32",
+        "MATH 32H",
+        "MATH 44",
+        "MATH 46",
+        "MET 10",
+        "MET 10L",
+        "MET 12",
+        "MET 20L",
+        "NUTR 10",
+        "PHYS 2A",
+        "PHYS 2B",
+        "PHYS 2C",
+        "PHYS 4A",
+        "PHYS 4B",
+        "PHYS 4C",
+        "PHYS 4D",
+        "PHYS 10",
+        "PHYS 50"
+      ],
+      "raw_text": "Physics: (0 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ANTH 1",
+      "title": "Physical Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 1H",
+      "title": "Physical Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 1L",
+      "title": "Physical Anthropology Laboratory",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 5",
+      "title": "Magic, Science and Religion",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASTR 4",
+      "title": "Solar System Astronomy",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASTR 10",
+      "title": "Stellar Astronomy",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6A",
+      "title": "Form and Function in the Biological World",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6AH",
+      "title": "Form and Function in the Biological World - HONORS",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6B",
+      "title": "Cell and Molecular Biology",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6C",
+      "title": "Ecology and Evolution",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 6CH",
+      "title": "Ecology and Evolution - HONORS",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 10",
+      "title": "Introductory Biology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 10H",
+      "title": "Introductory Biology - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 11",
+      "title": "Human Biology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 13",
+      "title": "Marine Biology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 26",
+      "title": "Introductory Microbiology",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40A",
+      "title": "Human Anatomy and Physiology I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40B",
+      "title": "Human Anatomy and Physiology II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40C",
+      "title": "Human Anatomy and Physiology III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 45",
+      "title": "Introduction to Human Nutrition",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 54G",
+      "title": "Applied Human Anatomy and Physiology: Levels of Organization",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 54H",
+      "title": "Applied Human Anatomy and Physiology: Support, Movement, and Integration",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 54I",
+      "title": "Applied Human Anatomy and Physiology: Coordination and Transport",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 54J",
+      "title": "Applied Human Anatomy and Physiology: Absorption, Excretion, and Reproduction",
+      "units": "1.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1A",
+      "title": "General Chemistry I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1AH",
+      "title": "General Chemistry I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1B",
+      "title": "General Chemistry II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1BH",
+      "title": "General Chemistry II - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1C",
+      "title": "General Chemistry III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 1CH",
+      "title": "General Chemistry III - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 10",
+      "title": "Introductory Chemistry",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 12A",
+      "title": "Organic Chemistry I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 12B",
+      "title": "Organic Chemistry II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 12C",
+      "title": "Organic Chemistry III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 25",
+      "title": "Preparation Course for General Chemistry",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 30A",
+      "title": "Introduction to General, Organic and Biochemistry I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHEM 30B",
+      "title": "Introduction to General, Organic and Biochemistry II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 2",
+      "title": "Computers and the Internet in Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 3",
+      "title": "Business Information Systems",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 5",
+      "title": "Swift Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 6",
+      "title": "Introduction to Data Communication and Networking",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 14A",
+      "title": "Visual Basic .NET Programming I",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 18A",
+      "title": "Introduction to Unix/Linux",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 18B",
+      "title": "Advanced Unix/Linux and Bash Scripting",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 18C",
+      "title": "Bash Scripting",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 21JA",
+      "title": "Introduction to x86 Processor Assembly Language and Computer Architecture",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22A",
+      "title": "Beginning Programming Methodologies in C++",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22B",
+      "title": "Intermediate Programming Methodologies in C++",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22BH",
+      "title": "Intermediate Programming Methodologies in C++ - HONORS",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22C",
+      "title": "Data Abstraction and Structures",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 22CH",
+      "title": "Data Abstraction and Structures - HONORS",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 26A",
+      "title": "C as a Second Programming Language",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 26B",
+      "title": "Advanced C Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 26BH",
+      "title": "Advanced C Programming - HONORS",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 28",
+      "title": "Object Oriented Analysis and Design",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 29",
+      "title": "Advanced C++ Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 30A",
+      "title": "Introduction to C# Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 30B",
+      "title": "Advanced C# Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 31",
+      "title": "Operating System Concepts",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 35A",
+      "title": "Java Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 35B",
+      "title": "Advanced Java Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 36A",
+      "title": "Introduction to Computer Programming Using Java",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 36B",
+      "title": "Intermediate Problem Solving in Java",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 37",
+      "title": "Java for Mobile Development",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 40",
+      "title": "Introduction to Programming in Python",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 41A",
+      "title": "Python Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 41B",
+      "title": "Advanced Python Programming",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 43",
+      "title": "Systems Design",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 44A",
+      "title": "Database Management Systems",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 45A",
+      "title": "Internet Concepts and TCP/IP Protocols",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 57",
+      "title": "Website Administration",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 64B",
+      "title": "Introduction to SQL",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 64C",
+      "title": "Introduction to PL/SQL",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 67A",
+      "title": "Local Area Networks",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 67B",
+      "title": "Introduction to Wide Area Networking",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 75B",
+      "title": "Internet Programming with TCP/IP",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 79",
+      "title": "Managing Technology Projects",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 89A",
+      "title": "Web Page Development",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CIS 89C",
+      "title": "Client-Side Programming with JavaScript",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "EDUC 46",
+      "title": "Mathematics for Elementary Education",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ENGR 10",
+      "title": "Introduction to Engineering",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ENGR 11",
+      "title": "Programming and Problem-Solving in MATLAB",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ENGR 35",
+      "title": "Statics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ENGR 37",
+      "title": "Introduction to Circuit Analysis",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ENGR 37L",
+      "title": "Introduction to Circuit Analysis Laboratory",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ENGR 45",
+      "title": "Properties of Materials",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ESCI 1",
+      "title": "Environmental Science",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ESCI 1L",
+      "title": "Environmental Science Laboratory",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ESCI 19",
+      "title": "Environmental Biology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 1",
+      "title": "Physical Geography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 5",
+      "title": "A Geography of California",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEO 6",
+      "title": "Introduction to Geographic Information System",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEOL 10",
+      "title": "Introductory Geology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEOL 11",
+      "title": "Evolution of the Earth",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEOL 20",
+      "title": "General Oceanography",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "GEOL 51",
+      "title": "Geology in the Outdoors",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HLTH 21",
+      "title": "Contemporary Health Concerns",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 45",
+      "title": "Introduction to Kinesiology",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "KNES 53",
+      "title": "Health and Fitness",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1A",
+      "title": "Calculus I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1AH",
+      "title": "Calculus I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1B",
+      "title": "Calculus II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1BH",
+      "title": "Calculus II - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1C",
+      "title": "Calculus III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1CH",
+      "title": "Calculus III - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1D",
+      "title": "Calculus IV",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 1DH",
+      "title": "Calculus IV - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 2A",
+      "title": "Differential Equations",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 2AH",
+      "title": "Differential Equations - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 2B",
+      "title": "Linear Algebra",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 2BH",
+      "title": "Linear Algebra - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 4",
+      "title": "Computational Statistics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 11",
+      "title": "Finite Mathematics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 11H",
+      "title": "Finite Mathematics - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 12",
+      "title": "Introductory Calculus for Business and Social Science",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 17",
+      "title": "Integrated Statistics 2",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 22",
+      "title": "Discrete Mathematics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 22H",
+      "title": "Discrete Mathematics - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 23",
+      "title": "Engineering Statistics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 31",
+      "title": "Precalculus I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 31H",
+      "title": "Precalculus I - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 32",
+      "title": "Precalculus II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 32H",
+      "title": "Precalculus II - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 44",
+      "title": "Mathematics in Art, Culture, and Society: A Liberal Arts Math Class",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 46",
+      "title": "Mathematics for Elementary Education",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MET 10",
+      "title": "Weather and Climate Processes",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MET 10L",
+      "title": "Weather Laboratory",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MET 12",
+      "title": "Introduction to Climate Change",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MET 20L",
+      "title": "Climate Change Laboratory",
+      "units": "1",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NUTR 10",
+      "title": "Contemporary Nutrition",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 2A",
+      "title": "General Physics I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 2B",
+      "title": "General Physics II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 2C",
+      "title": "General Physics III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4A",
+      "title": "Physics for Scientists and Engineers: Mechanics",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4B",
+      "title": "Physics for Scientists and Engineers: Electricity and Magnetism",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4C",
+      "title": "Physics for Scientists and Engineers: Fluids, Waves, Optics and Thermodynamics",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 4D",
+      "title": "Physics for Scientists and Engineers: Modern Physics",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 10",
+      "title": "Concepts of Physics",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHYS 50",
+      "title": "Preparatory Physics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

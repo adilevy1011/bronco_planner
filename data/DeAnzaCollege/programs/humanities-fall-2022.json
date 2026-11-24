@@ -1,0 +1,162 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:58+00:00",
+  "id": "humanities-fall-2022",
+  "name": "Certificate of Achievement (COA) Humanities",
+  "title_on_page": "The Greek Achievement",
+  "department": "Humanities",
+  "department_id": "humanities",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/humanities-fall-2022",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,humanities-fall-2022?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 HUMI - Humanities Humanities COA_Humanities Go Back Print Certificate of Achievement (COA) Humanities New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Humanities Program educates students in the ways of thinking and acting from a global and interdisciplinary perspective by fostering engagement with the diverse, dynamic and interconnected products of human thought and creativity. The study of Humanities allows students to develop a foundational understanding of personal and community values, cultural views, religious beliefs and aesthetic practices and theories and how these shape the way we view the world and ourselves. The Certificate of Achievement in Humanities demonstrates the student’s solid background in the critical and empathetic thinking skills that mark the deliberate thought processes and formation of complex questions without definitive answers that are the hallmark of the Humanities. This certificate allows students to acquire lifelong practices that foster true knowledge as distinct from an aggregate of information and facts. These skills and competencies are applicable across disciplines and will enrich a wide variety of majors and professional careers. Program Learning Outcomes Upon completion, students will be able to Synthesize critical, empathetic, creative, cooperative and independent thinking skills Demonstrate the ability, both orally and in writing, to analyze meaning within various modes of cultural production in relation to their political, economic, social and religious context Formulate knowledge of the deep connections between and within the complexities of diverse historical periods and cultural traditions as a framework for a dynamic understanding of the contemporary world Develop the practice of thinking through moral and ethical problems and examining one’s own assumptions Deepen sources of wisdom through a complex understanding of how others have dealt with failures, successes, adversities and triumphs Cultivate the capacity for personal, as well as social change De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in re",
+  "requirements": [
+    {
+      "name": "List A: (20 Units)",
+      "courses": [
+        "HUMI 1",
+        "HUMI 1H",
+        "HUMI 2",
+        "HUMI 5",
+        "HUMI 6",
+        "HUMI 7",
+        "HUMI 9",
+        "HUMI 9H",
+        "HUMI 10",
+        "HUMI 15",
+        "HUMI 16",
+        "HUMI 18",
+        "HUMI 18H",
+        "HUMI 20"
+      ],
+      "raw_text": "List A: (20 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "HUMI 1",
+      "title": "Creative Minds",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 1H",
+      "title": "Creative Minds - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 2",
+      "title": "But is it Art? Questions and Criticism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 5",
+      "title": "Storytelling in American Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 6",
+      "title": "Popular Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 7",
+      "title": "The Arts and the Human Spirit",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 9",
+      "title": "Introduction to Comparative Religion",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 9H",
+      "title": "Introduction to Comparative Religion - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 10",
+      "title": "Global Religious Perspectives: Judaism, Christianity and Islam",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 15",
+      "title": "Discussion on the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 16",
+      "title": "Arts, Ideas and Values",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 18",
+      "title": "History as Mystery: A Critique of Western Perspectives in a Global Context",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 18H",
+      "title": "History as Mystery: A Critique of Western Perspectives in a Global Context - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "HUMI 20",
+      "title": "The Greek Achievement",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

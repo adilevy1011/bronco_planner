@@ -1,0 +1,167 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:41+00:00",
+  "id": "film-tv-animation-fall-2026",
+  "name": "Associate in Arts (A.A.) Degree Film/TV: Animation",
+  "title_on_page": "Theory and Technique of Acting for the Camera",
+  "department": "Film/TV",
+  "department_id": "film-tv",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/film-tv-animation-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,film-tv-animation-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 F/TV - Film and TV Prod. Film/TV: Animation AA_Film/TV: Animation Go Back Print Associate in Arts (A.A.) Degree Film/TV: Animation New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Film/TV: Animation A.A. degree provides a foundation for students interested in pursuing a career in the film, TV, game or Internet animation industries. Students are exposed to professional pre-production and production animation methods including storyboard design, character design, 2D hand-drawn, 2D digital animation, 3D stop-motion and 3D computer animation. Students select electives that will help build skills for such specific career goals as 2D and 3D animators, illustrators, storyboard artists, visual development artists and background artists. Program Learning Outcomes Upon completion, students will be able to Apply basic animation principles to 2D and 3D characters and objects Apply principles of cinematic design to storyboards and environments Apply screenwriting fundamentals and sound design skills for creative storytelling Apply interdisciplinary skills to animation pre-production and production Identify and examine the history of the development of animation and contemporary practices in animation De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be c",
+  "requirements": [
+    {
+      "name": "Required Core: (37 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (37 Units)"
+    },
+    {
+      "name": "List A: (3 - 4 Units)",
+      "courses": [],
+      "raw_text": "List A: (3 - 4 Units)"
+    },
+    {
+      "name": "List B: (4 Units)",
+      "courses": [],
+      "raw_text": "List B: (4 Units)"
+    },
+    {
+      "name": "List C - Complete from below or from List A or List B (not already taken): (4 Units)",
+      "courses": [
+        "ARTS 4A",
+        "ARTS 4C",
+        "ARTS 54",
+        "PHTG 58A",
+        "ARTS 8",
+        "ARTS 10A",
+        "ARTS 12",
+        "ARTS 15A",
+        "ARTS 16A",
+        "ARTS 85",
+        "PHTG 4",
+        "PHTG 57A",
+        "THEA 80A"
+      ],
+      "raw_text": "List C - Complete from below or from List A or List B (not already taken): (4 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "ARTS 4A",
+      "title": "Beginning Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 4C",
+      "title": "Life Drawing",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 54",
+      "title": "Introduction to Graphic Design: Digital Imaging",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 58A",
+      "title": "Photographic Photoshop I",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 8",
+      "title": "Two-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 10A",
+      "title": "Three-Dimensional Design",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 12",
+      "title": "Design and Color",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 15A",
+      "title": "Acrylic Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 16A",
+      "title": "Oil Painting I",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ARTS 85",
+      "title": "Graphic Design: Motion Graphics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 4",
+      "title": "Introduction to Digital Photography",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "PHTG 57A",
+      "title": "Commercial Lighting I",
+      "units": "3",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "THEA 80A",
+      "title": "Theory and Technique of Acting for the Camera",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

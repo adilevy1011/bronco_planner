@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:20:39+00:00",
+  "id": "ethnic-studies-fall-2026",
+  "name": "Certificate of Achievement (COA) Ethnic Studies",
+  "title_on_page": "Masculinities in U.S. Culture and Society",
+  "department": "Ethnic Studies",
+  "department_id": "ethnic-studies",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/ethnic-studies-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,ethnic-studies-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 ICS - Intercultural Studies Ethnic Studies COA_Ethnic Studies Go Back Print Certificate of Achievement (COA) Ethnic Studies New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. The Certificate of Achievement in Ethnic Studies prepares students to be equity-minded participants and leaders in the multi-ethnic and multiracial communities in which they live, work, learn and play. Students who complete the certificate will gain a foundational understanding of Ethnic Studies, the interdisciplinary, comparative and intersectional study of race and ethnicity, with an emphasis on the lived experiences and cultural production of racialized communities and their struggles for racial justice. For students with professional pursuits in mind, completion of the certificate will increase leadership capacity to research, understand, communicate and work with racially and ethnically diverse communities, whether through community organizing, nonprofit organizations, educational institutions, public policy, public service or business. For students with transfer pursuits in mind, completion of the certificate includes transferable general education credits to universities and colleges, along with greater academic preparation for the social sciences and humanities, including an Ethnic Studies, African American Studies, Asian American Studies, Chicanx/Latinx Studies or Native American and Indigenous Studies major. Program Learning Outcomes Upon completion, students will be able to Critically examine and articulate concepts such as race and racism, racialization, ethnicity, equity, ethno-centrism, eurocentrism, white supremacy, antiblackness, self-determination, liberation, decolonization, sovereignty, imperialism, settler colonialism, exploitation colonialism, xenophobia, intersectionalityx and anti-racism as studied in any one or more of the core four disciplines (Native American Studies, African American Studies, Asian American Studies, and Chicanx or Latinx Studies) or similar fields Apply theory and knowledge produced by one or more of the core four disciplines (i.e., Native American Studies, Chicanx or Latinx Studies, African American Studies, Asian American Studies) or similar fields that describe an understanding of epistemologies, critical events, histories, cultures, cultural identity, cultural philosophies, intellectual traditions, contributions, lived experiences, generational trauma and all manner of struggles of those groups with a particular emphasis on systemic oppression, identity formation, agency and group affirmation Critically analyze the intersection of race, racism and white supremacy as they relate to class, gender, sexuality, sexual orientation, social status, religion, spirituality, national origin, immigration status, ability, tribal citizenship, sovereignty, language or age, in Native American, African American, Asian American, Chicanx or Latinx or similar communities in the United States Critically examine, in historical and intersectional context, how struggle, resistance and the quest for justice (including racial, social, educational, political or economic justice), solidarity and liberation, as experienced and enacted by Native American Studies, Chicanx or Latinx Studies, African American Studies, Asian American Studies and similar fields, as people of color in the United States, are relevant to current and structural issues. Such issues may be communal, national, international and transnational politics, for example, in immigration, reparations, settler-colonialism, multiculturalism or language policies Describe and actively engage with anti-racist, abolitionist, anti-colonial and anti-imperial thought, issues, practices and movements in Native American Studies, Chicanx or Latinx Studies, African American Studies, Asian American Studies and similar fields as people of color in the United States seeking to build a j",
+  "requirements": [
+    {
+      "name": "Required Core: (4 Units)",
+      "courses": [],
+      "raw_text": "Required Core: (4 Units)"
+    },
+    {
+      "name": "List A: (8 Units)",
+      "courses": [],
+      "raw_text": "List A: (8 Units)"
+    },
+    {
+      "name": "List B - Complete from below or from List A (not already taken): (8 Units)",
+      "courses": [
+        "CETH 10",
+        "AFAM 10",
+        "ASAM 11",
+        "CHLX 10",
+        "NAIS 12",
+        "AFAM 11",
+        "AFAM 12A",
+        "AFAM 12B",
+        "AFAM 25",
+        "WMST 25",
+        "ASAM 1",
+        "ASAM 10",
+        "ASAM 12",
+        "ASAM 13",
+        "ASAM 20",
+        "ELIT 24",
+        "ASAM 21",
+        "ASAM 22",
+        "WMST 22",
+        "ASAM 30",
+        "ASAM 32",
+        "CETH 11",
+        "CETH 29",
+        "ADMJ 29",
+        "CETH 50",
+        "CHLX 11",
+        "CHLX 12",
+        "CHLX 13",
+        "CHLX 26",
+        "WMST 26",
+        "CHLX 35",
+        "NAIS 11",
+        "NAIS 13",
+        "NAIS 14",
+        "NAIS 15",
+        "NAIS 16",
+        "NAIS 31",
+        "NAIS 32",
+        "WMST 8",
+        "CETH 8",
+        "WMST 29",
+        "CETH 19"
+      ],
+      "raw_text": "List B - Complete from below or from List A (not already taken): (8 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CETH 10",
+      "title": "Introduction to Ethnic Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 10",
+      "title": "An Introduction to African American Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 11",
+      "title": "Asian Americans and Racism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 10",
+      "title": "Introduction to Chicanx and Latinx Studies",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 12",
+      "title": "Ethnic Studies and the Historical Experiences of Native Americans",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 11",
+      "title": "Sankofa: Roots of the African American Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 12A",
+      "title": "African American History of the U.S. to Reconstruction",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 12B",
+      "title": "African American History Since Reconstruction",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "AFAM 25",
+      "title": "Introduction to Black Feminism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 25",
+      "title": "Introduction to Black Feminism",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 1",
+      "title": "Asian American Experiences Past to Present",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 10",
+      "title": "Contemporary Asian American Communities",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 12",
+      "title": "Asian Americans and American Ideals, Institutions and Politics",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 13",
+      "title": "Asian Americans and Asia",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 20",
+      "title": "Asian American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ELIT 24",
+      "title": "Asian American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 21",
+      "title": "Asian Pacific Americans Make Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 22",
+      "title": "Asian American Women",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 22",
+      "title": "Asian American Women",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 30",
+      "title": "Filipinx American History and Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ASAM 32",
+      "title": "Vietnamese Literature from Traditional to Asian American Expressions",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 11",
+      "title": "Race and Ethnicity: Belonging and Exclusion in the U.S.",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ADMJ 29",
+      "title": "Ethnic Studies, Cultural Pluralism, and American Law and Justice",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 50",
+      "title": "Civic Leadership for Community Empowerment",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 11",
+      "title": "Chicanx Culture",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 12",
+      "title": "Chicanx and Latinx History",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 13",
+      "title": "The Chicanx and Latinx and the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 26",
+      "title": "La Mujer: Latina Life and Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 26",
+      "title": "La Mujer: Latina Life and Experience",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CHLX 35",
+      "title": "Chicano/a, Latino/a Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 11",
+      "title": "Ethnic Studies and Native American Contemporary Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 13",
+      "title": "Survey of Native American Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 14",
+      "title": "Ethnic Studies and the Religious Traditions of Native Americans",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 15",
+      "title": "Ethnic Studies and Native American Literature",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 16",
+      "title": "California Native Americans",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 31",
+      "title": "Ethnic Studies: Native Hawaiian and Pacific Islander Experiences",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NAIS 32",
+      "title": "Oceania and the Arts",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 8",
+      "title": "Women of Color in the USA",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 8",
+      "title": "Women of Color in the USA",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "WMST 29",
+      "title": "Masculinities in U.S. Culture and Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "CETH 19",
+      "title": "Masculinities in U.S. Culture and Society",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}

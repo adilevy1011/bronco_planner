@@ -1,0 +1,257 @@
+{
+  "schema_version": 1,
+  "scraped_at": "2026-11-24T23:21:28+00:00",
+  "id": "lvn-transition-to-rn-fall-2026",
+  "name": "Associate in Science (A.S.) Degree LVN Transition to RN",
+  "title_on_page": "Nursing Concept Integration",
+  "department": "Nursing",
+  "department_id": "nursing",
+  "source_url": "https://deanza.elumenapp.com/catalog/2026-2027/program/lvn-transition-to-rn-fall-2026",
+  "api_url": "https://api-prod.elumenapp.com/catalog/sites/publish/content/2026-2027,program,lvn-transition-to-rn-fall-2026?tenant=deanza.elumenapp.com",
+  "program_text": "program 11 NURS - Nursing LVN Transition to RN AS_LVN Transition to RN Go Back Print Associate in Science (A.S.) Degree LVN Transition to RN New Online Option Noncredit New for Spring 2026 Program Description Pending state approval. Please check with the CTE Division Office for status. Admission to the program is limited. The Licensed Vocational Nurse (LVN) Transition to Registered Nurse (RN) Program is a minimum of three quarters in length, not including summer. LVN Transition to RN students enter the Registered Nursing program as advanced placement students as determined by the Director of the Nursing Program. Prior clinical experience in an acute setting will influence the student’s placement in the program. The majority of courses are held in the daytime. Current California LVN license and IV certification is required. Graduates of this program are eligible to take the California State Board Examination for licensing (NCLEX-RN). Students are admitted throughout the year as advanced placements. Once admitted, the program is at least three quarters in length (not including prerequisites). Program Learning Outcomes Upon completion, students will be able to Pass the professional licensure exam for Registered Nurse (NCLEX) Provide competent nursing care as a novice RN in multiple health care settings De Anza College Requirements Noncredit Certificate Requirements Each course listed as a program requirement must be completed with a C grade, passing grade or satisfactory progress Each course must be completed at De Anza College Skills Certificate Requirements Skills Certificates are awarded by departments and are not notated on official college transcripts. Contact the department directly for assistance in applying for a skills certificate. Completion of all major courses with a C grade or higher Each course must be completed at De Anza College Certificate of Achievement Requirements Certificates of Achievement are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. No more than six quarter units may be transferred from other academic institutions Certificate of Achievement-Advanced Requirements Certificates of Achievement-Advanced are awarded by the college and notated on official transcripts. Each course listed as a program requirement must be completed with a letter grade of C or higher. Pass/No Pass grades are not accepted for these courses. Students must demonstrate proficiency in English and Mathematics by qualifying for ENGL C1000, ENGL C1000H or ESL 5, and by qualifying for MATH 114 or a transfer-level Math course No more than 18 quarter units may be transferred from other academic institutions Cal-GETC Certificate of Achievement-Advanced Requirements See Cal-GETC pattern found at deanza.edu/articulation/ge-requirements . Note: This is an exception to the Certificate of Achievement-Advanced Requirements. The requirements are stated within the description. Associate Degrees (A.A. or A.S.) Requirements Proficiencies Students must demonstrate proficiency in reading, written expression and mathematics. Total Units Students must complete at least 90 degree-applicable quarter units, including required major courses and GE courses At least 24 of those 90 units must be completed at De Anza College All De Anza courses must be completed with a minimum GPA of 2.0 All 90 degree units, including courses transferred from other institutions, must be completed with a minimum GPA of 2.0 General Education Students must complete all requirements for one of the General Education (GE) patterns listed at deanza.edu/articulation/ge-requirements Courses applied to GE requirements must be completed with a minimum GPA of 2.0 Students earning an A.A. or A.S. degree must complete ENGL C1000, ENGL C1000H or ESL 5 with a grade of C or higher All courses applied to the Cal-GETC pathway must be",
+  "requirements": [
+    {
+      "name": "Prerequisite: (48 Units)",
+      "courses": [],
+      "raw_text": "Prerequisite: (48 Units)"
+    },
+    {
+      "name": "Anthropology/Sociology: (4 Units)",
+      "courses": [],
+      "raw_text": "Anthropology/Sociology: (4 Units)"
+    },
+    {
+      "name": "Communications: (5 Units)",
+      "courses": [],
+      "raw_text": "Communications: (5 Units)"
+    },
+    {
+      "name": "English: (5 Units)",
+      "courses": [],
+      "raw_text": "English: (5 Units)"
+    },
+    {
+      "name": "Mathematics: (5 Units)",
+      "courses": [],
+      "raw_text": "Mathematics: (5 Units)"
+    },
+    {
+      "name": "Required Core: (25 Units)",
+      "courses": [
+        "BIOL 26",
+        "BIOL 40A",
+        "BIOL 40B",
+        "BIOL 40C",
+        "BIOL 45",
+        "ANTH 2",
+        "ANTH 2H",
+        "SOC 1",
+        "COMM 10",
+        "COMM 10H",
+        "ESL 5",
+        "MATH 114",
+        "NURS 94",
+        "NURS 94L",
+        "NURS 94A",
+        "NURS 94AL",
+        "NURS 95",
+        "NURS 95L",
+        "NURS 96",
+        "NURS 96L",
+        "NURS 96A"
+      ],
+      "raw_text": "Required Core: (25 Units)"
+    }
+  ],
+  "courses": [
+    {
+      "code": "BIOL 26",
+      "title": "Introductory Microbiology",
+      "units": "6",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40A",
+      "title": "Human Anatomy and Physiology I",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40B",
+      "title": "Human Anatomy and Physiology II",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 40C",
+      "title": "Human Anatomy and Physiology III",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "BIOL 45",
+      "title": "Introduction to Human Nutrition",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2",
+      "title": "Cultural Anthropology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ANTH 2H",
+      "title": "Cultural Anthropology - HONORS",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "SOC 1",
+      "title": "Introduction to Sociology",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 10",
+      "title": "Fundamentals of Oral Communication",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "COMM 10H",
+      "title": "Fundamentals of Oral Communication - HONORS",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "ESL 5",
+      "title": "Academic Reading and Composition",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "MATH 114",
+      "title": "Intermediate Algebra",
+      "units": "5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NURS 94",
+      "title": "Gerontology Nursing",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NURS 94L",
+      "title": "Gerontology Nursing Clinical",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NURS 94A",
+      "title": "Psychiatric/Mental Health Nursing",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NURS 94AL",
+      "title": "Psychiatric/Mental Health Nursing Clinical",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NURS 95",
+      "title": "Complex Health Challenges",
+      "units": "4",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NURS 95L",
+      "title": "Complex Health Challenges Clinical",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NURS 96",
+      "title": "Leadership and Management in Nursing",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NURS 96L",
+      "title": "Leadership and Management in Nursing Clinical",
+      "units": "4.5",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    },
+    {
+      "code": "NURS 96A",
+      "title": "Nursing Concept Integration",
+      "units": "2",
+      "description": "",
+      "prerequisites": "",
+      "corequisites": "",
+      "advisories": ""
+    }
+  ]
+}
