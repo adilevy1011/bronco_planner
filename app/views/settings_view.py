@@ -18,10 +18,23 @@ class SettingsView(View):
         if e.control.value in get_institutions() and e.control.value not in institutions:
             self.storage.add_institution(e.control.value)
         self.update()
+    def toggle_theme(self, e: ft.ControlEvent):
+        if e.control.value:
+            self.page.theme_mode = ft.ThemeMode.DARK
+            self.storage.toggle_theme_preference()
+        else:
+            self.page.theme_mode = ft.ThemeMode.LIGHT
+            self.storage.toggle_theme_preference()
+
 
     def build_controls(self):
         programs = self.storage.get_user_programs()
         institutions = self.storage.get_user_institutions()
+        theme_toggle = ft.Switch(
+            label="Dark Mode",
+            value=self.storage.get_darkmode(),
+            on_change=self.toggle_theme,
+        )
         return [
             ft.Text("Settings", size=28, weight=ft.FontWeight.BOLD),
             ft.Dropdown(
@@ -52,4 +65,5 @@ class SettingsView(View):
                 enable_search=True,
                 enable_filter=True,
             ),
+            theme_toggle
         ]

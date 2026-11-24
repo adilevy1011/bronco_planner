@@ -1,14 +1,22 @@
 import flet as ft
+from app.data_api.user_data import PlannerStorage
 from app.views.settings_view import SettingsView
 from app.views.catalog_view import CatalogView
 from app.views.planner_view import PlannerView
 from app.views.program_view import ProgramView
 from app.views.progress_view import ProgressView
 
+
 def main(page: ft.Page):
+    storage = PlannerStorage()
     page.title = "Course Planner"
     page.padding = 0  
     page.window.maximized = True
+    
+    if storage.get_darkmode():
+        page.theme_mode = ft.ThemeMode.DARK
+    else:
+        page.theme_mode = ft.ThemeMode.LIGHT
     views = [
         PlannerView(),
         ProgressView(),

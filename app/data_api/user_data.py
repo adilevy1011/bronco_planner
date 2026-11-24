@@ -10,7 +10,8 @@ class PlannerStorage:
         "program": [],
         "terms": {},
         "preferences": {
-            "collapsed_terms": []
+            "collapsed_terms": [],
+            "dark_mode": False,
         }
     }
 
@@ -165,7 +166,11 @@ class PlannerStorage:
 
         self.data["preferences"]["collapsed_terms"] = collapsed_terms
         self.save()
-
+    def toggle_theme_preference(self):
+        self.data["preferences"]["dark_mode"] = not self.get_darkmode()
+        self.save()
+    def get_darkmode(self):
+        return self.get_pref("dark_mode")
 if __name__=="__main__":
     storage = PlannerStorage()
     print(storage.load())
