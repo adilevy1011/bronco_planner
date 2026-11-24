@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+from functools import lru_cache
 from pathlib import Path
 from datetime import datetime
 script_dir = Path(__file__).resolve().parent.parent
@@ -56,6 +57,24 @@ def get_departments():
     return [item["name"] for item in departments]
 
 
+@lru_cache(maxsize=1)
+def get_course_prefix_index():
+    """Return a cached mapping of course-code prefixes to department names."""
+    prefix_index = {}
+    for department in load_manifest().get("departments", []):
+        department_file = INSTITUTION_DATA_DIR / department["file"]
+        with department_file.open("r", encoding="utf-8") as file:
+            courses = json.load(file).get("courses", [])
+
+        for course in courses:
+            code = str(course.get("code", "")).strip()
+            if code:
+                prefix = code.split(maxsplit=1)[0].upper()
+                prefix_index[prefix] = department["name"]
+
+    return prefix_index
+
+
 def get_ge_areas():
     with GENERAL_EDUCATION_FILE.open("r", encoding="utf-8") as file:
         data = json.load(file)
@@ -71,13 +90,26 @@ def get_all_courses():
                 courses.append(course)
     return courses
 
-def search_courses(department: str = None,units: str = None ,course_code: str =None ,ge: str = None):
-    course_list = get_all_courses()
+def search_courses(
+    department: str = None,
+    units: str = None,
+    course_code: str = None,
+    ge: str = None,
+    course_prefix: str = None,
+):
+    if not department and course_code:
+        course_prefix = str(course_code).strip().split(maxsplit=1)[0]
+    if not department and course_prefix:
+        department = get_course_prefix_index().get(
+            str(course_prefix).strip().upper()
+        )
     if department:
         normalized_department = department.replace(" ", "-").lower()
         file_name = normalized_department + '.json'
         with (DEPART_DIR / file_name).open('r', encoding="utf-8") as file:
             course_list = json.load(file).get('courses')
+    else:
+        course_list = get_all_courses()
     if ge:
         course_list = [c for c in course_list if c.get('ge') == ge]
     if units:

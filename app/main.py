@@ -3,7 +3,7 @@ from app.views.settings_view import SettingsView
 from app.views.catalog_view import CatalogView
 from app.views.planner_view import PlannerView
 from app.views.program_view import ProgramView
-
+from app.views.progress_view import ProgressView
 
 def main(page: ft.Page):
     page.title = "Course Planner"
@@ -11,6 +11,7 @@ def main(page: ft.Page):
     page.window.maximized = True
     views = [
         PlannerView(),
+        ProgressView(),
         ProgramView(),
         CatalogView(),
         SettingsView(),
@@ -49,6 +50,11 @@ def main(page: ft.Page):
                 icon=ft.Icons.SPACE_DASHBOARD_OUTLINED,
                 selected_icon=ft.Icons.SPACE_DASHBOARD,
                 label="Planner",
+            ),
+            ft.NavigationRailDestination(
+                icon=ft.Icons.BAR_CHART,
+                selected_icon=ft.Icons.BAR_CHART,
+                label="Your Progress",
             ),
             ft.NavigationRailDestination(
                 icon=ft.Icons.BUSINESS,

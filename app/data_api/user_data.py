@@ -9,7 +9,9 @@ class PlannerStorage:
         "institution":[],
         "program": [],
         "terms": {},
-        "preferences": {}
+        "preferences": {
+            "collapsed_terms": []
+        }
     }
 
     def __init__(self, app_folder_name: str = "BroncoCoursePlanner", filename: str = "user_plan.json"):
@@ -34,6 +36,8 @@ class PlannerStorage:
             for key in state:
                 if key in loaded and isinstance(loaded[key], type(state[key])):
                     state[key] = loaded[key]
+            if not isinstance(state["preferences"].get("collapsed_terms"), list):
+                state["preferences"]["collapsed_terms"] = []
             return state
 
         except (json.JSONDecodeError, OSError):
@@ -76,11 +80,31 @@ class PlannerStorage:
         if term_name not in self.data["terms"]:
             self.data["terms"][term_name] = []
             self.save()
-
     def remove_term(self, term_name: str) -> None:
         if term_name in self.data["terms"]:
             del self.data["terms"][term_name]
+            collapsed_terms = self.get_collapsed_terms()
+            if term_name in collapsed_terms:
+                collapsed_terms.remove(term_name)
+                self.data["preferences"]["collapsed_terms"] = collapsed_terms
             self.save()
+
+    def reorder_terms(self, ordered_terms: List[str]) -> None:
+        """Persist the terms in the order provided.
+
+        Term order is represented by the insertion order of the JSON object's
+        keys. Require an exact permutation of the existing terms so callers
+        cannot accidentally remove a term while reordering.
+        """
+        terms = self.data["terms"]
+        if len(ordered_terms) != len(terms) or set(ordered_terms) != set(terms):
+            raise ValueError("ordered_terms must contain every term exactly once")
+
+        self.data["terms"] = {
+            term_name: terms[term_name]
+            for term_name in ordered_terms
+        }
+        self.save()
     
     def get_user_terms(self):
         return self.load().get('terms')
@@ -98,6 +122,24 @@ class PlannerStorage:
     def clear_term_courses(self,term_name):
         self.data['terms'][term_name].clear()
         self.save()
+
+    def move_course(self, source_term: str, destination_term: str, course_code: str) -> None:
+        """Move a planned course between terms and persist the change."""
+        if source_term not in self.data["terms"]:
+            raise KeyError(f"Unknown source term: {source_term}")
+        if destination_term not in self.data["terms"]:
+            raise KeyError(f"Unknown destination term: {destination_term}")
+        if source_term == destination_term:
+            return
+        if course_code not in self.data["terms"][source_term]:
+            raise ValueError(f"Course is not planned in {source_term}: {course_code}")
+        if course_code in self.data["terms"][destination_term]:
+            return
+
+        self.data["terms"][source_term].remove(course_code)
+        self.data["terms"][destination_term].append(course_code)
+        self.save()
+
     # --- Preference Helpers ---
     def set_pref(self, key: str, value: Any) -> None:
         self.data["preferences"][key] = value
@@ -106,8 +148,24 @@ class PlannerStorage:
     def get_pref(self, key: str, default: Any = None) -> Any:
         return self.data["preferences"].get(key, default)
 
+    def get_collapsed_terms(self) -> List[str]:
+        """Return the terms that should open collapsed in the planner."""
+        collapsed_terms = self.get_pref("collapsed_terms", [])
+        return collapsed_terms if isinstance(collapsed_terms, list) else []
+
+    def set_term_collapsed(self, term_name: str, collapsed: bool) -> None:
+        """Persist one term's expansion state."""
+        collapsed_terms = self.get_collapsed_terms()
+        if collapsed and term_name not in collapsed_terms:
+            collapsed_terms.append(term_name)
+        elif not collapsed and term_name in collapsed_terms:
+            collapsed_terms.remove(term_name)
+        else:
+            return
+
+        self.data["preferences"]["collapsed_terms"] = collapsed_terms
+        self.save()
+
 if __name__=="__main__":
     storage = PlannerStorage()
     print(storage.load())
-    
-        

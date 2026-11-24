@@ -32,6 +32,8 @@ class CatalogView(View):
 
             detail_fields = [
                 ("Description", details.get("description")),
+                ("Units", details.get('units')),
+                ("GE", details.get("ge")),
                 ("Prerequisites", details.get("prerequisites")),
                 ("Grading", details.get("grading_basis")),
                 ("Repeat for credit", details.get("repeat_for_credit")),
@@ -85,12 +87,14 @@ class CatalogView(View):
         def search_button_handler(e):
             nonlocal all_matches, visible_count
 
+            query = (course_search_tf.value or "").strip().lower()
+            course_prefix = query.split(maxsplit=1)[0] if query else None
             base_matches = search_courses(
                 department=department_filter.value,
                 units=units_filter.value,
                 ge=ge_filter.value,
+                course_prefix=course_prefix,
             )
-            query = (course_search_tf.value or "").strip().lower()
             all_matches = [
                 course
                 for course in base_matches

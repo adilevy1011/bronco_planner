@@ -10,6 +10,9 @@ from app.data_api.app_data import (
 class PlannerView(View):
     def __init__(self):
         super().__init__()
+        # Keep scrolling inside the ReorderableListView so its built-in drag
+        # auto-scroller has a bounded viewport to work with.
+        self.scroll = None
         self.storage = PlannerStorage()
         self.refresh()
     
@@ -76,12 +79,14 @@ class PlannerView(View):
             def search_button_handler(e):
                 nonlocal all_matches, visible_count
 
+                query = (course_search_tf.value or "").strip().lower()
+                course_prefix = query.split(maxsplit=1)[0] if query else None
                 base_matches = search_courses(
                     department=department_filter.value,
                     units=units_filter.value,
                     ge=ge_filter.value,
+                    course_prefix=course_prefix,
                 )
-                query = (course_search_tf.value or "").strip().lower()
                 all_matches = [
                     course for course in base_matches
                     if not query
@@ -223,7 +228,10 @@ class PlannerView(View):
         
         term_name_field = ft.TextField(label="Term name")
         terms = self.storage.get_user_terms()
+        collapsed_terms = set(self.storage.get_collapsed_terms())
+        term_order = list(terms)
         term_items = []
+        term_controls = {}
 
         def course_detail_controls(course_code):
             try:
@@ -261,17 +269,82 @@ class PlannerView(View):
                     )
             return controls or [ft.Text("No additional course details available.", italic=True)]
 
+        def remove_course(term_name, course_code):
+            self.storage.remove_course(term_name, course_code)
+            self.refresh()
+            self.page.update()
+
+        def remove_term(term_name):
+            self.storage.remove_term(term_name)
+            self.refresh()
+            self.page.update()
+
+        def move_course_between_terms(e, destination_term):
+            course_data = e.src.data
+            if not isinstance(course_data, dict):
+                return
+
+            source_term = course_data.get("term")
+            course_code = course_data.get("course")
+            if not source_term or not course_code:
+                return
+
+            self.storage.move_course(source_term, destination_term, course_code)
+            self.refresh()
+            self.page.update()
+
+        def term_expansion_changed(e, term_name):
+            is_expanded = (
+                e.data is True
+                or str(e.data).lower() == "true"
+            )
+            self.storage.set_term_collapsed(term_name, not is_expanded)
+
         for term_name, courses in terms.items():
             courses = sorted(courses)
             term_unit_count = 0
-            course_controls = [
-                ft.ExpansionTile(
-                    title=ft.Text(f"{str(course)} - {get_course_details(str(course)).get('title')}"),
-                    controls=course_detail_controls(str(course)),
+            course_controls = []
+            for course in courses:
+                course_code = str(course)
+                course_title = get_course_details(course_code).get("title")
+                course_tile = ft.ExpansionTile(
+                    leading=ft.IconButton(
+                        icon=ft.Icons.REMOVE_CIRCLE_OUTLINE,
+                        tooltip="Remove course",
+                        on_click=lambda e, term=term_name, code=course_code: remove_course(term, code),
+                    ),
+                    title=ft.Text(f"{course_code} - {course_title}"),
+                    controls=course_detail_controls(course_code),
                     expanded_cross_axis_alignment=ft.CrossAxisAlignment.START,
                 )
-                for course in courses
-            ]
+                course_controls.append(
+                    ft.Draggable(
+                        group="planned_courses",
+                        data={"term": term_name, "course": course_code},
+                        axis=ft.Axis.VERTICAL,
+                        affinity=ft.Axis.VERTICAL,
+                        content=course_tile,
+                        content_feedback=ft.Container(
+                            width=520,
+                            bgcolor=ft.Colors.SURFACE_CONTAINER,
+                            border_radius=8,
+                            padding=ft.Padding.symmetric(horizontal=16, vertical=10),
+                            content=ft.Row(
+                                controls=[
+                                    ft.Icon(
+                                        ft.Icons.DRAG_HANDLE,
+                                        size=22,
+                                    ),
+                                    ft.Text(
+                                        f"{course_code} - {course_title}",
+                                        size=18,
+                                    ),
+                                ],
+                                spacing=10,
+                            ),
+                        ),
+                    )
+                )
             for course in courses:
                 course_units = get_course_details(str(course)).get('units')
                 try:
@@ -294,13 +367,44 @@ class PlannerView(View):
                     )
             )
             
-            term_items.append(
-                ft.ExpansionTile(
-                    title=ft.Text(f"{term_name} ({term_unit_count})", style=ft.TextStyle(weight=ft.FontWeight.BOLD), size=20),
-                    controls=course_controls,
-                    expanded=True
-                )
+            term_tile = ft.ExpansionTile(
+                leading=ft.ReorderableDragHandle(
+                    content=ft.Icon(ft.Icons.DRAG_HANDLE),
+                    mouse_cursor=ft.MouseCursor.GRAB,
+                ),
+                title=ft.Text(f"{term_name} ({term_unit_count})", style=ft.TextStyle(weight=ft.FontWeight.BOLD), size=20),
+                controls=course_controls,
+                expanded=term_name not in collapsed_terms,
+                on_change=lambda e, term=term_name: term_expansion_changed(e, term),
             )
+            term_context_menu = ft.ContextMenu(
+                content=term_tile,
+                secondary_items=[
+                    ft.PopupMenuItem(
+                        content="Remove term",
+                        icon=ft.Icons.DELETE_OUTLINE,
+                        on_click=lambda e, term=term_name: remove_term(term),
+                    ),
+                ],
+            )
+            term_controls[term_name] = ft.DragTarget(
+                group="planned_courses",
+                content=term_context_menu,
+                on_accept=lambda e, term=term_name: move_course_between_terms(e, term),
+            )
+            term_items.append(term_controls[term_name])
+
+        def reorder_terms(e: ft.OnReorderEvent):
+            if e.old_index is None or e.new_index is None:
+                return
+
+            moved_term = term_order.pop(e.old_index)
+            term_order.insert(e.new_index, moved_term)
+            self.storage.reorder_terms(term_order)
+
+            # ReorderableListView does not reorder its controls automatically.
+            e.control.controls = [term_controls[term] for term in term_order]
+            e.control.update()
 
         return [
             ft.Row(
@@ -313,13 +417,14 @@ class PlannerView(View):
                         on_click=add_term_button_handler,
                     ),
                 ],
-       
-                vertical_alignment=ft.CrossAxisAlignment.START,  
-                expand=True
+                vertical_alignment=ft.CrossAxisAlignment.START,
             ),
-            ft.ListView(
+            ft.ReorderableListView(
                 controls=term_items,
                 expand=True,
                 spacing=8,
+                show_default_drag_handles=False,
+                auto_scroller_velocity_scalar=20,
+                on_reorder=reorder_terms,
             ),
         ]
